@@ -1,6 +1,0 @@
-Seed: 20251204
-Subject: Physics, Total IDs: 3607, Limit: 7
-Subject: Chemistry, Total IDs: 3609, Limit: 6
-Subject: Botany, Total IDs: 2760, Limit: 6
-Subject: Zoology, Total IDs: 1800, Limit: 6
-Total Questions Selected: 25
