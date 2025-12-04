@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "zoology_12_human_health_easy_1",
+    "question": "Health is defined as a state of complete:",
+    "options": [
+      "Physical well-being",
+      "Mental well-being",
+      "Social well-being",
+      "Physical, mental and social well-being"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Health is defined as a state of complete physical, mental and social well-being and not merely the absence of disease.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_2",
+    "question": "Which of the following is a bacterial disease?",
+    "options": [
+      "Common cold",
+      "Typhoid",
+      "Malaria",
+      "Ringworm"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Typhoid is caused by the bacterium Salmonella typhi.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_3",
+    "question": "The causative agent of Typhoid is:",
+    "options": [
+      "Streptococcus pneumoniae",
+      "Salmonella typhi",
+      "Plasmodium vivax",
+      "Wuchereria bancrofti"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Salmonella typhi is a pathogenic bacterium which causes typhoid fever in human beings.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_4",
+    "question": "Widal test is used for the diagnosis of:",
+    "options": [
+      "Malaria",
+      "Pneumonia",
+      "Typhoid",
+      "AIDS"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Typhoid fever could be confirmed by the Widal test.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_5",
+    "question": "Pneumonia is caused by:",
+    "options": [
+      "Salmonella typhi",
+      "Streptococcus pneumoniae",
+      "Plasmodium falciparum",
+      "Entamoeba histolytica"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Bacteria like Streptococcus pneumoniae and Haemophilus influenzae are responsible for the disease pneumonia.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_6",
+    "question": "Common cold is caused by:",
+    "options": [
+      "Retrovirus",
+      "Rhinovirus",
+      "Bacteria",
+      "Protozoa"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Many viruses also cause diseases in human beings. Rhinoviruses represent one such group of viruses which cause one of the most infectious human ailments – the common cold.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_7",
+    "question": "Malaria is caused by:",
+    "options": [
+      "Bacteria",
+      "Virus",
+      "Protozoa",
+      "Fungi"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Malaria is a disease man has been fighting since many years. Plasmodium, a tiny protozoan is responsible for this disease.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_8",
+    "question": "The malignant malaria is caused by:",
+    "options": [
+      "Plasmodium vivax",
+      "Plasmodium malariae",
+      "Plasmodium falciparum",
+      "Plasmodium ovale"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Malignant malaria caused by Plasmodium falciparum is the most serious one and can even be fatal.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_9",
+    "question": "The vector for malaria is:",
+    "options": [
+      "Male Anopheles mosquito",
+      "Female Anopheles mosquito",
+      "Culex mosquito",
+      "Aedes mosquito"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "The malarial parasite requires two hosts - human and mosquitoes. The female Anopheles mosquito is the vector.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_10",
+    "question": "Amoebiasis is caused by:",
+    "options": [
+      "Entamoeba histolytica",
+      "Plasmodium vivax",
+      "Ascaris lumbricoides",
+      "Wuchereria bancrofti"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Entamoeba histolytica is a protozoan parasite in the large intestine of human which causes amoebiasis (amoebic dysentery).",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_11",
+    "question": "Ascariasis is caused by:",
+    "options": [
+      "Roundworm",
+      "Tapeworm",
+      "Filarial worm",
+      "Hookworm"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Ascaris, the common roundworm, causes ascariasis.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_12",
+    "question": "Elephantiasis is caused by:",
+    "options": [
+      "Ascaris",
+      "Wuchereria",
+      "Entamoeba",
+      "Plasmodium"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Wuchereria (W. bancrofti and W. malayi), the filarial worms cause a slowly developing chronic inflammation of the organs in which they live for many years, usually the lymphatic vessels of the lower limbs and the disease is called elephantiasis or filariasis.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_13",
+    "question": "Ringworm is caused by:",
+    "options": [
+      "Bacteria",
+      "Virus",
+      "Fungi",
+      "Protozoa"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Many fungi belonging to the genera Microsporum, Trichophyton and Epidermophyton are responsible for ringworm.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_14",
+    "question": "Gambusia fish is used to control:",
+    "options": [
+      "Mosquito larvae",
+      "Houseflies",
+      "Cockroaches",
+      "Rats"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Introducing fishes like Gambusia in ponds that feed on mosquito larvae helps in eliminating breeding places.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_15",
+    "question": "Innate immunity is:",
+    "options": [
+      "Specific",
+      "Non-specific",
+      "Acquired after birth",
+      "Characterised by memory"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Innate immunity is non-specific type of defense, that is present at the time of birth.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_16",
+    "question": "Which of the following is a physical barrier of innate immunity?",
+    "options": [
+      "Skin",
+      "Acid in stomach",
+      "Tears",
+      "Interferons"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Skin on our body is the main barrier which prevents entry of the micro-organisms.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_17",
+    "question": "Interferons are secreted by:",
+    "options": [
+      "Bacteria-infected cells",
+      "Virus-infected cells",
+      "Fungi-infected cells",
+      "Protozoa-infected cells"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Virus-infected cells secrete proteins called interferons which protect non-infected cells from further viral infection.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_18",
+    "question": "Antibodies are produced by:",
+    "options": [
+      "T-lymphocytes",
+      "B-lymphocytes",
+      "Macrophages",
+      "Neutrophils"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "The B-lymphocytes produce an army of proteins in response to pathogens into our blood to fight with them. These proteins are called antibodies.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_19",
+    "question": "The antibody present in colostrum is:",
+    "options": [
+      "IgG",
+      "IgA",
+      "IgM",
+      "IgE"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "The yellowish fluid colostrum secreted by mother during the initial days of lactation has abundant antibodies (IgA) to protect the infant.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_20",
+    "question": "Which antibody is responsible for allergic reactions?",
+    "options": [
+      "IgA",
+      "IgG",
+      "IgE",
+      "IgM"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "The antibodies produced to these substances (allergens) are of IgE type.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_21",
+    "question": "AIDS is caused by:",
+    "options": [
+      "Bacteria",
+      "Virus",
+      "Protozoa",
+      "Fungi"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "AIDS is caused by the Human Immunodeficiency Virus (HIV).",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_22",
+    "question": "HIV attacks:",
+    "options": [
+      "B-lymphocytes",
+      "Helper T-lymphocytes",
+      "RBCs",
+      "Platelets"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "HIV enters into helper T-lymphocytes (TH), replicates and produces progeny viruses.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_23",
+    "question": "ELISA is a diagnostic test for:",
+    "options": [
+      "Typhoid",
+      "Malaria",
+      "AIDS",
+      "Cancer"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "A widely used diagnostic test for AIDS is enzyme linked immuno-sorbent assay (ELISA).",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_24",
+    "question": "Cancer causing genes are called:",
+    "options": [
+      "Oncogenes",
+      "Proto-oncogenes",
+      "Tumor suppressor genes",
+      "Structural genes"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Cancer causing viruses called oncogenic viruses have genes called viral oncogenes. Several genes called cellular oncogenes (c-onc) or proto oncogenes have been identified in normal cells which, when activated under certain conditions, could lead to oncogenic transformation of the cells.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_25",
+    "question": "The property of contact inhibition is lost in:",
+    "options": [
+      "Normal cells",
+      "Cancer cells",
+      "Muscle cells",
+      "Nerve cells"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Normal cells show a property called contact inhibition by virtue of which contact with other cells inhibits their uncontrolled growth. Cancer cells appears to have lost this property.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_26",
+    "question": "Metastasis is a property of:",
+    "options": [
+      "Benign tumors",
+      "Malignant tumors",
+      "Both A and B",
+      "Normal cells"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Cells sloughed from such tumors reach distant sites through blood, and wherever they get lodged in the body, they start a new tumor there. This property called metastasis is the most feared property of malignant tumors.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_27",
+    "question": "Opioids bind to specific opioid receptors present in:",
+    "options": [
+      "CNS and GIT",
+      "Lungs and Heart",
+      "Liver and Kidney",
+      "Muscles and Bones"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Opioids are the drugs, which bind to specific opioid receptors present in our central nervous system (CNS) and gastrointestinal tract (GIT).",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_28",
+    "question": "Heroin is chemically:",
+    "options": [
+      "Diacetylmorphine",
+      "Morphine",
+      "Codeine",
+      "Cocaine"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Heroin is commonly called smack is chemically diacetylmorphine which is a white, odourless, bitter crystalline compound.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_29",
+    "question": "Cannabinoids are obtained from:",
+    "options": [
+      "Papaver somniferum",
+      "Cannabis sativa",
+      "Erythroxylum coca",
+      "Atropa belladonna"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Cannabinoids are a group of chemicals, which interact with cannabinoid receptors present principally in the brain. Natural cannabinoids are obtained from the inflorescences of the plant Cannabis sativa.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_30",
+    "question": "Cocaine is obtained from:",
+    "options": [
+      "Papaver somniferum",
+      "Cannabis sativa",
+      "Erythroxylum coca",
+      "Datura"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Coca alkaloid or cocaine is obtained from coca plant Erythroxylum coca, native to South America.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_31",
+    "question": "Nicotine acts as a stimulant by stimulating the:",
+    "options": [
+      "Adrenal gland",
+      "Thyroid gland",
+      "Pituitary gland",
+      "Pancreas"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Nicotine stimulates adrenal gland to release adrenaline and nor-adrenaline into blood circulation, both of which raise blood pressure and increase heart rate.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_32",
+    "question": "Cirrhosis of liver is caused by chronic intake of:",
+    "options": [
+      "Tobacco",
+      "Alcohol",
+      "Opioids",
+      "Cannabinoids"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Chronic use of drugs and alcohol damages nervous system and liver (cirrhosis).",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_33",
+    "question": "Which of the following is a hallucinogen?",
+    "options": [
+      "Morphine",
+      "Cocaine",
+      "LSD",
+      "Heroin"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "LSD (Lysergic acid diethyl amide) is a hallucinogenic drug.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_34",
+    "question": "The primary lymphoid organs are:",
+    "options": [
+      "Spleen and lymph nodes",
+      "Bone marrow and thymus",
+      "Tonsils and Peyer's patches",
+      "Appendix and MALT"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "The primary lymphoid organs are bone marrow and thymus where immature lymphocytes differentiate into antigen-sensitive lymphocytes.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_35",
+    "question": "MALT stands for:",
+    "options": [
+      "Mucosa Associated Lymphoid Tissue",
+      "Muscle Associated Lymphoid Tissue",
+      "Membrane Associated Lymphoid Tissue",
+      "Marrow Associated Lymphoid Tissue"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "There is lymphoid tissue also located within the lining of the major tracts (respiratory, digestive and urogenital tracts) called Mucosa-associated lymphoid tissue (MALT).",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_36",
+    "question": "Which of the following is an autoimmune disease?",
+    "options": [
+      "AIDS",
+      "Rheumatoid arthritis",
+      "Cancer",
+      "Malaria"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Rheumatoid arthritis which affects many people in our society is an ailment is an autoimmune disease.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_37",
+    "question": "Vaccination is based on the property of:",
+    "options": [
+      "Specificity",
+      "Diversity",
+      "Memory",
+      "Discrimination between self and non-self"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "The principle of immunisation or vaccination is based on the property of 'memory' of the immune system.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_38",
+    "question": "Which of the following is used to treat cancer?",
+    "options": [
+      "Surgery",
+      "Radiation therapy",
+      "Immunotherapy",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Common approaches for treatment of cancer are surgery, radiation therapy and immunotherapy.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_39",
+    "question": "The infectious stage of Plasmodium for humans is:",
+    "options": [
+      "Sporozoite",
+      "Gametocyte",
+      "Merozoite",
+      "Trophozoite"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Plasmodium enters the human body as sporozoites (infectious form) through the bite of infected female Anopheles mosquito.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_easy_40",
+    "question": "Which of the following is a withdrawal symptom of drug/alcohol abuse?",
+    "options": [
+      "Anxiety",
+      "Shakiness",
+      "Nausea",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Withdrawal syndrome is characterised by anxiety, shakiness, nausea and sweating.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_1",
+    "question": "Which of the following sets of diseases is caused by bacteria?",
+    "options": [
+      "Cholera and Tetanus",
+      "Typhoid and Smallpox",
+      "Tetanus and Mumps",
+      "Herpes and Influenza"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Cholera (Vibrio cholerae) and Tetanus (Clostridium tetani) are both bacterial diseases.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_2",
+    "question": "Dysentery, plague and diphtheria are caused by:",
+    "options": [
+      "Bacteria",
+      "Virus",
+      "Protozoa",
+      "Fungi"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Dysentery, plague and diphtheria are some of the other bacterial diseases in man.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_3",
+    "question": "Which of the following statements is correct regarding the life cycle of Plasmodium?",
+    "options": [
+      "Sexual stages (gametocytes) develop in the human intestine.",
+      "Fertilisation and development take place in the mosquito's gut.",
+      "Sporozoites are stored in the salivary glands of humans.",
+      "The parasite reproduces asexually in the mosquito."
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Fertilisation and associated development take place in the mosquito's gut.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_4",
+    "question": "Haemozoin is a toxic substance released during which disease?",
+    "options": [
+      "Typhoid",
+      "Malaria",
+      "Pneumonia",
+      "Amoebiasis"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "The rupture of RBCs is associated with release of a toxic substance, haemozoin, which is responsible for the chill and high fever recurring every three to four days.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_5",
+    "question": "Entamoeba histolytica feeds on:",
+    "options": [
+      "RBCs",
+      "WBCs",
+      "Platelets",
+      "Plasma"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "It is a parasite of the large intestine and feeds on red blood cells.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_6",
+    "question": "The symptoms of Ascariasis include:",
+    "options": [
+      "Internal bleeding, muscular pain, fever, anemia and blockage of the intestinal passage",
+      "High fever, chill, cough and headache",
+      "Constipation, abdominal pain and cramps",
+      "Dry, scaly lesions on skin"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Symptoms of ascariasis include internal bleeding, muscular pain, fever, anemia and blockage of the intestinal passage.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_7",
+    "question": "Which of the following fungi is NOT responsible for ringworm?",
+    "options": [
+      "Microsporum",
+      "Trichophyton",
+      "Epidermophyton",
+      "Rhizopus"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Microsporum, Trichophyton and Epidermophyton are responsible for ringworm. Rhizopus is a bread mould.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_8",
+    "question": "Which of the following is a physiological barrier of innate immunity?",
+    "options": [
+      "Skin",
+      "Mucus coating",
+      "Acid in stomach",
+      "Macrophages"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Acid in the stomach, saliva in the mouth, tears from eyes–all prevent microbial growth and are physiological barriers.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_9",
+    "question": "Which of the following cells are involved in cellular barriers of innate immunity?",
+    "options": [
+      "PMNL-neutrophils",
+      "Monocytes",
+      "Natural killer cells",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Certain types of leukocytes (WBC) of our body like polymorpho-nuclear leukocytes (PMNL-neutrophils) and monocytes and natural killer (type of lymphocytes) in the blood as well as macrophages in tissues can phagocytose and destroy microbes.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_10",
+    "question": "Humoral immune response is mediated by:",
+    "options": [
+      "T-lymphocytes",
+      "B-lymphocytes",
+      "Macrophages",
+      "NK cells"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "The immune response mediated by antibodies found in the blood (humor) is called humoral immune response, primarily involving B-lymphocytes.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_11",
+    "question": "Cell-mediated immunity (CMI) is responsible for:",
+    "options": [
+      "Graft rejection",
+      "Allergic reactions",
+      "Production of antibodies",
+      "Passive immunity"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The body is able to differentiate 'self' and 'non-self' and the cell-mediated immune response is responsible for the graft rejection.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_12",
+    "question": "Active immunity is produced by:",
+    "options": [
+      "Injecting prepared antibodies",
+      "Exposure to antigen",
+      "Transfer of antibodies from mother to fetus",
+      "Administration of antitoxin"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "When a host is exposed to antigens, which may be in the form of living or dead microbes or other proteins, antibodies are produced in the host body. This type of immunity is called active immunity.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_13",
+    "question": "Passive immunity is:",
+    "options": [
+      "Slow and takes time to develop",
+      "Fast and provides immediate relief",
+      "Developed by exposure to pathogens",
+      "Long-lasting"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "When ready-made antibodies are directly given to protect the body against foreign agents, it is called passive immunity.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_14",
+    "question": "Hepatitis B vaccine is produced from:",
+    "options": [
+      "Bacteria",
+      "Yeast",
+      "Virus",
+      "Plants"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Hepatitis B vaccine produced from yeast.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_15",
+    "question": "Allergy is due to the release of chemicals like:",
+    "options": [
+      "Histamine and Serotonin",
+      "Adrenaline and Noradrenaline",
+      "Insulin and Glucagon",
+      "Thyroxine and TSH"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Allergy is due to the release of chemicals like histamine and serotonin from the mast cells.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_16",
+    "question": "Which of the following drugs is used to reduce the symptoms of allergy?",
+    "options": [
+      "Antihistamine",
+      "Adrenaline",
+      "Steroids",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "The use of drugs like anti-histamine, adrenalin and steroids quickly reduce the symptoms of allergy.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_17",
+    "question": "The thymus is located:",
+    "options": [
+      "Near the heart and beneath the breastbone",
+      "In the abdominal cavity",
+      "In the neck region",
+      "Behind the stomach"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The thymus is a lobed organ located near the heart and beneath the breastbone.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_18",
+    "question": "Spleen acts as a filter of the blood by trapping:",
+    "options": [
+      "Blood-borne microorganisms",
+      "Worn-out RBCs",
+      "Both A and B",
+      "Lymphocytes"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "The spleen acts as a filter of the blood by trapping blood-borne microorganisms. It also has a large reservoir of erythrocytes.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_19",
+    "question": "HIV belongs to a group of viruses called:",
+    "options": [
+      "Retrovirus",
+      "Rhinovirus",
+      "Adenovirus",
+      "Poxvirus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "HIV belongs to a group of viruses called retrovirus, which have an envelope enclosing the RNA genome.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_20",
+    "question": "The enzyme responsible for the replication of HIV is:",
+    "options": [
+      "DNA polymerase",
+      "RNA polymerase",
+      "Reverse transcriptase",
+      "Ligase"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Viral DNA is produced by reverse transcriptase.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_21",
+    "question": "Benign tumors:",
+    "options": [
+      "Spread to other parts of the body",
+      "Remain confined to their original location",
+      "Show metastasis",
+      "Are more dangerous than malignant tumors"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Benign tumors normally remain confined to their original location and do not spread to other parts of the body and cause little damage.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_22",
+    "question": "Which of the following is a carcinogen?",
+    "options": [
+      "X-rays",
+      "Gamma rays",
+      "UV radiation",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Ionising radiations like X-rays and gamma rays and non-ionizing radiations like UV cause DNA damage leading to neoplastic transformation.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_23",
+    "question": "Alpha-interferon is used for the treatment of:",
+    "options": [
+      "AIDS",
+      "Cancer",
+      "Malaria",
+      "Typhoid"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Tumor cells have been shown to avoid detection and destruction by immune system. Therefore, the patients are given substances called biological response modifiers such as alpha-interferon which activates their immune system and helps in destroying the tumor.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_24",
+    "question": "Morphine is extracted from the:",
+    "options": [
+      "Leaves of Cannabis sativa",
+      "Latex of Papaver somniferum",
+      "Roots of Atropa belladonna",
+      "Seeds of Datura"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Morphine is extracted from the latex of poppy plant Papaver somniferum.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_25",
+    "question": "Morphine is a very effective:",
+    "options": [
+      "Sedative and painkiller",
+      "Stimulant",
+      "Hallucinogen",
+      "Antidepressant"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Morphine is a very effective sedative and painkiller and is very useful in patients who have undergone surgery.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_26",
+    "question": "Cocaine interferes with the transport of the neurotransmitter:",
+    "options": [
+      "Acetylcholine",
+      "Dopamine",
+      "Serotonin",
+      "GABA"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Cocaine interferes with the transport of the neuro-transmitter dopamine.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_27",
+    "question": "Excessive dosage of cocaine causes:",
+    "options": [
+      "Hallucinations",
+      "Sedation",
+      "Depression",
+      "Sleep"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Excessive dosage of cocaine causes hallucinations.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_28",
+    "question": "Barbiturates and Benzodiazepines are used as:",
+    "options": [
+      "Painkillers",
+      "Stimulants",
+      "Medicines for mental illness",
+      "Antibiotics"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Drugs like barbiturates, amphetamines, benzodiazepines, etc. are normally used as medicines to help patients cope with mental illnesses like depression and insomnia.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_29",
+    "question": "Smoking increases the content of which gas in blood?",
+    "options": [
+      "Carbon dioxide",
+      "Carbon monoxide",
+      "Oxygen",
+      "Nitrogen"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Smoking increases carbon monoxide (CO) content in blood and reduces the concentration of haembound oxygen.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_30",
+    "question": "Which of the following is a chronic disease caused by smoking?",
+    "options": [
+      "Emphysema",
+      "Asthma",
+      "Pneumonia",
+      "Tuberculosis"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Smoking causes chronic diseases like emphysema, bronchitis, etc.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_31",
+    "question": "Adolescence is a period between:",
+    "options": [
+      "12-18 years",
+      "10-15 years",
+      "15-20 years",
+      "18-25 years"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Adolescence is a bridge linking childhood and adulthood, generally considered to be the period between 12-18 years of age.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_32",
+    "question": "Addiction is a psychological attachment to certain effects such as:",
+    "options": [
+      "Euphoria and temporary feeling of well-being",
+      "Pain and suffering",
+      "Depression and anxiety",
+      "Hunger and thirst"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Addiction is a psychological attachment to certain effects –such as euphoria and a temporary feeling of well-being–associated with drugs and alcohol.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_33",
+    "question": "Which of the following is a secondary lymphoid organ?",
+    "options": [
+      "Bone marrow",
+      "Thymus",
+      "Spleen",
+      "Liver"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "The secondary lymphoid organs like spleen, lymph nodes, tonsils, Peyer's patches of small intestine and appendix provide the sites for interaction of lymphocytes with the antigen.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_34",
+    "question": "The heavy chain and light chain of an antibody are joined by:",
+    "options": [
+      "Hydrogen bonds",
+      "Disulphide bonds",
+      "Peptide bonds",
+      "Ionic bonds"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Each antibody molecule has four peptide chains, two small called light chains and two longer called heavy chains. They are held together by disulphide bonds.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_35",
+    "question": "Colostrum provides which type of immunity to the infant?",
+    "options": [
+      "Natural active immunity",
+      "Natural passive immunity",
+      "Artificial active immunity",
+      "Artificial passive immunity"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Transfer of antibodies (IgA) from mother to infant through colostrum is an example of natural passive immunity.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_36",
+    "question": "Tetanus toxoid injection provides:",
+    "options": [
+      "Active immunity",
+      "Passive immunity",
+      "Innate immunity",
+      "Autoimmunity"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Tetanus toxoid is a vaccine that stimulates the body to produce its own antibodies, thus providing active immunity.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_37",
+    "question": "Injection of anti-tetanus serum (ATS) provides:",
+    "options": [
+      "Active immunity",
+      "Passive immunity",
+      "Innate immunity",
+      "Autoimmunity"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "ATS contains pre-formed antibodies, providing immediate passive immunity.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_38",
+    "question": "Which of the following is not a symptom of malaria?",
+    "options": [
+      "High fever",
+      "Chill",
+      "Intestinal blockage",
+      "Sweating"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Intestinal blockage is a symptom of Ascariasis, not malaria.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_39",
+    "question": "The genetic material of HIV is:",
+    "options": [
+      "Double stranded DNA",
+      "Single stranded DNA",
+      "Single stranded RNA",
+      "Double stranded RNA"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "HIV is a retrovirus with single stranded RNA as genetic material.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_40",
+    "question": "Computed tomography (CT) uses:",
+    "options": [
+      "X-rays",
+      "Magnetic fields",
+      "Gamma rays",
+      "UV rays"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Computed tomography uses X-rays to generate a three-dimensional image of the internals of an object.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_41",
+    "question": "MRI uses:",
+    "options": [
+      "X-rays",
+      "Strong magnetic fields and non-ionising radiations",
+      "Gamma rays",
+      "UV rays"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "MRI uses strong magnetic fields and non-ionising radiations to accurately detect pathological and physiological changes in the living tissue.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_42",
+    "question": "Which of the following is a depressant?",
+    "options": [
+      "Amphetamines",
+      "Cocaine",
+      "Benzodiazepines",
+      "Caffeine"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Benzodiazepines are depressants used to treat anxiety and insomnia.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_43",
+    "question": "Which plant is the source of marijuana, hashish, charas and ganja?",
+    "options": [
+      "Papaver somniferum",
+      "Cannabis sativa",
+      "Erythroxylum coca",
+      "Datura stramonium"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "The flower tops, leaves and the resin of cannabis plant are used in various combinations to produce marijuana, hashish, charas and ganja.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_44",
+    "question": "Which organ is most affected by alcohol abuse?",
+    "options": [
+      "Heart",
+      "Liver",
+      "Lungs",
+      "Kidney"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "The liver is the primary site of alcohol metabolism and is most affected (cirrhosis).",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_45",
+    "question": "The term 'immunity' refers to:",
+    "options": [
+      "Ability of the host to fight the disease causing organisms",
+      "Ability of the parasite to cause disease",
+      "Ability of the host to tolerate the parasite",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The overall ability of the host to fight the disease-causing organisms, conferred by the immune system is called immunity.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_46",
+    "question": "Which of the following is a non-infectious disease?",
+    "options": [
+      "AIDS",
+      "Cancer",
+      "Malaria",
+      "Common cold"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Cancer is a major cause of death and is a non-infectious disease.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_47",
+    "question": "Mary Mallon was a carrier of:",
+    "options": [
+      "Cholera",
+      "Typhoid",
+      "Pneumonia",
+      "Tuberculosis"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Mary Mallon, nicknamed Typhoid Mary, was a cook and a typhoid carrier who continued to spread typhoid for several years through the food she prepared.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_48",
+    "question": "Which of the following is a viral disease?",
+    "options": [
+      "Typhoid",
+      "Pneumonia",
+      "Common cold",
+      "Malaria"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Common cold is caused by Rhinovirus.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_49",
+    "question": "The rupture of RBCs in malaria releases:",
+    "options": [
+      "Haemoglobin",
+      "Haemozoin",
+      "Iron",
+      "Bilirubin"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "The rupture of RBCs is associated with release of a toxic substance, haemozoin.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_medium_50",
+    "question": "Ringworms are generally acquired from:",
+    "options": [
+      "Soil",
+      "Infected towels",
+      "Infected clothes",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Ringworms are generally acquired from soil or by using towels, clothes or even the comb of infected individuals.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_hard_1",
+    "question": "Which of the following statements regarding the immune system is incorrect?",
+    "options": [
+      "Innate immunity is non-specific and present at birth.",
+      "Acquired immunity is pathogen-specific and characterized by memory.",
+      "B-lymphocytes produce antibodies, while T-lymphocytes help B-cells.",
+      "Cell-mediated immunity is mediated by B-lymphocytes and is responsible for graft rejection."
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Cell-mediated immunity is mediated by T-lymphocytes, not B-lymphocytes. It is indeed responsible for graft rejection.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_hard_2",
+    "question": "The primary difference between active and passive immunity is:",
+    "options": [
+      "Active immunity is slow and long-lasting, while passive immunity is fast and short-lived.",
+      "Active immunity involves direct injection of antibodies, while passive immunity involves exposure to antigens.",
+      "Active immunity is non-specific, while passive immunity is specific.",
+      "Active immunity is present at birth, while passive immunity is acquired later."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Active immunity takes time to develop (slow) but is long-lasting (memory). Passive immunity provides immediate relief (fast) but is short-lived.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_hard_3",
+    "question": "Which of the following correctly describes the mechanism of action of HIV?",
+    "options": [
+      "It enters B-cells, converts RNA to DNA, and destroys the host cell.",
+      "It enters Macrophages, converts RNA to DNA, which incorporates into the host genome, then infects Helper T-cells.",
+      "It enters Helper T-cells directly, replicates without converting RNA to DNA, and causes lysis.",
+      "It enters RBCs, multiplies rapidly, and causes anemia."
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "HIV first enters macrophages (HIV factory), reverse transcribes RNA to DNA, then infects Helper T-cells, leading to their destruction and immunodeficiency.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_hard_4",
+    "question": "Select the correct match regarding the drug, its source, and its effect.",
+    "options": [
+      "Morphine - Papaver somniferum - CNS stimulant",
+      "Cocaine - Erythroxylum coca - Hallucinogen (in high dose) and interferes with Dopamine",
+      "Marijuana - Cannabis sativa - Depressant and slows down body functions",
+      "Heroin - Datura - Painkiller"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Morphine is a depressant/sedative. Marijuana affects the cardiovascular system. Heroin is from poppy plant. Cocaine interferes with dopamine and causes hallucinations in high doses.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_hard_5",
+    "question": "Which of the following is NOT a characteristic of cancer cells?",
+    "options": [
+      "Loss of contact inhibition",
+      "Uncontrolled cell division",
+      "Metastasis",
+      "Regulated cell differentiation"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Cancer cells show undifferentiated and uncontrolled growth, not regulated differentiation.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_hard_6",
+    "question": "In the life cycle of Plasmodium, where does the sexual stage (gametocyte formation) occur?",
+    "options": [
+      "Liver of human",
+      "RBCs of human",
+      "Gut of mosquito",
+      "Salivary glands of mosquito"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Gametocytes develop in the RBCs of the human host. Fertilization occurs in the mosquito's gut.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_hard_7",
+    "question": "A person with a weakened immune system due to AIDS is susceptible to opportunistic infections caused by:",
+    "options": [
+      "Mycobacterium",
+      "Toxoplasma",
+      "Viruses and Fungi",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "AIDS patients become susceptible to infections like Mycobacterium, Toxoplasma, viruses, and fungi that a healthy immune system would normally fight off.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_hard_8",
+    "question": "Which of the following statements about antibodies is true?",
+    "options": [
+      "IgM is the most abundant antibody in serum.",
+      "IgG can cross the placenta.",
+      "IgA is involved in allergic reactions.",
+      "IgE is found in colostrum."
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "IgG is the only antibody that can cross the placenta. IgA is in colostrum. IgE is for allergies. IgM is the first responder.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_hard_9",
+    "question": "The use of antihistamines, adrenaline, and steroids is effective in treating:",
+    "options": [
+      "Autoimmune diseases",
+      "Allergic reactions",
+      "Viral infections",
+      "Bacterial infections"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "These drugs reduce the symptoms of allergy by counteracting the effects of histamine and other chemicals.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_hard_10",
+    "question": "Which of the following is a correct sequence of events in the replication of a retrovirus?",
+    "options": [
+      "Viral RNA -> Reverse Transcription -> Viral DNA -> Incorporation into Host Genome -> Transcription -> Viral RNA -> Translation -> Viral Proteins",
+      "Viral DNA -> Transcription -> Viral RNA -> Translation -> Viral Proteins",
+      "Viral RNA -> Translation -> Viral Proteins -> Reverse Transcription -> Viral DNA",
+      "Viral RNA -> Incorporation into Host Genome -> Reverse Transcription -> Viral DNA"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "The retrovirus uses reverse transcriptase to convert its RNA to DNA, which integrates into the host genome and then directs the production of new viral RNA and proteins.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_hard_11",
+    "question": "Transplantation of tissues/organs fails often due to non-acceptance by the patient's body. Which type of immune response is responsible for such rejections?",
+    "options": [
+      "Cell-mediated immune response",
+      "Humoral immune response",
+      "Physiological immune response",
+      "Autoimmune response"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Cell-mediated immunity (T-cells) is responsible for recognizing non-self tissue antigens and rejecting grafts.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_hard_12",
+    "question": "Which of the following sets of diseases are transmitted through contaminated food and water?",
+    "options": [
+      "Typhoid and Amoebiasis",
+      "Malaria and Filariasis",
+      "Pneumonia and Common Cold",
+      "Ringworm and AIDS"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Typhoid (Salmonella) and Amoebiasis (Entamoeba) are transmitted via the fecal-oral route (contaminated food/water).",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_hard_13",
+    "question": "A person suffering from a disease caused by Plasmodium experiences recurring chill and fever at the time when?",
+    "options": [
+      "The sporozoites released from RBCs are being rapidly killed and broken down inside spleen",
+      "The trophozoites reach maximum growth and give out certain toxins",
+      "The parasite after its rapid multiplication inside RBCs ruptures them, releasing the stage to enter fresh RBCs",
+      "The microgametocytes and megagametocytes are being destroyed by the WBCs"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "The rupture of RBCs releases haemozoin, which causes the chill and fever.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_hard_14",
+    "question": "Which of the following is true for the 'secondary immune response'?",
+    "options": [
+      "It occurs upon the first encounter with a pathogen.",
+      "It is of low intensity.",
+      "It is also called the anamnestic response and is highly intensified.",
+      "It is mediated only by innate immunity."
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Secondary response is faster and stronger due to immunological memory (anamnestic response).",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_hard_15",
+    "question": "Which of the following statements is correct?",
+    "options": [
+      "Malignant tumors may exhibit metastasis.",
+      "Patients who have undergone surgery are given cannabinoids to relieve pain.",
+      "Benign tumors show the property of metastasis.",
+      "Heroin accelerates body functions."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Metastasis is a characteristic of malignant tumors. Morphine (not cannabinoids) is used for post-surgical pain. Heroin slows down body functions.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_hard_16",
+    "question": "In which disease does the mosquito transmit the pathogen into the lymphatic vessels of the lower limbs?",
+    "options": [
+      "Malaria",
+      "Ascariasis",
+      "Elephantiasis",
+      "Amoebiasis"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "In Elephantiasis (Filariasis), the Wuchereria worm lives in lymphatic vessels, transmitted by mosquito bite.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_hard_17",
+    "question": "Which of the following is used in the production of recombinant DNA vaccines?",
+    "options": [
+      "Bacteria and Yeast",
+      "Viruses and Fungi",
+      "Plants and Animals",
+      "Algae and Protozoa"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Recombinant DNA technology has allowed the production of antigenic polypeptides of pathogen in bacteria or yeast.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_hard_18",
+    "question": "The chemical carcinogens present in tobacco smoke are major causes of:",
+    "options": [
+      "Lung cancer",
+      "Liver cancer",
+      "Skin cancer",
+      "Blood cancer"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Tobacco smoke contains chemical carcinogens which are a major cause of lung cancer.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_hard_19",
+    "question": "Which of the following is NOT a lymphoid tissue?",
+    "options": [
+      "Spleen",
+      "Tonsils",
+      "Pancreas",
+      "Thymus"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Pancreas is a digestive/endocrine gland, not a lymphoid tissue.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_hard_20",
+    "question": "A person with sickle cell anemia is:",
+    "options": [
+      "More prone to malaria",
+      "Less prone to malaria",
+      "More prone to typhoid",
+      "Less prone to typhoid"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Sickle cell trait provides some resistance against malaria.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_hard_21",
+    "question": "Which of the following statements regarding drugs is correct?",
+    "options": [
+      "Heroin, commonly called smack, is chemically diacetylmorphine.",
+      "Cocaine is obtained from Cannabis sativa.",
+      "Dopamine is transported by Acetylcholine.",
+      "Morphine is an effective stimulant."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Heroin is diacetylmorphine. Cocaine is from Erythroxylum. Morphine is a depressant.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_hard_22",
+    "question": "The exaggerated response of the immune system to certain antigens present in the environment is called:",
+    "options": [
+      "Autoimmunity",
+      "Allergy",
+      "Immunodeficiency",
+      "Tolerance"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "This is the definition of allergy.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_hard_23",
+    "question": "Which of the following is true about 'Contact Inhibition'?",
+    "options": [
+      "It is a property of cancer cells.",
+      "It promotes uncontrolled growth.",
+      "It is a property of normal cells that inhibits uncontrolled growth.",
+      "It is lost in benign tumors but present in malignant tumors."
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Contact inhibition prevents normal cells from growing uncontrollably when they touch each other. Cancer cells lose this property.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_hard_24",
+    "question": "Which of the following diagnostic techniques involves the use of a radioactive molecule (probe)?",
+    "options": [
+      "ELISA",
+      "PCR",
+      "Autoradiography",
+      "Serum analysis"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Autoradiography uses a radioactive probe to detect specific DNA/RNA sequences.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_hard_25",
+    "question": "The sporozoites that cause infection when a female Anopheles mosquito bites a human are formed in the:",
+    "options": [
+      "Liver of human",
+      "RBCs of mosquito",
+      "Salivary glands of mosquito",
+      "Gut of mosquito"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Sporozoites are formed in the gut of the mosquito (oocysts) and then migrate to the salivary glands.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_hard_26",
+    "question": "Which of the following is an example of a physiological barrier?",
+    "options": [
+      "Skin",
+      "Tears",
+      "Monocytes",
+      "Interferons"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Tears (containing lysozyme) are a physiological barrier. Skin is physical. Monocytes are cellular. Interferons are cytokine.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_hard_27",
+    "question": "The immune system's ability to distinguish between 'self' and 'non-self' is critical for:",
+    "options": [
+      "Preventing autoimmune diseases",
+      "Digesting food",
+      "Respiration",
+      "Muscle contraction"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Failure to distinguish self from non-self leads to autoimmune diseases.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_hard_28",
+    "question": "Which of the following is NOT a side effect of anabolic steroid abuse in females?",
+    "options": [
+      "Masculinisation",
+      "Increased aggressiveness",
+      "Breast enlargement",
+      "Abnormal menstrual cycles"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Anabolic steroids cause masculinisation (e.g., breast reduction, not enlargement) in females.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_hard_29",
+    "question": "The period between infection and the appearance of symptoms is called:",
+    "options": [
+      "Incubation period",
+      "Window period",
+      "Latent period",
+      "Recovery period"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "The time interval between the entry of pathogens and the appearance of clinical symptoms is the incubation period.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_12_human_health_hard_30",
+    "question": "Which of the following is true regarding the structure of an antibody molecule?",
+    "options": [
+      "It has two antigen binding sites.",
+      "It consists of two heavy chains and two light chains.",
+      "It is represented as H2L2.",
+      "All of the above."
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "An antibody molecule (Ig) has a Y-shape with two heavy and two light chains (H2L2) and two antigen-binding sites.",
+    "subject": "Zoology",
+    "chapter": "Human Health and Disease",
+    "tags": [],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "human_health_and_disease",
+    "subjectId": "zoology"
+  }
+]

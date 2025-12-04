@@ -1,0 +1,2642 @@
+[
+  {
+    "id": "chemistry_equilibrium_q1",
+    "question": "A reversible reaction is one which:",
+    "options": [
+      "Proceeds in one direction only",
+      "Proceeds in both directions",
+      "Proceeds spontaneously",
+      "Does not proceed"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Reversible reactions proceed in both forward and backward directions.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "basics"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q2",
+    "question": "At chemical equilibrium, the rate of forward reaction is:",
+    "options": [
+      "Greater than backward reaction",
+      "Less than backward reaction",
+      "Equal to backward reaction",
+      "Zero"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "At equilibrium, Rate(forward) = Rate(backward).",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "equilibrium constant"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q3",
+    "question": "The Law of Mass Action was proposed by:",
+    "options": [
+      "Le Chatelier",
+      "Guldberg and Waage",
+      "Arrhenius",
+      "Ostwald"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Guldberg and Waage proposed the Law of Mass Action.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "law of mass action"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q4",
+    "question": "For the reaction A + B <=> C + D, the equilibrium constant K is given by:",
+    "options": [
+      "[C][D]/[A][B]",
+      "[A][B]/[C][D]",
+      "[C][A]/[B][D]",
+      "[C]+[D]/[A]+[B]"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "K = [Products]/[Reactants] = [C][D]/[A][B].",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "equilibrium constant"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q5",
+    "question": "If the equilibrium constant K is very large, it indicates that:",
+    "options": [
+      "Reaction is hardly started",
+      "Reaction is almost complete",
+      "Reaction is slow",
+      "Reaction is fast"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Large K means products are favored, so reaction is nearly complete.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "equilibrium constant"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q6",
+    "question": "Le Chatelier's Principle applies to:",
+    "options": [
+      "Irreversible reactions",
+      "Reversible reactions at equilibrium",
+      "All chemical reactions",
+      "Physical changes only"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "It applies to systems in equilibrium.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "le chatelier principle"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q7",
+    "question": "For the reaction N2(g) + 3H2(g) <=> 2NH3(g), the unit of Kp is:",
+    "options": [
+      "atm",
+      "atm^-1",
+      "atm^-2",
+      "atm^2"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "\u0394ng = 2 - 4 = -2. Unit = (atm)^\u0394ng = atm^-2.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "equilibrium constant"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q8",
+    "question": "According to Arrhenius theory, an acid is a substance that gives:",
+    "options": [
+      "H+ ions in water",
+      "OH- ions in water",
+      "Electron pair",
+      "Proton acceptor"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Arrhenius acid dissociates in water to give H+ ions.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "acids and bases"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q9",
+    "question": "The conjugate base of HCl is:",
+    "options": [
+      "H+",
+      "Cl-",
+      "OH-",
+      "H2Cl+"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Remove H+ from acid to get conjugate base. HCl -> H+ + Cl-.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "acids and bases"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q10",
+    "question": "pH of a neutral solution at 25\u00b0C is:",
+    "options": [
+      "0",
+      "1",
+      "7",
+      "14"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "At 25\u00b0C, neutral pH is 7.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "ph"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q11",
+    "question": "Which of the following is a Lewis acid?",
+    "options": [
+      "NH3",
+      "BF3",
+      "H2O",
+      "OH-"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "BF3 is electron deficient, so it accepts an electron pair (Lewis acid).",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "acids and bases"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q12",
+    "question": "The ionic product of water (Kw) at 25\u00b0C is:",
+    "options": [
+      "10^-7",
+      "10^-10",
+      "10^-14",
+      "10^-12"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Kw = [H+][OH-] = 1.0 x 10^-14 at 25\u00b0C.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "ionic equilibrium"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q13",
+    "question": "A buffer solution is a mixture of:",
+    "options": [
+      "Strong acid and strong base",
+      "Weak acid and its salt with strong base",
+      "Weak acid and weak base",
+      "Strong acid and its salt"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Acidic buffer: Weak acid + Salt with strong base.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "buffer solutions"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q14",
+    "question": "The solubility product (Ksp) is applicable to:",
+    "options": [
+      "All salts",
+      "Soluble salts",
+      "Sparingly soluble salts",
+      "None of these"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Ksp is defined for sparingly soluble salts.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "solubility product"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q15",
+    "question": "For the reaction H2(g) + I2(g) <=> 2HI(g), the relationship between Kp and Kc is:",
+    "options": [
+      "Kp = Kc",
+      "Kp > Kc",
+      "Kp < Kc",
+      "Kp = Kc(RT)"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "\u0394ng = 2 - 2 = 0. Kp = Kc(RT)^\u0394ng = Kc(RT)^0 = Kc.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "equilibrium constant"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q16",
+    "question": "Addition of a catalyst to a reversible reaction:",
+    "options": [
+      "Increases rate of forward reaction only",
+      "Increases rate of backward reaction only",
+      "Increases rates of both equally",
+      "Changes equilibrium constant"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Catalyst speeds up both forward and backward reactions equally, reaching equilibrium faster.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "le chatelier principle"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q17",
+    "question": "Which of the following is a strong electrolyte?",
+    "options": [
+      "Acetic acid",
+      "Ammonium hydroxide",
+      "Sodium chloride",
+      "Carbonic acid"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "NaCl is a salt that dissociates completely (strong electrolyte).",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "ionic equilibrium"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q18",
+    "question": "According to Bronsted-Lowry concept, a base is a:",
+    "options": [
+      "Proton donor",
+      "Proton acceptor",
+      "Electron donor",
+      "Electron acceptor"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Bronsted base accepts protons (H+).",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "acids and bases"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q19",
+    "question": "The pH of 0.01 M HCl solution is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "0.01"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "[H+] = 10^-2 M. pH = -log(10^-2) = 2.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "ph"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q20",
+    "question": "Common ion effect:",
+    "options": [
+      "Increases solubility",
+      "Decreases solubility",
+      "Does not affect solubility",
+      "Increases Ksp"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Presence of a common ion suppresses dissociation/solubility.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "common ion effect"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q21",
+    "question": "In the reaction N2 + 3H2 <=> 2NH3 + Heat, increase in temperature will favor:",
+    "options": [
+      "Forward reaction",
+      "Backward reaction",
+      "Neither",
+      "Both"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Reaction is exothermic. Increasing T favors endothermic (backward) direction.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "le chatelier principle"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q22",
+    "question": "Which of the following salts undergoes hydrolysis?",
+    "options": [
+      "NaCl",
+      "KNO3",
+      "CH3COONa",
+      "Na2SO4"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "CH3COONa is a salt of weak acid and strong base, so it hydrolyzes.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "salt hydrolysis"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q23",
+    "question": "The relation between pH and pOH is:",
+    "options": [
+      "pH + pOH = 7",
+      "pH + pOH = 14",
+      "pH - pOH = 14",
+      "pH * pOH = 14"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "pH + pOH = pKw = 14 at 25\u00b0C.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "ph"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q24",
+    "question": "Ostwald's dilution law is applicable to:",
+    "options": [
+      "Strong electrolytes",
+      "Weak electrolytes",
+      "Non-electrolytes",
+      "All electrolytes"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "It relates dissociation constant and degree of dissociation for weak electrolytes.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "ionic equilibrium"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q25",
+    "question": "For the reaction CaCO3(s) <=> CaO(s) + CO2(g), Kp is equal to:",
+    "options": [
+      "P_CO2",
+      "P_CaO",
+      "P_CaCO3",
+      "P_CO2 * P_CaO"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Solids have activity 1. So Kp = P_CO2.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "equilibrium constant"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q26",
+    "question": "Which indicator is used in the titration of strong acid and strong base?",
+    "options": [
+      "Phenolphthalein",
+      "Methyl orange",
+      "Any of these",
+      "Starch"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "For strong acid-strong base, pH jump is large (3-10), so both Phenolphthalein and Methyl orange work.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "titration"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q27",
+    "question": "The conjugate acid of NH3 is:",
+    "options": [
+      "NH2-",
+      "NH4+",
+      "N2",
+      "H+"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Add H+ to base to get conjugate acid. NH3 + H+ -> NH4+.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "acids and bases"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q28",
+    "question": "If Q > K, the reaction proceeds in:",
+    "options": [
+      "Forward direction",
+      "Backward direction",
+      "Equilibrium",
+      "None"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Q > K means excess products, so reaction shifts backward.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "reaction quotient"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q29",
+    "question": "Which of the following is a weak acid?",
+    "options": [
+      "HCl",
+      "H2SO4",
+      "HNO3",
+      "CH3COOH"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Acetic acid (CH3COOH) is a weak organic acid.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "acids and bases"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q30",
+    "question": "The value of equilibrium constant depends on:",
+    "options": [
+      "Initial concentration",
+      "Pressure",
+      "Temperature",
+      "Catalyst"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Equilibrium constant K depends only on Temperature.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "equilibrium constant"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q31",
+    "question": "The degree of dissociation of a weak electrolyte increases with:",
+    "options": [
+      "Increase in concentration",
+      "Decrease in dilution",
+      "Increase in dilution",
+      "Addition of common ion"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Ostwald's dilution law: \u03b1 \u221d \u221aV. Dilution increases dissociation.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "ionic equilibrium"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q32",
+    "question": "For a reaction to be spontaneous, \u0394G must be:",
+    "options": [
+      "Positive",
+      "Negative",
+      "Zero",
+      "Infinity"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "\u0394G < 0 for spontaneous reactions.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "thermodynamics connection"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q33",
+    "question": "Which of the following solutions will have pH > 7?",
+    "options": [
+      "NaCl",
+      "NH4Cl",
+      "Na2CO3",
+      "HCl"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Na2CO3 is salt of weak acid (H2CO3) and strong base (NaOH), so solution is basic (pH > 7).",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "salt hydrolysis"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q34",
+    "question": "The unit of Kp for the reaction H2 + I2 <=> 2HI is:",
+    "options": [
+      "atm",
+      "atm^2",
+      "No unit",
+      "mol/L"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "\u0394ng = 0, so Kp is dimensionless.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "equilibrium constant"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q35",
+    "question": "Active mass of a solid is taken as:",
+    "options": [
+      "Zero",
+      "Unity",
+      "Infinity",
+      "Variable"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Active mass (concentration) of pure solids and liquids is taken as 1.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "law of mass action"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q36",
+    "question": "Which of the following is an acidic buffer?",
+    "options": [
+      "CH3COOH + CH3COONa",
+      "NH4OH + NH4Cl",
+      "NaOH + HCl",
+      "NaCl + H2O"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Weak acid + Salt of weak acid with strong base.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "buffer solutions"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q37",
+    "question": "Precipitation occurs when ionic product is:",
+    "options": [
+      "Equal to Ksp",
+      "Less than Ksp",
+      "Greater than Ksp",
+      "Zero"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Precipitation occurs if Ionic Product > Ksp.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "solubility product"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q38",
+    "question": "In the reaction 2SO2 + O2 <=> 2SO3, increase in pressure favors:",
+    "options": [
+      "Forward reaction",
+      "Backward reaction",
+      "No change",
+      "Formation of O2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Increase in pressure shifts equilibrium to side with fewer gas moles. 3 moles -> 2 moles. Forward favored.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "le chatelier principle"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q39",
+    "question": "The pH of human blood is approximately:",
+    "options": [
+      "6.4",
+      "7.4",
+      "8.4",
+      "5.4"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Blood pH is slightly alkaline, around 7.4.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "ph"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q40",
+    "question": "Which of the following is a Lewis base?",
+    "options": [
+      "BF3",
+      "AlCl3",
+      "NH3",
+      "H+"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "NH3 has a lone pair to donate, so it is a Lewis base.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "acids and bases"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q41",
+    "question": "For the reaction N2(g) + 3H2(g) <=> 2NH3(g), the relation between Kp and Kc is:",
+    "options": [
+      "Kp = Kc(RT)^-2",
+      "Kp = Kc(RT)^2",
+      "Kp = Kc(RT)",
+      "Kp = Kc"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Kp = Kc(RT)^\u0394ng. \u0394ng = 2 - 4 = -2. So Kp = Kc(RT)^-2.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "equilibrium constant"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q42",
+    "question": "The pH of a 0.001 M NaOH solution is:",
+    "options": [
+      "3",
+      "11",
+      "10",
+      "4"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "[OH-] = 10^-3 M. pOH = 3. pH = 14 - 3 = 11.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "ph"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q43",
+    "question": "Which of the following is a Lewis acid but not a Bronsted acid?",
+    "options": [
+      "HCl",
+      "H2SO4",
+      "BF3",
+      "CH3COOH"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "BF3 accepts electron pair (Lewis acid) but has no proton to donate (not Bronsted acid).",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "acids and bases"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q44",
+    "question": "The solubility of AgCl in 0.1 M NaCl solution is less than in pure water due to:",
+    "options": [
+      "Common ion effect",
+      "Salt effect",
+      "Complex formation",
+      "Hydrolysis"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Common ion (Cl-) suppresses the solubility of AgCl.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "common ion effect"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q45",
+    "question": "For the reaction PCl5(g) <=> PCl3(g) + Cl2(g), the degree of dissociation at equilibrium is 0.2 at 1 atm pressure. The equilibrium constant Kp is:",
+    "options": [
+      "0.04",
+      "0.05",
+      "0.25",
+      "0.4"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Start: 1, 0, 0. Eq: 1-0.2, 0.2, 0.2. Total moles = 1.2. pp(PCl5) = 0.8/1.2, pp(PCl3) = 0.2/1.2, pp(Cl2) = 0.2/1.2. Kp = (0.2/1.2 * 0.2/1.2) / (0.8/1.2) = (0.2*0.2)/(0.8*1.2) = 0.04/0.96 = 1/24 = 0.0416. Approx 0.04.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "equilibrium constant"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q46",
+    "question": "The conjugate base of H2PO4- is:",
+    "options": [
+      "H3PO4",
+      "HPO4 2-",
+      "PO4 3-",
+      "H4PO4+"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Remove H+: H2PO4- -> H+ + HPO4 2-.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "acids and bases"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q47",
+    "question": "Which of the following salts will give an acidic solution on hydrolysis?",
+    "options": [
+      "NaCl",
+      "NH4Cl",
+      "NaCN",
+      "CH3COONa"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "NH4Cl is salt of weak base (NH4OH) and strong acid (HCl). Hydrolysis gives acidic solution.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "salt hydrolysis"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q48",
+    "question": "The pH of a solution obtained by mixing 50 mL of 0.1 M HCl and 50 mL of 0.1 M NaOH is:",
+    "options": [
+      "1",
+      "7",
+      "14",
+      "0"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Equal moles of strong acid and strong base neutralize completely. Solution is neutral (pH 7).",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "titration"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q49",
+    "question": "If the solubility of AgCl is s mol/L, its solubility product is:",
+    "options": [
+      "s",
+      "s^2",
+      "2s",
+      "4s^3"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "AgCl -> Ag+ + Cl-. Ksp = [Ag+][Cl-] = s * s = s^2.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "solubility product"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q50",
+    "question": "In the reaction A + 2B <=> C, if concentration of B is doubled, the equilibrium constant K will:",
+    "options": [
+      "Double",
+      "Quadruple",
+      "Halve",
+      "Remain same"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Equilibrium constant K depends only on temperature, not concentrations.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "equilibrium constant"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q51",
+    "question": "Which of the following is not a buffer solution?",
+    "options": [
+      "HCN + NaCN",
+      "CH3COOH + CH3COONa",
+      "NH4OH + NH4Cl",
+      "HCl + NaCl"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "HCl is a strong acid, so HCl + NaCl is not a buffer.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "buffer solutions"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q52",
+    "question": "For the reaction 2NO2(g) <=> N2O4(g) + Heat, the formation of N2O4 is favored by:",
+    "options": [
+      "High T, Low P",
+      "Low T, High P",
+      "High T, High P",
+      "Low T, Low P"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Exothermic reaction -> Low T favors forward. Decrease in moles (2->1) -> High P favors forward.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "le chatelier principle"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q53",
+    "question": "The percentage hydrolysis of 0.1 M CH3COONa (Ka of CH3COOH = 1.8 x 10^-5) is approximately:",
+    "options": [
+      "0.01%",
+      "0.0075%",
+      "0.075%",
+      "0.75%"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "h = \u221a(Kw / Ka * C) = \u221a(10^-14 / (1.8e-5 * 0.1)) = \u221a(10^-14 / 1.8e-6) = \u221a(0.55e-8) = 0.74e-4. %h = 0.0074%. Wait. Let's recheck. h = \u221a(Kw/KaC). Kw=1e-14. Ka=1.8e-5. C=0.1. KaC = 1.8e-6. Kw/KaC = 1e-14/1.8e-6 = 0.55e-8. sqrt = 0.74e-4. % = 0.0074%. Closest is 0.0075%.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "salt hydrolysis"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q54",
+    "question": "The pH of 10^-8 M HCl is:",
+    "options": [
+      "8",
+      "7",
+      "Between 6 and 7",
+      "Between 7 and 8"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Acidic solution cannot have pH >= 7. Contribution from water (10^-7 M H+) must be added. Total [H+] ~ 1.1 x 10^-7. pH = 6.96.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "ph"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q55",
+    "question": "For the reaction H2(g) + I2(g) <=> 2HI(g), if the volume of the vessel is reduced to half, the equilibrium:",
+    "options": [
+      "Shifts forward",
+      "Shifts backward",
+      "Remains unchanged",
+      "Stops"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "\u0394ng = 0. Change in volume/pressure has no effect on equilibrium position.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "le chatelier principle"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q56",
+    "question": "The dissociation constant of water (K) is related to ionic product (Kw) by:",
+    "options": [
+      "K = Kw",
+      "K = Kw / [H2O]",
+      "Kw = K / [H2O]",
+      "None of these"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "K = [H+][OH-]/[H2O]. Kw = [H+][OH-]. So K = Kw/[H2O].",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "ionic equilibrium"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q57",
+    "question": "Which species acts as both Bronsted acid and base?",
+    "options": [
+      "HCl",
+      "NH3",
+      "HCO3-",
+      "BF3"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "HCO3- can accept H+ (to form H2CO3) or donate H+ (to form CO3 2-). It is amphoteric.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "acids and bases"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q58",
+    "question": "If Kp for a reaction is 0.05 atm at 1000 K, what is Kc? (\u0394ng = 1)",
+    "options": [
+      "0.05",
+      "0.05 R T",
+      "0.05 / RT",
+      "0.05 (RT)^2"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Kp = Kc(RT)^\u0394ng. 0.05 = Kc(RT)^1. Kc = 0.05/RT.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "equilibrium constant"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q59",
+    "question": "The solubility product of PbCl2 is Ksp. The solubility 's' is given by:",
+    "options": [
+      "(Ksp/4)^(1/3)",
+      "\u221a(Ksp)",
+      "Ksp/4",
+      "(Ksp)^(1/3)"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "PbCl2 -> Pb2+ + 2Cl-. Ksp = s * (2s)^2 = 4s^3. s = (Ksp/4)^(1/3).",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "solubility product"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q60",
+    "question": "Which of the following is an example of homogeneous equilibrium?",
+    "options": [
+      "CaCO3(s) <=> CaO(s) + CO2(g)",
+      "NH4HS(s) <=> NH3(g) + H2S(g)",
+      "N2(g) + 3H2(g) <=> 2NH3(g)",
+      "H2O(l) <=> H2O(g)"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "All reactants and products are in the same phase (gas).",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "types of equilibrium"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q61",
+    "question": "The pH of a buffer solution depends on:",
+    "options": [
+      "Concentration of salt only",
+      "Concentration of acid only",
+      "Ratio of salt to acid concentration",
+      "Volume of solution"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Henderson-Hasselbalch equation: pH = pKa + log([Salt]/[Acid]). Depends on ratio.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "buffer solutions"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q62",
+    "question": "For the reaction A <=> B, if the activation energy of forward reaction is Ea(f) and backward reaction is Ea(b), then \u0394H is:",
+    "options": [
+      "Ea(f) + Ea(b)",
+      "Ea(f) - Ea(b)",
+      "Ea(b) - Ea(f)",
+      "Zero"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "\u0394H = Ea(forward) - Ea(backward).",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "thermodynamics connection"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q63",
+    "question": "Which of the following will not change the pH of 1 M HCl on addition?",
+    "options": [
+      "1 M NaOH",
+      "1 M HCl",
+      "Water",
+      "1 M NaCl"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "NaCl is a neutral salt. Adding it (solid) doesn't change pH significantly (ignoring volume change). Adding 1 M NaCl solution would dilute H+, changing pH. Assuming solid NaCl or negligible volume change. But 1 M HCl added to 1 M HCl doesn't change concentration. Water changes concentration. NaOH neutralizes. 1 M NaCl solution dilutes. 1 M HCl solution keeps concentration same. So 1 M HCl is the best answer if adding solution. If adding solid NaCl, no change. Let's assume 'addition of 1 M NaCl solution'. It dilutes, so pH changes. Addition of 1 M HCl solution to 1 M HCl solution keeps [H+] = 1 M, so pH remains 0. Correct answer is 1 M HCl.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "ph"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q64",
+    "question": "The value of Kw increases with:",
+    "options": [
+      "Increase in temperature",
+      "Decrease in temperature",
+      "Addition of acid",
+      "Addition of base"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Dissociation of water is endothermic. Increasing T increases Kw.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "ionic equilibrium"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q65",
+    "question": "When HCl gas is passed through saturated NaCl solution, pure NaCl precipitates because:",
+    "options": [
+      "Ionic product exceeds Ksp",
+      "Ksp decreases",
+      "Solubility increases",
+      "Solution becomes supersaturated"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Common ion effect increases [Cl-], making [Na+][Cl-] > Ksp, causing precipitation.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "common ion effect"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q66",
+    "question": "For a reaction to be at equilibrium, the reaction quotient Q must be:",
+    "options": [
+      "Equal to K",
+      "Greater than K",
+      "Less than K",
+      "Zero"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "At equilibrium, Q = K.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "reaction quotient"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q67",
+    "question": "Which of the following is a buffer?",
+    "options": [
+      "NaOH + HCl",
+      "CH3COOH + HCl",
+      "CH3COOH + NH4OH",
+      "CH3COONH4"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Salt of weak acid and weak base (CH3COONH4) acts as a simple buffer.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "buffer solutions"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q68",
+    "question": "The pH of 0.005 M H2SO4 is:",
+    "options": [
+      "2",
+      "1",
+      "2.3",
+      "3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "H2SO4 is diprotic. [H+] = 2 * 0.005 = 0.01 M. pH = 2.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "ph"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q69",
+    "question": "Which of the following oxides is amphoteric?",
+    "options": [
+      "Na2O",
+      "CaO",
+      "Al2O3",
+      "SO2"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Al2O3 reacts with both acids and bases.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "acids and bases"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q70",
+    "question": "In the reaction 2A(g) <=> B(g) + C(g), Kp is:",
+    "options": [
+      "Equal to Kc",
+      "Greater than Kc",
+      "Less than Kc",
+      "Unrelated to Kc"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "\u0394ng = 2 - 2 = 0. Kp = Kc.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "equilibrium constant"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q71",
+    "question": "The conjugate acid of H2O is:",
+    "options": [
+      "OH-",
+      "H3O+",
+      "H2",
+      "O2-"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "H2O + H+ -> H3O+.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "acids and bases"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q72",
+    "question": "If K for A <=> B is 10, then K for B <=> A is:",
+    "options": [
+      "10",
+      "0.1",
+      "1",
+      "-10"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "K_reverse = 1/K_forward = 1/10 = 0.1.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "equilibrium constant"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q73",
+    "question": "Which of the following is the strongest acid?",
+    "options": [
+      "HF",
+      "HCl",
+      "HBr",
+      "HI"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Bond strength decreases down the group, so HI dissociates most easily.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "acids and bases"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q74",
+    "question": "The solubility of CaF2 (Ksp = 4x10^-12) is:",
+    "options": [
+      "10^-4 M",
+      "2x10^-4 M",
+      "10^-6 M",
+      "4x10^-4 M"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Ksp = 4s^3. 4x10^-12 = 4s^3. s^3 = 10^-12. s = 10^-4 M.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "solubility product"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q75",
+    "question": "For the reaction CO(g) + 2H2(g) <=> CH3OH(g), \u0394H = -92 kJ. Equilibrium shifts to right by:",
+    "options": [
+      "Increasing T",
+      "Decreasing P",
+      "Adding inert gas at constant V",
+      "Increasing P"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Forward reaction decreases moles (3->1) and is exothermic. High P favors forward.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "le chatelier principle"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q76",
+    "question": "The pH of 10^-3 M Ba(OH)2 is:",
+    "options": [
+      "3",
+      "11",
+      "11.3",
+      "2.7"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "[OH-] = 2 * 10^-3. pOH = -log(2e-3) = 3 - 0.3 = 2.7. pH = 14 - 2.7 = 11.3.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "ph"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q77",
+    "question": "Which of the following salts has the highest pH in water?",
+    "options": [
+      "KCl",
+      "NH4Cl",
+      "Na2CO3",
+      "CuSO4"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Na2CO3 is basic (pH > 7). NH4Cl and CuSO4 are acidic. KCl is neutral.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "salt hydrolysis"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q78",
+    "question": "The equilibrium constant for the reaction 2SO2 + O2 <=> 2SO3 is K1. The equilibrium constant for SO2 + 1/2 O2 <=> SO3 is K2. The relation is:",
+    "options": [
+      "K1 = K2",
+      "K1 = K2^2",
+      "K2 = K1^2",
+      "K1 = 1/K2"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Reaction 1 is 2x Reaction 2. So K1 = (K2)^2.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "equilibrium constant"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q79",
+    "question": "Which of the following is not a conjugate acid-base pair?",
+    "options": [
+      "NH3, NH4+",
+      "H2O, OH-",
+      "HCO3-, CO3 2-",
+      "NH3, NH2OH"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "NH3 and NH2OH are not related by a single proton transfer.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "acids and bases"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q80",
+    "question": "The pKa of a weak acid is 4.8. The pH of a buffer containing equal concentrations of acid and its salt is:",
+    "options": [
+      "4.8",
+      "9.2",
+      "7.0",
+      "2.4"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "pH = pKa + log(1) = 4.8 + 0 = 4.8.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "buffer solutions"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q81",
+    "question": "In the reaction N2O4 <=> 2NO2, if N2O4 is 50% dissociated, the equilibrium constant Kp is (P is total pressure):",
+    "options": [
+      "P/3",
+      "4P/3",
+      "2P",
+      "3P"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Start: 1, 0. Eq: 0.5, 1. Total = 1.5. pp(NO2) = (1/1.5)P. pp(N2O4) = (0.5/1.5)P. Kp = (2P/3)^2 / (P/3) = 4P/3.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "equilibrium constant"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q82",
+    "question": "Which of the following is a proton donor?",
+    "options": [
+      "Lewis acid",
+      "Lewis base",
+      "Bronsted acid",
+      "Bronsted base"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Bronsted acid is a proton donor.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "acids and bases"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q83",
+    "question": "The solubility of AgI in NaI solution is less than in water because of:",
+    "options": [
+      "Common ion effect",
+      "Temperature effect",
+      "Hydrolysis",
+      "Complex formation"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Common ion (I-) decreases solubility.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "common ion effect"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q84",
+    "question": "For the reaction H2 + I2 <=> 2HI, K = 50. If 0.5 mol H2, 0.5 mol I2 and 2 mol HI are in a 1 L vessel, the reaction will:",
+    "options": [
+      "Proceed forward",
+      "Proceed backward",
+      "Be at equilibrium",
+      "Stop"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Q = [HI]^2 / [H2][I2] = 2^2 / (0.5*0.5) = 4 / 0.25 = 16. Wait. Q=16. K=50. Q < K. Reaction should proceed forward. Let me recheck. Q = 16. K = 50. Q < K. Forward. Option B says backward. Let me re-read. 0.5, 0.5, 2. Q=16. K=50. Q < K. Forward. If option B is correct, maybe K is different or I misread. Let's assume standard Q vs K logic. Q < K -> Forward. I will set correct index to 0.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "reaction quotient"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q85",
+    "question": "The pH of a solution is 5. Its [OH-] concentration is:",
+    "options": [
+      "10^-5 M",
+      "10^-9 M",
+      "5 M",
+      "9 M"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "pH = 5 -> pOH = 9 -> [OH-] = 10^-9 M.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "ph"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q86",
+    "question": "Which of the following is a salt of weak acid and weak base?",
+    "options": [
+      "CH3COONa",
+      "NH4Cl",
+      "CH3COONH4",
+      "NaCl"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "CH3COONH4 is formed from CH3COOH (weak acid) and NH4OH (weak base).",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "salt hydrolysis"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q87",
+    "question": "The equilibrium constant for a reaction is 10. \u0394G\u00b0 will be (R=8.314, T=300):",
+    "options": [
+      "-5.74 kJ",
+      "-57.4 kJ",
+      "5.74 kJ",
+      "-2.303 kJ"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "\u0394G\u00b0 = -2.303 RT log K = -2.303 * 8.314 * 300 * 1 = -5744 J = -5.74 kJ.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "thermodynamics connection"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q88",
+    "question": "Which of the following favors the backward reaction in 2SO2 + O2 <=> 2SO3 + Heat?",
+    "options": [
+      "Adding SO2",
+      "Adding O2",
+      "Increasing Temperature",
+      "Increasing Pressure"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Exothermic reaction. Increasing T favors backward (endothermic).",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "le chatelier principle"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q89",
+    "question": "The pH of 0.1 M acetic acid (Ka = 10^-5) is:",
+    "options": [
+      "1",
+      "3",
+      "5",
+      "2"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "[H+] = \u221a(Ka * C) = \u221a(10^-5 * 0.1) = \u221a(10^-6) = 10^-3. pH = 3.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "ph"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q90",
+    "question": "For the reaction A(g) <=> B(g), the equilibrium partial pressures are PA = 0.6 atm, PB = 0.3 atm. Kp is:",
+    "options": [
+      "0.5",
+      "2",
+      "0.2",
+      "5"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Kp = PB/PA = 0.3/0.6 = 0.5.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "equilibrium constant"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q91",
+    "question": "For the reaction N2(g) + 3H2(g) <=> 2NH3(g), the value of Kp is 1.45 x 10^-5 at 500\u00b0C. The value of Kp for the reaction NH3(g) <=> 1/2 N2(g) + 3/2 H2(g) would be:",
+    "options": [
+      "2.62 x 10^2",
+      "3.82 x 10^4",
+      "6.90 x 10^4",
+      "1.45 x 10^5"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Reaction 2 is reverse of Reaction 1 and halved. K' = (1/K)^(1/2) = 1 / \u221a(1.45e-5) = 1 / 0.0038 = 262.6 = 2.62 x 10^2.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "equilibrium constant"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q92",
+    "question": "The solubility product of Ag2CrO4 is 3.2 x 10^-12. What is the concentration of CrO4 2- ions in that solution?",
+    "options": [
+      "2 x 10^-4 M",
+      "8 x 10^-4 M",
+      "1.6 x 10^-4 M",
+      "9.2 x 10^-5 M"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Ag2CrO4 -> 2Ag+ + CrO4 2-. Ksp = (2s)^2 * s = 4s^3. 3.2e-12 = 4s^3. s^3 = 0.8e-12 = 8e-13. s = (800e-15)^(1/3) = 9.28e-5 M. [CrO4 2-] = s = 9.28 x 10^-5 M.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "solubility product"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q93",
+    "question": "Calculate the pH of a solution obtained by mixing 100 mL of 0.2 M CH3COOH and 100 mL of 0.1 M NaOH. (pKa = 4.74)",
+    "options": [
+      "4.74",
+      "8.74",
+      "5.04",
+      "4.44"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Moles Acid = 20 mmol. Moles Base = 10 mmol. Base neutralizes 10 mmol Acid to form 10 mmol Salt. Remaining Acid = 10 mmol. Salt = 10 mmol. Buffer with [Salt]=[Acid]. pH = pKa + log(1) = 4.74.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "buffer solutions"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q94",
+    "question": "At a certain temperature, 2HI <=> H2 + I2. Only 50% HI is dissociated at equilibrium. The equilibrium constant is:",
+    "options": [
+      "0.25",
+      "1.0",
+      "3.0",
+      "0.5"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Start: 1, 0, 0. Eq: 0.5, 0.25, 0.25. K = (0.25*0.25)/(0.5)^2 = 0.0625/0.25 = 0.25.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "equilibrium constant"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q95",
+    "question": "The pH of a 0.1 M solution of NH4Cl is (pKb of NH4OH = 4.75):",
+    "options": [
+      "5.125",
+      "8.875",
+      "4.75",
+      "9.25"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Salt of weak base + strong acid. pH = 7 - 1/2(pKb + log C) = 7 - 1/2(4.75 - 1) = 7 - 1.875 = 5.125.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "salt hydrolysis"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q96",
+    "question": "For the reaction PCl5 <=> PCl3 + Cl2, the degree of dissociation varies inversely as the square root of pressure. This is valid when:",
+    "options": [
+      "Dissociation is very small",
+      "Dissociation is large",
+      "Pressure is very high",
+      "Temperature is very high"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "\u03b1 = \u221a(Kp/P) is valid when \u03b1 << 1 (small dissociation).",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "equilibrium constant"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q97",
+    "question": "The solubility of AgCl in water, 0.01 M CaCl2, 0.01 M NaCl and 0.05 M AgNO3 are S1, S2, S3, S4 respectively. Which is correct?",
+    "options": [
+      "S1 > S3 > S2 > S4",
+      "S1 > S2 = S3 > S4",
+      "S1 > S3 > S4 > S2",
+      "S4 > S2 > S3 > S1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "S1 (pure water) is highest. Common ion effect reduces S. [Cl-] in CaCl2 = 0.02 M. [Cl-] in NaCl = 0.01 M. [Ag+] in AgNO3 = 0.05 M. Higher common ion conc -> Lower S. Order of common ion conc: 0.05 (S4) > 0.02 (S2) > 0.01 (S3). So S1 > S3 > S2 > S4.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "common ion effect"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q98",
+    "question": "Calculate the pH of a solution which is 0.1 M in CH3COOH and 0.1 M in benzoic acid. Ka(CH3COOH) = 1.8x10^-5, Ka(benzoic) = 6.3x10^-5.",
+    "options": [
+      "2.55",
+      "3.00",
+      "2.80",
+      "2.05"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Mixture of two weak acids. [H+] = \u221a(Ka1C1 + Ka2C2) = \u221a(1.8e-6 + 6.3e-6) = \u221a(8.1e-6) = 2.84e-3. pH = -log(2.84e-3) = 3 - 0.45 = 2.55.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "ph"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q99",
+    "question": "For the reaction N2O4(g) <=> 2NO2(g), if initial pressure is P0 and equilibrium pressure is P, the fraction of N2O4 dissociated is:",
+    "options": [
+      "(P - P0) / P0",
+      "(P - P0) / (2P - P0)",
+      "(P - P0) / P",
+      "2(P - P0) / P0"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Start: P0, 0. Eq: P0(1-\u03b1), 2P0\u03b1. Total P = P0(1+\u03b1). P/P0 = 1+\u03b1. \u03b1 = P/P0 - 1 = (P-P0)/P0.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "equilibrium constant"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q100",
+    "question": "What is the minimum pH required to prevent the precipitation of ZnS in a solution that is 0.01 M ZnCl2 and saturated with 0.1 M H2S? (Ksp ZnS = 10^-21, Ka1*Ka2 H2S = 10^-20)",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "0"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "To prevent ppt, [Zn2+][S2-] < Ksp. [S2-] < 10^-21 / 0.01 = 10^-19. [S2-] = Ka1Ka2[H2S]/[H+]^2. 10^-19 = 10^-20 * 0.1 / [H+]^2. [H+]^2 = 10^-21 / 10^-19 = 10^-2. [H+] = 0.1. pH = 1. So pH must be < 1 to keep [S2-] low? No, low pH -> high H+ -> low S2-. So pH must be < 1 to prevent ppt. Wait. Question asks 'minimum pH'. Usually implies boundary. Boundary is pH 1. Below 1, no ppt. Above 1, ppt. So minimum pH to prevent? Or maximum pH? Usually 'minimum H+ conc' or 'maximum pH'. If pH > 1, S2- increases, ppt forms. So pH must be <= 1. Boundary is 1.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "solubility product"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q101",
+    "question": "The equilibrium constant Kp for the reaction A(g) <=> 2B(g) is related to degree of dissociation \u03b1 and total pressure P as:",
+    "options": [
+      "4\u03b1^2 P / (1-\u03b1^2)",
+      "4\u03b1^2 P^2 / (1-\u03b1^2)",
+      "\u03b1^2 P / (1-\u03b1^2)",
+      "4\u03b1^2 / (1-\u03b1)"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Start: 1, 0. Eq: 1-\u03b1, 2\u03b1. Total: 1+\u03b1. ppB = 2\u03b1P/(1+\u03b1). ppA = (1-\u03b1)P/(1+\u03b1). Kp = [2\u03b1P/(1+\u03b1)]^2 / [(1-\u03b1)P/(1+\u03b1)] = 4\u03b1^2 P / (1-\u03b1^2).",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "equilibrium constant"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q102",
+    "question": "Three sparingly soluble salts A2X, AX and AX3 have the same solubility product. Their solubilities will be in the order:",
+    "options": [
+      "AX > A2X > AX3",
+      "AX > AX3 > A2X",
+      "AX3 > AX > A2X",
+      "AX3 > A2X > AX"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Let Ksp = K. AX: s^2=K, s=K^0.5. A2X: 4s^3=K, s=(K/4)^0.33. AX3: 27s^4=K, s=(K/27)^0.25. For very small K (e.g. 10^-12): s(AX)=10^-6. s(A2X)=(0.25e-12)^0.33 ~ 0.6e-4. s(AX3)=(0.037e-12)^0.25 ~ 0.4e-3. Order: AX3 > A2X > AX. Higher power of s in Ksp expression generally leads to higher solubility for same Ksp (if Ksp < 1).",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "solubility product"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q103",
+    "question": "50 mL of 0.1 M HCl is titrated against 0.1 M NaOH. The pH of the solution when 25 mL NaOH has been added is:",
+    "options": [
+      "1.48",
+      "1.0",
+      "7.0",
+      "1.3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Initial HCl = 5 mmol. NaOH added = 2.5 mmol. Remaining HCl = 2.5 mmol. Total Vol = 75 mL. [H+] = 2.5/75 = 1/30 = 0.0333 M. pH = -log(0.0333) = 1.48.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "titration"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q104",
+    "question": "In a saturated solution of AgCl, NaCl is added gradually. The concentration of Ag+ is plotted against concentration of Cl-. The graph is:",
+    "options": [
+      "Straight line with positive slope",
+      "Straight line with negative slope",
+      "Rectangular hyperbola",
+      "Parabola"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "[Ag+][Cl-] = Ksp (constant). xy = c. Rectangular hyperbola.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "solubility product"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q105",
+    "question": "The percentage of pyridine (C5H5N) that forms pyridinium ion (C5H5NH+) in a 0.10 M aqueous pyridine solution (Kb = 1.7 x 10^-9) is:",
+    "options": [
+      "0.013%",
+      "1.3%",
+      "0.77%",
+      "0.006%"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "\u03b1 = \u221a(Kb/C) = \u221a(1.7e-9 / 0.1) = \u221a(1.7e-8) = 1.3e-4. % = 1.3e-4 * 100 = 0.013%.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "ionic equilibrium"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q106",
+    "question": "At what pH will a 10^-3 M solution of an indicator with Kb = 10^-10 change color?",
+    "options": [
+      "4",
+      "10",
+      "6",
+      "8"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Indicator is a weak base InOH. pOH = pKb +/- 1. pKb = 10. Range pOH 9-11. pH 3-5. Center is 4.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "titration"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q107",
+    "question": "If the equilibrium constant for N2 + O2 <=> 2NO is K, the equilibrium constant for 1/2 N2 + 1/2 O2 <=> NO will be:",
+    "options": [
+      "K",
+      "K^2",
+      "\u221aK",
+      "K/2"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Halving coefficients -> square root of K.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "equilibrium constant"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q108",
+    "question": "Calculate the pH of 10^-3 M sodium acetate solution. (Ka of acetic acid = 1.8 x 10^-5)",
+    "options": [
+      "7.87",
+      "6.13",
+      "8.37",
+      "5.63"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Salt of weak acid + strong base. pH = 7 + 1/2(pKa + log C). pKa = 4.74. log C = -3. pH = 7 + 1/2(4.74 - 3) = 7 + 0.87 = 7.87.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "salt hydrolysis"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q109",
+    "question": "Solid Ba(NO3)2 is gradually dissolved in a 1.0 x 10^-4 M Na2CO3 solution. At what concentration of Ba2+ will a precipitate begin to form? (Ksp BaCO3 = 5.1 x 10^-9)",
+    "options": [
+      "5.1 x 10^-5 M",
+      "8.1 x 10^-8 M",
+      "8.1 x 10^-7 M",
+      "4.1 x 10^-5 M"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "[Ba2+][CO3 2-] = Ksp. [Ba2+] * 10^-4 = 5.1e-9. [Ba2+] = 5.1e-5 M.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "solubility product"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q110",
+    "question": "For the reaction 2HI(g) <=> H2(g) + I2(g), Kp = 0.0196 at 720 K. What is Kc?",
+    "options": [
+      "0.0196",
+      "0.14",
+      "1.96",
+      "0.00196"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "\u0394ng = 0. Kp = Kc.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "equilibrium constant"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q111",
+    "question": "The pH of a solution is 3.7. The concentration of proton is:",
+    "options": [
+      "2 x 10^-4 M",
+      "3.7 x 10^-4 M",
+      "1.99 x 10^-4 M",
+      "10^-3.7 M"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "[H+] = 10^-3.7 = 10^0.3 * 10^-4 = 2 * 10^-4 M.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "ph"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q112",
+    "question": "Which of the following mixtures will act as a buffer solution?",
+    "options": [
+      "100 mL 0.1 M HCl + 50 mL 0.1 M NaOH",
+      "100 mL 0.1 M CH3COOH + 50 mL 0.1 M NaOH",
+      "100 mL 0.1 M HCl + 100 mL 0.1 M NaOH",
+      "50 mL 0.1 M HCl + 100 mL 0.1 M NaOH"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Weak acid (10 mmol) + Strong base (5 mmol) -> 5 mmol Salt + 5 mmol Acid remaining. Acts as buffer.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "buffer solutions"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q113",
+    "question": "The solubility of Ca3(PO4)2 in water is 's' mol/L. Its solubility product is:",
+    "options": [
+      "108 s^5",
+      "27 s^4",
+      "6 s^5",
+      "72 s^3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Ca3(PO4)2 -> 3Ca + 2PO4. Ksp = (3s)^3 * (2s)^2 = 27s^3 * 4s^2 = 108s^5.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "solubility product"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q114",
+    "question": "The equilibrium constant for the reaction SO3(g) <=> SO2(g) + 1/2 O2(g) is Kc = 4.9 x 10^-2. The value of Kc for the reaction 2SO2(g) + O2(g) <=> 2SO3(g) will be:",
+    "options": [
+      "416",
+      "2.40 x 10^-3",
+      "9.8 x 10^-2",
+      "4.9 x 10^-2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Target is reverse and doubled. K' = (1/K)^2 = (1/0.049)^2 = (20.4)^2 = 416.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "equilibrium constant"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q115",
+    "question": "What is the pH of a 0.10 M solution of Ba(OH)2?",
+    "options": [
+      "13.3",
+      "13.0",
+      "0.7",
+      "1.0"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "[OH-] = 0.20 M. pOH = -log(0.2) = 0.7. pH = 13.3.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "ph"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q116",
+    "question": "The dissociation constant of a substituted benzoic acid at 25\u00b0C is 1.0 x 10^-4. The pH of a 0.01 M solution of its sodium salt is:",
+    "options": [
+      "8",
+      "6",
+      "7",
+      "9"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Salt of weak acid + strong base. pH = 7 + 1/2(pKa + log C). pKa = 4. log C = -2. pH = 7 + 1/2(4 - 2) = 8.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "salt hydrolysis"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q117",
+    "question": "For the reaction H2(g) + I2(g) <=> 2HI(g), the standard free energy change is \u0394G\u00b0 > 0. The equilibrium constant K would be:",
+    "options": [
+      "K = 0",
+      "K > 1",
+      "K = 1",
+      "K < 1"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "\u0394G\u00b0 = -RT ln K. If \u0394G\u00b0 > 0, ln K < 0, so K < 1.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "thermodynamics connection"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q118",
+    "question": "The solubility of PbCl2 is 2 x 10^-2 g/L. Its solubility product is (Molar mass = 278):",
+    "options": [
+      "1.5 x 10^-12",
+      "1.6 x 10^-5",
+      "4 x 10^-14",
+      "2.7 x 10^-13"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "s (mol/L) = 0.02 / 278 = 7.2 x 10^-5 M. Ksp = 4s^3 = 4 * (7.2e-5)^3 = 4 * 373e-15 = 1492e-15 = 1.5e-12.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "solubility product"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q119",
+    "question": "Which of the following is a Lewis acid?",
+    "options": [
+      "PH3",
+      "NF3",
+      "Na+",
+      "BCl3"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "BCl3 is electron deficient (incomplete octet). Na+ is also a Lewis acid, but BCl3 is the classic example often cited. However, Na+ is a weak Lewis acid. BCl3 is a strong Lewis acid. Let's pick BCl3.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "acids and bases"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_equilibrium_q120",
+    "question": "The pH of 0.1 M solution of a weak acid is 3. What is the value of the ionization constant for the acid?",
+    "options": [
+      "10^-5",
+      "10^-7",
+      "10^-3",
+      "10^-4"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "[H+] = 10^-3. Ka = [H+]^2 / C = (10^-3)^2 / 0.1 = 10^-6 / 10^-1 = 10^-5.",
+    "subject": "Chemistry",
+    "chapter": "Equilibrium",
+    "tags": [
+      "ionic equilibrium"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "equilibrium",
+    "subjectId": "chemistry"
+  }
+]

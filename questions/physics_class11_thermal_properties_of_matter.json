@@ -1,0 +1,2833 @@
+[
+  {
+    "id": "physics_thermal_q1",
+    "question": "Heat is a form of:",
+    "options": [
+      "Energy",
+      "Power",
+      "Force",
+      "Momentum"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Heat is thermal energy.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Heat"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q2",
+    "question": "The SI unit of heat is:",
+    "options": [
+      "Calorie",
+      "Joule",
+      "Watt",
+      "Kelvin"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Joule is the SI unit of energy/heat.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Units"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q3",
+    "question": "Temperature is a measure of:",
+    "options": [
+      "Total kinetic energy",
+      "Average kinetic energy",
+      "Total potential energy",
+      "Average potential energy"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Temperature is proportional to average KE of molecules.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Temperature"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q4",
+    "question": "The SI unit of temperature is:",
+    "options": [
+      "Celsius",
+      "Fahrenheit",
+      "Kelvin",
+      "Rankine"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Kelvin is the SI unit.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Units"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q5",
+    "question": "Absolute zero temperature corresponds to:",
+    "options": [
+      "0\u00b0C",
+      "-273.15\u00b0C",
+      "273.15\u00b0C",
+      "100\u00b0C"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "0 K = -273.15\u00b0C.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Temperature"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q6",
+    "question": "Which of the following scales of temperature has no negative numbers?",
+    "options": [
+      "Celsius",
+      "Fahrenheit",
+      "Kelvin",
+      "Reaumur"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Kelvin scale starts from 0 K (absolute zero).",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Temperature"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q7",
+    "question": "The relation between Celsius (C) and Fahrenheit (F) scales is:",
+    "options": [
+      "C/5 = (F-32)/9",
+      "C/9 = (F-32)/5",
+      "C/5 = (F+32)/9",
+      "C/9 = (F+32)/5"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Standard conversion formula.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Temperature"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q8",
+    "question": "Coefficient of linear expansion (\u03b1) depends on:",
+    "options": [
+      "Length of the rod",
+      "Area of cross-section",
+      "Nature of material",
+      "Temperature difference"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "It is a material property.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Thermal Expansion"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q9",
+    "question": "The relation between \u03b1, \u03b2, and \u03b3 (coefficients of linear, superficial, and cubical expansion) is:",
+    "options": [
+      "\u03b1 : \u03b2 : \u03b3 = 1 : 2 : 3",
+      "\u03b1 : \u03b2 : \u03b3 = 3 : 2 : 1",
+      "\u03b1 : \u03b2 : \u03b3 = 1 : 1 : 1",
+      "\u03b1 : \u03b2 : \u03b3 = 1 : 3 : 2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "\u03b2 = 2\u03b1, \u03b3 = 3\u03b1.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Thermal Expansion"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q10",
+    "question": "Anomalous expansion of water occurs in the range:",
+    "options": [
+      "0\u00b0C to 4\u00b0C",
+      "4\u00b0C to 100\u00b0C",
+      "0\u00b0C to 100\u00b0C",
+      "-4\u00b0C to 0\u00b0C"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Water contracts when heated from 0 to 4\u00b0C.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Thermal Expansion"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q11",
+    "question": "Water has maximum density at:",
+    "options": [
+      "0\u00b0C",
+      "4\u00b0C",
+      "100\u00b0C",
+      "-4\u00b0C"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Density is max at 4\u00b0C.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Thermal Expansion"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q12",
+    "question": "Specific heat capacity is the heat required to raise the temperature of:",
+    "options": [
+      "Unit mass by 1\u00b0C",
+      "Unit volume by 1\u00b0C",
+      "Whole body by 1\u00b0C",
+      "Unit mole by 1\u00b0C"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Definition of specific heat.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Calorimetry"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q13",
+    "question": "The SI unit of specific heat capacity is:",
+    "options": [
+      "J kg^-1 K^-1",
+      "J kg K^-1",
+      "J kg^-1",
+      "cal g^-1 \u00b0C^-1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Joule per kg per Kelvin.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Units"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q14",
+    "question": "Molar specific heat capacity is heat required for:",
+    "options": [
+      "1 mole of substance",
+      "1 kg of substance",
+      "1 g of substance",
+      "1 molecule"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Definition of molar specific heat.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Calorimetry"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q15",
+    "question": "Latent heat is the heat absorbed or released during:",
+    "options": [
+      "Change of state at constant temperature",
+      "Change of temperature without change of state",
+      "Expansion of gas",
+      "Compression of gas"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Latent heat is for phase change.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Calorimetry"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q16",
+    "question": "The SI unit of latent heat is:",
+    "options": [
+      "J/kg",
+      "J/K",
+      "J/kg K",
+      "W/kg"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Joule per kg.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Units"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q17",
+    "question": "During boiling, the temperature of water:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains constant",
+      "Fluctuates"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Phase change occurs at constant temperature.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Calorimetry"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q18",
+    "question": "The process of transfer of heat in solids is mainly by:",
+    "options": [
+      "Conduction",
+      "Convection",
+      "Radiation",
+      "Advection"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Conduction is dominant in solids.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Heat Transfer"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q19",
+    "question": "Convection is the mode of heat transfer in:",
+    "options": [
+      "Solids only",
+      "Fluids (liquids and gases)",
+      "Vacuum",
+      "Metals only"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Convection requires fluid motion.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Heat Transfer"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q20",
+    "question": "Heat transfer from the sun to the earth takes place by:",
+    "options": [
+      "Conduction",
+      "Convection",
+      "Radiation",
+      "Evaporation"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Radiation can travel through vacuum.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Heat Transfer"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q21",
+    "question": "A black body is a:",
+    "options": [
+      "Perfect absorber of radiation",
+      "Perfect reflector of radiation",
+      "Perfect transmitter of radiation",
+      "Body painted black"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Ideal black body absorbs all radiation.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Radiation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q22",
+    "question": "Stefan-Boltzmann law states that energy radiated per unit area per second is proportional to:",
+    "options": [
+      "T",
+      "T^2",
+      "T^3",
+      "T^4"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "E = \u03c3T^4.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Radiation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q23",
+    "question": "Wien's displacement law states that \u03bb_m T is:",
+    "options": [
+      "Constant",
+      "Variable",
+      "Zero",
+      "Infinite"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "\u03bb_m T = b (constant).",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Radiation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q24",
+    "question": "Newton's Law of Cooling states that rate of cooling is proportional to:",
+    "options": [
+      "Temperature difference between body and surroundings",
+      "Temperature of the body",
+      "Temperature of surroundings",
+      "Mass of the body"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "-dT/dt \u221d (T - T_s).",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Newton's Law of Cooling"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q25",
+    "question": "Good absorbers of heat are:",
+    "options": [
+      "Good emitters",
+      "Poor emitters",
+      "Good reflectors",
+      "Poor reflectors"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Kirchhoff's law: Good absorbers are good emitters.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Radiation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q26",
+    "question": "The triple point of water is:",
+    "options": [
+      "273.16 K",
+      "273.15 K",
+      "373.16 K",
+      "0 K"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Standard value 273.16 K (0.01\u00b0C).",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Temperature"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q27",
+    "question": "Which material has the highest specific heat capacity among the following?",
+    "options": [
+      "Water",
+      "Iron",
+      "Copper",
+      "Mercury"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Water has very high specific heat.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Calorimetry"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q28",
+    "question": "The value of Stefan's constant \u03c3 is:",
+    "options": [
+      "5.67 x 10^-8 W m^-2 K^-4",
+      "6.67 x 10^-11 N m^2 kg^-2",
+      "8.31 J mol^-1 K^-1",
+      "1.38 x 10^-23 J K^-1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Standard constant value.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Radiation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q29",
+    "question": "Thermal conductivity is a measure of:",
+    "options": [
+      "Ability to conduct heat",
+      "Ability to store heat",
+      "Ability to reflect heat",
+      "Ability to absorb heat"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Definition of thermal conductivity.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Heat Transfer"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q30",
+    "question": "In steady state of heat conduction, the temperature of the rod:",
+    "options": [
+      "Increases with time",
+      "Decreases with time",
+      "Remains constant with time",
+      "Becomes uniform everywhere"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Steady state means temperature at any point is constant in time.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Heat Transfer"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q31",
+    "question": "Which color absorbs heat radiation the best?",
+    "options": [
+      "Black",
+      "White",
+      "Red",
+      "Yellow"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Black absorbs all wavelengths.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Radiation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q32",
+    "question": "The unit of coefficient of thermal conductivity is:",
+    "options": [
+      "W m^-1 K^-1",
+      "W m K^-1",
+      "J m^-1 K^-1",
+      "W m^-2 K^-1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "K = QL / (A t \u0394T) => J m / (m^2 s K) = W / (m K) = W m^-1 K^-1.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Units"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q33",
+    "question": "Sublimation is the process of change of state from:",
+    "options": [
+      "Solid to Liquid",
+      "Liquid to Gas",
+      "Solid to Gas",
+      "Gas to Liquid"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Direct change from solid to gas.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Calorimetry"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q34",
+    "question": "Regelation is the phenomenon of:",
+    "options": [
+      "Melting of ice under pressure and refreezing on release",
+      "Boiling of water under pressure",
+      "Evaporation of water",
+      "Condensation of steam"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Definition of regelation.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Calorimetry"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q35",
+    "question": "A bimetallic strip works on the principle of:",
+    "options": [
+      "Unequal expansion of solids",
+      "Equal expansion of solids",
+      "Conduction of heat",
+      "Radiation of heat"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Different coefficients of expansion cause bending.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Thermal Expansion"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q36",
+    "question": "The temperature at which Centigrade and Fahrenheit scales give the same reading is:",
+    "options": [
+      "-40",
+      "40",
+      "0",
+      "-273"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "x/5 = (x-32)/9 => 9x = 5x - 160 => 4x = -160 => x = -40.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Temperature",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q37",
+    "question": "Sea breeze and land breeze are caused by:",
+    "options": [
+      "Conduction",
+      "Convection",
+      "Radiation",
+      "None of these"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Convection currents in air.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Heat Transfer"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q38",
+    "question": "Woolen clothes keep us warm in winter because:",
+    "options": [
+      "Wool is a source of heat",
+      "Wool absorbs heat",
+      "Wool is a bad conductor of heat",
+      "Wool reflects heat"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Traps air, bad conductor.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Heat Transfer"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q39",
+    "question": "If the temperature of a black body is doubled, the energy radiated per second becomes:",
+    "options": [
+      "2 times",
+      "4 times",
+      "8 times",
+      "16 times"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "E \u221d T^4. (2T)^4 = 16 T^4.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Radiation",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q40",
+    "question": "The amount of heat required to change 1 g of ice at 0\u00b0C to water at 0\u00b0C is:",
+    "options": [
+      "80 cal",
+      "540 cal",
+      "100 cal",
+      "1 cal"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Latent heat of fusion of ice is 80 cal/g.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Calorimetry",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q41",
+    "question": "A copper rod of length 50 cm and diameter 3.0 mm is joined with a steel rod of the same length and diameter. What is the change in length of the combined rod at 250\u00b0C, if the original length is at 40.0\u00b0C? (\u03b1_Cu = 1.7 x 10^-5 /\u00b0C, \u03b1_steel = 1.2 x 10^-5 /\u00b0C)",
+    "options": [
+      "0.30 cm",
+      "0.15 cm",
+      "0.45 cm",
+      "0.60 cm"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "\u0394l = l \u0394T (\u03b11 + \u03b12). No, total \u0394l = l1 \u03b11 \u0394T + l2 \u03b12 \u0394T. l1=l2=50cm. \u0394T = 210. \u0394l = 50 * 210 * (1.7e-5 + 1.2e-5) = 10500 * 2.9e-5 = 1.05e4 * 2.9e-5 = 3.045e-1 cm \u2248 0.30 cm.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Thermal Expansion",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q42",
+    "question": "50 g of copper is heated to increase its temperature by 10\u00b0C. If the same quantity of heat is given to 10 g of water, the rise in its temperature is (Specific heat of Cu = 420 J/kg K, Water = 4200 J/kg K):",
+    "options": [
+      "5\u00b0C",
+      "6\u00b0C",
+      "7\u00b0C",
+      "8\u00b0C"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Q = m1 c1 \u0394T1 = m2 c2 \u0394T2. 0.05 * 420 * 10 = 0.01 * 4200 * \u0394T2. 210 = 42 * \u0394T2. \u0394T2 = 210/42 = 5\u00b0C.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Calorimetry",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q43",
+    "question": "A hole is drilled in a copper sheet. The diameter of the hole is 4.24 cm at 27.0\u00b0C. What is the change in the diameter of the hole when the sheet is heated to 227\u00b0C? (\u03b1 = 1.7 x 10^-5 /\u00b0C)",
+    "options": [
+      "1.44 x 10^-2 cm",
+      "2.88 x 10^-2 cm",
+      "0.72 x 10^-2 cm",
+      "3.60 x 10^-2 cm"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "\u0394d = d \u03b1 \u0394T = 4.24 * 1.7e-5 * (227-27) = 4.24 * 1.7e-5 * 200 = 4.24 * 3.4e-3 = 14.416e-3 = 1.44e-2 cm.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Thermal Expansion",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q44",
+    "question": "Two rods A and B of same length and cross-section are joined end to end. Their thermal conductivities are K1 and K2. The equivalent thermal conductivity of the composite rod is:",
+    "options": [
+      "(K1+K2)/2",
+      "2K1K2/(K1+K2)",
+      "K1+K2",
+      "\u221a(K1K2)"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Series combination: L_eq = L1+L2 = 2L. R_eq = R1+R2. 2L/KA = L/K1A + L/K2A. 2/K = 1/K1 + 1/K2. K = 2K1K2/(K1+K2).",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Heat Transfer"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q45",
+    "question": "A geyser heats water flowing at the rate of 3.0 liters per minute from 27\u00b0C to 77\u00b0C. If the geyser operates on a gas burner, what is the rate of consumption of the fuel if its heat of combustion is 4.0 x 10^4 J/g?",
+    "options": [
+      "15.75 g/min",
+      "12.5 g/min",
+      "10.0 g/min",
+      "20.0 g/min"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Q = mc\u0394T = 3000 g * 4.2 J/gK * 50 = 630000 J/min. Fuel mass m = Q/H = 630000 / 40000 = 63/4 = 15.75 g/min.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Calorimetry",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q46",
+    "question": "The temperature of a body is increased from 27\u00b0C to 127\u00b0C. The ratio of energy radiated per second is:",
+    "options": [
+      "1:256",
+      "81:256",
+      "1:4",
+      "81:64"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "E \u221d T^4. T1 = 300K, T2 = 400K. Ratio = (300/400)^4 = (3/4)^4 = 81/256.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Radiation",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q47",
+    "question": "A body cools from 80\u00b0C to 50\u00b0C in 5 minutes. Calculate the time it takes to cool from 60\u00b0C to 30\u00b0C. The temperature of the surroundings is 20\u00b0C.",
+    "options": [
+      "9 min",
+      "5 min",
+      "10 min",
+      "12 min"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Newton's Law: (T1-T2)/t = K (T_avg - T_s). (80-50)/5 = K (65-20). 6 = K(45). K = 6/45 = 2/15. (60-30)/t = K (45-20). 30/t = (2/15) * 25. 30/t = 50/15 = 10/3. t = 90/10 = 9 min.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Newton's Law of Cooling",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q48",
+    "question": "Steam at 100\u00b0C is passed into 20 g of water at 10\u00b0C. When water acquires a temperature of 80\u00b0C, the mass of water present will be: (Take specific heat of water = 1 cal/g\u00b0C and latent heat of steam = 540 cal/g)",
+    "options": [
+      "24 g",
+      "31.5 g",
+      "42.5 g",
+      "22.5 g"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Heat gained by water = 20 * 1 * (80-10) = 1400 cal. Heat lost by steam m: m*540 + m*1*(100-80) = 560m. 560m = 1400. m = 1400/560 = 2.5 g. Total mass = 20 + 2.5 = 22.5 g.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Calorimetry",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q49",
+    "question": "A brass wire 1.8 m long at 27\u00b0C is held taut with little tension between two rigid supports. If the wire is cooled to a temperature of -39\u00b0C, what is the tension developed in the wire, if its diameter is 2.0 mm? (\u03b1 = 2.0 x 10^-5 /\u00b0C, Y = 0.91 x 10^11 Pa)",
+    "options": [
+      "3.8 x 10^2 N",
+      "3.8 x 10^3 N",
+      "3.8 N",
+      "38 N"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "T = YA\u03b1\u0394T. A = \u03c0(1e-3)^2 = \u03c0e-6. \u0394T = 27 - (-39) = 66. T = 0.91e11 * \u03c0e-6 * 2e-5 * 66 = 0.91 * 3.14 * 2 * 66 * 1 = 377.2 N \u2248 3.8e2 N.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Thermal Stress",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q50",
+    "question": "The spectral energy distribution of the sun has a maximum at 4753 \u00c5. If the temperature of the sun is 6050 K, what is the temperature of a star for which this maximum is at 9506 \u00c5?",
+    "options": [
+      "3025 K",
+      "12100 K",
+      "6050 K",
+      "1512.5 K"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "\u03bbm T = constant. \u03bb1 T1 = \u03bb2 T2. 4753 * 6050 = 9506 * T2. T2 = 6050 * (4753/9506) = 6050 * (1/2) = 3025 K.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Radiation",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q51",
+    "question": "A slab of stone of area 0.36 m^2 and thickness 0.1 m is exposed on the lower surface to steam at 100\u00b0C. A block of ice at 0\u00b0C rests on the upper surface of the slab. In one hour 4.8 kg of ice is melted. The thermal conductivity of stone is (Latent heat of ice = 3.36 x 10^5 J/kg):",
+    "options": [
+      "1.24 W/m K",
+      "1.29 W/m K",
+      "2.05 W/m K",
+      "1.00 W/m K"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Q = mL = 4.8 * 3.36e5 = 16.128e5 J. Rate Q/t = 16.128e5 / 3600 = 448 W. Q/t = KA\u0394T/L. 448 = K * 0.36 * 100 / 0.1. 448 = K * 360. K = 448/360 = 1.244 W/m K.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Heat Transfer",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q52",
+    "question": "A sphere, a cube and a thin circular plate, all of same material and same mass are initially heated to same high temperature. Which of these will cool fastest?",
+    "options": [
+      "Plate",
+      "Sphere",
+      "Cube",
+      "All same"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Rate of cooling \u221d Surface Area. For same mass (volume), plate has max surface area.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Newton's Law of Cooling"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q53",
+    "question": "Two spheres of the same material have radii 1 m and 4 m and temperatures 4000 K and 2000 K respectively. The ratio of the energy radiated per second by the first sphere to that by the second is:",
+    "options": [
+      "1:1",
+      "16:1",
+      "4:1",
+      "1:9"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "P = \u03c3 A T^4 \u221d r^2 T^4. Ratio = (r1/r2)^2 (T1/T2)^4 = (1/4)^2 (4000/2000)^4 = (1/16) * (2)^4 = 16/16 = 1.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Radiation",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q54",
+    "question": "A lead bullet penetrates into a solid object and melts. Assuming that 50% of its kinetic energy was used to heat it, calculate the initial speed of the bullet. The initial temperature of bullet is 27\u00b0C and its melting point is 327\u00b0C. Latent heat of fusion of lead = 2.5 x 10^4 J/kg and specific heat capacity of lead = 125 J/kg K.",
+    "options": [
+      "500 m/s",
+      "360 m/s",
+      "490 m/s",
+      "600 m/s"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "0.5 * 1/2 m v^2 = m c \u0394T + m L. v^2/4 = 125(300) + 25000. v^2/4 = 37500 + 25000 = 62500. v^2 = 250000. v = 500 m/s.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Calorimetry",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q55",
+    "question": "If the temperature of the sun were to increase from T to 2T and its radius from R to 2R, then the ratio of the radiant energy received on earth to what it was previously will be:",
+    "options": [
+      "4",
+      "16",
+      "32",
+      "64"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "P \u221d R^2 T^4. P' \u221d (2R)^2 (2T)^4 = 4 * 16 * P = 64 P.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Radiation",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q56",
+    "question": "A metal rod of length L and cross-sectional area A has thermal conductivity K. If the ends are maintained at temperatures T1 and T2 (T1 > T2), the rate of heat flow is:",
+    "options": [
+      "KA(T1-T2)/L",
+      "K(T1-T2)/LA",
+      "KA(T1-T2)/L^2",
+      "KLA(T1-T2)"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Standard formula H = KA\u0394T/L.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Heat Transfer"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q57",
+    "question": "A blacksmith fixes iron ring on the rim of the wooden wheel of a horse cart. The diameter of the rim and the iron ring are 5.243 m and 5.231 m respectively at 27\u00b0C. To what temperature should the ring be heated so as to fit the rim of the wheel? (\u03b1 = 1.2 x 10^-5 /\u00b0C)",
+    "options": [
+      "218\u00b0C",
+      "191\u00b0C",
+      "500\u00b0C",
+      "420\u00b0C"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "\u0394d = d \u03b1 \u0394T. 5.243 - 5.231 = 5.231 * 1.2e-5 * \u0394T. 0.012 = 5.231 * 1.2e-5 * \u0394T. \u0394T = 0.012 / (6.277e-5) = 191. T_final = 27 + 191 = 218\u00b0C.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Thermal Expansion",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q58",
+    "question": "The emissive power of a black body at T = 300 K is 100 W/m^2. Consider a body B of area A = 10 m^2, coefficient of reflectivity r = 0.3 and coefficient of transmission t = 0.5. Its temperature is 300 K. The emissive power of B is:",
+    "options": [
+      "20 W/m^2",
+      "200 W/m^2",
+      "100 W/m^2",
+      "50 W/m^2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "a + r + t = 1. a = 1 - 0.3 - 0.5 = 0.2. Emissivity e = a = 0.2. Emissive power E = e * E_blackbody = 0.2 * 100 = 20 W/m^2.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Radiation",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q59",
+    "question": "A centigrade and a Fahrenheit thermometer are dipped in a boiling water. The water temperature is lowered until the Fahrenheit thermometer registers 140\u00b0F. What is the fall in temperature as registered by the Centigrade thermometer?",
+    "options": [
+      "30\u00b0C",
+      "40\u00b0C",
+      "60\u00b0C",
+      "80\u00b0C"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Initial T = 100\u00b0C = 212\u00b0F. Final T_F = 140\u00b0F. C = 5/9 (140-32) = 5/9 (108) = 60\u00b0C. Fall = 100 - 60 = 40\u00b0C.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Temperature",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q60",
+    "question": "Three stars A, B, C have surface temperatures TA, TB, TC. A appears bluish, B appears reddish and C appears yellowish. Hence:",
+    "options": [
+      "TA > TC > TB",
+      "TA < TB < TC",
+      "TB > TC > TA",
+      "TA > TB > TC"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Wien's Law: \u03bbm T = const. Blue (low \u03bb) -> High T. Red (high \u03bb) -> Low T. Yellow (mid). So TA > TC > TB.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Radiation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q61",
+    "question": "A beaker contains 200 g of water. The heat capacity of the beaker is equal to that of 20 g of water. The initial temperature of water in the beaker is 20\u00b0C. If 440 g of hot water at 92\u00b0C is poured in it, the final temperature (neglecting radiation loss) will be nearest to:",
+    "options": [
+      "68\u00b0C",
+      "73\u00b0C",
+      "58\u00b0C",
+      "62\u00b0C"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Water equivalent of beaker = 20g. Total cold mass = 220g. Hot mass = 440g. 220 * 1 * (T-20) = 440 * 1 * (92-T). (T-20) = 2(92-T). T-20 = 184-2T. 3T = 204. T = 68\u00b0C.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Calorimetry",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q62",
+    "question": "A pendulum clock keeps correct time at 20\u00b0C. The correction to be made during summer per day where the average temperature is 40\u00b0C (\u03b1 = 10^-5 /\u00b0C) will be:",
+    "options": [
+      "8.64 s",
+      "4.32 s",
+      "17.28 s",
+      "2.16 s"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "\u0394t = 1/2 \u03b1 \u0394\u03b8 * t. t = 86400 s. \u0394t = 0.5 * 1e-5 * 20 * 86400 = 1e-4 * 86400 = 8.64 s.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Thermal Expansion",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q63",
+    "question": "Two rods of lengths L1 and L2 and coefficients of linear expansion \u03b11 and \u03b12 are connected end to end. The condition for the difference in their lengths to remain constant at all temperatures is:",
+    "options": [
+      "L1 \u03b11 = L2 \u03b12",
+      "L1 \u03b12 = L2 \u03b11",
+      "L1/\u03b11 = L2/\u03b12",
+      "L1^2 \u03b11 = L2^2 \u03b12"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "\u0394L1 = \u0394L2. L1 \u03b11 \u0394T = L2 \u03b12 \u0394T. L1 \u03b11 = L2 \u03b12.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Thermal Expansion",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q64",
+    "question": "The power radiated by a black body is P and it radiates maximum energy at wavelength \u03bb0. If the temperature of the black body is now changed so that it radiates maximum energy at wavelength 3\u03bb0/4, the power radiated by it becomes nP. The value of n is:",
+    "options": [
+      "256/81",
+      "4/3",
+      "3/4",
+      "81/256"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "\u03bb T = const. T' = T (\u03bb0 / (3\u03bb0/4)) = 4T/3. P \u221d T^4. P' \u221d (4/3)^4 P = 256/81 P.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Radiation",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q65",
+    "question": "Ice starts forming in a lake with water at 0\u00b0C when the atmospheric temperature is -10\u00b0C. If the time taken for 1 cm of ice to be formed is 7 hours, then the time taken for the thickness of ice to change from 1 cm to 2 cm is:",
+    "options": [
+      "7 hours",
+      "14 hours",
+      "21 hours",
+      "3.5 hours"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "t \u221d (x2^2 - x1^2). t1 \u221d 1^2 - 0 = 1. t2 \u221d 2^2 - 1^2 = 3. t2 = 3 t1 = 21 hours.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Heat Transfer",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q66",
+    "question": "A cylindrical rod with one end in a steam chamber and the other end in ice results in melting of 0.1 g of ice per second. If the rod is replaced by another with half the length and double the radius of the first and if the thermal conductivity of material of second rod is 1/4 that of first, the rate at which ice melts in g/s will be:",
+    "options": [
+      "0.2",
+      "0.1",
+      "0.4",
+      "0.05"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Rate dQ/dt = KA\u0394T/L. R1 = K A/L. R2 = (K/4) (4A) / (L/2) = K A / (L/2) = 2 KA/L = 2 R1. Rate is doubled. 0.2 g/s.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Heat Transfer",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q67",
+    "question": "A piece of ice falls from a height h so that it melts completely. Only one-quarter of the heat produced is absorbed by the ice and all energy of ice gets converted into heat during its fall. The value of h is: [Latent heat of ice is 3.4 x 10^5 J/kg and g = 10 N/kg]",
+    "options": [
+      "136 km",
+      "34 km",
+      "68 km",
+      "544 km"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "mgh / 4 = mL. h = 4L/g = 4 * 3.4e5 / 10 = 1.36e5 m = 136 km.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Calorimetry",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q68",
+    "question": "A black body at 227\u00b0C radiates heat at the rate of 7 cal/cm^2 s. At a temperature of 727\u00b0C, the rate of heat radiated in the same units will be:",
+    "options": [
+      "112",
+      "80",
+      "60",
+      "50"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "E \u221d T^4. T1 = 500K, T2 = 1000K. E2/E1 = (1000/500)^4 = 16. E2 = 16 * 7 = 112.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Radiation",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q69",
+    "question": "Which of the following circular rods (given radius r and length l) each made of the same material and whose ends are maintained at the same temperature will conduct most heat?",
+    "options": [
+      "r = 2r0, l = 2l0",
+      "r = 2r0, l = l0",
+      "r = r0, l = 2l0",
+      "r = r0, l = l0"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "H \u221d A/L \u221d r^2/L. A: 4/2 = 2. B: 4/1 = 4. C: 1/2. D: 1. Max is B.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Heat Transfer",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q70",
+    "question": "The density of water at 20\u00b0C is 998 kg/m^3 and at 40\u00b0C is 992 kg/m^3. The coefficient of volume expansion of water is:",
+    "options": [
+      "3 x 10^-4 /\u00b0C",
+      "2 x 10^-4 /\u00b0C",
+      "6 x 10^-4 /\u00b0C",
+      "10^-4 /\u00b0C"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "\u03c12 = \u03c11 / (1 + \u03b3\u0394T). 992 = 998 / (1 + 20\u03b3). 1 + 20\u03b3 = 998/992 = 1.006. 20\u03b3 = 0.006. \u03b3 = 0.0003 = 3e-4.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Thermal Expansion",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q71",
+    "question": "A metal ball immersed in alcohol weighs W1 at 0\u00b0C and W2 at 59\u00b0C. The coefficient of cubical expansion of the metal is less than that of alcohol. Assuming that the density of metal is large compared to that of alcohol, it can be shown that:",
+    "options": [
+      "W1 > W2",
+      "W1 = W2",
+      "W1 < W2",
+      "W2 = 0"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Buoyant force B = V_l \u03c1_l g. As T increases, \u03c1_l decreases significantly (\u03b3_l > \u03b3_m). So B decreases. Apparent weight W = mg - B. Since B decreases, W increases. W2 > W1.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Thermal Expansion",
+      "Buoyancy"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q72",
+    "question": "One mole of an ideal gas requires 207 J heat to raise the temperature by 10 K when heated at constant pressure. If the same gas is heated at constant volume to raise the temperature by the same 10 K, the heat required is (R = 8.3 J/mol K):",
+    "options": [
+      "124 J",
+      "215.3 J",
+      "198.7 J",
+      "83 J"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Q_p = n Cp \u0394T = 207. Cp = 20.7. Cv = Cp - R = 20.7 - 8.3 = 12.4. Q_v = n Cv \u0394T = 1 * 12.4 * 10 = 124 J.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Calorimetry",
+      "Thermodynamics"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q73",
+    "question": "Two spheres of radii R1 and R2 have densities \u03c11 and \u03c12 and specific heats c1 and c2. If they are heated to the same temperature and then allowed to cool in the same surroundings, the ratio of their rates of fall of temperature will be:",
+    "options": [
+      "(R1 \u03c11 c1) / (R2 \u03c12 c2)",
+      "(R2 \u03c12 c2) / (R1 \u03c11 c1)",
+      "(R1 \u03c12 c2) / (R2 \u03c11 c1)",
+      "(R2 \u03c11 c1) / (R1 \u03c12 c2)"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Rate of cooling dT/dt = (\u03c3A(T^4-Ts^4)) / mc. Rate \u221d A/mc \u221d R^2 / (R^3 \u03c1 c) \u221d 1/R\u03c1c. Ratio = (R2 \u03c12 c2) / (R1 \u03c11 c1).",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Newton's Law of Cooling"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q74",
+    "question": "A metallic bar is heated from 0\u00b0C to 100\u00b0C. The coefficient of linear expansion is 10^-5 /\u00b0C. What will be the percentage increase in length?",
+    "options": [
+      "0.1%",
+      "1%",
+      "0.01%",
+      "0.001%"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "\u0394L/L = \u03b1\u0394T = 1e-5 * 100 = 1e-3. % = 1e-3 * 100 = 0.1%.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Thermal Expansion",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q75",
+    "question": "540 g of ice at 0\u00b0C is mixed with 540 g of water at 80\u00b0C. The final temperature of the mixture is:",
+    "options": [
+      "0\u00b0C",
+      "40\u00b0C",
+      "80\u00b0C",
+      "Less than 0\u00b0C"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Heat to melt ice = 540 * 80 = 43200 cal. Heat from water cooling to 0 = 540 * 80 = 43200 cal. Exact match. Final T = 0\u00b0C, all ice melts.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Calorimetry",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q76",
+    "question": "The ratio of thermal conductivity of two rods of different material is 5:4. The two rods of same area of cross-section and same thermal resistance will have the lengths in the ratio:",
+    "options": [
+      "4:5",
+      "9:1",
+      "1:9",
+      "5:4"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "R = L/KA. R1=R2. L1/K1A = L2/K2A. L1/L2 = K1/K2 = 5/4.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Heat Transfer",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q77",
+    "question": "A body cools from 60\u00b0C to 50\u00b0C in 10 minutes. If the room temperature is 25\u00b0C, the temperature of the body at the end of the next 10 minutes will be:",
+    "options": [
+      "38.5\u00b0C",
+      "40\u00b0C",
+      "42.85\u00b0C",
+      "45\u00b0C"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "10/10 = K(55-25) => 1 = 30K => K=1/30. (50-T)/10 = 1/30 ((50+T)/2 - 25). 3(50-T) = (50+T)/2 - 25. 150-3T = 25 + T/2 - 25. 150 = 3.5T. T = 150/3.5 = 300/7 = 42.85\u00b0C.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Newton's Law of Cooling",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q78",
+    "question": "A constant volume gas thermometer shows pressure readings of 50 cm and 90 cm of mercury at 0\u00b0C and 100\u00b0C respectively. The temperature of the bath when pressure reading is 60 cm of mercury is:",
+    "options": [
+      "25\u00b0C",
+      "40\u00b0C",
+      "15\u00b0C",
+      "12.5\u00b0C"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "P = P0(1 + \u03b1T). 90 = 50(1 + 100\u03b1). 1.8 = 1 + 100\u03b1. \u03b1 = 0.008. 60 = 50(1 + \u03b1T). 1.2 = 1 + 0.008T. 0.2 = 0.008T. T = 0.2/0.008 = 200/8 = 25\u00b0C.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Temperature",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q79",
+    "question": "If the length of a cylinder on heating increases by 2%, the area of its base will increase by:",
+    "options": [
+      "0.5%",
+      "2%",
+      "1%",
+      "4%"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "\u0394A/A = 2 \u0394L/L = 2 * 2% = 4%.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Thermal Expansion",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q80",
+    "question": "The temperature of equal masses of three different liquids A, B and C are 12\u00b0C, 19\u00b0C and 28\u00b0C respectively. The temperature when A and B are mixed is 16\u00b0C and when B and C are mixed is 23\u00b0C. The temperature when A and C are mixed is:",
+    "options": [
+      "18.2\u00b0C",
+      "22\u00b0C",
+      "20.2\u00b0C",
+      "25.2\u00b0C"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "m sA (16-12) = m sB (19-16). 4sA = 3sB. sA/sB = 3/4. m sB (23-19) = m sC (28-23). 4sB = 5sC. sB/sC = 5/4. sA/sC = (3/4)*(5/4) = 15/16. A and C: sA(T-12) = sC(28-T). 15(T-12) = 16(28-T). 15T - 180 = 448 - 16T. 31T = 628. T = 20.25\u00b0C.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Calorimetry",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q81",
+    "question": "A solid cube is first floating in a liquid. The coefficient of linear expansion of cube is \u03b1 and the coefficient of volume expansion of liquid is \u03b3. On increasing the temperature, the solid will:",
+    "options": [
+      "Sink if \u03b3 = 3\u03b1",
+      "Sink if \u03b3 < 3\u03b1",
+      "Sink if \u03b3 > 3\u03b1",
+      "Float if \u03b3 > 3\u03b1"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "For sinking, density of solid > density of liquid. \u03c1_s' = \u03c1_s/(1+3\u03b1\u0394T). \u03c1_l' = \u03c1_l/(1+\u03b3\u0394T). If \u03b3 > 3\u03b1, liquid density decreases faster than solid density. Solid becomes relatively heavier. It sinks.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Thermal Expansion",
+      "Buoyancy"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q82",
+    "question": "Two thermometers X and Y have ice points marked at 15\u00b0 and 25\u00b0 and steam points marked at 75\u00b0 and 125\u00b0 respectively. When thermometer X measures the temperature of a bath as 60\u00b0, the reading of Y for the same bath is:",
+    "options": [
+      "60\u00b0",
+      "75\u00b0",
+      "90\u00b0",
+      "100\u00b0"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "(X-15)/(75-15) = (Y-25)/(125-25). (60-15)/60 = (Y-25)/100. 45/60 = (Y-25)/100. 3/4 = (Y-25)/100. Y-25 = 75. Y = 100.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Temperature",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q83",
+    "question": "A sphere of density \u03c1, specific heat c and radius r is hung by a thermally insulating thread in an enclosure of temperature T0. The time taken for the sphere to cool from T1 to T2 is proportional to:",
+    "options": [
+      "r",
+      "r^2",
+      "1/r",
+      "1/r^2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Rate of cooling dT/dt \u221d A/mc \u221d r^2/r^3 \u221d 1/r. Time dt \u221d r dT. Time \u221d r.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Newton's Law of Cooling"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q84",
+    "question": "Assuming the sun to have a spherical surface of radius r, radiating like a black body at temperature t\u00b0C, the power P received by a unit surface, (normal to the incident rays) at a distance R from the centre of the sun is:",
+    "options": [
+      "4\u03c0r^2 \u03c3(t+273)^4 / R^2",
+      "r^2 \u03c3(t+273)^4 / 4\u03c0R^2",
+      "16\u03c0^2 r^2 \u03c3t^4 / R^2",
+      "r^2 \u03c3(t+273)^4 / R^2"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Total Power = 4\u03c0r^2 \u03c3 T^4. Intensity at R = Power / 4\u03c0R^2 = (4\u03c0r^2 \u03c3 T^4) / 4\u03c0R^2 = r^2 \u03c3 T^4 / R^2. T = t+273.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Radiation",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q85",
+    "question": "A wall has two layers A and B, each made of different material. Both the layers have the same thickness. The thermal conductivity of the material of A is twice that of B. Under thermal equilibrium, the temperature difference across the wall is 36\u00b0C. The temperature difference across the layer A is:",
+    "options": [
+      "6\u00b0C",
+      "12\u00b0C",
+      "18\u00b0C",
+      "24\u00b0C"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "KA = 2KB. Series: H = KA \u0394TA / L = KB \u0394TB / L. 2KB \u0394TA = KB \u0394TB. \u0394TB = 2\u0394TA. \u0394TA + \u0394TB = 36. 3\u0394TA = 36. \u0394TA = 12\u00b0C.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Heat Transfer",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q86",
+    "question": "On a new scale of temperature (which is linear) and called the W scale, the freezing and boiling points of water are 39\u00b0W and 239\u00b0W respectively. What will be the temperature on the new scale, corresponding to a temperature of 39\u00b0C on the Celsius scale?",
+    "options": [
+      "200\u00b0W",
+      "139\u00b0W",
+      "78\u00b0W",
+      "117\u00b0W"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "(W-39)/(239-39) = (C-0)/(100-0). (W-39)/200 = 39/100. W-39 = 78. W = 117.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Temperature",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q87",
+    "question": "A piece of iron is heated in a flame. It first becomes dull red then becomes reddish yellow and finally turns to white hot. The correct explanation for the above observation is possible by using:",
+    "options": [
+      "Stefan's Law",
+      "Wien's Displacement Law",
+      "Kirchhoff's Law",
+      "Newton's Law of Cooling"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Color change relates to wavelength shift with temperature (Wien's Law).",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Radiation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q88",
+    "question": "The thermal capacity of 40 g of aluminum (specific heat = 0.2 cal/g\u00b0C) is:",
+    "options": [
+      "40 cal/\u00b0C",
+      "160 cal/\u00b0C",
+      "200 cal/\u00b0C",
+      "8 cal/\u00b0C"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "C = ms = 40 * 0.2 = 8 cal/\u00b0C.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Calorimetry",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q89",
+    "question": "Which of the following produces more severe burns?",
+    "options": [
+      "Boiling water",
+      "Steam",
+      "Hot air",
+      "Sun rays"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Steam has latent heat, releases more energy upon condensation.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Calorimetry"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q90",
+    "question": "A block of steel heated to 100\u00b0C is left in a room to cool. Which of the curves shown in the figure represents the correct behavior?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Cooling curve is exponential decay (Newton's law). Steep initially, then flattens.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Newton's Law of Cooling"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q91",
+    "question": "A metal rod of Young's modulus Y and coefficient of thermal expansion \u03b1 is held at its two ends such that its length remains constant. If its temperature is raised by t\u00b0C, the linear stress developed in it is:",
+    "options": [
+      "Y\u03b1t",
+      "Y\u03b1t/2",
+      "Y/\u03b1t",
+      "\u03b1t/Y"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Strain = \u03b1t. Stress = Y * Strain = Y\u03b1t.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Thermal Stress"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q92",
+    "question": "A wall is made of two layers of thickness d1 and d2 and thermal conductivities K1 and K2. The temperature of the outer surfaces are T1 and T2. The temperature of the interface is:",
+    "options": [
+      "(K1T1d2 + K2T2d1) / (K1d2 + K2d1)",
+      "(K1T1d1 + K2T2d2) / (K1d1 + K2d2)",
+      "(K1T1 + K2T2) / (K1 + K2)",
+      "(K1T1d2 + K2T2d1) / (K1d1 + K2d2)"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "H = K1 A (T1-T)/d1 = K2 A (T-T2)/d2. K1(T1-T)/d1 = K2(T-T2)/d2. K1 T1 d2 - K1 T d2 = K2 T d1 - K2 T2 d1. T(K1 d2 + K2 d1) = K1 T1 d2 + K2 T2 d1. T = (K1 T1 d2 + K2 T2 d1) / (K1 d2 + K2 d1).",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Heat Transfer",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q93",
+    "question": "A body cools in 7 minutes from 60\u00b0C to 40\u00b0C. What will be its temperature after the next 7 minutes? The temperature of surroundings is 10\u00b0C.",
+    "options": [
+      "28\u00b0C",
+      "20\u00b0C",
+      "30\u00b0C",
+      "32\u00b0C"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "(60-40)/7 = K(50-10). 20/7 = 40K. K = 1/14. (40-T)/7 = 1/14 ((40+T)/2 - 10). 2(40-T) = (40+T)/2 - 10. 80-2T = 20 + T/2 - 10. 70 = 2.5T. T = 70/2.5 = 28\u00b0C.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Newton's Law of Cooling",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q94",
+    "question": "A solid sphere of radius R and density \u03c1 is attached to one end of a mass-less spring of force constant k. The other end of the spring is connected to another solid sphere of radius R and density 3\u03c1. The complete arrangement is placed in a liquid of density 2\u03c1 and is allowed to reach equilibrium. The correct statement(s) is (are):",
+    "options": [
+      "The net elongation of the spring is 4\u03c0R^3\u03c1g/3k",
+      "The net elongation of the spring is 8\u03c0R^3\u03c1g/3k",
+      "The light sphere is completely submerged",
+      "The light sphere is partially submerged"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Sphere 1 (\u03c1): Weight W1 = V\u03c1g. Buoyant B1 = V(2\u03c1)g = 2W1. Net Up = W1. Sphere 2 (3\u03c1): Weight W2 = V(3\u03c1)g = 3W1. Buoyant B2 = V(2\u03c1)g = 2W1. Net Down = W1. System is in equilibrium. Spring tension T balances forces. For 1: T + W1 = B1 => T = W1. For 2: T + B2 = W2 => T = W1. Consistent. T = V\u03c1g = 4/3 \u03c0 R^3 \u03c1 g. Elongation x = T/k = 4\u03c0R^3\u03c1g/3k.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Buoyancy",
+      "Elasticity"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q95",
+    "question": "Two identical bodies are made of a material for which the heat capacity increases with temperature. One of these is at 100\u00b0C, while the other one is at 0\u00b0C. If the two bodies are brought into contact, then, assuming no heat loss, the final common temperature is:",
+    "options": [
+      "50\u00b0C",
+      "More than 50\u00b0C",
+      "Less than 50\u00b0C",
+      "0\u00b0C"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Heat capacity S(T) increases with T. Heat lost by hot body = \u222b S dT from T_f to 100. Heat gained by cold body = \u222b S dT from 0 to T_f. Since S is higher at higher T, for equal heat exchange, the temperature drop of hot body must be smaller than temperature rise of cold body. So T_f > 50.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Calorimetry",
+      "Conceptual"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q96",
+    "question": "A rod of length 20 cm is made of metal A and another rod of length 30 cm is made of metal B. They are joined end to end. When the temperature is raised by 20\u00b0C, the length of each rod increases by the same amount. The ratio of coefficients of linear expansion of A and B is:",
+    "options": [
+      "2:3",
+      "3:2",
+      "4:9",
+      "9:4"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "\u0394L1 = \u0394L2. L1 \u03b11 \u0394T = L2 \u03b12 \u0394T. L1 \u03b11 = L2 \u03b12. \u03b11/\u03b12 = L2/L1 = 30/20 = 3/2.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Thermal Expansion",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q97",
+    "question": "The temperature of the two outer surfaces of a composite slab, consisting of two materials having coefficients of thermal conductivity K and 2K and thickness x and 4x, respectively, are T2 and T1 (T2 > T1). The rate of heat transfer through the slab, in a steady state is (A is area):",
+    "options": [
+      "A(T2-T1)K/x",
+      "A(T2-T1)K/3x",
+      "A(T2-T1)2K/3x",
+      "A(T2-T1)K/2x"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "R1 = x/KA. R2 = 4x/2KA = 2x/KA. R_eq = R1+R2 = 3x/KA. H = (T2-T1)/R_eq = KA(T2-T1)/3x.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Heat Transfer",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q98",
+    "question": "A solid body of constant heat capacity 1 J/\u00b0C is being heated by keeping it in contact with reservoirs in two ways: (i) Sequentially keeping in contact with 2 reservoirs such that each reservoir supplies same amount of heat. (ii) Sequentially keeping in contact with 8 reservoirs such that each reservoir supplies same amount of heat. In both the cases body is brought from initial temperature 100\u00b0C to final temperature 200\u00b0C. Entropy change of the body in the two cases respectively is:",
+    "options": [
+      "ln 2, ln 2",
+      "ln 2, 2 ln 2",
+      "2 ln 2, 8 ln 2",
+      "ln 2, 4 ln 2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Entropy change is a state function. \u0394S = \u222b dQ/T = \u222b C dT/T = C ln(Tf/Ti). Depends only on initial and final states. So same for both.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Thermodynamics",
+      "Entropy"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q99",
+    "question": "A black body is at a temperature of 2880 K. The energy of radiation emitted by this object with wavelength between 499 nm and 500 nm is U1, between 999 nm and 1000 nm is U2 and between 1499 nm and 1500 nm is U3. The Wien constant b = 2.88 x 10^6 nm K. Then:",
+    "options": [
+      "U1 = 0",
+      "U3 = 0",
+      "U1 > U2",
+      "U2 > U1"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "\u03bbm = b/T = 2.88e6 / 2880 = 1000 nm. Peak is at 1000 nm. U2 corresponds to peak. U1 is at 500nm (left of peak). U3 is at 1500nm (right of peak). Intensity is max at \u03bbm. So U2 is max. U2 > U1.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Radiation",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q100",
+    "question": "Steam at 100\u00b0C is passed into 1.1 kg of water contained in a calorimeter of water equivalent 0.02 kg at 15\u00b0C till the temperature of the calorimeter and its contents rises to 80\u00b0C. The mass of the steam condensed in kg is:",
+    "options": [
+      "0.130",
+      "0.065",
+      "0.260",
+      "0.135"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Heat gained = (1.1 + 0.02) * 1000 * (80-15) = 1.12 * 1000 * 65 = 72800 cal. Heat lost = m * 540 * 1000 + m * 1000 * (100-80) = 540000m + 20000m = 560000m. 560000m = 72800. m = 728/5600 = 0.13 kg.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Calorimetry",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q101",
+    "question": "A cylindrical metallic rod in thermal contact with two reservoirs of heat at its two ends conducts an amount of heat Q in time t. The metallic rod is melted and the material is formed into a rod of half the radius of the original rod. What is the amount of heat conducted by the new rod, when placed in thermal contact with the two reservoirs in time t?",
+    "options": [
+      "Q/16",
+      "Q/4",
+      "16Q",
+      "4Q"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "V = \u03c0r^2 L = \u03c0(r/2)^2 L'. L' = 4L. A' = A/4. H \u221d A/L. H' \u221d (A/4)/(4L) = 1/16 (A/L). Q' = Q/16.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Heat Transfer",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q102",
+    "question": "One end of a copper rod of length 1.0 m and area of cross-section 10^-3 m^2 is immersed in boiling water and the other end in ice. If the coefficient of thermal conductivity of copper is 92 cal/m s \u00b0C and the latent heat of ice is 8 x 10^4 cal/kg, then the amount of ice which will melt in one minute is:",
+    "options": [
+      "9.2 x 10^-3 kg",
+      "8 x 10^-3 kg",
+      "6.9 x 10^-3 kg",
+      "5.4 x 10^-3 kg"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Q/t = KA\u0394T/L = 92 * 1e-3 * 100 / 1 = 9.2 cal/s. Q in 60s = 9.2 * 60 = 552 cal. m = Q/L = 552 / 8e4 = 6.9e-3 kg.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Heat Transfer",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q103",
+    "question": "A body cools from 50\u00b0C to 40\u00b0C in 5 minutes. The surrounding temperature is 20\u00b0C. In what further time (in minutes) will it cool to 30\u00b0C?",
+    "options": [
+      "5",
+      "15/2",
+      "25/3",
+      "10"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "10/5 = K(45-20). 2 = 25K. K = 2/25. (40-30)/t = 2/25 (35-20). 10/t = 2/25 * 15 = 6/5. t = 50/6 = 25/3 min.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Newton's Law of Cooling",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q104",
+    "question": "The earth radiates in the infra-red region of the spectrum. The spectrum is correctly given by:",
+    "options": [
+      "Wien's law",
+      "Rayleigh Jeans law",
+      "Planck's law",
+      "Stefan's law"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Planck's law gives the full spectral distribution.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Radiation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q105",
+    "question": "A pendulum clock loses 12 s a day if the temperature is 40\u00b0C and gains 4 s a day if the temperature is 20\u00b0C. The temperature at which the clock will show correct time, and the coefficient of linear expansion (\u03b1) of the metal of the pendulum shaft are respectively:",
+    "options": [
+      "25\u00b0C; 1.85 x 10^-5 /\u00b0C",
+      "60\u00b0C; 1.85 x 10^-4 /\u00b0C",
+      "30\u00b0C; 1.85 x 10^-3 /\u00b0C",
+      "55\u00b0C; 1.85 x 10^-2 /\u00b0C"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "12 = 1/2 \u03b1 (40-T) * 86400. 4 = 1/2 \u03b1 (T-20) * 86400. Divide: 3 = (40-T)/(T-20). 3T-60 = 40-T. 4T = 100. T = 25\u00b0C. 4 = 0.5 * \u03b1 * 5 * 86400. \u03b1 = 8 / (5*86400) = 1.85e-5.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Thermal Expansion",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q106",
+    "question": "A solid copper sphere (density \u03c1 and specific heat c) of radius r at an initial temperature 200 K is suspended inside a chamber whose walls are at almost 0 K. The time required for the temperature of the sphere to drop to 100 K is:",
+    "options": [
+      "72\u03c1rc/7\u03c3 (100^3)",
+      "7\u03c1rc/72\u03c3 (100^3)",
+      "27\u03c1rc/7\u03c3 (100^3)",
+      "7\u03c1rc/27\u03c3 (100^3)"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "-mc dT/dt = \u03c3 A T^4. - (4/3 \u03c0 r^3 \u03c1 c) dT/dt = \u03c3 (4\u03c0r^2) T^4. - (r \u03c1 c / 3\u03c3) dT/T^4 = dt. Integrate T from 200 to 100. \u222b T^-4 dT = [T^-3 / -3]. -1/3 (100^-3 - 200^-3) = -1/3 (1e-6 - 0.125e-6) = -1/3 (0.875e-6). t = (r\u03c1c/3\u03c3) * (1/3) * (1/100^3 - 1/200^3) = r\u03c1c/9\u03c3 * (7/8 * 10^-6). 7\u03c1rc / 72\u03c3 * 10^-6. Wait. 100^3 = 10^6. So 7\u03c1rc / 72\u03c3 (100^3).",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Radiation",
+      "Calculus in Physics"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q107",
+    "question": "Two rods of same length and transfer a given amount of heat 12 second, when they are joined as shown in figure (i). But when they are joined as shown in figure (ii), then they will transfer same heat in same conditions in:",
+    "options": [
+      "24 s",
+      "13 s",
+      "15 s",
+      "48 s"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Fig (i) parallel? Fig (ii) series? Assuming (i) is parallel (faster) and (ii) is series (slower). R_p = R/2. R_s = 2R. Time t \u221d R. t_s / t_p = R_s / R_p = 4. t_s = 4 * 12 = 48 s.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Heat Transfer",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q108",
+    "question": "2 kg of ice at -20\u00b0C is mixed with 5 kg of water at 20\u00b0C in an insulating vessel having a negligible heat capacity. Calculate the final mass of water remaining in the container. (Specific heat of ice = 0.5 kcal/kg\u00b0C, Latent heat = 80 kcal/kg)",
+    "options": [
+      "7 kg",
+      "6 kg",
+      "4 kg",
+      "2 kg"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Heat to bring ice to 0: 2 * 0.5 * 20 = 20 kcal. Heat available from water to 0: 5 * 1 * 20 = 100 kcal. Remaining heat = 80 kcal. Ice melted = 80 / 80 = 1 kg. Total water = 5 + 1 = 6 kg.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Calorimetry",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q109",
+    "question": "A sphere of radius R, density \u03c1 and specific heat s is heated to temperature T and is allowed to cool in an enclosure at temperature T0. The rate of fall of temperature is proportional to:",
+    "options": [
+      "1/R",
+      "R",
+      "R^2",
+      "1/R^2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Rate \u221d A/V \u221d R^2/R^3 \u221d 1/R.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Newton's Law of Cooling"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q110",
+    "question": "A 10 kW drilling machine is used to drill a bore in a small aluminium block of mass 8.0 kg. How much is the rise in temperature of the block in 2.5 minutes, assuming 50% of power is used up in heating the machine itself or lost to the surroundings. Specific heat of aluminium = 0.91 J/g K.",
+    "options": [
+      "103\u00b0C",
+      "50\u00b0C",
+      "206\u00b0C",
+      "150\u00b0C"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "P = 5000 W. t = 150 s. Q = 750000 J. Q = mc\u0394T. 750000 = 8000 * 0.91 * \u0394T. \u0394T = 750 / (8 * 0.91) = 750 / 7.28 = 103\u00b0C.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Calorimetry",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q111",
+    "question": "A copper block of mass 2.5 kg is heated in a furnace to a temperature of 500\u00b0C and then placed on a large ice block. What is the maximum amount of ice that can melt? (Specific heat of copper = 0.39 J/g K, heat of fusion of water = 335 J/g).",
+    "options": [
+      "1.5 kg",
+      "1.2 kg",
+      "2.9 kg",
+      "0.58 kg"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Q = mc\u0394T = 2500 * 0.39 * 500 = 487500 J. m_ice = Q/L = 487500 / 335 = 1455 g = 1.455 kg \u2248 1.5 kg.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Calorimetry",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q112",
+    "question": "In an experiment on the specific heat of a metal, a 0.20 kg block of the metal at 150\u00b0C is dropped in a copper calorimeter (of water equivalent 0.025 kg) containing 150 cm^3 of water at 27\u00b0C. The final temperature is 40\u00b0C. Compute the specific heat of the metal.",
+    "options": [
+      "0.43 J/g K",
+      "0.86 J/g K",
+      "0.21 J/g K",
+      "0.10 J/g K"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Heat lost = 0.2 * s * (150-40) = 22s. Heat gained = (0.15 + 0.025) * 4200 * (40-27) = 0.175 * 4200 * 13 = 9555 J. s = 9555/22 = 434 J/kg K = 0.43 J/g K.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Calorimetry",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q113",
+    "question": "A large steel wheel is to be fitted on to a shaft of the same material. At 27\u00b0C, the outer diameter of the shaft is 8.70 cm and the diameter of the central hole in the wheel is 8.69 cm. The shaft is cooled using 'dry ice'. At what temperature of the shaft does the wheel slip on the shaft? (\u03b1 = 1.20 x 10^-5 K^-1)",
+    "options": [
+      "-69\u00b0C",
+      "-42\u00b0C",
+      "0\u00b0C",
+      "-10\u00b0C"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "d2 = d1(1+\u03b1\u0394T). 8.69 = 8.70(1 + 1.2e-5 \u0394T). -0.01 = 8.7 * 1.2e-5 \u0394T. \u0394T = -0.01 / 1.044e-4 = -95.8. T = 27 - 95.8 = -68.8 \u2248 -69\u00b0C.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Thermal Expansion",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q114",
+    "question": "A 50 g lead bullet (specific heat 0.02 cal/g\u00b0C) is at 30\u00b0C. It is fired vertically upwards with a speed of 840 m/s. On returning to the starting level, it strikes a cake of ice at 0\u00b0C. How much ice is melted? (Assume all energy is spent in melting only, L = 80 cal/g, J = 4.2 J/cal)",
+    "options": [
+      "52.8 g",
+      "100 g",
+      "26.4 g",
+      "10 g"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "KE = 1/2 m v^2 = 0.5 * 0.05 * 840^2 = 17640 J. Heat from bullet cooling to 0 = 50 * 0.02 * 30 = 30 cal = 126 J. Total energy = 17766 J = 4230 cal. m_ice = 4230/80 = 52.8 g.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Calorimetry",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q115",
+    "question": "A black body radiates power P at temperature T. If the temperature is doubled and radius is halved then power radiated will be:",
+    "options": [
+      "4P",
+      "2P",
+      "16P",
+      "P"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "P \u221d R^2 T^4. P' \u221d (R/2)^2 (2T)^4 = (1/4) * 16 * P = 4P.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Radiation",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q116",
+    "question": "Two stars emit maximum radiation at wavelength 3600 \u00c5 and 4800 \u00c5 respectively. The ratio of their temperatures is:",
+    "options": [
+      "4:3",
+      "3:4",
+      "16:9",
+      "9:16"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "T1/T2 = \u03bb2/\u03bb1 = 4800/3600 = 4/3.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Radiation",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q117",
+    "question": "A surveyor's 30 m steel tape is correct at 20\u00b0C. The distance between two points, as measured by this tape at 35\u00b0C, is 26 m. What is the true distance between the points? (\u03b1 = 1.2 x 10^-5 /\u00b0C)",
+    "options": [
+      "26.0047 m",
+      "25.9953 m",
+      "26.0150 m",
+      "26.0000 m"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "True value = Measured value (1 + \u03b1\u0394T). L = 26 (1 + 1.2e-5 * 15) = 26 (1 + 1.8e-4) = 26.00468 m.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Thermal Expansion",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q118",
+    "question": "The specific heat of a solid at low temperature varies with absolute temperature T as S = aT^3, where a is a constant. The heat energy required to raise the temperature of a mass m of such a solid from T = 0 to T = 20 K is:",
+    "options": [
+      "4 x 10^4 ma",
+      "2 x 10^4 ma",
+      "8 x 10^4 ma",
+      "16 x 10^4 ma"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Q = \u222b m S dT = m \u222b aT^3 dT = m a [T^4/4] from 0 to 20. = ma/4 * (20^4) = ma/4 * 160000 = 40000 ma = 4e4 ma.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Calorimetry",
+      "Calculus in Physics"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q119",
+    "question": "Three rods of same dimensions have thermal conductivities 3K, 2K and K. They are arranged in a Y-shape, with their outer ends at 100\u00b0C, 50\u00b0C and 0\u00b0C respectively. The temperature of the junction is:",
+    "options": [
+      "66.7\u00b0C",
+      "50\u00b0C",
+      "75\u00b0C",
+      "33.3\u00b0C"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "\u03a3 (T_i - T_j) / R_i = 0. (100-T)3K + (50-T)2K + (0-T)K = 0. 300-3T + 100-2T -T = 0. 400 = 6T. T = 400/6 = 66.67\u00b0C.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Heat Transfer",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_thermal_q120",
+    "question": "Two rods of different materials having coefficients of thermal expansion \u03b11, \u03b12 and Young's moduli Y1, Y2 respectively are fixed between two rigid massive walls. The rods are heated such that they undergo the same increase in temperature. There is no bending of the rods. If \u03b11/\u03b12 = 2/3, the thermal stresses developed in the two rods are equal provided Y1/Y2 is equal to:",
+    "options": [
+      "3/2",
+      "2/3",
+      "1",
+      "4/9"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Stress = Y\u03b1\u0394T. Y1\u03b11 = Y2\u03b12. Y1/Y2 = \u03b12/\u03b11 = 3/2.",
+    "subject": "Physics",
+    "chapter": "Thermal Properties of Matter",
+    "tags": [
+      "Thermal Stress",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "thermal_properties_of_matter",
+    "subjectId": "physics"
+  }
+]

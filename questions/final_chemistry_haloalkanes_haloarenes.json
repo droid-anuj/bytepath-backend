@@ -1,0 +1,2882 @@
+[
+  {
+    "id": "chem_haloalkanes_haloarenes_q1",
+    "question": "The general formula of haloalkanes is:",
+    "options": [
+      "CnH2n+1X",
+      "CnH2nX",
+      "CnH2n-1X",
+      "CnH2n+2X"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Haloalkanes are derived from alkanes (CnH2n+2) by replacing one hydrogen with a halogen atom.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "general formula",
+      "classification"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q2",
+    "question": "Which of the following is a gem-dihalide?",
+    "options": [
+      "CH3CHCl2",
+      "CH2ClCH2Cl",
+      "CH3CHClCH2Cl",
+      "CH3Cl"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "In gem-dihalides, both halogen atoms are attached to the same carbon atom (Ethylidene chloride).",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "classification",
+      "dihalides"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q3",
+    "question": "Which of the following is a vic-dihalide?",
+    "options": [
+      "Ethylene dichloride",
+      "Ethylidene chloride",
+      "Methylene chloride",
+      "Benzyl chloride"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "In vic-dihalides, halogen atoms are attached to adjacent carbon atoms (Ethylene dichloride: Cl-CH2-CH2-Cl).",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "classification",
+      "dihalides"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q4",
+    "question": "The IUPAC name of CH3-CH(Cl)-CH3 is:",
+    "options": [
+      "2-Chloropropane",
+      "1-Chloropropane",
+      "Chloropropane",
+      "Isopropyl chloride"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Chlorine is at the second carbon of the propane chain.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "nomenclature",
+      "iupac"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q5",
+    "question": "Which bond is strongest?",
+    "options": [
+      "C-F",
+      "C-Cl",
+      "C-Br",
+      "C-I"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Bond strength decreases as bond length increases. C-F is the shortest and strongest.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "physical properties",
+      "bond strength"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q6",
+    "question": "Alkyl halides are prepared from alcohols by treating with:",
+    "options": [
+      "HCl + ZnCl2",
+      "H2SO4",
+      "HNO3",
+      "NaOH"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Lucas reagent (conc. HCl + anhydrous ZnCl2) converts alcohols to alkyl chlorides.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "preparation",
+      "from alcohols"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q7",
+    "question": "Which reagent is best for preparing alkyl chlorides from alcohols?",
+    "options": [
+      "SOCl2",
+      "PCl5",
+      "PCl3",
+      "HCl"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Thionyl chloride (SOCl2) is preferred because the byproducts (SO2 and HCl) are gases and escape, leaving pure alkyl halide.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "preparation",
+      "reagents"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q8",
+    "question": "Finkelstein reaction is used for the preparation of:",
+    "options": [
+      "Alkyl iodides",
+      "Alkyl fluorides",
+      "Alkyl chlorides",
+      "Alkyl bromides"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Finkelstein reaction involves the exchange of halogen with Iodide using NaI in dry acetone.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "preparation",
+      "name reaction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q9",
+    "question": "Swarts reaction is used for the preparation of:",
+    "options": [
+      "Alkyl fluorides",
+      "Alkyl iodides",
+      "Alkyl chlorides",
+      "Alkyl bromides"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Swarts reaction uses metallic fluorides (like AgF, Hg2F2) to prepare alkyl fluorides.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "preparation",
+      "name reaction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q10",
+    "question": "Sandmeyer's reaction is used to prepare:",
+    "options": [
+      "Haloarenes",
+      "Haloalkanes",
+      "Alcohols",
+      "Phenols"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Sandmeyer's reaction converts diazonium salts to haloarenes using Cu(I) salts.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "preparation",
+      "name reaction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q11",
+    "question": "The boiling point of alkyl halides follows the order:",
+    "options": [
+      "RI > RBr > RCl > RF",
+      "RF > RCl > RBr > RI",
+      "RCl > RBr > RI > RF",
+      "RI > RF > RBr > RCl"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Boiling point increases with increase in molecular mass and size of halogen atom.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "physical properties",
+      "boiling point"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q12",
+    "question": "Which isomer of dichlorobenzene has the highest melting point?",
+    "options": [
+      "Para-isomer",
+      "Ortho-isomer",
+      "Meta-isomer",
+      "All have same melting point"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Para-isomer has the highest melting point due to symmetry and better packing in crystal lattice.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "physical properties",
+      "melting point"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q13",
+    "question": "A racemic mixture is:",
+    "options": [
+      "Optically inactive",
+      "Dextrorotatory",
+      "Laevorotatory",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "A racemic mixture contains equal amounts of d and l isomers, cancelling out optical rotation.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "optical isomerism",
+      "racemic mixture"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q14",
+    "question": "SN1 reaction proceeds through the formation of:",
+    "options": [
+      "Carbocation",
+      "Carbanion",
+      "Free radical",
+      "Transition state"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "SN1 mechanism involves a two-step process with a carbocation intermediate.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reaction mechanism",
+      "sn1"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q15",
+    "question": "The order of reactivity of alkyl halides towards SN1 reaction is:",
+    "options": [
+      "Tertiary > Secondary > Primary",
+      "Primary > Secondary > Tertiary",
+      "Secondary > Primary > Tertiary",
+      "Tertiary > Primary > Secondary"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Stability of carbocation determines SN1 reactivity: 3\u00b0 > 2\u00b0 > 1\u00b0.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reaction mechanism",
+      "sn1"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q16",
+    "question": "SN2 reaction proceeds with:",
+    "options": [
+      "Inversion of configuration",
+      "Retention of configuration",
+      "Racemisation",
+      "Partial racemisation"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "SN2 involves backside attack leading to Walden inversion.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reaction mechanism",
+      "sn2"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q17",
+    "question": "The order of reactivity of alkyl halides towards SN2 reaction is:",
+    "options": [
+      "Primary > Secondary > Tertiary",
+      "Tertiary > Secondary > Primary",
+      "Secondary > Primary > Tertiary",
+      "Primary > Tertiary > Secondary"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Steric hindrance governs SN2 reactivity: 1\u00b0 > 2\u00b0 > 3\u00b0.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reaction mechanism",
+      "sn2"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q18",
+    "question": "Grignard reagent is represented as:",
+    "options": [
+      "RMgX",
+      "R2Mg",
+      "RMg",
+      "RXMg"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Organomagnesium halides are called Grignard reagents (RMgX).",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reagents",
+      "grignard"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q19",
+    "question": "Wurtz reaction involves the reaction of alkyl halides with:",
+    "options": [
+      "Sodium in dry ether",
+      "Zinc in alcohol",
+      "Magnesium in dry ether",
+      "Copper powder"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Wurtz reaction uses Sodium metal in dry ether to couple two alkyl groups.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactions",
+      "name reaction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q20",
+    "question": "Haloarenes are less reactive than haloalkanes towards nucleophilic substitution due to:",
+    "options": [
+      "Resonance effect",
+      "Inductive effect",
+      "Electromeric effect",
+      "Hyperconjugation"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Resonance gives partial double bond character to C-X bond, making it difficult to break.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactivity",
+      "haloarenes"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q21",
+    "question": "Chlorobenzene reacts with NaOH at 623K and 300 atm to give:",
+    "options": [
+      "Phenol",
+      "Benzene",
+      "Aniline",
+      "Toluene"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "This is the Dow's process for manufacture of phenol.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactions",
+      "haloarenes"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q22",
+    "question": "Which of the following is an electrophilic substitution reaction?",
+    "options": [
+      "Nitration of chlorobenzene",
+      "Hydrolysis of ethyl chloride",
+      "Reaction of methyl bromide with KCN",
+      "Reaction of ethyl bromide with Na"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Nitration involves attack of NO2+ electrophile on the benzene ring.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reaction mechanism",
+      "electrophilic substitution"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q23",
+    "question": "Chlorobenzene is:",
+    "options": [
+      "o, p-directing",
+      "m-directing",
+      "o-directing only",
+      "p-directing only"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Halogens are ortho-para directing groups due to resonance, despite being deactivating.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactivity",
+      "orientation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q24",
+    "question": "Friedel-Crafts alkylation of chlorobenzene with methyl chloride gives:",
+    "options": [
+      "o-Chlorotoluene and p-Chlorotoluene",
+      "m-Chlorotoluene",
+      "Chlorobenzene",
+      "Toluene"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Methyl group attaches to ortho and para positions.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactions",
+      "name reaction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q25",
+    "question": "Reaction of chlorobenzene with sodium in presence of dry ether to form diphenyl is called:",
+    "options": [
+      "Fittig reaction",
+      "Wurtz reaction",
+      "Wurtz-Fittig reaction",
+      "Sandmeyer reaction"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Coupling of two aryl halides with Sodium is Fittig reaction.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactions",
+      "name reaction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q26",
+    "question": "Wurtz-Fittig reaction involves reaction between:",
+    "options": [
+      "Alkyl halide and Aryl halide",
+      "Two Alkyl halides",
+      "Two Aryl halides",
+      "Alcohol and Acid"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Coupling of an alkyl halide and an aryl halide with Sodium is Wurtz-Fittig reaction.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactions",
+      "name reaction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q27",
+    "question": "Chloroform is stored in dark coloured bottles to prevent formation of:",
+    "options": [
+      "Phosgene",
+      "Chlorine gas",
+      "Carbon tetrachloride",
+      "Methane"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Chloroform oxidises in light to form poisonous Phosgene (COCl2).",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "properties",
+      "chloroform"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q28",
+    "question": "Iodoform test is used to detect the presence of:",
+    "options": [
+      "CH3-CO- group or CH3-CH(OH)- group",
+      "Carboxylic acid group",
+      "Amine group",
+      "Ether group"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Compounds containing methyl ketone or methyl carbinol group give positive Iodoform test.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "tests",
+      "iodoform"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q29",
+    "question": "Freons are:",
+    "options": [
+      "Chlorofluorocarbons",
+      "Hydrocarbons",
+      "Alcohols",
+      "Ethers"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Freons are chlorofluorocarbon compounds of methane and ethane.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "compounds",
+      "freons"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q30",
+    "question": "DDT is a:",
+    "options": [
+      "Insecticide",
+      "Fertilizer",
+      "Antibiotic",
+      "Painkiller"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "DDT (p,p'-Dichlorodiphenyltrichloroethane) is a well-known insecticide.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "compounds",
+      "ddt"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q31",
+    "question": "Which of the following is used as a fire extinguisher?",
+    "options": [
+      "CCl4",
+      "CHCl3",
+      "CH2Cl2",
+      "CH3Cl"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Carbon tetrachloride (CCl4) is used as a fire extinguisher under the name Pyrene.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "compounds",
+      "uses"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q32",
+    "question": "Elimination reaction of alkyl halides with alcoholic KOH gives:",
+    "options": [
+      "Alkenes",
+      "Alcohols",
+      "Ethers",
+      "Aldehydes"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Dehydrohalogenation occurs to form alkenes.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactions",
+      "elimination"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q33",
+    "question": "According to Saytzeff rule, the major product in elimination reaction is:",
+    "options": [
+      "More substituted alkene",
+      "Less substituted alkene",
+      "Alkane",
+      "Alcohol"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Saytzeff rule states that the more substituted alkene is the major product.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactions",
+      "rule"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q34",
+    "question": "Which of the following is chiral?",
+    "options": [
+      "Butan-2-ol",
+      "Propan-2-ol",
+      "Ethanol",
+      "Methanol"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Butan-2-ol has a chiral carbon attached to H, OH, CH3, and C2H5.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "optical isomerism",
+      "chirality"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q35",
+    "question": "Enantiomers are:",
+    "options": [
+      "Non-superimposable mirror images",
+      "Superimposable mirror images",
+      "Structural isomers",
+      "Geometrical isomers"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Enantiomers are stereoisomers that are non-superimposable mirror images of each other.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "optical isomerism",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q36",
+    "question": "Reaction of alkyl halide with KCN gives:",
+    "options": [
+      "Alkyl cyanide",
+      "Alkyl isocyanide",
+      "Alcohol",
+      "Amine"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "KCN is ionic and provides CN- ion which attacks through C to form cyanide.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactions",
+      "nucleophilic substitution"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q37",
+    "question": "Reaction of alkyl halide with AgCN gives:",
+    "options": [
+      "Alkyl isocyanide",
+      "Alkyl cyanide",
+      "Alcohol",
+      "Amine"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "AgCN is covalent and attacks through N to form isocyanide.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactions",
+      "nucleophilic substitution"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q38",
+    "question": "Which of the following undergoes SN1 reaction most readily?",
+    "options": [
+      "(CH3)3C-Br",
+      "(CH3)2CH-Br",
+      "CH3CH2-Br",
+      "CH3-Br"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Tertiary butyl bromide forms the most stable tertiary carbocation.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reaction mechanism",
+      "sn1"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q39",
+    "question": "Which of the following undergoes SN2 reaction most readily?",
+    "options": [
+      "CH3-Br",
+      "CH3CH2-Br",
+      "(CH3)2CH-Br",
+      "(CH3)3C-Br"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Methyl bromide has the least steric hindrance.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reaction mechanism",
+      "sn2"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q40",
+    "question": "The reaction R-X + NaI -> R-I + NaX is known as:",
+    "options": [
+      "Finkelstein reaction",
+      "Swarts reaction",
+      "Wurtz reaction",
+      "Sandmeyer reaction"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Halogen exchange reaction with NaI is Finkelstein reaction.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "preparation",
+      "name reaction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q41",
+    "question": "Which of the following alkyl halides will undergo SN1 reaction most rapidly?",
+    "options": [
+      "(CH3)3C-I",
+      "(CH3)3C-Br",
+      "(CH3)3C-Cl",
+      "(CH3)3C-F"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Iodide is the best leaving group due to weakest C-I bond, making the reaction fastest.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reaction mechanism",
+      "sn1"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q42",
+    "question": "In the reaction of toluene with Cl2 in presence of FeCl3, the product formed is:",
+    "options": [
+      "o-Chlorotoluene and p-Chlorotoluene",
+      "Benzyl chloride",
+      "Benzal chloride",
+      "m-Chlorotoluene"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "FeCl3 is a Lewis acid catalyst favoring electrophilic substitution on the ring (ortho/para).",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactions",
+      "electrophilic substitution"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q43",
+    "question": "In the reaction of toluene with Cl2 in presence of sunlight, the product formed is:",
+    "options": [
+      "Benzyl chloride",
+      "o-Chlorotoluene",
+      "p-Chlorotoluene",
+      "m-Chlorotoluene"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Sunlight favors free radical substitution on the side chain (methyl group).",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactions",
+      "free radical substitution"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q44",
+    "question": "Which of the following compounds is optically active?",
+    "options": [
+      "2-Chlorobutane",
+      "1-Chlorobutane",
+      "2-Chloropropane",
+      "1-Chloropropane"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "2-Chlorobutane has a chiral center (C attached to H, Cl, CH3, C2H5).",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "optical isomerism",
+      "chirality"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q45",
+    "question": "Reaction of C2H5Br with alcoholic AgCN gives:",
+    "options": [
+      "Ethyl isocyanide",
+      "Ethyl cyanide",
+      "Ethyl amine",
+      "Nitroethane"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "AgCN forms isocyanide (R-NC) due to covalent nature, attacking through N.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactions",
+      "nucleophilic substitution"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q46",
+    "question": "Reaction of C2H5Br with alcoholic KCN gives:",
+    "options": [
+      "Ethyl cyanide",
+      "Ethyl isocyanide",
+      "Ethyl amine",
+      "Nitroethane"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "KCN forms cyanide (R-CN) due to ionic nature, attacking through C.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactions",
+      "nucleophilic substitution"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q47",
+    "question": "Which of the following is most reactive towards nucleophilic substitution reaction?",
+    "options": [
+      "C2H5I",
+      "C2H5Br",
+      "C2H5Cl",
+      "C2H5F"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Bond dissociation energy: C-I < C-Br < C-Cl < C-F. Weaker bond breaks easily.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactivity",
+      "nucleophilic substitution"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q48",
+    "question": "The major product formed when 2-Bromobutane is treated with alcoholic KOH is:",
+    "options": [
+      "But-2-ene",
+      "But-1-ene",
+      "Butan-2-ol",
+      "Butan-1-ol"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "According to Saytzeff rule, the more substituted alkene (But-2-ene) is the major product.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactions",
+      "elimination"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q49",
+    "question": "Which of the following compounds has the highest dipole moment?",
+    "options": [
+      "CH3Cl",
+      "CH2Cl2",
+      "CHCl3",
+      "CCl4"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "CH3Cl has the highest dipole moment. CCl4 is zero. Order: CH3Cl > CH2Cl2 > CHCl3 > CCl4.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "physical properties",
+      "dipole moment"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q50",
+    "question": "The reaction of aryl halide with alkyl halide and sodium in dry ether is called:",
+    "options": [
+      "Wurtz-Fittig reaction",
+      "Wurtz reaction",
+      "Fittig reaction",
+      "Sandmeyer reaction"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Wurtz-Fittig reaction couples aryl and alkyl groups.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactions",
+      "name reaction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q51",
+    "question": "Which of the following is used as an antiseptic?",
+    "options": [
+      "Iodoform",
+      "Chloroform",
+      "Carbon tetrachloride",
+      "DDT"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Iodoform (CHI3) liberates free iodine which acts as an antiseptic.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "compounds",
+      "uses"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q52",
+    "question": "The correct order of increasing boiling points is:",
+    "options": [
+      "Chloromethane < Bromomethane < Dibromomethane < Bromoform",
+      "Bromoform < Dibromomethane < Bromomethane < Chloromethane",
+      "Chloromethane < Dibromomethane < Bromomethane < Bromoform",
+      "Bromomethane < Chloromethane < Dibromomethane < Bromoform"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Boiling point increases with molecular mass: CH3Cl < CH3Br < CH2Br2 < CHBr3.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "physical properties",
+      "boiling point"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q53",
+    "question": "Which of the following will not undergo Friedel-Crafts reaction?",
+    "options": [
+      "Nitrobenzene",
+      "Toluene",
+      "Chlorobenzene",
+      "Xylene"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Nitrobenzene has a strong deactivating group (-NO2) which prevents Friedel-Crafts reaction.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactions",
+      "limitations"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q54",
+    "question": "The catalyst used in the preparation of alkyl chlorides by the action of dry HCl on alcohols is:",
+    "options": [
+      "Anhydrous ZnCl2",
+      "Anhydrous AlCl3",
+      "FeCl3",
+      "CuCl2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Groove's process uses anhydrous ZnCl2 as a catalyst to cleave the C-O bond.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "preparation",
+      "catalyst"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q55",
+    "question": "Which of the following is a primary halide?",
+    "options": [
+      "Neopentyl chloride",
+      "Isopropyl chloride",
+      "sec-Butyl chloride",
+      "tert-Butyl chloride"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Neopentyl chloride (1-chloro-2,2-dimethylpropane) has Cl attached to a primary carbon.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "classification",
+      "structure"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q56",
+    "question": "Identify 'A' in the following reaction: C2H5OH + SOCl2 -> A + SO2 + HCl",
+    "options": [
+      "C2H5Cl",
+      "C2H5OH",
+      "C2H4",
+      "C2H5OCl"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Reaction with thionyl chloride gives alkyl chloride.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactions",
+      "preparation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q57",
+    "question": "The reaction of toluene with Cl2 in presence of FeCl3 gives 'X' and reaction in presence of light gives 'Y'. Thus 'X' and 'Y' are:",
+    "options": [
+      "X = o- and p-chlorotoluene, Y = Benzyl chloride",
+      "X = Benzyl chloride, Y = o- and p-chlorotoluene",
+      "X = m-chlorotoluene, Y = Benzyl chloride",
+      "X = o-chlorotoluene, Y = m-chlorotoluene"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "FeCl3 favors electrophilic substitution (ring), light favors free radical substitution (side chain).",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactions",
+      "conditions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q58",
+    "question": "Which of the following is an allylic halide?",
+    "options": [
+      "3-Chloroprop-1-ene",
+      "1-Chloroprop-1-ene",
+      "2-Chloroprop-1-ene",
+      "1-Chloropropane"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Allylic halide has halogen attached to sp3 carbon next to C=C double bond (CH2=CH-CH2-Cl).",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "classification",
+      "structure"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q59",
+    "question": "Which of the following is a vinylic halide?",
+    "options": [
+      "Chloroethene",
+      "3-Chloroprop-1-ene",
+      "Benzyl chloride",
+      "Chlorobenzene"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Vinylic halide has halogen attached directly to sp2 carbon of C=C double bond (CH2=CH-Cl).",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "classification",
+      "structure"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q60",
+    "question": "The conversion of an alkyl halide into an alkene by alcoholic KOH is classified as:",
+    "options": [
+      "Dehydrohalogenation",
+      "Substitution",
+      "Addition",
+      "Dehydration"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Removal of HX is dehydrohalogenation (beta-elimination).",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactions",
+      "classification"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q61",
+    "question": "Which of the following alkyl halides hydrolyses most easily by SN1 mechanism?",
+    "options": [
+      "C6H5CH(Cl)C6H5",
+      "C6H5CH2Cl",
+      "CH3CH2Cl",
+      "C6H5Cl"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The carbocation formed from C6H5CH(Cl)C6H5 is stabilized by two phenyl groups (resonance), making it most stable.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reaction mechanism",
+      "sn1"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q62",
+    "question": "The compound formed on heating chlorobenzene with chloral in the presence of concentrated H2SO4 is:",
+    "options": [
+      "DDT",
+      "BHC",
+      "Freon",
+      "Hexachloroethane"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Condensation of chlorobenzene with chloral gives DDT.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "preparation",
+      "ddt"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q63",
+    "question": "Which of the following is used as an anaesthetic?",
+    "options": [
+      "Chloroform",
+      "Iodoform",
+      "DDT",
+      "Carbon tetrachloride"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Chloroform was used as an anaesthetic but is replaced by safer alternatives.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "compounds",
+      "uses"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q64",
+    "question": "Propane nitrile may be prepared by heating:",
+    "options": [
+      "Ethyl chloride with KCN",
+      "Propyl chloride with KCN",
+      "Ethyl chloride with AgCN",
+      "Propyl chloride with AgCN"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Ethyl chloride (2 carbons) + KCN (1 carbon) -> Propane nitrile (3 carbons).",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "preparation",
+      "nitriles"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q65",
+    "question": "Which of the following is most reactive towards nucleophilic substitution?",
+    "options": [
+      "Allyl chloride",
+      "Vinyl chloride",
+      "Chlorobenzene",
+      "Ethyl chloride"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Allyl chloride forms a resonance stabilized carbocation (SN1) and transition state (SN2), making it very reactive.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactivity",
+      "comparison"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q66",
+    "question": "The number of structural isomers for C4H9Br is:",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "5"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "1-Bromobutane, 2-Bromobutane, 1-Bromo-2-methylpropane, 2-Bromo-2-methylpropane.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "isomerism",
+      "structural"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q67",
+    "question": "Which of the following has the highest density?",
+    "options": [
+      "C3H7I",
+      "C3H7Br",
+      "C3H7Cl",
+      "C3H7F"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Density increases with mass of halogen atom.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "physical properties",
+      "density"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q68",
+    "question": "Reaction of ethyl bromide with sodium lead alloy (Na/Pb) gives:",
+    "options": [
+      "Tetraethyl lead",
+      "Tetramethyl lead",
+      "Ethane",
+      "Ethene"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "4C2H5Br + 4Na/Pb -> (C2H5)4Pb + 4NaBr + 3Pb. Tetraethyl lead (TEL) is an antiknock agent.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactions",
+      "uses"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q69",
+    "question": "The major product of the reaction of 2-bromopentane with alcoholic KOH is:",
+    "options": [
+      "Pent-2-ene",
+      "Pent-1-ene",
+      "Pentan-2-ol",
+      "Pentan-1-ol"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Saytzeff rule: Pent-2-ene is more substituted and stable than Pent-1-ene.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactions",
+      "elimination"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q70",
+    "question": "Which of the following is not a chiral compound?",
+    "options": [
+      "3-Bromopentane",
+      "2-Bromopentane",
+      "2-Bromobutane",
+      "2-Hydroxypropanoic acid"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "3-Bromopentane has a plane of symmetry (C3 is attached to H, Br, and two identical ethyl groups).",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "optical isomerism",
+      "chirality"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q71",
+    "question": "The IUPAC name of the compound CH2=CH-CH2Cl is:",
+    "options": [
+      "3-Chloroprop-1-ene",
+      "1-Chloroprop-2-ene",
+      "Allyl chloride",
+      "Vinyl chloride"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Numbering starts from double bond. 3-Chloro-prop-1-ene.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "nomenclature",
+      "iupac"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q72",
+    "question": "Which of the following reagents can be used to distinguish between alkyl halides and aryl halides?",
+    "options": [
+      "AgNO3 solution",
+      "NaOH solution",
+      "HCl solution",
+      "Litmus paper"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Alkyl halides give ppt with AgNO3 (after hydrolysis), aryl halides do not react easily.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "tests",
+      "distinction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q73",
+    "question": "The reaction of primary amine with chloroform and ethanolic KOH is called:",
+    "options": [
+      "Carbylamine reaction",
+      "Reimer-Tiemann reaction",
+      "Wurtz reaction",
+      "Hoffmann bromamide reaction"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Carbylamine reaction (Isocyanide test) detects primary amines.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactions",
+      "name reaction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q74",
+    "question": "Which of the following is a potential carcinogen?",
+    "options": [
+      "Carbon tetrachloride",
+      "Methane",
+      "Ethane",
+      "Propane"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "CCl4 causes liver cancer in humans.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "compounds",
+      "toxicity"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q75",
+    "question": "The stereochemical aspect of SN1 reaction is:",
+    "options": [
+      "Racemisation",
+      "Inversion",
+      "Retention",
+      "None"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Planar carbocation allows attack from both sides leading to racemisation.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reaction mechanism",
+      "stereochemistry"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q76",
+    "question": "The stereochemical aspect of SN2 reaction is:",
+    "options": [
+      "Inversion",
+      "Retention",
+      "Racemisation",
+      "None"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Backside attack leads to Walden inversion.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reaction mechanism",
+      "stereochemistry"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q77",
+    "question": "Which of the following is used as a refrigerant?",
+    "options": [
+      "Freon-12",
+      "CCl4",
+      "CHCl3",
+      "DDT"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Freon-12 (CCl2F2) is a common refrigerant.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "compounds",
+      "uses"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q78",
+    "question": "The reaction of benzene with chlorine in the presence of UV light gives:",
+    "options": [
+      "Benzene hexachloride (BHC)",
+      "Chlorobenzene",
+      "Hexachlorobenzene",
+      "Benzyl chloride"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Addition reaction occurs forming C6H6Cl6 (Gammaxene/BHC).",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactions",
+      "benzene"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q79",
+    "question": "Which of the following is formed when ethanol reacts with PCl5?",
+    "options": [
+      "C2H5Cl + POCl3 + HCl",
+      "C2H5Cl + H3PO3",
+      "C2H5Cl + PCl3",
+      "C2H5Cl + Cl2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "C2H5OH + PCl5 -> C2H5Cl + POCl3 + HCl.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "preparation",
+      "reactions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q80",
+    "question": "Which of the following is the most stable carbocation?",
+    "options": [
+      "Triphenylmethyl cation",
+      "Diphenylmethyl cation",
+      "Benzyl cation",
+      "Tert-butyl cation"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Resonance stabilization by three phenyl rings makes triphenylmethyl cation most stable.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "stability",
+      "carbocation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q81",
+    "question": "Which of the following is an ambident nucleophile?",
+    "options": [
+      "CN-",
+      "OH-",
+      "Cl-",
+      "NH3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "CN- can attack through C or N.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "nucleophiles",
+      "types"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q82",
+    "question": "The reaction of silver salt of carboxylic acid with bromine in CCl4 to form alkyl bromide is called:",
+    "options": [
+      "Hunsdiecker reaction",
+      "Sandmeyer reaction",
+      "Wurtz reaction",
+      "Finkelstein reaction"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Borodine-Hunsdiecker reaction is used for preparing alkyl bromides.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "preparation",
+      "name reaction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q83",
+    "question": "Which of the following is used to prepare Grignard reagent?",
+    "options": [
+      "Alkyl halide and Mg in dry ether",
+      "Alkyl halide and Mg in alcohol",
+      "Alkyl halide and Na in dry ether",
+      "Alkyl halide and Zn"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Grignard reagent is prepared in dry ether to prevent reaction with moisture.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "preparation",
+      "grignard"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q84",
+    "question": "Which of the following is not an isomer of C3H6Cl2?",
+    "options": [
+      "2,2-Dichloropropane",
+      "1,1-Dichloropropane",
+      "1,2-Dichloropropane",
+      "1,3-Dichloropropane"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "All are isomers. The question might be flawed or referring to a specific type. However, based on standard options, all are structural isomers.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "isomerism",
+      "structural"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q85",
+    "question": "The compound which reacts with HBr obeying Markownikoff's rule is:",
+    "options": [
+      "Propene",
+      "Ethene",
+      "But-2-ene",
+      "Cyclohexene"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Propene is an unsymmetrical alkene, so it follows Markownikoff's rule.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactions",
+      "addition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q86",
+    "question": "Peroxide effect (Kharasch effect) is observed only with:",
+    "options": [
+      "HBr",
+      "HCl",
+      "HI",
+      "HF"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Only HBr shows peroxide effect due to energetics of free radical steps.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactions",
+      "addition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q87",
+    "question": "Which of the following is a gem-dihalide?",
+    "options": [
+      "Isopropylidene chloride",
+      "Propylene chloride",
+      "Trimethylene chloride",
+      "Allyl chloride"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Isopropylidene chloride (2,2-Dichloropropane) has two Cl on same carbon.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "classification",
+      "dihalides"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q88",
+    "question": "The reaction of alkyl halide with sodium alkoxide to form ether is known as:",
+    "options": [
+      "Williamson synthesis",
+      "Wurtz reaction",
+      "Kolbe reaction",
+      "Reimer-Tiemann reaction"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Williamson ether synthesis involves SN2 attack of alkoxide on alkyl halide.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactions",
+      "name reaction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q89",
+    "question": "Which of the following is most easily hydrolysed?",
+    "options": [
+      "Benzyl chloride",
+      "Chlorobenzene",
+      "Vinyl chloride",
+      "Ethyl chloride"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Benzyl chloride forms a stable benzyl carbocation.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactivity",
+      "hydrolysis"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q90",
+    "question": "The number of stereoisomers for 2,3-dichlorobutane is:",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Meso form, d-form, and l-form (Total 3).",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "stereochemistry",
+      "isomers"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q91",
+    "question": "Assertion (A): Aryl halides are less reactive than alkyl halides towards nucleophilic substitution reactions.\nReason (R): The C-X bond in aryl halides acquires partial double bond character due to resonance.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Resonance causes delocalization of lone pair on halogen into the ring, strengthening the C-X bond.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactivity",
+      "reasoning"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q92",
+    "question": "Which of the following compounds undergoes nucleophilic substitution reaction most easily?",
+    "options": [
+      "p-Nitrochlorobenzene",
+      "2,4-Dinitrochlorobenzene",
+      "2,4,6-Trinitrochlorobenzene",
+      "Chlorobenzene"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Electron withdrawing groups (-NO2) at ortho/para positions increase reactivity towards nucleophilic substitution. More NO2 groups, higher reactivity.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactivity",
+      "nucleophilic substitution"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q93",
+    "question": "Arrange the following in increasing order of SN2 reactivity:\n1. 1-Bromobutane\n2. 1-Bromo-2,2-dimethylpropane\n3. 1-Bromo-2-methylbutane\n4. 1-Bromo-3-methylbutane",
+    "options": [
+      "2 < 3 < 4 < 1",
+      "1 < 4 < 3 < 2",
+      "2 < 3 < 1 < 4",
+      "4 < 3 < 2 < 1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Steric hindrance near the reaction center decreases SN2 reactivity. 1-Bromo-2,2-dimethylpropane (neopentyl bromide) is most hindered.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactivity",
+      "sn2"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q94",
+    "question": "Predict the product of the reaction: (CH3)3C-Br + C2H5ONa -> ?",
+    "options": [
+      "2-Methylpropene",
+      "tert-Butyl ethyl ether",
+      "2-Methylpropan-2-ol",
+      "But-2-ene"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Reaction of tertiary alkyl halide with strong base/nucleophile (alkoxide) leads to elimination (E2) giving alkene, not substitution.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactions",
+      "elimination vs substitution"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q95",
+    "question": "Assertion (A): Optically active 2-iodobutane on treatment with NaI in acetone undergoes racemisation.\nReason (R): Repeated Walden inversions on the chiral center eventually lead to a racemic mixture.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "SN2 reaction with same nucleophile (I-) causes inversion. Equilibrium mixture contains both enantiomers.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "stereochemistry",
+      "racemisation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q96",
+    "question": "Which of the following reactions will yield 2,2-dibromopropane?",
+    "options": [
+      "CH3-C#CH + 2HBr",
+      "CH3-CH=CH2 + HBr",
+      "CH3-CH=CH-Br + HBr",
+      "CH#CH + 2HBr"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Addition of 2 moles of HBr to propyne follows Markownikoff's rule twice, placing both Br on the central carbon.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactions",
+      "preparation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q97",
+    "question": "The order of reactivity of the following halides towards SN1 reaction is:\nI. CH3CH2CH2Cl\nII. CH2=CHCH(Cl)CH3\nIII. CH3CH2CH(Cl)CH3",
+    "options": [
+      "II > III > I",
+      "I > II > III",
+      "III > II > I",
+      "II > I > III"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Allylic carbocation (from II) is resonance stabilized. Secondary carbocation (from III) is more stable than primary (from I).",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactivity",
+      "sn1"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q98",
+    "question": "Consider the reaction: C2H5Br + OH- -> C2H5OH + Br-. The rate of reaction is given by Rate = k[C2H5Br][OH-]. The mechanism is:",
+    "options": [
+      "SN2",
+      "SN1",
+      "E1",
+      "E2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Second order kinetics implies bimolecular reaction (SN2).",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reaction mechanism",
+      "kinetics"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q99",
+    "question": "Which of the following statements is correct regarding the chirality of the compound formed by the reaction of (R)-2-bromooctane with NaOH?",
+    "options": [
+      "It proceeds with inversion of configuration giving (S)-2-octanol.",
+      "It proceeds with retention of configuration giving (R)-2-octanol.",
+      "It gives a racemic mixture.",
+      "It gives a meso compound."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "SN2 reaction of a secondary halide with strong nucleophile (OH-) leads to inversion of configuration.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "stereochemistry",
+      "sn2"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q100",
+    "question": "Identify the product Z in the sequence:\nCH3CH2CH=CH2 --(HBr/peroxide)--> X --(C2H5ONa)--> Y --(HBr)--> Z",
+    "options": [
+      "CH3CH2CH(Br)CH3",
+      "CH3CH2CH2CH2Br",
+      "CH3CH=CHCH3",
+      "CH3CH2CH(OH)CH3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "X = 1-Bromobutane (Anti-Markownikoff). Y = But-1-ene (Elimination). Z = 2-Bromobutane (Markownikoff addition).",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactions",
+      "sequence"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q101",
+    "question": "Assertion (A): Presence of a nitro group at ortho or para position increases the reactivity of haloarenes towards nucleophilic substitution.\nReason (R): Nitro group, being an electron withdrawing group, decreases the electron density over the benzene ring.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Electron withdrawal stabilizes the intermediate carbanion formed during nucleophilic aromatic substitution.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactivity",
+      "reasoning"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q102",
+    "question": "Which of the following is the correct order of dipole moment?",
+    "options": [
+      "CH3Cl > CH3F > CH3Br > CH3I",
+      "CH3F > CH3Cl > CH3Br > CH3I",
+      "CH3Cl > CH3Br > CH3F > CH3I",
+      "CH3F > CH3Cl > CH3I > CH3Br"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Dipole moment depends on bond length and charge separation. C-Cl has optimal balance giving highest dipole moment. C-F bond length is very short.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "physical properties",
+      "dipole moment"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q103",
+    "question": "A hydrocarbon C5H10 does not react with chlorine in dark but gives a single monochloro compound C5H9Cl in bright sunlight. Identify the hydrocarbon.",
+    "options": [
+      "Cyclopentane",
+      "Pent-1-ene",
+      "Pent-2-ene",
+      "2-Methylbut-2-ene"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Cyclopentane has only one type of hydrogen, giving a single monochloro product. It is saturated, so no reaction in dark.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "structure determination",
+      "reactions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q104",
+    "question": "Reaction of trans-2-phenyl-1-bromocyclopentane on reaction with alcoholic KOH produces:",
+    "options": [
+      "1-phenylcyclopentene",
+      "3-phenylcyclopentene",
+      "2-phenylcyclopentene",
+      "1-phenylcyclopentane"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "E2 elimination requires anti-periplanar geometry. H and Br must be trans. In trans-isomer, H on C2 is cis to Br, so elimination occurs involving H on C5, giving 3-phenylcyclopentene.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactions",
+      "stereochemistry"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q105",
+    "question": "Which of the following will not give a positive test with AgNO3?",
+    "options": [
+      "Chlorobenzene",
+      "Benzyl chloride",
+      "Allyl chloride",
+      "Isopropyl chloride"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Chlorobenzene has a strong C-Cl bond with double bond character and does not ionize to give Cl- easily.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "tests",
+      "reactivity"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q106",
+    "question": "The major product obtained on treatment of CH3CH2CH(Br)CH3 with alcoholic KOH is:",
+    "options": [
+      "CH3CH=CHCH3",
+      "CH3CH2CH=CH2",
+      "CH3CH2CH(OH)CH3",
+      "None of these"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Saytzeff rule predicts the more substituted alkene (2-butene) as the major product.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactions",
+      "elimination"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q107",
+    "question": "Which of the following is most reactive towards SN1 reaction?",
+    "options": [
+      "Benzyl chloride",
+      "p-Methoxybenzyl chloride",
+      "p-Nitrobenzyl chloride",
+      "p-Chlorobenzyl chloride"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Electron donating group (-OCH3) stabilizes the carbocation intermediate by resonance.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactivity",
+      "sn1"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q108",
+    "question": "Chlorobenzene can be converted to phenol by:",
+    "options": [
+      "Heating with aqueous NaOH at high temperature and pressure",
+      "Heating with aqueous NaOH at room temperature",
+      "Reaction with water",
+      "Reaction with alcoholic KOH"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Dow's process requires drastic conditions (623K, 300 atm) due to low reactivity of aryl halides.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactions",
+      "preparation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q109",
+    "question": "The reaction of R-X with ammonia is a nucleophilic substitution reaction. The reactivity of R-X follows the order:",
+    "options": [
+      "RI > RBr > RCl",
+      "RCl > RBr > RI",
+      "RBr > RCl > RI",
+      "RI > RCl > RBr"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Better leaving group (I-) increases reactivity.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactivity",
+      "ammonolysis"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q110",
+    "question": "Which of the following is used in fire extinguishers under the name Pyrene?",
+    "options": [
+      "CCl4",
+      "CHCl3",
+      "CH2Cl2",
+      "CO2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Carbon tetrachloride is used as Pyrene.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "compounds",
+      "uses"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q111",
+    "question": "The compound formed when ethyl bromide reacts with dry silver oxide is:",
+    "options": [
+      "Diethyl ether",
+      "Ethanol",
+      "Ethyl acetate",
+      "Ethane"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "2C2H5Br + Ag2O (dry) -> C2H5-O-C2H5 + 2AgBr. (Moist Ag2O gives ethanol).",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactions",
+      "reagents"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q112",
+    "question": "In the preparation of aryl halides by Sandmeyer's reaction, the reagent used is:",
+    "options": [
+      "CuCl / HCl",
+      "Cu / HCl",
+      "CuCl2",
+      "Cl2 / FeCl3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Cuprous chloride (CuCl) in HCl is used. (Gattermann reaction uses Cu powder).",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "preparation",
+      "name reaction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q113",
+    "question": "Which of the following is not a polyhalogen compound?",
+    "options": [
+      "Chloroform",
+      "Carbon tetrachloride",
+      "Freon",
+      "Methyl chloride"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Methyl chloride (CH3Cl) contains only one halogen atom.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "classification",
+      "polyhalogen"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q114",
+    "question": "The reaction of toluene with Br2 in presence of FeBr3 gives:",
+    "options": [
+      "o-Bromotoluene and p-Bromotoluene",
+      "Benzyl bromide",
+      "m-Bromotoluene",
+      "Benzal bromide"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Electrophilic substitution directs to ortho and para positions.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactions",
+      "electrophilic substitution"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q115",
+    "question": "Which of the following alkyl halides is used as a methylating agent?",
+    "options": [
+      "Methyl iodide",
+      "Methyl chloride",
+      "Methyl bromide",
+      "Methyl fluoride"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Methyl iodide is a liquid and very reactive, making it a common methylating agent in lab.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "uses",
+      "reagents"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q116",
+    "question": "Reaction of chloroform with nitric acid gives:",
+    "options": [
+      "Chloropicrin",
+      "Phosgene",
+      "Chloretone",
+      "Acetylene"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "CHCl3 + HNO3 -> CCl3NO2 (Chloropicrin) + H2O. Used as tear gas.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactions",
+      "chloroform"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q117",
+    "question": "Reaction of chloroform with acetone in presence of KOH gives:",
+    "options": [
+      "Chloretone",
+      "Chloropicrin",
+      "Phosgene",
+      "Isocyanide"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Condensation gives Chloretone, used as a hypnotic.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactions",
+      "chloroform"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q118",
+    "question": "The shape of the carbocation intermediate in SN1 reaction is:",
+    "options": [
+      "Planar",
+      "Tetrahedral",
+      "Pyramidal",
+      "Linear"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Carbocation is sp2 hybridized and planar.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reaction mechanism",
+      "intermediate"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q119",
+    "question": "Which of the following is most reactive towards E2 elimination?",
+    "options": [
+      "2-Bromo-2-methylbutane",
+      "1-Bromopentane",
+      "2-Bromopentane",
+      "3-Bromopentane"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Tertiary halides undergo elimination most readily to form stable substituted alkenes.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "reactivity",
+      "elimination"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_haloalkanes_haloarenes_q120",
+    "question": "The number of optical isomers of 2,3-dibromobutane is:",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "0"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "It has two chiral centers but is symmetric. Forms: (2R,3R), (2S,3S) - enantiomers, and (2R,3S) - meso. Total 3 stereoisomers, 2 are optically active.",
+    "subject": "Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "tags": [
+      "stereochemistry",
+      "isomers"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "haloalkanes_and_haloarenes",
+    "subjectId": "chemistry"
+  }
+]

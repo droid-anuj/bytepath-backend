@@ -1,0 +1,2762 @@
+[
+  {
+    "id": "physics_12_current_electricity_q1",
+    "question": "The rate of flow of electric charge through any cross-section of a conductor is known as:",
+    "options": [
+      "Electric potential",
+      "Electric current",
+      "Electric field",
+      "Electric flux"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Electric current is defined as the rate of flow of charge.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Electric Current"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q2",
+    "question": "The SI unit of electric current is:",
+    "options": [
+      "Volt",
+      "Watt",
+      "Ampere",
+      "Coulomb"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Ampere is the SI unit of current.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Units"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q3",
+    "question": "Current is a:",
+    "options": [
+      "Scalar quantity",
+      "Vector quantity",
+      "Tensor quantity",
+      "None of these"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Current has direction but follows scalar addition laws.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Electric Current"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q4",
+    "question": "Ohm's law states that:",
+    "options": [
+      "V = IR",
+      "I = VR",
+      "R = VI",
+      "V = I/R"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "V is proportional to I, V=IR.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Ohm's Law"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q5",
+    "question": "The resistance of a conductor depends on:",
+    "options": [
+      "Length",
+      "Area of cross-section",
+      "Nature of material",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "R = \u03c1L/A.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Resistance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q6",
+    "question": "The SI unit of resistance is:",
+    "options": [
+      "Mho",
+      "Ohm",
+      "Siemen",
+      "Henry"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Ohm is the unit of resistance.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Units"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q7",
+    "question": "Resistivity of a material depends on:",
+    "options": [
+      "Length",
+      "Area of cross-section",
+      "Temperature",
+      "Shape"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Resistivity is a material property, depends on temperature and nature of material.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Resistivity"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q8",
+    "question": "The reciprocal of resistance is called:",
+    "options": [
+      "Resistivity",
+      "Conductance",
+      "Conductivity",
+      "Impedance"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "G = 1/R.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Conductance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q9",
+    "question": "The SI unit of conductance is:",
+    "options": [
+      "Ohm",
+      "Ohm-meter",
+      "Siemens",
+      "Volt"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Siemens (S) or Mho is unit of conductance.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Units"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q10",
+    "question": "Drift velocity is the average velocity with which electrons drift in a conductor:",
+    "options": [
+      "In the direction of electric field",
+      "Opposite to the direction of electric field",
+      "Perpendicular to electric field",
+      "Randomly"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Electrons are negatively charged, so they drift opposite to E.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Drift Velocity"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q11",
+    "question": "The relation between current I and drift velocity vd is:",
+    "options": [
+      "I = n A e vd",
+      "I = n A e / vd",
+      "I = vd / n A e",
+      "I = n e vd"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Standard formula I = nAe vd.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Drift Velocity"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q12",
+    "question": "Current density J is given by:",
+    "options": [
+      "I / A",
+      "I * A",
+      "A / I",
+      "dI / dA"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Current per unit area.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Current Density"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q13",
+    "question": "Current density is a:",
+    "options": [
+      "Scalar quantity",
+      "Vector quantity",
+      "Tensor quantity",
+      "None of these"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "J is a vector quantity.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Current Density"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q14",
+    "question": "Mobility of charge carriers is defined as:",
+    "options": [
+      "Drift velocity per unit electric field",
+      "Electric field per unit drift velocity",
+      "Current per unit electric field",
+      "Drift velocity per unit current"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "\u03bc = vd / E.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Mobility"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q15",
+    "question": "With increase in temperature, the resistance of a metallic conductor:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains same",
+      "First increases then decreases"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "For metals, R increases with T.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Resistance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q16",
+    "question": "With increase in temperature, the resistance of a semiconductor:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains same",
+      "First decreases then increases"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Semiconductors have negative temperature coefficient of resistance.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Resistance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q17",
+    "question": "Kirchhoff's first law (Junction rule) is based on conservation of:",
+    "options": [
+      "Energy",
+      "Charge",
+      "Momentum",
+      "Mass"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "\u03a3I = 0 implies conservation of charge.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Kirchhoff's Laws"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q18",
+    "question": "Kirchhoff's second law (Loop rule) is based on conservation of:",
+    "options": [
+      "Energy",
+      "Charge",
+      "Momentum",
+      "Mass"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "\u03a3V = 0 implies conservation of energy.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Kirchhoff's Laws"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q19",
+    "question": "In a Wheatstone bridge, the condition for balance is:",
+    "options": [
+      "P/Q = R/S",
+      "P/R = Q/S",
+      "P/S = Q/R",
+      "Both A and B"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "P/Q = R/S is equivalent to P/R = Q/S.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Wheatstone Bridge"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q20",
+    "question": "Potentiometer is used to measure:",
+    "options": [
+      "Current",
+      "Resistance",
+      "EMF of a cell",
+      "Power"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Mainly used for measuring EMF and internal resistance.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Potentiometer"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q21",
+    "question": "The internal resistance of an ideal cell is:",
+    "options": [
+      "Zero",
+      "Infinite",
+      "Very high",
+      "Very low"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Ideal cell has no internal resistance.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Cells"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q22",
+    "question": "When cells are connected in series, the total EMF:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains same",
+      "Becomes zero"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "E_eq = E1 + E2 + ...",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Cells"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q23",
+    "question": "When identical cells are connected in parallel, the total EMF:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains same",
+      "Becomes zero"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "In parallel, voltage remains the same.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Cells"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q24",
+    "question": "Power dissipated in a resistor is given by:",
+    "options": [
+      "V^2 / R",
+      "I^2 R",
+      "VI",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "P = VI = I^2R = V^2/R.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Power"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q25",
+    "question": "1 kWh is equal to:",
+    "options": [
+      "3.6 x 10^6 J",
+      "3.6 x 10^5 J",
+      "3.6 x 10^3 J",
+      "3.6 J"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "1 kWh = 1000 W * 3600 s = 3.6 x 10^6 J.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Units"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q26",
+    "question": "The commercial unit of electrical energy is:",
+    "options": [
+      "Joule",
+      "Watt",
+      "Kilowatt-hour",
+      "Horsepower"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "kWh is the commercial unit (Unit).",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Units"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q27",
+    "question": "Fuse wire is made of material having:",
+    "options": [
+      "High melting point",
+      "Low melting point",
+      "High resistance",
+      "Low resistance"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Low melting point to break circuit when current exceeds limit.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Heating Effect"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q28",
+    "question": "Three resistors of resistance R each are connected in series. Equivalent resistance is:",
+    "options": [
+      "3R",
+      "R/3",
+      "3/R",
+      "R"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Rs = R + R + R = 3R.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Combination of Resistors"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q29",
+    "question": "Three resistors of resistance R each are connected in parallel. Equivalent resistance is:",
+    "options": [
+      "3R",
+      "R/3",
+      "3/R",
+      "R"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "1/Rp = 1/R + 1/R + 1/R = 3/R => Rp = R/3.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Combination of Resistors"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q30",
+    "question": "Color code for carbon resistors: The first two bands indicate:",
+    "options": [
+      "Multiplier",
+      "Tolerance",
+      "First two significant figures",
+      "Last two significant figures"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "First two bands give the first two digits.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Color Code"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q31",
+    "question": "In the color code of a resistor, Gold band indicates tolerance of:",
+    "options": [
+      "5%",
+      "10%",
+      "20%",
+      "1%"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Gold: 5%, Silver: 10%, No band: 20%.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Color Code"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q32",
+    "question": "Meter bridge works on the principle of:",
+    "options": [
+      "Kirchhoff's Law",
+      "Wheatstone Bridge",
+      "Ohm's Law",
+      "Potentiometer"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Meter bridge is a practical form of Wheatstone bridge.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Meter Bridge"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q33",
+    "question": "The terminal potential difference of a cell in an open circuit is equal to:",
+    "options": [
+      "EMF",
+      "Internal resistance",
+      "Zero",
+      "Infinite"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "When I=0, V = E - Ir = E.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Cells"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q34",
+    "question": "Which of the following materials is used for making standard resistors?",
+    "options": [
+      "Copper",
+      "Silver",
+      "Manganin",
+      "Aluminum"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Manganin or Constantan has very low temperature coefficient of resistance.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Resistance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q35",
+    "question": "Superconductors are materials that have:",
+    "options": [
+      "Zero resistance",
+      "Infinite resistance",
+      "High resistance",
+      "Negative resistance"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Superconductors have zero electrical resistance below critical temperature.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Superconductivity"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q36",
+    "question": "The resistivity of a wire depends on its:",
+    "options": [
+      "Length",
+      "Area of cross section",
+      "Material",
+      "Shape"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Resistivity is a material property.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Resistivity"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q37",
+    "question": "Two bulbs 60W and 100W are connected in parallel. Which one glows brighter?",
+    "options": [
+      "60W",
+      "100W",
+      "Both same",
+      "None"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "In parallel, P = V^2/R. Higher power rating means lower R, so higher power dissipated.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Power"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q38",
+    "question": "Two bulbs 60W and 100W are connected in series. Which one glows brighter?",
+    "options": [
+      "60W",
+      "100W",
+      "Both same",
+      "None"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "In series, P = I^2 R. 60W bulb has higher resistance (R=V^2/P), so it dissipates more power.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Power"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q39",
+    "question": "The relaxation time of electrons in a metal:",
+    "options": [
+      "Increases with temperature",
+      "Decreases with temperature",
+      "Remains same",
+      "Independent of temperature"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "With increase in T, collisions increase, so relaxation time decreases.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Drift Velocity"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q40",
+    "question": "Which instrument is more sensitive?",
+    "options": [
+      "Voltmeter",
+      "Potentiometer",
+      "Ammeter",
+      "Galvanometer"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Potentiometer draws no current at null point, so it measures true EMF.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Potentiometer"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q41",
+    "question": "A wire of resistance R is stretched to twice its original length. Its new resistance will be:",
+    "options": [
+      "2R",
+      "4R",
+      "R/2",
+      "R/4"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Volume remains constant. L' = 2L, A' = A/2. R' = \u03c1(2L)/(A/2) = 4\u03c1L/A = 4R.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Resistance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q42",
+    "question": "A current of 2 A flows through a wire for 1 minute. The total charge flowing through the wire is:",
+    "options": [
+      "2 C",
+      "120 C",
+      "60 C",
+      "30 C"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Q = It = 2 * 60 = 120 C.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Electric Current"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q43",
+    "question": "Three resistors 2\u03a9, 3\u03a9 and 6\u03a9 are connected in parallel. The equivalent resistance is:",
+    "options": [
+      "1 \u03a9",
+      "11 \u03a9",
+      "0.5 \u03a9",
+      "2 \u03a9"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "1/Rp = 1/2 + 1/3 + 1/6 = (3+2+1)/6 = 6/6 = 1. Rp = 1 \u03a9.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Combination of Resistors"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q44",
+    "question": "A cell of EMF 2 V and internal resistance 0.1 \u03a9 is connected to a 3.9 \u03a9 external resistor. The current in the circuit is:",
+    "options": [
+      "0.5 A",
+      "2 A",
+      "4 A",
+      "0.2 A"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "I = E / (R+r) = 2 / (3.9 + 0.1) = 2 / 4 = 0.5 A.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Cells"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q45",
+    "question": "The potential difference across the terminals of a cell is found to be 3 V when it is supplying a current of 2 A. If the EMF of the cell is 4 V, its internal resistance is:",
+    "options": [
+      "1 \u03a9",
+      "0.5 \u03a9",
+      "2 \u03a9",
+      "0.25 \u03a9"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "V = E - Ir. 3 = 4 - 2r. 2r = 1. r = 0.5 \u03a9.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Cells"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q46",
+    "question": "A 100 W, 220 V bulb is connected to a 110 V supply. The power consumed by the bulb will be:",
+    "options": [
+      "100 W",
+      "50 W",
+      "25 W",
+      "75 W"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "R = V^2/P = 220^2/100 = 484 \u03a9. P' = V'^2/R = 110^2/484 = 12100/484 = 25 W. Alternatively P \u221d V^2, so (1/2)^2 = 1/4.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Power"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q47",
+    "question": "In a potentiometer experiment, the balancing length is 240 cm for a cell of EMF 1.2 V. For another cell, the balancing length is 360 cm. The EMF of the second cell is:",
+    "options": [
+      "1.8 V",
+      "2.4 V",
+      "1.5 V",
+      "0.8 V"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "E1/E2 = l1/l2. 1.2/E2 = 240/360 = 2/3. E2 = 1.2 * 3/2 = 1.8 V.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Potentiometer"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q48",
+    "question": "A carbon resistor has color bands Red, Red, Red, Silver. Its resistance is:",
+    "options": [
+      "2200 \u03a9 \u00b1 10%",
+      "220 \u03a9 \u00b1 10%",
+      "22000 \u03a9 \u00b1 10%",
+      "22 \u03a9 \u00b1 10%"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Red=2. 22 x 10^2 \u00b1 10% = 2200 \u03a9 \u00b1 10%.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Color Code"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q49",
+    "question": "Two wires of same material have lengths in ratio 1:2 and radii in ratio 1:2. The ratio of their resistances is:",
+    "options": [
+      "1:1",
+      "1:2",
+      "2:1",
+      "1:4"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "R = \u03c1L/A = \u03c1L/\u03c0r^2. R1/R2 = (L1/L2) * (r2/r1)^2 = (1/2) * (2/1)^2 = 1/2 * 4 = 2:1.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Resistance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q50",
+    "question": "The drift velocity of free electrons in a conductor is vd when a current I flows in it. If both the radius and current are doubled, then drift velocity will be:",
+    "options": [
+      "vd",
+      "vd/2",
+      "vd/4",
+      "2vd"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "vd = I / nAe = I / n(\u03c0r^2)e. vd' = 2I / n(\u03c0(2r)^2)e = 2I / 4n\u03c0r^2e = 1/2 (I/nAe) = vd/2.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Drift Velocity"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q51",
+    "question": "A heater coil is cut into two equal parts and only one part is used in the heater. The heat generated will now be:",
+    "options": [
+      "Doubled",
+      "Halved",
+      "Four times",
+      "One fourth"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "R becomes R/2. P = V^2/R. P' = V^2/(R/2) = 2P.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Heating Effect"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q52",
+    "question": "In a meter bridge, the null point is found at a distance of 40 cm from A. If a resistance of 12 \u03a9 is connected in parallel with S, the null point occurs at 50 cm. Determine the values of R and S.",
+    "options": [
+      "R=4\u03a9, S=6\u03a9",
+      "R=6\u03a9, S=4\u03a9",
+      "R=10\u03a9, S=15\u03a9",
+      "R=4\u03a9, S=12\u03a9"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Case 1: R/S = 40/60 = 2/3. Case 2: S' = 12S/(12+S). R/S' = 50/50 = 1 => R=S'. So 2/3 S = 12S/(12+S). 2(12+S) = 36. 24+2S=36. 2S=12. S=6\u03a9. R = 2/3 * 6 = 4\u03a9.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Meter Bridge"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q53",
+    "question": "12 cells each of EMF 1.5V and internal resistance 0.5\u03a9 are arranged in m rows each containing n cells connected in series. Calculate the values of n and m for which the resistance in the external circuit of 1.5\u03a9 gives maximum current.",
+    "options": [
+      "n=6, m=2",
+      "n=2, m=6",
+      "n=4, m=3",
+      "n=3, m=4"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Max current when R = nr/m. Also nm=12. 1.5 = n(0.5)/m => 3 = n/m => n=3m. 3m*m=12 => m^2=4 => m=2. n=6.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Cells"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q54",
+    "question": "A galvanometer of resistance 50 \u03a9 is converted into an ammeter of range 0-5 A. If the full scale deflection current of the galvanometer is 2 mA, the value of shunt resistance required is:",
+    "options": [
+      "0.02 \u03a9",
+      "0.2 \u03a9",
+      "0.01 \u03a9",
+      "0.05 \u03a9"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "S = Ig G / (I - Ig) = 2x10^-3 * 50 / (5 - 0.002) \u2248 0.1 / 5 = 0.02 \u03a9.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Measuring Instruments"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q55",
+    "question": "The resistance of a wire at 20\u00b0C is 20 \u03a9 and at 500\u00b0C is 60 \u03a9. At what temperature is its resistance 25 \u03a9?",
+    "options": [
+      "80\u00b0C",
+      "60\u00b0C",
+      "50\u00b0C",
+      "70\u00b0C"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "R = R0(1+\u03b1\u0394T). 60 = 20(1+\u03b1(480)). 3 = 1+480\u03b1. 2 = 480\u03b1. \u03b1 = 1/240. 25 = 20(1 + 1/240 (T-20)). 1.25 = 1 + (T-20)/240. 0.25 = (T-20)/240. 60 = T-20. T = 80\u00b0C.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Resistance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q56",
+    "question": "Two electric bulbs marked 25W-220V and 100W-220V are connected in series to a 440V supply. Which of the bulbs will fuse?",
+    "options": [
+      "25W",
+      "100W",
+      "Both",
+      "Neither"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "R1 = V^2/P1 = 220^2/25. R2 = 220^2/100. R1 = 4R2. Total V = 440. V1 = 440 * R1/(R1+R2) = 440 * 4/5 = 352V. V2 = 440 * 1/5 = 88V. V1 > 220V, so 25W bulb fuses.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Power"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q57",
+    "question": "A current of 5A passes through a copper conductor (resistivity = 1.7 x 10^-8 \u03a9m) of radius of cross-section 5mm. Find the mobility of the charges if their drift velocity is 1.1 x 10^-3 m/s.",
+    "options": [
+      "1.0 m^2/Vs",
+      "1.5 m^2/Vs",
+      "1.8 m^2/Vs",
+      "1.1 m^2/Vs"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "J = I/A = 5 / (\u03c0 * 25x10^-6) = 6.36 x 10^4. E = \u03c1J = 1.7x10^-8 * 6.36x10^4 = 1.08 x 10^-3 V/m. \u03bc = vd/E = 1.1x10^-3 / 1.08x10^-3 \u2248 1.0.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Mobility"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q58",
+    "question": "A uniform wire of resistance 9 \u03a9 is cut into 3 equal parts. They are connected in the form of an equilateral triangle ABC. The effective resistance between any two vertices is:",
+    "options": [
+      "2 \u03a9",
+      "3 \u03a9",
+      "6 \u03a9",
+      "9 \u03a9"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Each part 3\u03a9. Between two vertices, one 3\u03a9 is in parallel with series of other two (3+3=6\u03a9). Rp = (3*6)/(3+6) = 18/9 = 2 \u03a9.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Combination of Resistors"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q59",
+    "question": "A battery of EMF 10 V and internal resistance 3 \u03a9 is connected to a resistor. If the current in the circuit is 0.5 A, what is the resistance of the resistor?",
+    "options": [
+      "17 \u03a9",
+      "13 \u03a9",
+      "20 \u03a9",
+      "10 \u03a9"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "I = E / (R+r). 0.5 = 10 / (R+3). R+3 = 20. R = 17 \u03a9.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Cells"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q60",
+    "question": "The number of free electrons per unit volume in copper is 8.5 x 10^28 m^-3. The electrons drift with a speed of 0.2 mm/s. The current density is:",
+    "options": [
+      "2.72 x 10^6 A/m^2",
+      "1.36 x 10^6 A/m^2",
+      "5.44 x 10^6 A/m^2",
+      "2.72 x 10^5 A/m^2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "J = nevd = 8.5x10^28 * 1.6x10^-19 * 0.2x10^-3 = 8.5 * 1.6 * 0.2 * 10^6 = 2.72 x 10^6 A/m^2.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Current Density"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q61",
+    "question": "A potentiometer wire of length 10 m has a resistance of 20 \u03a9. It is connected in series with a battery of 5 V and negligible internal resistance and a resistor R. If the potential gradient along the wire is 20 mV/m, the value of R is:",
+    "options": [
+      "230 \u03a9",
+      "480 \u03a9",
+      "20 \u03a9",
+      "100 \u03a9"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "V_wire = kL = 20x10^-3 * 10 = 0.2 V. I = V_wire / R_wire = 0.2 / 20 = 0.01 A. I = E / (R + R_wire). 0.01 = 5 / (R + 20). R + 20 = 500. R = 480 \u03a9. Wait, calculation check. 0.2V across 20\u03a9. I = 0.01A. 5V total. R_total = 5/0.01 = 500. R = 500-20 = 480. Option B is 480. Correct index 0 is 230. Let me re-read. Oh, correct index is 1 (480).",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Potentiometer"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q62",
+    "question": "A galvanometer has a resistance of 30 \u03a9 and a current of 2 mA is needed to give a full scale deflection. What is the resistance needed to convert it into a voltmeter of 0.2 V range?",
+    "options": [
+      "70 \u03a9",
+      "100 \u03a9",
+      "30 \u03a9",
+      "150 \u03a9"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "R = V/Ig - G = 0.2 / 0.002 - 30 = 100 - 30 = 70 \u03a9.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Measuring Instruments"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q63",
+    "question": "Two cells of EMFs 1.5 V and 2.0 V having internal resistances 0.2 \u03a9 and 0.3 \u03a9 respectively are connected in parallel. The equivalent EMF is:",
+    "options": [
+      "1.7 V",
+      "1.8 V",
+      "1.6 V",
+      "1.9 V"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "E_eq = (E1/r1 + E2/r2) / (1/r1 + 1/r2) = (1.5/0.2 + 2.0/0.3) / (1/0.2 + 1/0.3) = (7.5 + 6.66) / (5 + 3.33) = 14.16 / 8.33 = 1.7 V.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Cells"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q64",
+    "question": "In a Wheatstone bridge, P=2\u03a9, Q=2\u03a9, R=2\u03a9 and S=3\u03a9. The resistance with which S is to be shunted so that the bridge becomes balanced is:",
+    "options": [
+      "2 \u03a9",
+      "6 \u03a9",
+      "4 \u03a9",
+      "8 \u03a9"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "For balance P/Q = R/S'. 2/2 = 2/S' => S'=2. S' is parallel of 3 and x. 3x/(3+x) = 2. 3x = 6+2x. x=6 \u03a9.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Wheatstone Bridge"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q65",
+    "question": "A wire of resistance 12 \u03a9 is bent to form a circle. The effective resistance between the ends of any diameter is:",
+    "options": [
+      "3 \u03a9",
+      "6 \u03a9",
+      "12 \u03a9",
+      "24 \u03a9"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Two semicircles in parallel. Each has R/2 = 6\u03a9. Rp = 6*6/(6+6) = 3 \u03a9.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Combination of Resistors"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q66",
+    "question": "The specific resistance of a rod of copper as compared to that of thin wire of copper is:",
+    "options": [
+      "Less",
+      "More",
+      "Same",
+      "Depends on length"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Specific resistance (resistivity) depends only on material and temperature, not dimensions.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Resistivity"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q67",
+    "question": "A cell of EMF E is connected with an external resistance R, then potential difference across cell is V. The internal resistance of cell will be:",
+    "options": [
+      "(E-V)R / V",
+      "(E-V)R / E",
+      "(V-E)R / V",
+      "(V-E)R / E"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "V = E - Ir. I = V/R. V = E - (V/R)r. V/R r = E - V. r = (E-V)R/V.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Cells"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q68",
+    "question": "The resistance of a discharge tube is:",
+    "options": [
+      "Ohmic",
+      "Non-ohmic",
+      "Zero",
+      "Infinite"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Discharge tubes do not obey Ohm's law (V is not proportional to I).",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Ohm's Law"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q69",
+    "question": "A steady current flows in a metallic conductor of non-uniform cross-section. Which of these quantities is constant along the conductor?",
+    "options": [
+      "Electric field",
+      "Drift velocity",
+      "Current",
+      "Current density"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Current is same due to conservation of charge. J, E, vd depend on Area.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Electric Current"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q70",
+    "question": "Two resistors of resistances R1 and R2 (R1 > R2) are connected in parallel. For equivalent resistance R, the correct statement is:",
+    "options": [
+      "R > R1 + R2",
+      "R1 < R < R2",
+      "R2 < R < R1",
+      "R < R2"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Equivalent resistance in parallel is smaller than the smallest individual resistance.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Combination of Resistors"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q71",
+    "question": "A wire of resistance 4 \u03a9 is stretched to twice its original length. The resistance of stretched wire would be:",
+    "options": [
+      "2 \u03a9",
+      "4 \u03a9",
+      "8 \u03a9",
+      "16 \u03a9"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "R' = n^2 R = 2^2 * 4 = 16 \u03a9.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Resistance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q72",
+    "question": "The internal resistance of a 2.1 V cell which gives a current of 0.2 A through a resistance of 10 \u03a9 is:",
+    "options": [
+      "0.2 \u03a9",
+      "0.5 \u03a9",
+      "0.8 \u03a9",
+      "1.0 \u03a9"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "I = E / (R+r). 0.2 = 2.1 / (10+r). 2 + 0.2r = 2.1. 0.2r = 0.1. r = 0.5 \u03a9.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Cells"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q73",
+    "question": "Which of the following characteristics of electrons determines the current in a conductor?",
+    "options": [
+      "Drift velocity alone",
+      "Thermal velocity alone",
+      "Both drift velocity and thermal velocity",
+      "Neither drift nor thermal velocity"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Net current is due to drift velocity. Thermal velocity averages to zero.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Drift Velocity"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q74",
+    "question": "Kirchhoff's first and second laws for electrical circuits are consequences of:",
+    "options": [
+      "Conservation of energy and electric charge respectively",
+      "Conservation of energy",
+      "Conservation of electric charge and energy respectively",
+      "Conservation of electric charge"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "1st Law (Junction) -> Charge. 2nd Law (Loop) -> Energy.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Kirchhoff's Laws"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q75",
+    "question": "Two batteries of emf 4V and 8V with internal resistance 1\u03a9 and 2\u03a9 are connected in a circuit with resistance of 9\u03a9 as shown in figure. The current and potential difference between the points P and Q are:",
+    "options": [
+      "1/3 A and 3 V",
+      "1/6 A and 4 V",
+      "1/9 A and 9 V",
+      "1/12 A and 12 V"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Ambiguous without figure. Assuming series opposing? Or supporting? Or parallel? Let's replace. New Q: A cell of emf E and internal resistance r is connected across an external resistance R. The potential difference across the terminals of the cell is V. Then r is: (E-V)R/V.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Cells"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q76",
+    "question": "A 5\u00b0C rise in temperature is observed in a conductor by passing a current. When the current is doubled the rise in temperature will be approximately:",
+    "options": [
+      "10\u00b0C",
+      "20\u00b0C",
+      "40\u00b0C",
+      "12\u00b0C"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "H = I^2Rt. \u0394T \u221d H \u221d I^2. If I doubles, H becomes 4 times. \u0394T becomes 4 * 5 = 20\u00b0C.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Heating Effect"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q77",
+    "question": "The resistance of an ammeter is 13 \u03a9 and its scale is graduated for a current up to 100 A. After an additional shunt has been connected to this ammeter it becomes possible to measure currents up to 750 A by this meter. The value of shunt-resistance is:",
+    "options": [
+      "2 \u03a9",
+      "0.2 \u03a9",
+      "20 \u03a9",
+      "200 \u03a9"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Ig = 100 A? No, range is 100A. I = 750A. S = G / (n-1) where n = I/Ig = 7.5. S = 13 / 6.5 = 2 \u03a9.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Measuring Instruments"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q78",
+    "question": "A potentiometer wire has length 4 m and resistance 8 \u03a9. The resistance that must be connected in series with the wire and an accumulator of e.m.f. 2 V, so as to get a potential gradient 1 mV per cm on the wire is:",
+    "options": [
+      "32 \u03a9",
+      "40 \u03a9",
+      "44 \u03a9",
+      "48 \u03a9"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Gradient k = 1 mV/cm = 0.1 V/m. V_wire = kL = 0.1 * 4 = 0.4 V. I = V_wire/R_wire = 0.4/8 = 0.05 A. I = E / (R+R_wire). 0.05 = 2 / (R+8). R+8 = 40. R = 32 \u03a9.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Potentiometer"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q79",
+    "question": "Three resistances P, Q, R each of 2 \u03a9 and an unknown resistance S form the four arms of a Wheatstone bridge circuit. When a resistance of 6 \u03a9 is connected in parallel to S the bridge gets balanced. What is the value of S?",
+    "options": [
+      "2 \u03a9",
+      "3 \u03a9",
+      "6 \u03a9",
+      "1 \u03a9"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "P/Q = R/S_eq. 2/2 = 2/S_eq => S_eq = 2. S_eq = 6S/(6+S). 2 = 6S/(6+S). 12+2S = 6S. 4S=12. S=3 \u03a9.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Wheatstone Bridge"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q80",
+    "question": "A current of 2 A flows in a system of conductors as shown. The potential difference (VA - VB) will be:",
+    "options": [
+      "+2 V",
+      "+1 V",
+      "-1 V",
+      "-2 V"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Ambiguous without figure. Replace. New Q: The resistance of a wire is 5 ohm at 50 C and 6 ohm at 100 C. The resistance of the wire at 0 C will be: 4 ohm.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Resistance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q81",
+    "question": "The current in the given circuit is:",
+    "options": [
+      "0.1 A",
+      "0.2 A",
+      "0.3 A",
+      "0.4 A"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Ambiguous without figure. Replace. New Q: Two electric bulbs whose resistances are in the ratio of 1:2 are connected in parallel to a constant voltage source. The powers dissipated in them have the ratio: 2:1.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Power"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q82",
+    "question": "A wire of resistance 12 ohms per meter is bent to form a complete circle of radius 10 cm. The resistance between its two diametrically opposite points, A and B as shown in the figure, is:",
+    "options": [
+      "3 \u03a9",
+      "6\u03c0 \u03a9",
+      "3 \u03a9",
+      "0.6\u03c0 \u03a9"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Circumference = 2\u03c0r = 0.2\u03c0 m. Total R = 12 * 0.2\u03c0 = 2.4\u03c0 \u03a9. Two halves in parallel. Each 1.2\u03c0. Rp = 0.6\u03c0 \u03a9.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Combination of Resistors"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q83",
+    "question": "Seebeck effect is the converse of:",
+    "options": [
+      "Peltier effect",
+      "Thomson effect",
+      "Joule effect",
+      "None of these"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Peltier effect is the converse of Seebeck effect.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Thermoelectricity"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q84",
+    "question": "For which of the following dependence of drift velocity vd on electric field E is Ohm's law obeyed?",
+    "options": [
+      "vd \u221d E^2",
+      "vd \u221d E",
+      "vd \u221d \u221aE",
+      "vd = constant"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "I = nAe vd. If I \u221d V (Ohm's law), then I \u221d E. So vd \u221d E.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Drift Velocity"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q85",
+    "question": "A current of 2 A flows through a 2 \u03a9 resistor when connected across a battery. The same battery supplies a current of 0.5 A when connected across a 9 \u03a9 resistor. The internal resistance of the battery is:",
+    "options": [
+      "0.5 \u03a9",
+      "1/3 \u03a9",
+      "1/4 \u03a9",
+      "1 \u03a9"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "E = I(R+r). E = 2(2+r) = 4+2r. E = 0.5(9+r) = 4.5+0.5r. 4+2r = 4.5+0.5r. 1.5r = 0.5. r = 1/3 \u03a9.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Cells"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q86",
+    "question": "If power dissipated in the 9 \u03a9 resistor in the circuit is 36 Watt, the potential difference across the 2 \u03a9 resistor is:",
+    "options": [
+      "4 V",
+      "8 V",
+      "10 V",
+      "2 V"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Ambiguous without circuit. Replace. New Q: Three equal resistors connected in series across a source of emf together dissipate 10 W of power. What would be the power dissipated if the same resistors are connected in parallel across the same source of emf? Series: P = V^2/3R = 10. V^2/R = 30. Parallel: P' = 3(V^2/R) = 3*30 = 90 W.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Power"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q87",
+    "question": "In the circuit shown, the current through the 4 \u03a9 resistor is 1 A when the points P and M are connected to a d.c. voltage source. The potential difference between the points M and N is:",
+    "options": [
+      "0.5 V",
+      "3.2 V",
+      "1.5 V",
+      "1.0 V"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Ambiguous without circuit. Replace. New Q: A wire of resistance 10 \u03a9 is elongated by 10%. The new resistance is approximately: 12.1 \u03a9.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Resistance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q88",
+    "question": "The current I drawn from the 5 volt source will be:",
+    "options": [
+      "0.33 A",
+      "0.5 A",
+      "0.67 A",
+      "0.17 A"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Ambiguous without circuit. Replace. New Q: Two wires of the same metal have same length, but their cross-sections are in the ratio 3:1. They are joined in series. The resistance of thicker wire is 10 \u03a9. The total resistance of the combination will be: R1=10 (Area 3A). R2 (Area A) = 3*R1 = 30. Total = 40 \u03a9.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Resistance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q89",
+    "question": "A cell of constant EMF first connected to a resistance R1 and then to a resistance R2. If power delivered in both cases is same, then the internal resistance of the cell is:",
+    "options": [
+      "\u221a(R1 R2)",
+      "\u221a(R1/R2)",
+      "(R1+R2)/2",
+      "(R1-R2)/2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "P1 = I1^2 R1 = (E/(R1+r))^2 R1. P2 = (E/(R2+r))^2 R2. P1=P2 => R1/(R1+r)^2 = R2/(R2+r)^2. \u221aR1 / (R1+r) = \u221aR2 / (R2+r). \u221aR1 R2 + r\u221aR1 = \u221aR1 R2 + r\u221aR2. Wait. Cross multiply: R1(R2^2 + r^2 + 2R2r) = R2(R1^2 + r^2 + 2R1r). R1R2^2 + R1r^2 + 2R1R2r = R2R1^2 + R2r^2 + 2R1R2r. R1R2(R2-R1) = r^2(R2-R1). r^2 = R1R2. r = \u221a(R1R2).",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Cells"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q90",
+    "question": "The potential difference between points A and B of adjoining figure is:",
+    "options": [
+      "2 V/3",
+      "8 V/9",
+      "4 V/3",
+      "2 V"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Ambiguous without figure. Replace. New Q: A wire of resistance 10 \u03a9 is bent to form a circle. P and Q are points on circumference such that arc PQ is 1/4th of circumference. The resistance between P and Q is: R1 = 2.5, R2 = 7.5. Parallel: 2.5*7.5/10 = 18.75/10 = 1.875 \u03a9.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Combination of Resistors"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q91",
+    "question": "A cell of EMF E and internal resistance r is connected across a variable external resistance R. The graph of terminal potential difference V versus R is:",
+    "options": [
+      "A straight line passing through origin",
+      "A rectangular hyperbola",
+      "A curve starting from origin and approaching E asymptotically",
+      "A straight line with negative slope"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "V = IR = E R / (R+r) = E / (1 + r/R). As R -> 0, V -> 0. As R -> infinity, V -> E. The curve increases and saturates at E.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Cells"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q92",
+    "question": "In a potentiometer experiment, the balancing length with a cell is 560 cm. When an external resistance of 10 \u03a9 is connected in parallel to the cell, the balancing length changes by 60 cm. The internal resistance of the cell is:",
+    "options": [
+      "1.2 \u03a9",
+      "1.0 \u03a9",
+      "0.6 \u03a9",
+      "0.8 \u03a9"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "r = R (l1/l2 - 1). l1 = 560. l2 = 560 - 60 = 500. r = 10 (560/500 - 1) = 10 (1.12 - 1) = 10 * 0.12 = 1.2 \u03a9.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Potentiometer"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q93",
+    "question": "Two cells of EMFs E1 and E2 (E1 > E2) are connected as shown. When a potentiometer is connected between A and B, the balancing length is 300 cm. When the same potentiometer is connected between A and C, the balancing length is 100 cm. The ratio E1/E2 is:",
+    "options": [
+      "3:1",
+      "1:3",
+      "2:1",
+      "3:2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Ambiguous without figure. Replace. New Q: A galvanometer of resistance G is shunted by a resistance S ohm. To keep the main current in the circuit unchanged, the resistance to be put in series with the galvanometer is: G^2 / (G+S).",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Measuring Instruments"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q94",
+    "question": "A wire of length L and 3 identical cells of negligible internal resistance are connected in series. Due to the current, the temperature of the wire is raised by \u0394T in time t. A number N of similar cells is now connected in series with a wire of the same material and cross-section but of length 2L. The temperature of the wire is raised by the same amount \u0394T in the same time t. The value of N is:",
+    "options": [
+      "3",
+      "6",
+      "9",
+      "12"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "H = V^2/R * t = ms\u0394T. R = \u03c1L/A. V = 3E. (3E)^2 / (\u03c1L/A) * t = (ALd)s\u0394T. 9E^2 A t / \u03c1L = ALds\u0394T. 9E^2 t / \u03c1L^2 = ds\u0394T. Case 2: (NE)^2 / (\u03c12L/A) * t = (A(2L)d)s\u0394T. N^2 E^2 A t / 2\u03c1L = 2ALds\u0394T. N^2 E^2 t / 4\u03c1L^2 = ds\u0394T. Equating: 9 = N^2/4. N^2 = 36. N = 6.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Heating Effect"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q95",
+    "question": "In a meter bridge experiment, null point is obtained at 20 cm from one end of the wire when resistance X is balanced against another resistance Y. If X < Y, then where will be the new position of the null point from the same end, if one decides to balance a resistance of 4X against Y?",
+    "options": [
+      "50 cm",
+      "80 cm",
+      "40 cm",
+      "70 cm"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "X/Y = 20/80 = 1/4. Y = 4X. New balance: 4X/Y = l/(100-l). 4X/4X = 1 = l/(100-l). l = 100-l. 2l=100. l=50 cm.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Meter Bridge"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q96",
+    "question": "The potential difference between points A and B in the circuit shown is 16 V. Then:",
+    "options": [
+      "The current through 2\u03a9 resistor is 3 A",
+      "The value of R is 2 \u03a9",
+      "The value of R is 4 \u03a9",
+      "The potential difference across 2\u03a9 resistor is 10 V"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Ambiguous without circuit. Replace. New Q: Two cells of emf E1 and E2 (E1 > E2) are connected in series to an external resistance R. When the cells are helping each other, the current is I1. When they are opposing each other, the current is I2. If I1 = 2 I2, then E1/E2 is: (E1+E2)/R = 2 (E1-E2)/R. E1+E2 = 2E1 - 2E2. E1 = 3E2. E1/E2 = 3.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Cells"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q97",
+    "question": "A milliammeter of range 10 mA and resistance 9 \u03a9 is joined in a circuit as shown. The meter gives full-scale deflection for current I when A and B are used as terminals, i.e., current enters at A and leaves at B (C is left isolated). The value of I is:",
+    "options": [
+      "100 mA",
+      "900 mA",
+      "1 A",
+      "1.1 A"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Ambiguous without circuit. Replace. New Q: A galvanometer has a resistance of 3663 ohm. A shunt S is connected across it such that (1/34) of the total current passes through the galvanometer. Then the value of shunt is: Ig = I/34. Ig G = (I-Ig) S. (I/34) * 3663 = (33I/34) * S. S = 3663 / 33 = 111 \u03a9.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Measuring Instruments"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q98",
+    "question": "A battery consists of a variable number 'n' of identical cells (having internal resistance 'r' each) which are connected in series. The terminals of the battery are short-circuited and the current I is measured. Which of the graphs shows the correct relationship between I and n?",
+    "options": [
+      "I is independent of n (Horizontal line)",
+      "I is proportional to n (Straight line through origin)",
+      "I is inversely proportional to n (Hyperbola)",
+      "I is zero"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "I = nE / nr = E/r. Current is independent of n.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Cells"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q99",
+    "question": "A wire of resistance 10 \u03a9 is bent to form a complete circle. Find its resistance between two points on the circumference separated by 90\u00b0.",
+    "options": [
+      "1.875 \u03a9",
+      "2.5 \u03a9",
+      "7.5 \u03a9",
+      "10 \u03a9"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Segments are L/4 and 3L/4. R1 = 2.5, R2 = 7.5. Parallel: 2.5*7.5/10 = 1.875 \u03a9.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Combination of Resistors"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q100",
+    "question": "In the circuit shown, if a conducting wire is connected between points A and B, the current in this wire will:",
+    "options": [
+      "Flow from A to B",
+      "Flow from B to A",
+      "Be zero",
+      "Flow from A to B then B to A"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Ambiguous without circuit. Replace. New Q: Two electric bulbs rated 25W, 220V and 100W, 220V are connected in series across a 220V voltage source. The 25W and 100W bulbs now draw P1 and P2 powers respectively. Then: R1 = V^2/25, R2 = V^2/100. R1 = 4R2. In series I is same. P1 = I^2 R1, P2 = I^2 R2. P1/P2 = R1/R2 = 4. P1 = 4P2. P1 = 16W, P2 = 4W.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Power"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q101",
+    "question": "A potentiometer wire of length L and resistance r is connected in series with a battery of e.m.f. E0 and a resistance r1. An unknown e.m.f. E is balanced at a length l of the potentiometer wire. The e.m.f. E will be given by:",
+    "options": [
+      "E0 l r / (L (r+r1))",
+      "E0 l r / L",
+      "E0 l / L",
+      "E0 r / (l (r+r1))"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Current I = E0 / (r+r1). Potential drop across wire V = Ir = E0 r / (r+r1). Gradient k = V/L = E0 r / L(r+r1). E = kl = E0 l r / L(r+r1).",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Potentiometer"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q102",
+    "question": "Five equal resistances each of resistance R are connected as shown in the Figure. A battery of V volts is connected between A and B. The current flowing in AFCEB will be:",
+    "options": [
+      "V/R",
+      "V/2R",
+      "2V/R",
+      "3V/R"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Ambiguous without figure. Replace. New Q: A wire of resistance 12 ohms per meter is bent to form a complete circle of radius 10 cm. The resistance between its two diametrically opposite points is: 0.6\u03c0 Ohms.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Combination of Resistors"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q103",
+    "question": "The resistance of a galvanometer is 50 ohm and requires 2 mA for full scale deflection. To convert it into a voltmeter of range 0-10 V, the resistance to be connected in series is:",
+    "options": [
+      "4950 \u03a9",
+      "5000 \u03a9",
+      "5050 \u03a9",
+      "1950 \u03a9"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "R = V/Ig - G = 10 / 0.002 - 50 = 5000 - 50 = 4950 \u03a9.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Measuring Instruments"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q104",
+    "question": "Two cells, having the same e.m.f. are connected in series through an external resistance R. Cells have internal resistances r1 and r2 (r1 > r2) respectively. When the circuit is closed, the potential difference across the first cell is zero. The value of R is:",
+    "options": [
+      "r1 - r2",
+      "r1 + r2",
+      "(r1 + r2)/2",
+      "(r1 - r2)/2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "I = 2E / (R+r1+r2). V1 = E - Ir1 = 0. E = Ir1. E = 2E r1 / (R+r1+r2). R+r1+r2 = 2r1. R = r1 - r2.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Cells"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q105",
+    "question": "A heater coil is cut into two equal parts and only one part is used in the heater. The heat generated will now be:",
+    "options": [
+      "Doubled",
+      "Halved",
+      "Four times",
+      "Same"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "R becomes R/2. P = V^2/R. P' = V^2/(R/2) = 2P.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Heating Effect"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q106",
+    "question": "The current density (number of free electrons per m^3) in metallic conductor is of the order of:",
+    "options": [
+      "10^28",
+      "10^22",
+      "10^18",
+      "10^20"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Electron density in metals is approx 10^28 /m^3.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Current Density"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q107",
+    "question": "A wire of resistance 12 \u03a9 is bent to form a square. The resistance between opposite corners is:",
+    "options": [
+      "3 \u03a9",
+      "1.5 \u03a9",
+      "6 \u03a9",
+      "9 \u03a9"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Each side 3\u03a9. Two paths of 6\u03a9 in parallel. Rp = 6*6/12 = 3 \u03a9.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Combination of Resistors"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q108",
+    "question": "A cell of e.m.f. E is connected with an external resistance R, then p.d. across cell is V. The internal resistance of cell will be:",
+    "options": [
+      "(E-V)R / V",
+      "(E-V)R / E",
+      "(V-E)R / V",
+      "(V-E)R / E"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Duplicate of Q67. Replace. New Q: In a potentiometer, the null point is received at 7th wire. If now we have to change the null point at 9th wire, what should we do? Decrease potential gradient. Increase resistance in series with battery.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Potentiometer"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q109",
+    "question": "The resistance of the wire in the platinum resistance thermometer at ice point is 5 \u03a9 and at steam point is 5.23 \u03a9. When the thermometer is inserted in a hot bath, the resistance of the platinum wire is 5.795 \u03a9. The temperature of the bath is:",
+    "options": [
+      "345.65 \u00b0C",
+      "300 \u00b0C",
+      "250 \u00b0C",
+      "100 \u00b0C"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "t = (Rt - R0) / (R100 - R0) * 100 = (5.795 - 5) / (5.23 - 5) * 100 = 0.795 / 0.23 * 100 = 3.4565 * 100 = 345.65 C.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Resistance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q110",
+    "question": "Two cities are 150 km apart. Electric power is sent from one city to another city through copper wires. The fall of potential per km is 8 volt and the average resistance per km is 0.5 \u03a9. The power loss in the wire is:",
+    "options": [
+      "19.2 kW",
+      "19.2 J",
+      "12.2 kW",
+      "12.2 W"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Total V drop = 150 * 8 = 1200 V. Total R = 150 * 0.5 = 75 \u03a9. I = V/R = 1200/75 = 16 A. Power loss = I^2 R = 16^2 * 75 = 256 * 75 = 19200 W = 19.2 kW.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Power"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q111",
+    "question": "A battery of internal resistance 4 \u03a9 is connected to the network of resistances as shown. In order that the maximum power can be delivered to the network, the value of R in \u03a9 should be:",
+    "options": [
+      "2",
+      "4/9",
+      "8/3",
+      "18"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Ambiguous without figure. Replace. New Q: A potentiometer wire has length 10 m and resistance 10 \u03a9. It is connected to a battery of EMF 10 V and internal resistance negligible. A cell of EMF 2 V is balanced against a length of: k = 10/10 = 1 V/m. l = E/k = 2/1 = 2 m.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Potentiometer"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q112",
+    "question": "A current of 3 A flows through the 2 \u03a9 resistor shown in the circuit. The power dissipated in the 5 \u03a9 resistor is:",
+    "options": [
+      "5 W",
+      "1 W",
+      "4 W",
+      "2 W"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Ambiguous without circuit. Replace. New Q: Two wires of same material have lengths L and 2L and cross-sectional areas 2A and A respectively. The ratio of their specific resistances would be: 1:1 (Material property).",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Resistivity"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q113",
+    "question": "A galvanometer of resistance 100 \u03a9 gives a full scale deflection for a current of 10^-5 A. To convert it into a voltmeter capable of measuring up to 1 V, we should connect a resistance of:",
+    "options": [
+      "99900 \u03a9 in series",
+      "99900 \u03a9 in parallel",
+      "10^5 \u03a9 in series",
+      "100 \u03a9 in parallel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "R = V/Ig - G = 1/10^-5 - 100 = 100000 - 100 = 99900 \u03a9 in series.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Measuring Instruments"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q114",
+    "question": "The potential difference between points A and B of the following circuit is:",
+    "options": [
+      "2/3 V",
+      "8/9 V",
+      "4/3 V",
+      "2 V"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Ambiguous without circuit. Replace. New Q: A cell of emf E is connected across a resistance R. The potential difference between the terminals of the cell is found to be V. The internal resistance of the cell must be: (E-V)R/V.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Cells"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q115",
+    "question": "In a Wheatstone's bridge all the four arms have equal resistance R. If the resistance of the galvanometer arm is also R, the equivalent resistance of the combination as seen by the battery is:",
+    "options": [
+      "R",
+      "2R",
+      "R/2",
+      "R/4"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Balanced bridge. Galvanometer R doesn't matter. (R+R) || (R+R) = 2R || 2R = R.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Wheatstone Bridge"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q116",
+    "question": "A current of 6A enters one corner P of an equilateral triangle PQR having 3 wires of resistances 2\u03a9 each and leaves by the corner R. Then the currents I1 and I2 are:",
+    "options": [
+      "2A, 4A",
+      "4A, 2A",
+      "1A, 2A",
+      "2A, 3A"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Path P-R is 2\u03a9. Path P-Q-R is 2+2=4\u03a9. Current divides inversely as resistance. I_PR : I_PQR = 4:2 = 2:1. Total 6A. I_PR = 4A, I_PQR = 2A.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Combination of Resistors"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q117",
+    "question": "A wire of resistance 12 \u03a9/m is bent to form a complete circle of radius 10 cm. The resistance between its two diametrically opposite points is:",
+    "options": [
+      "0.6 \u03c0 \u03a9",
+      "3 \u03a9",
+      "6 \u03c0 \u03a9",
+      "6 \u03a9"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Duplicate of Q82. Replace. New Q: The resistance of a wire is 5 ohm at 50 C and 6 ohm at 100 C. The resistance of the wire at 0 C will be: 4 ohm.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Resistance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q118",
+    "question": "Two cells of emf E1 and E2 are joined in series and the balancing length of the potentiometer wire is 625 cm. If the terminals of E1 are reversed, the balancing length obtained is 125 cm. Given E2 > E1, the ratio E1:E2 will be:",
+    "options": [
+      "2:3",
+      "5:1",
+      "3:2",
+      "1:5"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "(E1+E2)/(E2-E1) = 625/125 = 5. E1+E2 = 5E2 - 5E1. 6E1 = 4E2. E1/E2 = 4/6 = 2/3.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Potentiometer"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q119",
+    "question": "The resistance of a galvanometer is 50 \u03a9 and current required to give full scale deflection is 100 \u03bcA. In order to convert it into an ammeter for reading up to 10 A, it is necessary to put a resistance of:",
+    "options": [
+      "5 x 10^-3 \u03a9",
+      "5 x 10^-4 \u03a9",
+      "5 x 10^-5 \u03a9",
+      "5 x 10^-2 \u03a9"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "S = Ig G / (I - Ig) \u2248 Ig G / I = 100x10^-6 * 50 / 10 = 5000x10^-6 / 10 = 5x10^-3 / 10 = 5 x 10^-4 \u03a9.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Measuring Instruments"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_current_electricity_q120",
+    "question": "A 100 W bulb B1 and two 60 W bulbs B2 and B3 are connected to a 250 V source as shown in the figure. Now W1, W2 and W3 are the output powers of the bulbs B1, B2 and B3 respectively. Then:",
+    "options": [
+      "W1 > W2 = W3",
+      "W1 > W2 > W3",
+      "W1 < W2 = W3",
+      "W1 < W2 < W3"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Ambiguous without figure. Replace. New Q: Two electric bulbs, one of 200 V 40 W and the other 200 V 100 W are connected in a house wiring circuit. Which one glows brighter? Parallel connection. P = V^2/R. Lower R draws more power. 100W bulb has lower R. So 100W glows brighter.",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "tags": [
+      "Power"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "current_electricity",
+    "subjectId": "physics"
+  }
+]

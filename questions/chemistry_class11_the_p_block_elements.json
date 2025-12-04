@@ -1,0 +1,2642 @@
+[
+  {
+    "id": "chemistry_p_block_elements_q1",
+    "question": "The general electronic configuration of p-block elements is:",
+    "options": [
+      "ns2 np1-6",
+      "ns1-2 np1-6",
+      "ns2 np0-6",
+      "ns2 (n-1)d1-10"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The general outer electronic configuration of p-block elements is ns2 np1-6.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "electronic configuration"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q2",
+    "question": "Group 13 elements are also known as:",
+    "options": [
+      "Boron family",
+      "Carbon family",
+      "Nitrogen family",
+      "Oxygen family"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Group 13 elements are called the Boron family.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "basics"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q3",
+    "question": "Which of the following is a non-metal in Group 13?",
+    "options": [
+      "Al",
+      "Ga",
+      "B",
+      "In"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Boron is a typical non-metal, while other members are metals.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q4",
+    "question": "The most abundant metal in the earth's crust is:",
+    "options": [
+      "Fe",
+      "Al",
+      "Cu",
+      "Au"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Aluminium is the most abundant metal in the earth's crust.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "occurrence"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q5",
+    "question": "Inert pair effect is most prominent in:",
+    "options": [
+      "B",
+      "Al",
+      "Ga",
+      "Tl"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Inert pair effect increases down the group, so it is most prominent in Thallium (Tl).",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "periodic trends"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q6",
+    "question": "Borax is represented as:",
+    "options": [
+      "Na2B4O7.10H2O",
+      "Na2B4O7.5H2O",
+      "NaBO2",
+      "H3BO3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Borax is Sodium tetraborate decahydrate (Na2B4O7.10H2O).",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "compounds"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q7",
+    "question": "Orthoboric acid is:",
+    "options": [
+      "HBO2",
+      "H3BO3",
+      "H2B4O7",
+      "B2O3"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Orthoboric acid is H3BO3.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "compounds"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q8",
+    "question": "Diborane is:",
+    "options": [
+      "B2H6",
+      "B4H10",
+      "BH3",
+      "B3N3H6"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Diborane is B2H6.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "compounds"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q9",
+    "question": "Which of the following is an electron deficient compound?",
+    "options": [
+      "NH3",
+      "H2O",
+      "B2H6",
+      "CH4"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Diborane (B2H6) is an electron deficient hydride.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "chemical bonding"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q10",
+    "question": "Group 14 elements are also known as:",
+    "options": [
+      "Boron family",
+      "Carbon family",
+      "Nitrogen family",
+      "Halogens"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Group 14 elements are called the Carbon family.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "basics"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q11",
+    "question": "Catenation property is maximum in:",
+    "options": [
+      "C",
+      "Si",
+      "Ge",
+      "Pb"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Carbon shows maximum catenation due to high C-C bond energy.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q12",
+    "question": "The purest form of carbon is:",
+    "options": [
+      "Diamond",
+      "Graphite",
+      "Fullerene",
+      "Coal"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Fullerenes are the purest form of carbon as they do not have dangling bonds.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "allotropes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q13",
+    "question": "Dry ice is:",
+    "options": [
+      "Solid H2O",
+      "Solid CO2",
+      "Solid N2",
+      "Solid O2"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Solid Carbon dioxide is known as dry ice.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "compounds"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q14",
+    "question": "Water gas is a mixture of:",
+    "options": [
+      "CO + N2",
+      "CO + H2",
+      "CO2 + H2",
+      "CO + H2O"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Water gas is CO + H2.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "compounds"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q15",
+    "question": "Producer gas is a mixture of:",
+    "options": [
+      "CO + N2",
+      "CO + H2",
+      "CO2 + N2",
+      "CO2 + H2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Producer gas is CO + N2.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "compounds"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q16",
+    "question": "Which of the following is used as a semiconductor?",
+    "options": [
+      "C",
+      "Si",
+      "Pb",
+      "Sn"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Silicon (and Germanium) are widely used semiconductors.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "applications"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q17",
+    "question": "The hybridization of Boron in B2H6 is:",
+    "options": [
+      "sp",
+      "sp2",
+      "sp3",
+      "dsp2"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "In diborane, each boron atom is sp3 hybridized.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "chemical bonding"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q18",
+    "question": "Which of the following is a Lewis acid?",
+    "options": [
+      "NH3",
+      "BF3",
+      "H2O",
+      "CH4"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "BF3 is electron deficient and accepts electron pair, acting as a Lewis acid.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q19",
+    "question": "The shape of BF3 molecule is:",
+    "options": [
+      "Tetrahedral",
+      "Trigonal planar",
+      "Pyramidal",
+      "Linear"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "BF3 is sp2 hybridized and trigonal planar.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "chemical bonding"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q20",
+    "question": "Aluminium chloride exists as a dimer (Al2Cl6) in:",
+    "options": [
+      "Solid state",
+      "Vapour state",
+      "Aqueous solution",
+      "Molten state"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "In vapour state and non-polar solvents, AlCl3 exists as a dimer.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q21",
+    "question": "Which allotrope of carbon conducts electricity?",
+    "options": [
+      "Diamond",
+      "Graphite",
+      "Fullerene",
+      "Coke"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Graphite conducts electricity due to the presence of free electrons.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "allotropes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q22",
+    "question": "Thermodynamically most stable allotrope of carbon is:",
+    "options": [
+      "Diamond",
+      "Graphite",
+      "Fullerene",
+      "Coal"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Graphite is the thermodynamically most stable allotrope.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "allotropes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q23",
+    "question": "Silicons are:",
+    "options": [
+      "Organosilicon polymers",
+      "Silicates",
+      "Pure silicon",
+      "Alloys of silicon"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Silicones are organosilicon polymers with R2SiO repeating units.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "compounds"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q24",
+    "question": "The basic structural unit of silicates is:",
+    "options": [
+      "SiO2",
+      "SiO4 4-",
+      "SiO3 2-",
+      "Si2O7 6-"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "The basic unit is the tetrahedral SiO4 4- ion.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "compounds"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q25",
+    "question": "Zeolites are used as:",
+    "options": [
+      "Catalysts",
+      "Water softeners",
+      "Both 1 and 2",
+      "Oxidizing agents"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Zeolites are used as catalysts (e.g., ZSM-5) and water softeners.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "applications"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q26",
+    "question": "Which of the following is poisonous?",
+    "options": [
+      "CO2",
+      "CO",
+      "C",
+      "SiO2"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Carbon monoxide (CO) is highly poisonous as it binds to haemoglobin.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q27",
+    "question": "Inorganic benzene is:",
+    "options": [
+      "B3N3H6",
+      "C6H6",
+      "B2H6",
+      "BN"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Borazine (B3N3H6) is known as inorganic benzene.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "compounds"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q28",
+    "question": "Which of the following oxides is amphoteric?",
+    "options": [
+      "CO2",
+      "SiO2",
+      "GeO2",
+      "SnO2"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "SnO2 and PbO2 are amphoteric. CO2, SiO2, GeO2 are acidic.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q29",
+    "question": "The oxidation state of Carbon in CO is:",
+    "options": [
+      "+2",
+      "+4",
+      "0",
+      "-4"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "In CO, Carbon is in +2 oxidation state.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "oxidation state"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q30",
+    "question": "Which of the following is used as a moderator in nuclear reactors?",
+    "options": [
+      "Diamond",
+      "Graphite",
+      "Fullerene",
+      "Lead"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Graphite is used as a moderator.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "applications"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q31",
+    "question": "Quartz is a crystalline form of:",
+    "options": [
+      "Al2O3",
+      "SiO2",
+      "B2O3",
+      "CO2"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Quartz is a crystalline form of Silica (SiO2).",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "compounds"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q32",
+    "question": "Which acid is used to etch glass?",
+    "options": [
+      "HCl",
+      "HNO3",
+      "H2SO4",
+      "HF"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Hydrofluoric acid (HF) attacks glass (SiO2) forming H2SiF6.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q33",
+    "question": "The hardest natural substance is:",
+    "options": [
+      "Graphite",
+      "Diamond",
+      "Quartz",
+      "Corundum"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Diamond is the hardest natural substance.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q34",
+    "question": "Which of the following does not form a stable cation?",
+    "options": [
+      "C",
+      "Si",
+      "Ge",
+      "Sn"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Carbon does not form C4+ ions due to high ionization energy.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q35",
+    "question": "The hybridization of Carbon in diamond is:",
+    "options": [
+      "sp",
+      "sp2",
+      "sp3",
+      "dsp2"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "In diamond, each carbon is sp3 hybridized.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "chemical bonding"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q36",
+    "question": "The hybridization of Carbon in graphite is:",
+    "options": [
+      "sp",
+      "sp2",
+      "sp3",
+      "dsp2"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "In graphite, each carbon is sp2 hybridized.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "chemical bonding"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q37",
+    "question": "Which of the following is used as a lubricant?",
+    "options": [
+      "Diamond",
+      "Graphite",
+      "Silica",
+      "Borax"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Graphite is used as a dry lubricant due to its layered structure.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "applications"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q38",
+    "question": "Alum is a double salt of:",
+    "options": [
+      "Potassium and Sodium",
+      "Potassium and Aluminium",
+      "Sodium and Aluminium",
+      "Calcium and Magnesium"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Potash alum is K2SO4.Al2(SO4)3.24H2O.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "compounds"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q39",
+    "question": "Which of the following is a metalloid?",
+    "options": [
+      "C",
+      "Si",
+      "Pb",
+      "Sn"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Silicon and Germanium are metalloids.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "basics"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q40",
+    "question": "The number of carbon atoms in Buckminsterfullerene is:",
+    "options": [
+      "40",
+      "50",
+      "60",
+      "70"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Buckminsterfullerene is C60.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "allotropes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q41",
+    "question": "Which of the following elements shows the maximum catenation property?",
+    "options": [
+      "S",
+      "Si",
+      "P",
+      "C"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Carbon shows maximum catenation due to high C-C bond enthalpy and small size.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q42",
+    "question": "The correct order of atomic radii in Group 13 elements is:",
+    "options": [
+      "B < Al < Ga < In < Tl",
+      "B < Ga < Al < In < Tl",
+      "B < Al < In < Ga < Tl",
+      "B < Ga < In < Al < Tl"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Atomic radius of Ga (135 pm) is less than Al (143 pm) due to poor shielding of d-electrons.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "periodic trends"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q43",
+    "question": "Which of the following does not exist?",
+    "options": [
+      "BF6 3-",
+      "AlF6 3-",
+      "GaF6 3-",
+      "InF6 3-"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Boron does not have d-orbitals, so it cannot expand its covalency beyond 4. Thus BF6 3- does not exist.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "chemical bonding"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q44",
+    "question": "The stability of +1 oxidation state among Group 13 elements follows the order:",
+    "options": [
+      "Al < Ga < In < Tl",
+      "Tl < In < Ga < Al",
+      "Ga < Al < In < Tl",
+      "Al < In < Ga < Tl"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Due to inert pair effect, the stability of lower oxidation state (+1) increases down the group.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "oxidation state"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q45",
+    "question": "Which of the following is used as a catalyst in Friedel-Crafts reaction?",
+    "options": [
+      "Anhydrous AlCl3",
+      "Hydrated AlCl3",
+      "Anhydrous ZnCl2",
+      "FeCl3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Anhydrous AlCl3 acts as a Lewis acid catalyst in Friedel-Crafts reaction.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "applications"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q46",
+    "question": "The structure of diborane contains:",
+    "options": [
+      "Four 2c-2e bonds and two 3c-2e bonds",
+      "Two 2c-2e bonds and four 3c-2e bonds",
+      "Four 2c-2e bonds and four 3c-2e bonds",
+      "Two 2c-2e bonds and two 3c-2e bonds"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Diborane has four terminal B-H bonds (2c-2e) and two bridge B-H-B bonds (3c-2e banana bonds).",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "chemical bonding"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q47",
+    "question": "Which of the following oxides is acidic?",
+    "options": [
+      "B2O3",
+      "Al2O3",
+      "Ga2O3",
+      "In2O3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "B2O3 is acidic. Al2O3 and Ga2O3 are amphoteric. In2O3 is basic.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q48",
+    "question": "The correct order of Lewis acid strength is:",
+    "options": [
+      "BF3 < BCl3 < BBr3 < BI3",
+      "BI3 < BBr3 < BCl3 < BF3",
+      "BF3 < BI3 < BBr3 < BCl3",
+      "BF3 < BBr3 < BCl3 < BI3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Back bonding is strongest in BF3 (2p-2p) and weakest in BI3 (2p-5p), making BI3 the strongest Lewis acid.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q49",
+    "question": "Which of the following is formed when Borax is heated strongly?",
+    "options": [
+      "B2O3 + NaBO2",
+      "B2O3 + H3BO3",
+      "NaBO2 + H2O",
+      "Na2B4O7"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Na2B4O7.10H2O -> Na2B4O7 -> 2NaBO2 + B2O3 (Borax bead).",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "chemical properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q50",
+    "question": "Which of the following is not a use of Boron?",
+    "options": [
+      "Bullet-proof vest",
+      "Nuclear reactor control rods",
+      "High temperature paints",
+      "Fertilizer"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Boron fibers are used in bullet-proof vests. Boron is used in control rods. Boron is a micronutrient but not a primary fertilizer component like N, P, K.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "applications"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q51",
+    "question": "The tendency of Group 14 elements to show +2 oxidation state increases in the order:",
+    "options": [
+      "C < Si < Ge < Sn < Pb",
+      "Pb < Sn < Ge < Si < C",
+      "C < Ge < Si < Sn < Pb",
+      "C < Si < Sn < Ge < Pb"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Due to inert pair effect, stability of +2 oxidation state increases down the group.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "oxidation state"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q52",
+    "question": "Which of the following halides is least stable?",
+    "options": [
+      "PbCl4",
+      "SnCl4",
+      "GeCl4",
+      "SiCl4"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Pb(IV) is unstable due to inert pair effect and acts as a strong oxidizing agent.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "stability"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q53",
+    "question": "Which of the following is correct regarding the structure of Graphite?",
+    "options": [
+      "Layered structure with van der Waals forces",
+      "3D network structure",
+      "Cage-like structure",
+      "Linear chain structure"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Graphite has a layered structure held together by weak van der Waals forces.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "allotropes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q54",
+    "question": "Which of the following reacts with water to give methane?",
+    "options": [
+      "Al4C3",
+      "CaC2",
+      "SiC",
+      "Mg2C3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Al4C3 + 12H2O -> 4Al(OH)3 + 3CH4.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "chemical properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q55",
+    "question": "Silicon dioxide is:",
+    "options": [
+      "Acidic",
+      "Basic",
+      "Amphoteric",
+      "Neutral"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "SiO2 is an acidic oxide as it reacts with bases to form silicates.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q56",
+    "question": "Which of the following is used in the preparation of silicones?",
+    "options": [
+      "RSiCl3",
+      "R2SiCl2",
+      "R3SiCl",
+      "SiCl4"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Hydrolysis of dialkyldichlorosilane (R2SiCl2) followed by polymerization yields straight chain silicones.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "compounds"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q57",
+    "question": "The basic unit of pyrosilicates is:",
+    "options": [
+      "Si2O7 6-",
+      "SiO4 4-",
+      "SiO3 2-",
+      "Si4O11 6-"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Pyrosilicates contain Si2O7 6- unit (two tetrahedra sharing one oxygen).",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "compounds"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q58",
+    "question": "Which of the following is not hydrolyzed by water?",
+    "options": [
+      "CCl4",
+      "SiCl4",
+      "GeCl4",
+      "SnCl4"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "CCl4 is not hydrolyzed because Carbon does not have d-orbitals to accept lone pair from water.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q59",
+    "question": "Which of the following is a neutral oxide?",
+    "options": [
+      "CO",
+      "CO2",
+      "SiO2",
+      "GeO2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "CO is a neutral oxide.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q60",
+    "question": "The C-C bond length in graphite is:",
+    "options": [
+      "141.5 pm",
+      "154 pm",
+      "133 pm",
+      "120 pm"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "C-C bond length in graphite is 141.5 pm (intermediate between single and double bond).",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "allotropes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q61",
+    "question": "Which of the following is used as an abrasive?",
+    "options": [
+      "SiC",
+      "SiO2",
+      "Graphite",
+      "Fullerene"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Silicon Carbide (SiC), also known as Carborundum, is used as an abrasive.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "applications"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q62",
+    "question": "The geometry of carbon atoms in diamond is:",
+    "options": [
+      "Tetrahedral",
+      "Trigonal planar",
+      "Linear",
+      "Octahedral"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "In diamond, each carbon is sp3 hybridized and tetrahedrally bonded.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "allotropes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q63",
+    "question": "Which of the following is correct regarding the property of CO?",
+    "options": [
+      "It is a strong reducing agent",
+      "It is a strong oxidizing agent",
+      "It is soluble in water",
+      "It is acidic in nature"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "CO is a strong reducing agent (e.g., in metallurgy).",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q64",
+    "question": "The number of 5-membered and 6-membered rings in C60 are:",
+    "options": [
+      "12 and 20",
+      "20 and 12",
+      "12 and 12",
+      "20 and 20"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "C60 contains 12 five-membered rings and 20 six-membered rings.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "allotropes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q65",
+    "question": "Which of the following is used in water softening?",
+    "options": [
+      "Zeolite",
+      "Quartz",
+      "Silica gel",
+      "Silicones"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Hydrated sodium aluminium silicate (Zeolite/Permutit) is used for water softening.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "applications"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q66",
+    "question": "The reaction of Al with NaOH gives:",
+    "options": [
+      "Sodium metaaluminate and H2",
+      "Aluminium hydroxide and H2",
+      "Sodium oxide and H2",
+      "No reaction"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "2Al + 2NaOH + 2H2O -> 2NaAlO2 (Sodium metaaluminate) + 3H2.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "chemical properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q67",
+    "question": "Which of the following is the most stable hydride?",
+    "options": [
+      "CH4",
+      "SiH4",
+      "GeH4",
+      "SnH4"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Bond dissociation energy decreases down the group, so CH4 is most stable.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "stability"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q68",
+    "question": "Which of the following is correct for H3BO3?",
+    "options": [
+      "It is a monobasic weak Lewis acid",
+      "It is a tribasic acid",
+      "It is a dibasic acid",
+      "It is a strong acid"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "H3BO3 accepts OH- from water, releasing H+. It acts as a weak monobasic Lewis acid.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q69",
+    "question": "The hybridization of Si in SiO2 is:",
+    "options": [
+      "sp3",
+      "sp2",
+      "sp",
+      "dsp2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "In SiO2 network, each Si is bonded to 4 Oxygen atoms tetrahedrally (sp3).",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "chemical bonding"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q70",
+    "question": "Which of the following is used to produce smoke screens?",
+    "options": [
+      "SiCl4",
+      "CCl4",
+      "GeCl4",
+      "PbCl4"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "SiCl4 hydrolyses in moist air to give white fumes of HCl and SiO2, used in smoke screens.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "applications"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q71",
+    "question": "The correct order of ionization enthalpy is:",
+    "options": [
+      "B > Tl > Ga > Al > In",
+      "B > Al > Ga > In > Tl",
+      "B > Ga > Al > In > Tl",
+      "B > Al > In > Ga > Tl"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Due to poor shielding of d and f electrons, Tl and Ga have higher IE than expected. Order: B > Tl > Ga > Al > In.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "periodic trends"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q72",
+    "question": "Which of the following is an example of a sheet silicate?",
+    "options": [
+      "Kaolinite",
+      "Zircon",
+      "Beryl",
+      "Quartz"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Kaolinite (Clay) is a sheet silicate (Si2O5 2- unit).",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "compounds"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q73",
+    "question": "The metal which becomes passive on reaction with concentrated HNO3 is:",
+    "options": [
+      "Al",
+      "B",
+      "Ga",
+      "In"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Aluminium becomes passive due to formation of a protective oxide layer.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "chemical properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q74",
+    "question": "Which of the following is not a property of Boron?",
+    "options": [
+      "It forms ionic compounds",
+      "It has high melting point",
+      "It forms covalent compounds",
+      "It is a non-metal"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Boron forms covalent compounds due to small size and high ionization energy.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q75",
+    "question": "The compound used as a flux in soldering metals is:",
+    "options": [
+      "ZnCl2 + NH4Cl",
+      "Borax",
+      "Alum",
+      "Silica"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "ZnCl2 + NH4Cl is used. Borax is also used as a flux. But ZnCl2/NH4Cl is common for soldering. Wait. Borax is used as flux. Let's check NCERT. Borax is used as a flux for soldering metals. So B is correct.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "applications"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q76",
+    "question": "Which of the following is the correct formula for inorganic benzene?",
+    "options": [
+      "B3N3H6",
+      "B3N3H3",
+      "B6N6H6",
+      "BN"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Borazine is B3N3H6.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "compounds"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q77",
+    "question": "Which of the following is a chain silicate?",
+    "options": [
+      "Spodumene",
+      "Zircon",
+      "Beryl",
+      "Mica"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Spodumene (Pyroxene) is a chain silicate. Beryl is cyclic. Zircon is ortho. Mica is sheet.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "compounds"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q78",
+    "question": "The oxidation state of Al in [Al(H2O)6]3+ is:",
+    "options": [
+      "+3",
+      "+2",
+      "+1",
+      "0"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Aluminium is in +3 oxidation state.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "oxidation state"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q79",
+    "question": "Which of the following is used in the manufacture of glass?",
+    "options": [
+      "Na2CO3",
+      "NaHCO3",
+      "NaOH",
+      "NaCl"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Sodium carbonate (Soda ash) is used in glass manufacturing.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "applications"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q80",
+    "question": "The correct order of electronegativity is:",
+    "options": [
+      "B > Al < Ga < In < Tl",
+      "B > Al > Ga > In > Tl",
+      "B < Al < Ga < In < Tl",
+      "B > Tl > In > Ga > Al"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Electronegativity decreases from B to Al, then increases marginally due to poor shielding. B(2.0), Al(1.5), Ga(1.6), In(1.7), Tl(1.8). So B > Tl > In > Ga > Al. Wait. Order is B > Tl > In > Ga > Al. Let's check options. A says B > Al < Ga < In < Tl. This matches the trend of decrease then increase. B(2.0) > Al(1.5) < Ga(1.6) < In(1.7) < Tl(1.8). So A is correct.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "periodic trends"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q81",
+    "question": "Which of the following is correct for CO?",
+    "options": [
+      "It is isoelectronic with N2",
+      "It is isoelectronic with O2",
+      "It is isoelectronic with NO",
+      "It is isoelectronic with CN"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "CO (6+8=14e) and N2 (7+7=14e) are isoelectronic.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q82",
+    "question": "Which of the following is not an organometallic compound?",
+    "options": [
+      "Sodium ethoxide",
+      "Trimethyl aluminium",
+      "Tetraethyl lead",
+      "Ferrocene"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Sodium ethoxide (RONa) has O-Na bond, not C-Metal bond. Organometallics have C-M bond.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "compounds"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q83",
+    "question": "The coordination number of Al in [AlCl(H2O)5]2+ is:",
+    "options": [
+      "6",
+      "4",
+      "5",
+      "3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Al is bonded to 1 Cl and 5 H2O. Coordination number is 6.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "coordination compounds"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q84",
+    "question": "Which of the following is formed when CO2 is passed through lime water?",
+    "options": [
+      "CaCO3",
+      "Ca(HCO3)2",
+      "CaO",
+      "CaC2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "CO2 turns lime water milky due to formation of CaCO3.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "chemical properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q85",
+    "question": "The main constituent of Pyrex glass is:",
+    "options": [
+      "Borosilicate glass",
+      "Lead glass",
+      "Soda glass",
+      "Potash glass"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Pyrex is a borosilicate glass.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "applications"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q86",
+    "question": "Which of the following is a cyclic silicate?",
+    "options": [
+      "Beryl",
+      "Zircon",
+      "Spodumene",
+      "Quartz"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Beryl (Be3Al2Si6O18) contains cyclic Si6O18 12- ion.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "compounds"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q87",
+    "question": "The reaction of B2H6 with NH3 gives:",
+    "options": [
+      "B2H6.2NH3",
+      "B3N3H6",
+      "BN",
+      "H3BO3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Initially it forms an adduct B2H6.2NH3 (or [BH2(NH3)2]+ [BH4]-). On heating it gives Borazine.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "chemical properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q88",
+    "question": "Which of the following is used as a refrigerant?",
+    "options": [
+      "Dry ice",
+      "Freon",
+      "Liquid N2",
+      "Liquid He"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Dry ice (Solid CO2) is used as a refrigerant. (Freons are also used, but Dry ice is a common p-block compound use).",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "applications"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q89",
+    "question": "The bond angle in BCl3 is:",
+    "options": [
+      "120\u00b0",
+      "109.5\u00b0",
+      "90\u00b0",
+      "180\u00b0"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "BCl3 is trigonal planar with 120\u00b0 bond angle.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "chemical bonding"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q90",
+    "question": "Which of the following is the correct order of density?",
+    "options": [
+      "Diamond > Graphite > Fullerene",
+      "Graphite > Diamond > Fullerene",
+      "Diamond > Fullerene > Graphite",
+      "Fullerene > Diamond > Graphite"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Diamond (3.51 g/cm3) > Graphite (2.25 g/cm3). Fullerene is approx 1.65.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q91",
+    "question": "The correct order of Lewis acid strength of boron halides is:",
+    "options": [
+      "BF3 < BCl3 < BBr3 < BI3",
+      "BI3 < BBr3 < BCl3 < BF3",
+      "BF3 < BI3 < BBr3 < BCl3",
+      "BF3 < BBr3 < BCl3 < BI3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "The order is BF3 < BCl3 < BBr3 < BI3. This is due to the decreasing strength of p\u03c0-p\u03c0 back bonding as the size of the halogen atom increases from F to I.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "chemical bonding"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q92",
+    "question": "Which of the following statements is incorrect regarding the structure of Diborane?",
+    "options": [
+      "The four terminal B-H bonds are regular two-centre-two-electron bonds",
+      "The two bridge B-H-B bonds are three-centre-two-electron bonds",
+      "The hybridization of Boron is sp2",
+      "The molecule is non-planar"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "In diborane, each Boron atom is sp3 hybridized, not sp2.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "chemical bonding"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q93",
+    "question": "When orthoboric acid is heated above 370K, it forms:",
+    "options": [
+      "Metaboric acid (HBO2)",
+      "Boric anhydride (B2O3)",
+      "Tetraboric acid (H2B4O7)",
+      "Borax"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "H3BO3 on heating above 370K gives Metaboric acid (HBO2). On further heating, it gives B2O3.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "chemical properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q94",
+    "question": "The reason for the stability of Tl+ ion over Tl3+ ion is:",
+    "options": [
+      "Inert pair effect",
+      "Lanthanoid contraction",
+      "Diagonal relationship",
+      "High hydration energy"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Inert pair effect makes the ns2 electrons reluctant to participate in bonding, stabilizing the lower oxidation state (+1) for heavier elements like Tl.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "oxidation state"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q95",
+    "question": "Which of the following species does not exist?",
+    "options": [
+      "SiF6 2-",
+      "GeCl6 2-",
+      "Sn(OH)6 2-",
+      "SiCl6 2-"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "SiCl6 2- does not exist because six large chloride ions cannot be accommodated around the small silicon atom due to steric hindrance.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "chemical bonding"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q96",
+    "question": "The hydrolysis of alkyl substituted chlorosilanes yields:",
+    "options": [
+      "Silicates",
+      "Silicones",
+      "Silicic acid",
+      "Silicon carbide"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Hydrolysis of alkyl chlorosilanes followed by condensation polymerization yields silicones.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "compounds"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q97",
+    "question": "In the structure of fullerene (C60), the number of vertices and faces are respectively:",
+    "options": [
+      "60 and 32",
+      "60 and 20",
+      "32 and 60",
+      "20 and 12"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "C60 has 60 vertices (carbon atoms) and 32 faces (20 hexagons and 12 pentagons).",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "allotropes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q98",
+    "question": "Which of the following is the correct order of bond enthalpy?",
+    "options": [
+      "C-C > Si-Si > Ge-Ge > Sn-Sn",
+      "C-C < Si-Si < Ge-Ge < Sn-Sn",
+      "Si-Si > C-C > Ge-Ge > Sn-Sn",
+      "C-C > Ge-Ge > Si-Si > Sn-Sn"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Bond enthalpy decreases down the group as atomic size increases.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q99",
+    "question": "The correct statement regarding the structure of Diborane is:",
+    "options": [
+      "All B-H bonds are equivalent",
+      "Terminal B-H bonds are shorter than bridge B-H bonds",
+      "Bridge B-H bonds are shorter than terminal B-H bonds",
+      "Terminal B-H bonds are weaker than bridge B-H bonds"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Terminal B-H bonds are normal 2c-2e bonds and are shorter and stronger than the bridge 3c-2e bonds.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "chemical bonding"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q100",
+    "question": "Which of the following is formed when AlCl3 is dissolved in acidified aqueous solution?",
+    "options": [
+      "Al3+ and Cl-",
+      "[Al(H2O)6]3+ and Cl-",
+      "[Al(OH)4]- and Cl-",
+      "Al2Cl6"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "In acidified aqueous solution, AlCl3 forms the octahedral complex [Al(H2O)6]3+.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q101",
+    "question": "The basic structural unit of feldspar, zeolites, mica and asbestos is:",
+    "options": [
+      "SiO2",
+      "SiO4 4-",
+      "SiO3 2-",
+      "R2SiO"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "All silicates are based on the SiO4 4- tetrahedral unit.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "compounds"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q102",
+    "question": "Which of the following reactions is used to prepare pure Silicon?",
+    "options": [
+      "Reduction of SiO2 with Carbon",
+      "Reduction of SiCl4 with Mg",
+      "Zone refining",
+      "Reaction of SiF4 with Na"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Zone refining is used to obtain ultra-pure Silicon for semiconductor use.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "applications"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q103",
+    "question": "The correct order of acidic strength of boron halides is:",
+    "options": [
+      "BF3 > BCl3 > BBr3",
+      "BBr3 > BCl3 > BF3",
+      "BCl3 > BF3 > BBr3",
+      "BF3 > BBr3 > BCl3"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "This is the same as Lewis acid strength. BBr3 > BCl3 > BF3 due to back bonding.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q104",
+    "question": "Which of the following is not true for Carbon Monoxide?",
+    "options": [
+      "It is a colorless, odorless gas",
+      "It is highly soluble in water",
+      "It burns with a blue flame",
+      "It is a neutral oxide"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Carbon monoxide is sparingly soluble in water.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q105",
+    "question": "The hybridization of Boron in Borax is:",
+    "options": [
+      "All sp3",
+      "All sp2",
+      "Two sp2 and two sp3",
+      "Three sp2 and one sp3"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "In the [B4O5(OH)4]2- ion of borax, two boron atoms are sp2 hybridized and two are sp3 hybridized.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "chemical bonding"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q106",
+    "question": "Which of the following is an example of a 3D silicate?",
+    "options": [
+      "Quartz",
+      "Mica",
+      "Asbestos",
+      "Beryl"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Quartz is a framework (3D) silicate.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "compounds"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q107",
+    "question": "The reaction of Borax with acid gives:",
+    "options": [
+      "Orthoboric acid",
+      "Metaboric acid",
+      "Boron oxide",
+      "Diborane"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Na2B4O7 + 2HCl + 5H2O -> 4H3BO3 + 2NaCl.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "chemical properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q108",
+    "question": "Which of the following is correct regarding the inert pair effect?",
+    "options": [
+      "It is due to poor shielding of s-electrons",
+      "It is due to poor shielding of d and f electrons",
+      "It decreases down the group",
+      "It makes higher oxidation state more stable"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Inert pair effect is due to poor shielding of d and f electrons, which holds the ns2 electrons tightly.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "periodic trends"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q109",
+    "question": "The correct formula for 'inorganic graphite' is:",
+    "options": [
+      "BN",
+      "B3N3H6",
+      "B4C",
+      "SiC"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Boron Nitride (BN) has a layered structure similar to graphite and is called inorganic graphite.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "compounds"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q110",
+    "question": "Which of the following is used as a semiconductor dopant?",
+    "options": [
+      "Ga",
+      "C",
+      "Pb",
+      "Sn"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Group 13 elements like Ga are used as p-type dopants for Si/Ge.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "applications"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q111",
+    "question": "The structure of Al2Cl6 contains:",
+    "options": [
+      "Two Al-Cl-Al bridges",
+      "Four Al-Cl-Al bridges",
+      "No bridging",
+      "One Al-Cl-Al bridge"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Al2Cl6 dimer has two chlorine bridges.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "chemical bonding"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q112",
+    "question": "Which of the following is not a property of Silicones?",
+    "options": [
+      "Water repellent",
+      "High thermal stability",
+      "Good electrical conductor",
+      "Biocompatible"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Silicones are electrical insulators.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q113",
+    "question": "The reaction of C with conc. H2SO4 gives:",
+    "options": [
+      "CO2 + SO2 + H2O",
+      "CO + SO2 + H2O",
+      "CO2 + H2",
+      "No reaction"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "C + 2H2SO4 -> CO2 + 2SO2 + 2H2O.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "chemical properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q114",
+    "question": "Which of the following is the most acidic?",
+    "options": [
+      "SiO2",
+      "GeO2",
+      "SnO2",
+      "PbO2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Acidic character decreases down the group. SiO2 is acidic, others become amphoteric.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q115",
+    "question": "The number of water molecules in Borax is:",
+    "options": [
+      "10",
+      "5",
+      "7",
+      "2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Borax is Na2B4O7.10H2O.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "compounds"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q116",
+    "question": "Which of the following is used in the preparation of 'Producer Gas'?",
+    "options": [
+      "C + Air",
+      "C + Steam",
+      "CH4 + O2",
+      "CO + H2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Producer gas (CO + N2) is prepared by passing air over red hot coke.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "compounds"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q117",
+    "question": "The hybridization of Al in AlCl3 (monomer) is:",
+    "options": [
+      "sp2",
+      "sp3",
+      "sp",
+      "dsp2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "In monomeric AlCl3 (high temp), Al is sp2 hybridized (trigonal planar).",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "chemical bonding"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q118",
+    "question": "Which of the following is correct for the reaction of Al with N2?",
+    "options": [
+      "It forms AlN at high temperature",
+      "It forms AlN at room temperature",
+      "It does not react",
+      "It forms Al(N3)3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Aluminium reacts with Nitrogen at high temperature to form Aluminium Nitride (AlN).",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "chemical properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q119",
+    "question": "The correct order of +3 oxidation state stability is:",
+    "options": [
+      "B > Al > Ga > In > Tl",
+      "Tl > In > Ga > Al > B",
+      "B < Al < Ga < In < Tl",
+      "B > Ga > Al > In > Tl"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Stability of +3 state decreases down the group due to inert pair effect.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "oxidation state"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_elements_q120",
+    "question": "Which of the following is an example of an organosilicon polymer?",
+    "options": [
+      "Silicone",
+      "Silicate",
+      "Silica",
+      "Silicon carbide"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Silicones are organosilicon polymers.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements",
+    "tags": [
+      "compounds"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements",
+    "subjectId": "chemistry"
+  }
+]

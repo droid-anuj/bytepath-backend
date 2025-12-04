@@ -1,0 +1,2882 @@
+[
+  {
+    "id": "botany_biodiversity_conservation_q1",
+    "question": "The term 'Biodiversity' was popularized by:",
+    "options": [
+      "Edward Wilson",
+      "Paul Ehrlich",
+      "Robert May",
+      "Alexander von Humboldt"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The term 'Biodiversity' was popularized by the sociobiologist Edward Wilson.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity",
+      "history"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q2",
+    "question": "Genetic diversity is shown by the medicinal plant:",
+    "options": [
+      "Rauwolfia vomitoria",
+      "Mangifera indica",
+      "Oryza sativa",
+      "Pisum sativum"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Rauwolfia vomitoria growing in different Himalayan ranges shows genetic variation in the potency and concentration of Reserpine.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity",
+      "genetic"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q3",
+    "question": "India has more than _____ genetically different strains of rice.",
+    "options": [
+      "50,000",
+      "1,000",
+      "10,000",
+      "5,000"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "India has more than 50,000 genetically different strains of rice.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity",
+      "genetic"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q4",
+    "question": "Which of the following regions has greater amphibian species diversity?",
+    "options": [
+      "Western Ghats",
+      "Eastern Ghats",
+      "Himalayas",
+      "Deccan Plateau"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The Western Ghats have a greater amphibian species diversity than the Eastern Ghats.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity",
+      "species"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q5",
+    "question": "According to IUCN (2004), the total number of plant and animal species described so far is slightly more than:",
+    "options": [
+      "1.5 million",
+      "7 million",
+      "20 million",
+      "50 million"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The total number of plant and animal species described so far is slightly more than 1.5 million.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity",
+      "global"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q6",
+    "question": "Robert May places the global species diversity at about:",
+    "options": [
+      "7 million",
+      "1.5 million",
+      "20 million",
+      "50 million"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Robert May places the global species diversity at about 7 million.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity",
+      "global"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q7",
+    "question": "More than 70 per cent of all the species recorded are:",
+    "options": [
+      "Animals",
+      "Plants",
+      "Fungi",
+      "Bacteria"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "More than 70 per cent of all the species recorded are animals.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity",
+      "distribution"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q8",
+    "question": "Among animals, the most species-rich taxonomic group is:",
+    "options": [
+      "Insects",
+      "Mammals",
+      "Birds",
+      "Reptiles"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Insects are the most species-rich taxonomic group, making up more than 70 per cent of the total.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity",
+      "animals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q9",
+    "question": "India has only 2.4 per cent of the world's land area, but its share of the global species diversity is an impressive:",
+    "options": [
+      "8.1 per cent",
+      "2.4 per cent",
+      "12 per cent",
+      "4.8 per cent"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "India's share of global species diversity is 8.1 per cent.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity",
+      "india"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q10",
+    "question": "India is one of the _____ mega diversity countries of the world.",
+    "options": [
+      "12",
+      "10",
+      "15",
+      "20"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "India is one of the 12 mega diversity countries of the world.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity",
+      "india"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q11",
+    "question": "Species diversity decreases as we move from:",
+    "options": [
+      "Equator towards the poles",
+      "Poles towards the equator",
+      "Low altitude to high altitude",
+      "Plains to mountains"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Species diversity decreases as we move away from the equator towards the poles.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity",
+      "patterns"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q12",
+    "question": "Which of the following regions has the greatest biodiversity on Earth?",
+    "options": [
+      "Amazonian rain forest",
+      "Western Ghats",
+      "Himalayas",
+      "Great Barrier Reef"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The largely tropical Amazonian rain forest in South America has the greatest biodiversity on Earth.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity",
+      "amazon"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q13",
+    "question": "The relationship between species richness and area for a wide variety of taxa turns out to be a:",
+    "options": [
+      "Rectangular hyperbola",
+      "Straight line",
+      "Sigmoid curve",
+      "Parabola"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The relationship is a rectangular hyperbola.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "species-area relationship",
+      "curve"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q14",
+    "question": "On a logarithmic scale, the species-area relationship is a:",
+    "options": [
+      "Straight line",
+      "Rectangular hyperbola",
+      "Sigmoid curve",
+      "Parabola"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "On a logarithmic scale, the relationship is a straight line described by the equation log S = log C + Z log A.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "species-area relationship",
+      "curve"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q15",
+    "question": "In the species-area relationship equation log S = log C + Z log A, 'Z' represents:",
+    "options": [
+      "Slope of the line (regression coefficient)",
+      "Species richness",
+      "Area",
+      "Y-intercept"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Z represents the slope of the line (regression coefficient).",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "species-area relationship",
+      "equation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q16",
+    "question": "Who observed that within a region species richness increased with increasing explored area, but only up to a limit?",
+    "options": [
+      "Alexander von Humboldt",
+      "Edward Wilson",
+      "Paul Ehrlich",
+      "David Tilman"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Alexander von Humboldt observed this relationship.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "species-area relationship",
+      "scientist"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q17",
+    "question": "The 'Rivet Popper Hypothesis' was used by:",
+    "options": [
+      "Paul Ehrlich",
+      "David Tilman",
+      "Alexander von Humboldt",
+      "Robert May"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The 'Rivet Popper Hypothesis' was used by Stanford ecologist Paul Ehrlich.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity importance",
+      "hypothesis"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q18",
+    "question": "The IUCN Red List (2004) documents the extinction of _____ species in the last 500 years.",
+    "options": [
+      "784",
+      "500",
+      "2000",
+      "350"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "It documents the extinction of 784 species.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "extinction",
+      "statistics"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q19",
+    "question": "Which of the following is an extinct animal?",
+    "options": [
+      "Dodo",
+      "Tiger",
+      "Lion",
+      "Elephant"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Dodo (Mauritius) is an extinct animal.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "extinction",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q20",
+    "question": "The Quagga is an extinct animal from:",
+    "options": [
+      "Africa",
+      "Australia",
+      "Russia",
+      "Mauritius"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Quagga is extinct from Africa.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "extinction",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q21",
+    "question": "The Thylacine is an extinct animal from:",
+    "options": [
+      "Australia",
+      "Africa",
+      "Russia",
+      "Mauritius"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Thylacine is extinct from Australia.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "extinction",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q22",
+    "question": "Steller's Sea Cow is an extinct animal from:",
+    "options": [
+      "Russia",
+      "Africa",
+      "Australia",
+      "Mauritius"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Steller's Sea Cow is extinct from Russia.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "extinction",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q23",
+    "question": "Which of the following is NOT a cause of biodiversity loss (The Evil Quartet)?",
+    "options": [
+      "Co-existence",
+      "Habitat loss and fragmentation",
+      "Over-exploitation",
+      "Alien species invasions"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Co-existence is not a cause. The fourth cause is Co-extinctions.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity loss",
+      "causes"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q24",
+    "question": "The most important cause driving animals and plants to extinction is:",
+    "options": [
+      "Habitat loss and fragmentation",
+      "Over-exploitation",
+      "Alien species invasions",
+      "Co-extinctions"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Habitat loss and fragmentation is the most important cause.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity loss",
+      "causes"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q25",
+    "question": "The Amazon rain forest is being cut and cleared for cultivating:",
+    "options": [
+      "Soyabean",
+      "Rice",
+      "Wheat",
+      "Maize"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "It is being cleared for cultivating soyabeans or for conversion to grasslands for raising beef cattle.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity loss",
+      "habitat loss"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q26",
+    "question": "The Nile Perch introduced into Lake Victoria in East Africa led to the extinction of:",
+    "options": [
+      "Cichlid fish",
+      "Catfish",
+      "Salmon",
+      "Trout"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "It led to the extinction of more than 200 species of cichlid fish.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity loss",
+      "alien species"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q27",
+    "question": "Which of the following is an invasive weed species?",
+    "options": [
+      "Parthenium",
+      "Lantana",
+      "Eichhornia",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Parthenium (carrot grass), Lantana and Eichhornia (water hyacinth) are all invasive weed species.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity loss",
+      "alien species"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q28",
+    "question": "The illegal introduction of the African catfish _____ is posing a threat to the indigenous catfishes in our rivers.",
+    "options": [
+      "Clarias gariepinus",
+      "Clarias batrachus",
+      "Heteropneustes fossilis",
+      "Wallago attu"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Clarias gariepinus (African catfish) is the invasive species.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity loss",
+      "alien species"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q29",
+    "question": "The argument that we should conserve biodiversity because we derive economic benefits like food, firewood, fiber, etc., falls under:",
+    "options": [
+      "Narrowly utilitarian",
+      "Broadly utilitarian",
+      "Ethical",
+      "Scientific"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "This falls under the narrowly utilitarian argument.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "conservation",
+      "reasons"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q30",
+    "question": "The argument that biodiversity plays a major role in many ecosystem services falls under:",
+    "options": [
+      "Broadly utilitarian",
+      "Narrowly utilitarian",
+      "Ethical",
+      "Scientific"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "This falls under the broadly utilitarian argument.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "conservation",
+      "reasons"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q31",
+    "question": "The Amazon forest is estimated to produce _____ of the total oxygen in the earth's atmosphere through photosynthesis.",
+    "options": [
+      "20 per cent",
+      "50 per cent",
+      "10 per cent",
+      "70 per cent"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "It produces 20 per cent of the total oxygen.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "conservation",
+      "reasons"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q32",
+    "question": "In situ conservation means:",
+    "options": [
+      "On site conservation",
+      "Off site conservation",
+      "Conservation in labs",
+      "Conservation in zoos"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "In situ conservation means on site conservation (protecting the whole ecosystem).",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "conservation",
+      "methods"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q33",
+    "question": "Ex situ conservation means:",
+    "options": [
+      "Off site conservation",
+      "On site conservation",
+      "Conservation in forests",
+      "Conservation in national parks"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Ex situ conservation means off site conservation (taking threatened animals/plants out from natural habitat).",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "conservation",
+      "methods"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q34",
+    "question": "Which of the following is an example of In situ conservation?",
+    "options": [
+      "National Parks",
+      "Botanical Gardens",
+      "Zoological Parks",
+      "Seed Banks"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "National Parks, Sanctuaries and Biosphere Reserves are examples of In situ conservation.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "conservation",
+      "in situ"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q35",
+    "question": "Which of the following is an example of Ex situ conservation?",
+    "options": [
+      "Zoological Parks",
+      "National Parks",
+      "Wildlife Sanctuaries",
+      "Biosphere Reserves"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Zoological Parks, Botanical Gardens and Wildlife Safari Parks are examples of Ex situ conservation.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "conservation",
+      "ex situ"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q36",
+    "question": "Hotspots are regions with:",
+    "options": [
+      "Very high levels of species richness and high degree of endemism",
+      "Low species richness",
+      "Low degree of endemism",
+      "No threatened species"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Hotspots are characterized by very high levels of species richness and high degree of endemism.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "conservation",
+      "hotspots"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q37",
+    "question": "How many biodiversity hotspots are there in the world?",
+    "options": [
+      "34",
+      "25",
+      "12",
+      "50"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "There are 34 biodiversity hotspots in the world (initially 25, 9 added later).",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "conservation",
+      "hotspots"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q38",
+    "question": "Which of the following is a biodiversity hotspot in India?",
+    "options": [
+      "Western Ghats and Sri Lanka",
+      "Eastern Ghats",
+      "Gangetic Plains",
+      "Thar Desert"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Western Ghats and Sri Lanka, Indo-Burma and Himalaya are the hotspots covering India's biodiversity regions.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "conservation",
+      "hotspots"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q39",
+    "question": "Sacred groves are found in:",
+    "options": [
+      "Khasi and Jaintia Hills in Meghalaya",
+      "Western Ghats of Karnataka",
+      "Aravalli Hills of Rajasthan",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Sacred groves are found in all these regions.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "conservation",
+      "sacred groves"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q40",
+    "question": "The Earth Summit held in Rio de Janeiro in 1992 resulted in:",
+    "options": [
+      "Convention on Biological Diversity",
+      "Kyoto Protocol",
+      "Montreal Protocol",
+      "Ramsar Convention"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The Earth Summit resulted in the Convention on Biological Diversity.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "conservation",
+      "conventions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q41",
+    "question": "Which level of biodiversity includes the genetic variation within a species?",
+    "options": [
+      "Genetic diversity",
+      "Species diversity",
+      "Ecological diversity",
+      "Community diversity"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Genetic diversity refers to the variation of genes within a species.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity",
+      "levels"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q42",
+    "question": "Which of the following statements about species diversity is correct?",
+    "options": [
+      "It is the diversity at the species level.",
+      "It is the diversity at the ecosystem level.",
+      "It is the diversity at the genetic level.",
+      "It is the diversity of biomes."
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Species diversity is the diversity at the species level, for example, the Western Ghats have a greater amphibian species diversity than the Eastern Ghats.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity",
+      "levels"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q43",
+    "question": "Ecological diversity is greater in India than in a Scandinavian country like Norway because:",
+    "options": [
+      "India has a greater variety of ecosystems like deserts, rain forests, mangroves, coral reefs, etc.",
+      "India has more land area.",
+      "India has more people.",
+      "India has more animals."
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "India has a greater variety of ecosystems (ecological diversity) compared to Norway.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity",
+      "levels"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q44",
+    "question": "According to Robert May's estimates, what percentage of the total species have been recorded so far?",
+    "options": [
+      "22 per cent",
+      "70 per cent",
+      "50 per cent",
+      "10 per cent"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "According to Robert May's global estimates, only 22 per cent of the total species have been recorded so far.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity",
+      "estimates"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q45",
+    "question": "If we accept May's estimates, how many plant species are yet to be discovered and described in India?",
+    "options": [
+      "More than 1,00,000",
+      "More than 3,00,000",
+      "Less than 50,000",
+      "More than 5,00,000"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "If we apply May's estimates to India, more than 1,00,000 plant species are yet to be discovered.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity",
+      "estimates"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q46",
+    "question": "Which group of organisms has the maximum number of species among invertebrates?",
+    "options": [
+      "Insects",
+      "Molluscs",
+      "Crustaceans",
+      "Other animal groups"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Insects are the most species-rich group among invertebrates.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity",
+      "invertebrates"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q47",
+    "question": "Among vertebrates, which group has the maximum species diversity?",
+    "options": [
+      "Fishes",
+      "Birds",
+      "Reptiles",
+      "Mammals"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Fishes have the maximum species diversity among vertebrates.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity",
+      "vertebrates"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q48",
+    "question": "The diversity of fungi is greater than the combined diversity of:",
+    "options": [
+      "Fishes, amphibians, reptiles and mammals",
+      "Algae, lichens, mosses and ferns",
+      "Insects, molluscs and crustaceans",
+      "Bacteria and viruses"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The number of fungi species is more than the combined total of the species of fishes, amphibians, reptiles and mammals.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity",
+      "fungi"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q49",
+    "question": "Why are conventional taxonomic methods not suitable for identifying microbial species?",
+    "options": [
+      "Many cannot be cultured under laboratory conditions",
+      "They are too small",
+      "They evolve too fast",
+      "They have no distinct features"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Conventional taxonomic methods are not suitable because many microbes cannot be cultured under laboratory conditions.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity",
+      "microbes"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q50",
+    "question": "The latitudinal gradient in diversity states that:",
+    "options": [
+      "Biodiversity is highest in the tropics and decreases towards the poles",
+      "Biodiversity is highest at the poles",
+      "Biodiversity is uniform across the globe",
+      "Biodiversity is highest in temperate regions"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Biodiversity generally increases from the poles to the tropics.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity",
+      "patterns"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q51",
+    "question": "Which of the following is a reason for greater biological diversity in the tropics?",
+    "options": [
+      "Tropical environments are less seasonal and more constant",
+      "Tropics have been subjected to frequent glaciations",
+      "There is less solar energy available in the tropics",
+      "Tropics have lower productivity"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Tropical environments are less seasonal, relatively more constant and predictable, promoting niche specialization.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity",
+      "tropics"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q52",
+    "question": "Speciation is generally a function of:",
+    "options": [
+      "Time",
+      "Space",
+      "Temperature",
+      "Light"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Speciation is generally a function of time.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity",
+      "speciation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q53",
+    "question": "In the species-area relationship, the value of Z lies in the range of _____ for most taxonomic groups.",
+    "options": [
+      "0.1 to 0.2",
+      "0.6 to 1.2",
+      "0.01 to 0.1",
+      "1.0 to 2.0"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The value of Z lies in the range of 0.1 to 0.2 regardless of the taxonomic group or region.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "species-area relationship",
+      "z-value"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q54",
+    "question": "For frugivorous birds and mammals in the tropical forests of different continents, the slope of the species-area line (Z) is found to be:",
+    "options": [
+      "1.15",
+      "0.1",
+      "0.6",
+      "0.2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "For very large areas like entire continents, the slope is steeper, around 1.15.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "species-area relationship",
+      "z-value"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q55",
+    "question": "David Tilman's long-term ecosystem experiments showed that:",
+    "options": [
+      "Plots with more species showed less year-to-year variation in total biomass",
+      "Plots with more species showed more year-to-year variation in total biomass",
+      "Increased diversity contributed to lower productivity",
+      "Diversity has no effect on productivity"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Tilman found that plots with more species showed less year-to-year variation in total biomass.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity importance",
+      "productivity"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q56",
+    "question": "In the 'Rivet Popper Hypothesis', the rivets on the airplane represent:",
+    "options": [
+      "Species",
+      "Ecosystems",
+      "Habitats",
+      "Resources"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The rivets represent species.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity importance",
+      "hypothesis"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q57",
+    "question": "In the 'Rivet Popper Hypothesis', popping a rivet on the wings corresponds to:",
+    "options": [
+      "Extinction of a key species driving major ecosystem functions",
+      "Extinction of a minor species",
+      "Introduction of a new species",
+      "Habitat fragmentation"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Loss of rivets on the wings (key species) is more dangerous than loss of rivets on seats (minor species).",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity importance",
+      "hypothesis"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q58",
+    "question": "The current rate of species extinction is estimated to be _____ times faster than in pre-human times.",
+    "options": [
+      "100 to 1,000",
+      "10 to 50",
+      "1,000 to 10,000",
+      "1 to 10"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "It is estimated to be 100 to 1,000 times faster.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "extinction",
+      "rate"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q59",
+    "question": "Loss of biodiversity in a region may lead to:",
+    "options": [
+      "Decline in plant production",
+      "Lowered resistance to environmental perturbations",
+      "Increased variability in certain ecosystem processes",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Loss of biodiversity leads to all these consequences.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity loss",
+      "consequences"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q60",
+    "question": "Habitat fragmentation affects animals that:",
+    "options": [
+      "Require large territories",
+      "Are small in size",
+      "Live in burrows",
+      "Are aquatic"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Mammals and birds requiring large territories are badly affected by fragmentation.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity loss",
+      "habitat loss"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q61",
+    "question": "The extinction of the Passenger Pigeon was due to:",
+    "options": [
+      "Over-exploitation by humans",
+      "Habitat loss",
+      "Alien species invasion",
+      "Disease"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "It was due to over-exploitation (hunting) by humans.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "extinction",
+      "causes"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q62",
+    "question": "Water hyacinth (Eichhornia crassipes) was introduced in India for its:",
+    "options": [
+      "Beautiful flowers and shape of leaves",
+      "Edible fruits",
+      "Medicinal properties",
+      "Timber value"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "It was introduced for its beautiful flowers and shape of leaves, but became an invasive weed.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity loss",
+      "alien species"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q63",
+    "question": "Co-extinction means:",
+    "options": [
+      "When a species becomes extinct, the plant and animal species associated with it in an obligatory way also become extinct",
+      "Two species becoming extinct at the same time due to different reasons",
+      "Extinction of a species due to competition",
+      "Extinction due to climate change"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "This is the definition of co-extinction.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity loss",
+      "co-extinction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q64",
+    "question": "Bioprospecting is:",
+    "options": [
+      "Exploring molecular, genetic and species-level diversity for products of economic importance",
+      "Protecting biodiversity in national parks",
+      "Counting the number of species in an area",
+      "Planting trees"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Bioprospecting is exploring diversity for economic products.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "conservation",
+      "bioprospecting"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q65",
+    "question": "The ethical argument for conserving biodiversity relates to:",
+    "options": [
+      "Our moral duty to care for their well-being and pass on our biological legacy to future generations",
+      "The economic value of species",
+      "The ecosystem services provided by species",
+      "The scientific interest in species"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The ethical argument is about our moral duty and responsibility towards other species and future generations.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "conservation",
+      "reasons"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q66",
+    "question": "Endemism refers to:",
+    "options": [
+      "Species confined to that region and not found anywhere else",
+      "Species found everywhere",
+      "Species that are extinct",
+      "Species that are introduced"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Endemism refers to species confined to a specific region.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity",
+      "endemism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q67",
+    "question": "Biosphere Reserves are examples of:",
+    "options": [
+      "In situ conservation",
+      "Ex situ conservation",
+      "Cryopreservation",
+      "Tissue culture"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Biosphere Reserves are in situ conservation measures.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "conservation",
+      "in situ"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q68",
+    "question": "Cryopreservation of gametes is an example of:",
+    "options": [
+      "Ex situ conservation",
+      "In situ conservation",
+      "Natural conservation",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Cryopreservation is an advanced method of ex situ conservation.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "conservation",
+      "ex situ"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q69",
+    "question": "Seed banks conserve:",
+    "options": [
+      "Seeds of different genetic strains of commercially important plants",
+      "Wild animals",
+      "Insects",
+      "Water"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Seed banks conserve seeds (ex situ conservation).",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "conservation",
+      "ex situ"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q70",
+    "question": "The World Summit on Sustainable Development was held in 2002 in:",
+    "options": [
+      "Johannesburg, South Africa",
+      "Rio de Janeiro, Brazil",
+      "Kyoto, Japan",
+      "Montreal, Canada"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "It was held in Johannesburg, South Africa.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "conservation",
+      "conventions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q71",
+    "question": "In the World Summit on Sustainable Development, 190 countries pledged to:",
+    "options": [
+      "Significantly reduce the current rate of biodiversity loss by 2010",
+      "Stop all deforestation",
+      "Ban all plastic",
+      "Reduce carbon emissions to zero"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "They pledged to significantly reduce the current rate of biodiversity loss by 2010.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "conservation",
+      "conventions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q72",
+    "question": "Which of the following is NOT a benefit of biodiversity?",
+    "options": [
+      "Pollution creation",
+      "Pollination",
+      "Nutrient cycling",
+      "Climate regulation"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Pollution creation is not a benefit.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity importance",
+      "benefits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q73",
+    "question": "The active chemical 'Reserpine' is obtained from:",
+    "options": [
+      "Rauwolfia vomitoria",
+      "Datura stramonium",
+      "Atropa belladonna",
+      "Papaver somniferum"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Reserpine is obtained from Rauwolfia vomitoria.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity",
+      "medicinal plants"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q74",
+    "question": "Which of the following is a recent extinction from Russia?",
+    "options": [
+      "Steller's Sea Cow",
+      "Dodo",
+      "Thylacine",
+      "Quagga"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Steller's Sea Cow is a recent extinction from Russia.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "extinction",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q75",
+    "question": "The accelerated rates of species extinctions that the world is facing now are largely due to:",
+    "options": [
+      "Human activities",
+      "Natural calamities",
+      "Glaciation",
+      "Continental drift"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "They are largely due to human activities.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "extinction",
+      "causes"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q76",
+    "question": "Introduction of Nile Perch in Lake Victoria is an example of:",
+    "options": [
+      "Alien species invasion",
+      "Habitat fragmentation",
+      "Over-exploitation",
+      "Co-extinction"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "It is a classic example of alien species invasion.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity loss",
+      "alien species"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q77",
+    "question": "Which of the following is NOT a sacred grove?",
+    "options": [
+      "Keoladeo National Park",
+      "Khasi and Jaintia Hills",
+      "Aravalli Hills",
+      "Sarguja, Chanda and Bastar areas"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Keoladeo National Park is a National Park, not a sacred grove.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "conservation",
+      "sacred groves"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q78",
+    "question": "Which of the following is a method of ex situ conservation?",
+    "options": [
+      "Wildlife Safari Parks",
+      "Sacred Groves",
+      "Biosphere Reserves",
+      "National Parks"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Wildlife Safari Parks are ex situ conservation methods.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "conservation",
+      "ex situ"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q79",
+    "question": "The historic Convention on Biological Diversity is also known as:",
+    "options": [
+      "The Earth Summit",
+      "The World Summit",
+      "The Kyoto Protocol",
+      "The Montreal Protocol"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "It is also known as The Earth Summit.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "conservation",
+      "conventions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q80",
+    "question": "Which of the following is true about 'Hotspots'?",
+    "options": [
+      "They cover less than 2% of the earth's land area.",
+      "They have low species richness.",
+      "They have low endemism.",
+      "They are not threatened."
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Hotspots cover less than 2% of the earth's land area but harbor a high percentage of global biodiversity.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "conservation",
+      "hotspots"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q81",
+    "question": "The Western Ghats are present in:",
+    "options": [
+      "Maharashtra, Karnataka, Tamil Nadu and Kerala",
+      "West Bengal and Odisha",
+      "Assam and Meghalaya",
+      "Rajasthan and Gujarat"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The Western Ghats run along the western coast of India covering these states.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity",
+      "india"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q82",
+    "question": "Which of the following is NOT a level of biodiversity?",
+    "options": [
+      "Cellular diversity",
+      "Genetic diversity",
+      "Species diversity",
+      "Ecological diversity"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Cellular diversity is not typically classified as a level of biodiversity in this context.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity",
+      "levels"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q83",
+    "question": "The number of species per unit area is called:",
+    "options": [
+      "Species richness",
+      "Species evenness",
+      "Species dominance",
+      "Species abundance"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Species richness is the number of species per unit area.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity",
+      "concepts"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q84",
+    "question": "Which of the following is a threat to biodiversity?",
+    "options": [
+      "Pollution",
+      "Climate change",
+      "Habitat destruction",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "All of these are major threats to biodiversity.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity loss",
+      "threats"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q85",
+    "question": "The 'lungs of the planet' refers to:",
+    "options": [
+      "Amazon rain forest",
+      "Himalayas",
+      "Western Ghats",
+      "Great Barrier Reef"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The Amazon rain forest is often called the 'lungs of the planet'.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity",
+      "amazon"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q86",
+    "question": "Which of the following is an example of a 'living fossil'?",
+    "options": [
+      "Ginkgo biloba",
+      "Pinus",
+      "Cycas",
+      "Cedrus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Ginkgo biloba is a well-known living fossil.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q87",
+    "question": "The concept of 'Biosphere Reserve' was launched by:",
+    "options": [
+      "UNESCO",
+      "IUCN",
+      "WWF",
+      "UNEP"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "It was launched by UNESCO under its Man and Biosphere (MAB) programme.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "conservation",
+      "biosphere reserves"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q88",
+    "question": "Red Data Book contains data of:",
+    "options": [
+      "Threatened species",
+      "Extinct species",
+      "Invasive species",
+      "All plant species"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Red Data Book contains data of threatened species (endangered, vulnerable, etc.).",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "conservation",
+      "red data book"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q89",
+    "question": "Which of the following is an example of 'Broadly utilitarian' argument for conservation?",
+    "options": [
+      "Pollination",
+      "Firewood",
+      "Fiber",
+      "Food"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Pollination is an ecosystem service (broadly utilitarian). Others are direct economic benefits (narrowly utilitarian).",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "conservation",
+      "reasons"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q90",
+    "question": "The total number of biodiversity hotspots in India is:",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "India has 3 hotspots: Western Ghats and Sri Lanka, Indo-Burma and Himalaya.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "conservation",
+      "hotspots"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q91",
+    "question": "Which of the following statements is incorrect regarding the species-area relationship?",
+    "options": [
+      "The relationship is a rectangular hyperbola on a linear scale.",
+      "The relationship is a straight line on a logarithmic scale.",
+      "The value of Z is generally 0.1 to 0.2 regardless of the taxonomic group or region.",
+      "For very large areas like continents, the Z value is much smaller, around 0.01."
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "For very large areas like continents, the Z value is much steeper (larger), ranging between 0.6 to 1.2, not smaller.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "species-area relationship",
+      "z-value"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q92",
+    "question": "Assertion (A): Tropical environments tend to have greater species diversity than temperate ones.\nReason (R): Tropical environments are more seasonal and less predictable.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Tropical environments are less seasonal, relatively more constant and predictable, which promotes niche specialization and greater diversity.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity",
+      "tropics"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q93",
+    "question": "Match the following:\n1. Narrowly utilitarian - A. Pollination\n2. Broadly utilitarian - B. Food, fiber\n3. Ethical - C. Intrinsic value\n4. Ex situ conservation - D. Seed bank",
+    "options": [
+      "1-B, 2-A, 3-C, 4-D",
+      "1-A, 2-B, 3-C, 4-D",
+      "1-B, 2-A, 3-D, 4-C",
+      "1-C, 2-D, 3-A, 4-B"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "1-B (Economic benefits), 2-A (Ecosystem services), 3-C (Moral duty), 4-D (Off-site conservation).",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "conservation",
+      "matching"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q94",
+    "question": "Which of the following is NOT a criterion for declaring a 'Biodiversity Hotspot'?",
+    "options": [
+      "High degree of endemism",
+      "High levels of species richness",
+      "High degree of threat (habitat loss)",
+      "High level of industrialization"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "High level of industrialization is not a criterion. The criteria are species richness, endemism and threat perception.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "conservation",
+      "hotspots"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q95",
+    "question": "In the equation log S = log C + Z log A, what does 'C' represent?",
+    "options": [
+      "Y-intercept",
+      "Slope of the line",
+      "Species richness",
+      "Area"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "C represents the Y-intercept.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "species-area relationship",
+      "equation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q96",
+    "question": "Which of the following pairs is correctly matched?",
+    "options": [
+      "Dodo - Africa",
+      "Quagga - Africa",
+      "Thylacine - Russia",
+      "Steller's Sea Cow - Australia"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Quagga is from Africa. Dodo is from Mauritius, Thylacine from Australia, Steller's Sea Cow from Russia.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "extinction",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q97",
+    "question": "The introduction of the Nile Perch into Lake Victoria resulted in the extinction of more than 200 species of:",
+    "options": [
+      "Cichlid fish",
+      "Catfish",
+      "Gambusia",
+      "Salmon"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "It resulted in the extinction of Cichlid fish.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity loss",
+      "alien species"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q98",
+    "question": "Which of the following is true regarding the 'Rivet Popper Hypothesis'?",
+    "options": [
+      "It explains the effect of decrease in biodiversity on the ecosystem health.",
+      "It explains the effect of increase in biodiversity on the ecosystem health.",
+      "It explains the origin of species.",
+      "It explains the process of succession."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "It explains how the loss of species (popping rivets) affects the functioning and stability of the ecosystem (airplane).",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity importance",
+      "hypothesis"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q99",
+    "question": "Which of the following is an example of 'Co-extinction'?",
+    "options": [
+      "Extinction of a host fish leads to extinction of its unique parasite assemblage.",
+      "Extinction of Dodo led to extinction of a tree species.",
+      "Both A and B.",
+      "None of the above."
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Both are examples. The tree species (Calvaria major) was dependent on Dodo for seed germination.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity loss",
+      "co-extinction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q100",
+    "question": "The 'Evil Quartet' refers to:",
+    "options": [
+      "Four major causes of biodiversity loss.",
+      "Four major types of ecosystems.",
+      "Four major groups of animals.",
+      "Four major scientists who studied biodiversity."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "The 'Evil Quartet' is the sobriquet used to describe the four major causes of biodiversity loss.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity loss",
+      "causes"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q101",
+    "question": "Which of the following statements is correct about the Convention on Biological Diversity (Earth Summit)?",
+    "options": [
+      "It was held in Rio de Janeiro in 1992.",
+      "It called upon all nations to take appropriate measures for conservation of biodiversity and sustainable utilisation of its benefits.",
+      "Both A and B.",
+      "It was held in Johannesburg in 2002."
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Both statements A and B are correct.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "conservation",
+      "conventions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q102",
+    "question": "Identify the correct statement regarding 'Sacred Groves':",
+    "options": [
+      "They are tracts of forest where all trees and wildlife are venerated and given total protection.",
+      "They are found only in India.",
+      "They are government-protected areas.",
+      "They are ex situ conservation sites."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Sacred groves are community-protected areas where all trees and wildlife are venerated.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "conservation",
+      "sacred groves"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q103",
+    "question": "Which of the following is NOT a reason for the greater biodiversity in tropics?",
+    "options": [
+      "Tropical latitudes have remained relatively undisturbed for millions of years.",
+      "Tropical environments are less seasonal.",
+      "More solar energy is available in the tropics.",
+      "Tropical soil is more fertile."
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Soil fertility is not a primary reason cited for latitudinal gradients in diversity. The other three are the main hypotheses.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity",
+      "tropics"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q104",
+    "question": "If the Z value is 0.1 to 0.2, the area is likely:",
+    "options": [
+      "A small region like Britain or California or New York state.",
+      "A large continent.",
+      "The entire globe.",
+      "A single pond."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "For small regions, the Z value is 0.1 to 0.2. For continents, it is 0.6 to 1.2.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "species-area relationship",
+      "z-value"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q105",
+    "question": "Which of the following is an example of recent illegal introduction of an alien species in India?",
+    "options": [
+      "African catfish (Clarias gariepinus)",
+      "Nile Perch",
+      "Water Hyacinth",
+      "Lantana"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "African catfish was illegally introduced for aquaculture purposes.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity loss",
+      "alien species"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q106",
+    "question": "The IUCN Red List uses which of the following categories to classify threatened species?",
+    "options": [
+      "Critically Endangered, Endangered, Vulnerable",
+      "Extinct, Extinct in the Wild, Critically Endangered",
+      "Endangered, Rare, Common",
+      "Threatened, Safe, Unknown"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "The main categories for threatened species are Critically Endangered, Endangered, and Vulnerable.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "conservation",
+      "red list"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q107",
+    "question": "Which of the following is correct about 'Endemism'?",
+    "options": [
+      "It is one of the criteria for identifying biodiversity hotspots.",
+      "It refers to species found only in a particular region.",
+      "Both A and B.",
+      "It refers to species found all over the world."
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Both A and B are correct.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity",
+      "endemism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q108",
+    "question": "The 'Sixth Extinction' is different from previous mass extinctions in that:",
+    "options": [
+      "It is anthropogenic (human-caused) and much faster.",
+      "It is caused by asteroids.",
+      "It is slower.",
+      "It affects only plants."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "The current 'Sixth Extinction' is driven by human activities and is occurring at a much faster rate.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "extinction",
+      "mass extinction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q109",
+    "question": "Which of the following is NOT an in situ conservation method?",
+    "options": [
+      "Botanical Garden",
+      "Biosphere Reserve",
+      "National Park",
+      "Wildlife Sanctuary"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Botanical Garden is an ex situ conservation method.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "conservation",
+      "methods"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q110",
+    "question": "The concept of 'Sustainable Development' was emphasized in:",
+    "options": [
+      "World Summit on Sustainable Development, 2002",
+      "Earth Summit, 1992",
+      "Montreal Protocol, 1987",
+      "Kyoto Protocol, 1997"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "It was the main theme of the World Summit on Sustainable Development, 2002.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "conservation",
+      "conventions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q111",
+    "question": "Which of the following statements about the Amazon rainforest is incorrect?",
+    "options": [
+      "It is home to more than 40,000 species of plants.",
+      "It is being cut and cleared for cultivating soyabeans.",
+      "It is located in North America.",
+      "It is called the 'lungs of the planet'."
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "The Amazon rainforest is located in South America, not North America.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity",
+      "amazon"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q112",
+    "question": "Which of the following is a correct match of a species and its category in the Red List?",
+    "options": [
+      "Dodo - Extinct",
+      "Tiger - Extinct",
+      "Passenger Pigeon - Endangered",
+      "Blue Whale - Extinct"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Dodo is Extinct. Tiger is Endangered. Passenger Pigeon is Extinct. Blue Whale is Endangered.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "extinction",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q113",
+    "question": "The term 'Frugivorous' refers to animals that eat:",
+    "options": [
+      "Fruits",
+      "Leaves",
+      "Insects",
+      "Meat"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Frugivorous animals eat fruits.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biology",
+      "terms"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q114",
+    "question": "Which of the following is NOT a major cause of biodiversity loss?",
+    "options": [
+      "Habitat loss and fragmentation",
+      "Over-exploitation",
+      "Alien species invasions",
+      "Sustainable development"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Sustainable development is a conservation strategy, not a cause of loss.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity loss",
+      "causes"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q115",
+    "question": "The number of fungi species in the world is more than the combined total of the species of:",
+    "options": [
+      "Fishes, amphibians, reptiles and mammals",
+      "Algae, lichens, mosses and ferns",
+      "Insects, molluscs and crustaceans",
+      "Birds and reptiles"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Fungi species diversity exceeds that of fishes, amphibians, reptiles and mammals combined.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity",
+      "fungi"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q116",
+    "question": "Which of the following is true about 'Cryopreservation'?",
+    "options": [
+      "It involves preservation at very low temperature (-196\u00b0C) in liquid nitrogen.",
+      "It is used for preserving gametes of threatened species.",
+      "It is an ex situ conservation method.",
+      "All of the above."
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "All statements are true.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "conservation",
+      "cryopreservation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q117",
+    "question": "The 'Rivet Popper Hypothesis' was proposed by:",
+    "options": [
+      "Paul Ehrlich",
+      "David Tilman",
+      "Alexander von Humboldt",
+      "Robert May"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "It was proposed by Paul Ehrlich.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "biodiversity importance",
+      "hypothesis"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q118",
+    "question": "Which of the following is NOT a benefit of 'Broadly utilitarian' conservation?",
+    "options": [
+      "Bioprospecting",
+      "Pollination",
+      "Climate regulation",
+      "Flood control"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Bioprospecting (economic benefits) falls under 'Narrowly utilitarian'.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "conservation",
+      "reasons"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q119",
+    "question": "The organization responsible for maintaining the Red Data Book is:",
+    "options": [
+      "IUCN",
+      "WWF",
+      "UNEP",
+      "UNESCO"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "IUCN (International Union for Conservation of Nature) maintains the Red Data Book.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "conservation",
+      "organizations"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_biodiversity_conservation_q120",
+    "question": "Which of the following is a correct statement about the species-area relationship?",
+    "options": [
+      "Species richness decreases with increasing area.",
+      "Species richness increases with increasing area, but only up to a limit.",
+      "Species richness is independent of area.",
+      "Species richness increases indefinitely with area."
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Species richness increases with increasing explored area, but only up to a limit.",
+    "subject": "Botany",
+    "chapter": "Biodiversity and Conservation",
+    "tags": [
+      "species-area relationship",
+      "concept"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "biodiversity_and_conservation",
+    "subjectId": "botany"
+  }
+]

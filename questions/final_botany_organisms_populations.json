@@ -1,0 +1,2882 @@
+[
+  {
+    "id": "botany_organisms_populations_q1",
+    "question": "Ecology is basically concerned with four levels of biological organization. Which of the following is NOT one of them?",
+    "options": [
+      "Organisms",
+      "Populations",
+      "Communities",
+      "Cells"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Ecology is concerned with four levels of biological organization: organisms, populations, communities and biomes. Cells are a lower level of organization.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "ecology",
+      "levels of organization"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q2",
+    "question": "The most ecologically relevant environmental factor is:",
+    "options": [
+      "Temperature",
+      "Water",
+      "Light",
+      "Soil"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Temperature is the most ecologically relevant environmental factor.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "abiotic factors",
+      "temperature"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q3",
+    "question": "Organisms that can tolerate and thrive in a wide range of temperatures are called:",
+    "options": [
+      "Eurythermal",
+      "Stenothermal",
+      "Euryhaline",
+      "Stenohaline"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Eurythermal organisms can tolerate and thrive in a wide range of temperatures.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "abiotic factors",
+      "temperature"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q4",
+    "question": "Organisms restricted to a narrow range of temperatures are called:",
+    "options": [
+      "Stenothermal",
+      "Eurythermal",
+      "Stenohaline",
+      "Euryhaline"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Stenothermal organisms are restricted to a narrow range of temperatures.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "abiotic factors",
+      "temperature"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q5",
+    "question": "For aquatic organisms, the quality of water becomes important. The salt concentration (salinity) is measured as:",
+    "options": [
+      "Parts per thousand",
+      "Parts per million",
+      "Parts per billion",
+      "Percentage"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The salt concentration (salinity) is measured as salinity in parts per thousand.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "abiotic factors",
+      "water"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q6",
+    "question": "Organisms that are tolerant of a wide range of salinities are called:",
+    "options": [
+      "Euryhaline",
+      "Stenohaline",
+      "Eurythermal",
+      "Stenothermal"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Euryhaline organisms are tolerant of a wide range of salinities.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "abiotic factors",
+      "water"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q7",
+    "question": "Organisms that are restricted to a narrow range of salinities are called:",
+    "options": [
+      "Stenohaline",
+      "Euryhaline",
+      "Stenothermal",
+      "Eurythermal"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Stenohaline organisms are restricted to a narrow range of salinities.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "abiotic factors",
+      "water"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q8",
+    "question": "The process by which organisms maintain a constant internal environment despite varying external environmental conditions is called:",
+    "options": [
+      "Homeostasis",
+      "Adaptation",
+      "Evolution",
+      "Migration"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Homeostasis is the process by which organisms maintain a constant internal environment.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "homeostasis",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q9",
+    "question": "Which of the following is a conformer?",
+    "options": [
+      "Nearly all plants",
+      "Birds",
+      "Mammals",
+      "Humans"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "About 99 per cent of animals and nearly all plants cannot maintain a constant internal environment. Their body temperature changes with the ambient temperature. They are conformers.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "responses to abiotic factors",
+      "conformers"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q10",
+    "question": "Small animals are rarely found in polar regions because:",
+    "options": [
+      "They have a larger surface area relative to their volume",
+      "They have a smaller surface area relative to their volume",
+      "They cannot find food",
+      "They are eaten by predators"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Small animals have a larger surface area relative to their volume, so they tend to lose body heat very fast when it is cold outside.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "responses to abiotic factors",
+      "thermoregulation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q11",
+    "question": "Keoladeo National Park is located in:",
+    "options": [
+      "Bharatpur, Rajasthan",
+      "Jaipur, Rajasthan",
+      "Nainital, Uttarakhand",
+      "Mysore, Karnataka"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Keoladeo National Park is located in Bharatpur, Rajasthan.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "responses to abiotic factors",
+      "migration"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q12",
+    "question": "A stage of suspended development in zooplankton species under unfavorable conditions is called:",
+    "options": [
+      "Diapause",
+      "Hibernation",
+      "Aestivation",
+      "Migration"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Under unfavorable conditions many zooplankton species in lakes and ponds are known to enter diapause, a stage of suspended development.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "responses to abiotic factors",
+      "suspend"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q13",
+    "question": "Bears going into hibernation during winter is an example of:",
+    "options": [
+      "Escape in time",
+      "Escape in space",
+      "Regulation",
+      "Conformation"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Hibernation is an example of escape in time.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "responses to abiotic factors",
+      "suspend"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q14",
+    "question": "Snails and fish go into _____ to avoid summer-related problems like heat and desiccation.",
+    "options": [
+      "Aestivation",
+      "Hibernation",
+      "Diapause",
+      "Migration"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Snails and fish go into aestivation to avoid summer-related problems.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "responses to abiotic factors",
+      "suspend"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q15",
+    "question": "Adaptation is any attribute of the organism that enables the organism to:",
+    "options": [
+      "Survive and reproduce in its habitat",
+      "Only survive in its habitat",
+      "Only reproduce in its habitat",
+      "Migrate to other habitats"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Adaptation enables the organism to survive and reproduce in its habitat.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "adaptations",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q16",
+    "question": "Kangaroo rat in North American deserts meets its water requirement through:",
+    "options": [
+      "Internal fat oxidation",
+      "Drinking water from oasis",
+      "Eating succulent plants",
+      "Absorbing water through skin"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The kangaroo rat is capable of meeting all its water requirements through its internal fat oxidation (in which water is a by product).",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "adaptations",
+      "desert animals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q17",
+    "question": "Allen's Rule states that mammals from colder climates generally have:",
+    "options": [
+      "Shorter ears and limbs",
+      "Longer ears and limbs",
+      "Shorter ears and longer limbs",
+      "Longer ears and shorter limbs"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Mammals from colder climates generally have shorter ears and limbs to minimize heat loss. This is called Allen's Rule.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "adaptations",
+      "allen's rule"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q18",
+    "question": "Thick layer of fat (blubber) below the skin in aquatic mammals like seals acts as:",
+    "options": [
+      "Insulator",
+      "Source of water",
+      "Source of food",
+      "Sensory organ"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The blubber acts as an insulator and reduces loss of body heat.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "adaptations",
+      "aquatic mammals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q19",
+    "question": "Altitude sickness is experienced at high altitudes because of:",
+    "options": [
+      "Low atmospheric pressure",
+      "High atmospheric pressure",
+      "Low temperature",
+      "High temperature"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "At high altitude the atmospheric pressure is low, so the body does not get enough oxygen.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "adaptations",
+      "altitude sickness"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q20",
+    "question": "Population ecology links ecology to:",
+    "options": [
+      "Population genetics and evolution",
+      "Cell biology and genetics",
+      "Physiology and anatomy",
+      "Taxonomy and systematics"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Population ecology is an important area because it links ecology to population genetics and evolution.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population ecology",
+      "significance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q21",
+    "question": "Natality refers to:",
+    "options": [
+      "Number of births",
+      "Number of deaths",
+      "Number of immigrants",
+      "Number of emigrants"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Natality refers to the number of births during a given period in the population that are added to the initial density.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population attributes",
+      "natality"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q22",
+    "question": "Mortality refers to:",
+    "options": [
+      "Number of deaths",
+      "Number of births",
+      "Number of immigrants",
+      "Number of emigrants"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Mortality is the number of deaths in the population during a given period.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population attributes",
+      "mortality"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q23",
+    "question": "Immigration is the number of individuals of the same species that have:",
+    "options": [
+      "Come into the habitat",
+      "Left the habitat",
+      "Born in the habitat",
+      "Died in the habitat"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Immigration is the number of individuals of the same species that have come into the habitat from elsewhere during the time period under consideration.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population attributes",
+      "immigration"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q24",
+    "question": "Emigration is the number of individuals of the population who:",
+    "options": [
+      "Left the habitat",
+      "Come into the habitat",
+      "Born in the habitat",
+      "Died in the habitat"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Emigration is the number of individuals of the population who left the habitat and gone elsewhere during the time period under consideration.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population attributes",
+      "emigration"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q25",
+    "question": "If N is the population density at time t, then its density at time t+1 is:",
+    "options": [
+      "Nt+1 = Nt + [(B + I) - (D + E)]",
+      "Nt+1 = Nt + [(B + D) - (I + E)]",
+      "Nt+1 = Nt + [(B + E) - (D + I)]",
+      "Nt+1 = Nt + [(D + I) - (B + E)]"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The population density at time t+1 is given by Nt+1 = Nt + [(B + I) - (D + E)].",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population growth",
+      "formula"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q26",
+    "question": "Exponential growth occurs when resources are:",
+    "options": [
+      "Unlimited",
+      "Limited",
+      "Scarce",
+      "Absent"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Resource (food and space) availability is obviously essential for the unimpeded growth of a population. Ideally, when resources in the habitat are unlimited, each species has the ability to realize fully its innate potential to grow in number... then the population grows in an exponential or geometric fashion.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population growth",
+      "exponential"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q27",
+    "question": "The curve obtained for exponential growth is:",
+    "options": [
+      "J-shaped",
+      "S-shaped",
+      "Sigmoid",
+      "Linear"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The curve obtained for exponential growth is J-shaped.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population growth",
+      "exponential"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q28",
+    "question": "Logistic growth occurs when resources are:",
+    "options": [
+      "Limited",
+      "Unlimited",
+      "Infinite",
+      "Excessive"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "No population of any species in nature has at its disposal unlimited resources to permit exponential growth. This leads to competition between individuals for limited resources... eventually, the 'fittest' individual will survive and reproduce... this type of population growth is called Verhulst-Pearl Logistic Growth.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population growth",
+      "logistic"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q29",
+    "question": "The curve obtained for logistic growth is:",
+    "options": [
+      "Sigmoid",
+      "J-shaped",
+      "Linear",
+      "Parabolic"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The curve obtained for logistic growth is Sigmoid (S-shaped).",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population growth",
+      "logistic"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q30",
+    "question": "Carrying capacity (K) refers to:",
+    "options": [
+      "Maximum number of individuals a habitat can support",
+      "Minimum number of individuals a habitat can support",
+      "Average number of individuals a habitat can support",
+      "Total number of individuals in a habitat"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "In nature, a given habitat has enough resources to support a maximum possible number, beyond which no further growth is possible. This limit is called nature's carrying capacity (K) for that species in that habitat.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population growth",
+      "carrying capacity"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q31",
+    "question": "Predation is an interaction where:",
+    "options": [
+      "One species benefits and the other is harmed",
+      "Both species benefit",
+      "Both species are harmed",
+      "One species benefits and the other is unaffected"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Predation is an interaction where one species (predator) benefits and the other (prey) is harmed.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population interactions",
+      "predation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q32",
+    "question": "Competition is an interaction where:",
+    "options": [
+      "Both species are harmed",
+      "Both species benefit",
+      "One species benefits and the other is harmed",
+      "One species benefits and the other is unaffected"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Competition is an interaction where both species are harmed (-,-).",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population interactions",
+      "competition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q33",
+    "question": "Parasitism is an interaction where:",
+    "options": [
+      "One species benefits and the other is harmed",
+      "Both species benefit",
+      "Both species are harmed",
+      "One species benefits and the other is unaffected"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Parasitism is an interaction where one species (parasite) benefits and the other (host) is harmed.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population interactions",
+      "parasitism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q34",
+    "question": "Commensalism is an interaction where:",
+    "options": [
+      "One species benefits and the other is neither harmed nor benefited",
+      "Both species benefit",
+      "Both species are harmed",
+      "One species benefits and the other is harmed"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Commensalism is an interaction where one species benefits and the other is neither harmed nor benefited (+,0).",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population interactions",
+      "commensalism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q35",
+    "question": "Mutualism is an interaction where:",
+    "options": [
+      "Both species benefit",
+      "Both species are harmed",
+      "One species benefits and the other is harmed",
+      "One species benefits and the other is unaffected"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Mutualism is an interaction where both species benefit (+,+).",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population interactions",
+      "mutualism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q36",
+    "question": "Amensalism is an interaction where:",
+    "options": [
+      "One species is harmed and the other is unaffected",
+      "Both species benefit",
+      "Both species are harmed",
+      "One species benefits and the other is harmed"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Amensalism is an interaction where one species is harmed whereas the other is unaffected (-,0).",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population interactions",
+      "amensalism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q37",
+    "question": "Lichens represent a mutualistic relationship between:",
+    "options": [
+      "Fungus and photosynthesizing algae or cyanobacteria",
+      "Fungus and roots of higher plants",
+      "Algae and roots of higher plants",
+      "Bacteria and roots of higher plants"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Lichens represent an intimate mutualistic relationship between a fungus and photosynthesizing algae or cyanobacteria.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population interactions",
+      "mutualism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q38",
+    "question": "Mycorrhizae are associations between:",
+    "options": [
+      "Fungi and roots of higher plants",
+      "Algae and roots of higher plants",
+      "Bacteria and roots of higher plants",
+      "Fungi and algae"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Mycorrhizae are associations between fungi and the roots of higher plants.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population interactions",
+      "mutualism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q39",
+    "question": "Cuscuta growing on hedge plants is an example of:",
+    "options": [
+      "Parasitism",
+      "Commensalism",
+      "Mutualism",
+      "Predation"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Cuscuta is a parasitic plant that grows on hedge plants.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population interactions",
+      "parasitism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q40",
+    "question": "An orchid growing as an epiphyte on a mango branch is an example of:",
+    "options": [
+      "Commensalism",
+      "Mutualism",
+      "Parasitism",
+      "Predation"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "An orchid growing as an epiphyte on a mango branch is an example of commensalism. The orchid benefits while the mango tree is unaffected.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population interactions",
+      "commensalism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q41",
+    "question": "Which of the following is NOT a major biome of India?",
+    "options": [
+      "Tropical rain forest",
+      "Deciduous forest",
+      "Desert",
+      "Taiga"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Major biomes of India include Tropical rain forest, Deciduous forest, Desert, and Sea coast. Taiga is not a major biome of India.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "biomes",
+      "india"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q42",
+    "question": "The key elements that lead to so much variation in the physical and chemical conditions of different habitats are:",
+    "options": [
+      "Temperature, water, light and soil",
+      "Temperature, water, light and air",
+      "Temperature, water, soil and air",
+      "Water, light, soil and air"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The key elements are temperature, water, light and soil.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "abiotic factors",
+      "general"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q43",
+    "question": "Mango trees do not and cannot grow in temperate countries like Canada and Germany because:",
+    "options": [
+      "They are stenothermal",
+      "They are eurythermal",
+      "They are stenohaline",
+      "They are euryhaline"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Mango trees are adapted to tropical climates and cannot tolerate the low temperatures of temperate regions (stenothermal).",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "abiotic factors",
+      "temperature"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q44",
+    "question": "Snow leopards are not found in Kerala forests because:",
+    "options": [
+      "They are adapted to cold climates",
+      "They are adapted to hot climates",
+      "They cannot find food",
+      "They are hunted"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Snow leopards are adapted to the cold climate of the Himalayas and cannot survive in the tropical climate of Kerala.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "abiotic factors",
+      "temperature"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q45",
+    "question": "Which of the following organisms can tolerate a wide range of salinities?",
+    "options": [
+      "Salmon",
+      "Shark",
+      "Goldfish",
+      "Hilsa"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Salmon is euryhaline (anadromous), migrating between fresh and salt water.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "abiotic factors",
+      "water"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q46",
+    "question": "Many freshwater animals cannot live for long in sea water and vice versa because of:",
+    "options": [
+      "Osmotic problems",
+      "Temperature difference",
+      "Light intensity",
+      "Food availability"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "They would face osmotic problems, they would either lose body water (freshwater fish in sea) or gain too much water (marine fish in freshwater).",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "abiotic factors",
+      "water"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q47",
+    "question": "Benthic animals in the ocean are adapted to live in:",
+    "options": [
+      "Deep waters with no light",
+      "Surface waters with high light",
+      "Intertidal zones",
+      "Estuaries"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Benthic animals live at the bottom of the ocean where light is absent.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "abiotic factors",
+      "light"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q48",
+    "question": "The nature and properties of soil in different places vary due to:",
+    "options": [
+      "Climate, weathering process, and sedimentation",
+      "Only climate",
+      "Only weathering process",
+      "Only sedimentation"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Soil properties vary due to climate, weathering process, whether soil is transported or sedimentary and how soil development occurred.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "abiotic factors",
+      "soil"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q49",
+    "question": "In aquatic environment, the sediment characteristics often determine the type of:",
+    "options": [
+      "Benthic animals",
+      "Plankton",
+      "Nekton",
+      "Neuston"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The sediment characteristics determine the type of benthic animals that can thrive there.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "abiotic factors",
+      "soil"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q50",
+    "question": "Regulators are organisms that:",
+    "options": [
+      "Maintain a constant internal environment",
+      "Change their internal environment with external conditions",
+      "Suspend their metabolic activities",
+      "Migrate to other places"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Regulators maintain a constant internal environment (homeostasis) by physiological and behavioral means.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "responses to abiotic factors",
+      "regulators"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q51",
+    "question": "Which of the following is NOT a mechanism of regulation in humans?",
+    "options": [
+      "Sweating in summer",
+      "Shivering in winter",
+      "Changing body temperature with ambient temperature",
+      "Maintaining constant body temperature of 37\u00b0C"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Humans are regulators and maintain a constant body temperature of 37\u00b0C. They do not change body temperature with ambient temperature.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "responses to abiotic factors",
+      "regulators"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q52",
+    "question": "Partial regulators are organisms that:",
+    "options": [
+      "Regulate up to a limit and then conform",
+      "Conform up to a limit and then regulate",
+      "Always regulate",
+      "Always conform"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Partial regulators have the ability to regulate but only over a limited range of environmental conditions, beyond which they simply conform.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "responses to abiotic factors",
+      "partial regulators"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q53",
+    "question": "Every winter the famous Keoladeo National Park hosts thousands of migratory birds coming from:",
+    "options": [
+      "Siberia",
+      "Australia",
+      "South America",
+      "Africa"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "They come from Siberia and other extremely cold northern regions.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "responses to abiotic factors",
+      "migration"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q54",
+    "question": "Thick cuticle and sunken stomata in Opuntia are adaptations to:",
+    "options": [
+      "Reduce transpiration",
+      "Increase photosynthesis",
+      "Increase respiration",
+      "Absorb more water"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "These are adaptations to minimize water loss through transpiration in desert plants (xerophytes).",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "adaptations",
+      "plants"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q55",
+    "question": "CAM pathway in desert plants enables:",
+    "options": [
+      "Stomata to remain closed during day",
+      "Stomata to remain open during day",
+      "Increased water absorption",
+      "Increased photosynthesis"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "CAM pathway enables their stomata to remain closed during day time to reduce transpiration.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "adaptations",
+      "plants"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q56",
+    "question": "In Opuntia, the leaves are modified into:",
+    "options": [
+      "Spines",
+      "Tendrils",
+      "Scales",
+      "Flowers"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "In Opuntia, leaves are reduced to spines and the photosynthetic function is taken over by the flattened stems.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "adaptations",
+      "plants"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q57",
+    "question": "Mammals from colder climates generally have shorter ears and limbs to minimize heat loss. This is called:",
+    "options": [
+      "Allen's Rule",
+      "Bergmann's Rule",
+      "Gloger's Rule",
+      "Jordan's Rule"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "This is Allen's Rule.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "adaptations",
+      "allen's rule"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q58",
+    "question": "The body compensates low oxygen availability at high altitudes by:",
+    "options": [
+      "Increasing red blood cell production",
+      "Decreasing breathing rate",
+      "Increasing binding affinity of hemoglobin",
+      "Decreasing heart rate"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The body compensates low oxygen availability by increasing red blood cell production, decreasing the binding affinity of hemoglobin and increasing breathing rate.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "adaptations",
+      "altitude sickness"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q59",
+    "question": "Archabacteria can survive in hot springs and deep sea hydrothermal vents where temperatures exceed 100\u00b0C because of:",
+    "options": [
+      "Special cell wall structure and enzymes",
+      "Thick layer of fat",
+      "Antifreeze proteins",
+      "High salt concentration"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "They have branched chain lipids in cell membranes and thermostable enzymes.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "adaptations",
+      "microbes"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q60",
+    "question": "Antarctic fishes can survive in below freezing temperatures because:",
+    "options": [
+      "They have antifreeze proteins in their blood",
+      "They have thick blubber",
+      "They migrate to warmer waters",
+      "They hibernate"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "They have antifreeze proteins that prevent their body fluids from freezing.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "adaptations",
+      "fishes"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q61",
+    "question": "Desert lizards manage to keep their body temperature fairly constant by:",
+    "options": [
+      "Behavioral means",
+      "Physiological means",
+      "Morphological means",
+      "Metabolic means"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "They bask in the sun and absorb heat when their body temperature drops below the comfort zone, but move into shade when the ambient temperature starts increasing.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "adaptations",
+      "behavioral"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q62",
+    "question": "Which of the following is NOT an attribute of a population?",
+    "options": [
+      "Birth rate",
+      "Death rate",
+      "Sex ratio",
+      "Individual birth"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "An individual is born or dies, but a population has birth rates and death rates. Individual birth is an attribute of an organism, not a population.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population attributes",
+      "general"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q63",
+    "question": "In an age pyramid, the base represents:",
+    "options": [
+      "Pre-reproductive individuals",
+      "Reproductive individuals",
+      "Post-reproductive individuals",
+      "Old individuals"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The base of the age pyramid represents pre-reproductive individuals.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population attributes",
+      "age pyramid"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q64",
+    "question": "An expanding population pyramid has:",
+    "options": [
+      "Broad base",
+      "Narrow base",
+      "Bell shaped structure",
+      "Urn shaped structure"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "An expanding population has a broad base (large number of pre-reproductive individuals).",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population attributes",
+      "age pyramid"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q65",
+    "question": "A stable population pyramid is:",
+    "options": [
+      "Bell-shaped",
+      "Triangular",
+      "Urn-shaped",
+      "Inverted"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "A stable population has a bell-shaped pyramid where pre-reproductive and reproductive individuals are almost equal.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population attributes",
+      "age pyramid"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q66",
+    "question": "A declining population pyramid is:",
+    "options": [
+      "Urn-shaped",
+      "Triangular",
+      "Bell-shaped",
+      "Rectangular"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "A declining population has an urn-shaped pyramid with a narrow base (fewer pre-reproductive individuals).",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population attributes",
+      "age pyramid"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q67",
+    "question": "The tiger census in our national parks and tiger reserves is often based on:",
+    "options": [
+      "Pug marks and fecal pellets",
+      "Direct counting",
+      "Camera traps",
+      "DNA analysis"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The tiger census is often based on pug marks and fecal pellets.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population attributes",
+      "census"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q68",
+    "question": "Population density is designated by the letter:",
+    "options": [
+      "N",
+      "K",
+      "r",
+      "t"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Population density is designated by N.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population attributes",
+      "density"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q69",
+    "question": "Which of the following contributes to an increase in population density?",
+    "options": [
+      "Natality and Immigration",
+      "Mortality and Emigration",
+      "Natality and Emigration",
+      "Mortality and Immigration"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Natality (births) and Immigration (incoming individuals) increase population density.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population growth",
+      "factors"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q70",
+    "question": "Which of the following contributes to a decrease in population density?",
+    "options": [
+      "Mortality and Emigration",
+      "Natality and Immigration",
+      "Natality and Emigration",
+      "Mortality and Immigration"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Mortality (deaths) and Emigration (outgoing individuals) decrease population density.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population growth",
+      "factors"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q71",
+    "question": "The equation dN/dt = rN represents:",
+    "options": [
+      "Exponential growth",
+      "Logistic growth",
+      "Linear growth",
+      "Negative growth"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "dN/dt = rN represents exponential growth.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population growth",
+      "exponential"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q72",
+    "question": "In the equation dN/dt = rN, 'r' stands for:",
+    "options": [
+      "Intrinsic rate of natural increase",
+      "Carrying capacity",
+      "Population density",
+      "Time"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "'r' is the intrinsic rate of natural increase.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population growth",
+      "exponential"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q73",
+    "question": "The equation dN/dt = rN((K-N)/K) represents:",
+    "options": [
+      "Logistic growth",
+      "Exponential growth",
+      "Geometric growth",
+      "Arithmetic growth"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "This equation represents Verhulst-Pearl Logistic Growth.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population growth",
+      "logistic"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q74",
+    "question": "In the logistic growth equation, K stands for:",
+    "options": [
+      "Carrying capacity",
+      "Intrinsic rate of natural increase",
+      "Population density",
+      "Time"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "K stands for Carrying capacity.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population growth",
+      "logistic"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q75",
+    "question": "Life history traits of organisms have evolved in relation to the constraints imposed by:",
+    "options": [
+      "Abiotic and biotic components of the habitat",
+      "Only abiotic components",
+      "Only biotic components",
+      "Predators only"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Populations evolve to maximize their reproductive fitness (Darwinian fitness) in the habitat in which they live... under a particular set of selection pressures (abiotic and biotic constraints).",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "life history variation",
+      "evolution"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q76",
+    "question": "Which of the following breeds only once in its lifetime?",
+    "options": [
+      "Pacific salmon fish and Bamboo",
+      "Birds and Mammals",
+      "Oysters and Pelagic fishes",
+      "Humans"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Pacific salmon fish and bamboo breed only once in their lifetime.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "life history variation",
+      "breeding"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q77",
+    "question": "Which of the following produces a large number of small-sized offspring?",
+    "options": [
+      "Oysters and Pelagic fishes",
+      "Birds and Mammals",
+      "Humans",
+      "Whales"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Oysters and pelagic fishes produce a large number of small-sized offspring.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "life history variation",
+      "offspring"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q78",
+    "question": "Which of the following produces a small number of large-sized offspring?",
+    "options": [
+      "Birds and Mammals",
+      "Oysters",
+      "Pelagic fishes",
+      "Bamboo"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Birds and mammals produce a small number of large-sized offspring.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "life history variation",
+      "offspring"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q79",
+    "question": "Prickly pear cactus introduced into Australia caused havoc because:",
+    "options": [
+      "It had no natural predator in the new land",
+      "It was a superior competitor",
+      "It produced toxins",
+      "It grew very fast"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The invasive cactus had no natural predators in the new land to check its population growth.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population interactions",
+      "predation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q80",
+    "question": "The prickly pear cactus in Australia was brought under control by introducing:",
+    "options": [
+      "A cactus-feeding moth",
+      "A cactus-eating beetle",
+      "A herbicide",
+      "A virus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "It was brought under control by introducing a cactus-feeding moth (Cactoblastis cactorum) from its natural habitat.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population interactions",
+      "predation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q81",
+    "question": "Predators help in maintaining species diversity in a community by:",
+    "options": [
+      "Reducing the intensity of competition among competing prey species",
+      "Increasing the intensity of competition",
+      "Eliminating prey species",
+      "Providing food for prey"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Predators help in maintaining species diversity in a community, by reducing the intensity of competition among competing prey species.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population interactions",
+      "predation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q82",
+    "question": "The Monarch butterfly is highly distasteful to its predator (bird) because of:",
+    "options": [
+      "A special chemical in its body",
+      "Its color",
+      "Its shape",
+      "Its size"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "It is highly distasteful because of a special chemical present in its body, acquired during its caterpillar stage by feeding on a poisonous weed.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population interactions",
+      "defense"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q83",
+    "question": "Thorns in Acacia and Cactus are morphological means of defense against:",
+    "options": [
+      "Herbivores",
+      "Carnivores",
+      "Parasites",
+      "Competitors"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Thorns are the most common morphological means of defense against herbivores.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population interactions",
+      "defense"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q84",
+    "question": "Calotropis produces highly poisonous _____ to defend against herbivores.",
+    "options": [
+      "Cardiac glycosides",
+      "Alkaloids",
+      "Flavonoids",
+      "Tannins"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Calotropis produces highly poisonous cardiac glycosides.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population interactions",
+      "defense"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q85",
+    "question": "Gause's 'Competitive Exclusion Principle' states that:",
+    "options": [
+      "Two closely related species competing for the same resources cannot co-exist indefinitely",
+      "Two closely related species can co-exist indefinitely",
+      "Competition promotes co-existence",
+      "Predation promotes competition"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "It states that two closely related species competing for the same resources cannot co-exist indefinitely and the competitively inferior one will be eliminated eventually.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population interactions",
+      "competition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q86",
+    "question": "Resource partitioning is a mechanism that promotes:",
+    "options": [
+      "Co-existence",
+      "Exclusion",
+      "Extinction",
+      "Competition"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "If two species compete for the same resource, they could avoid competition by choosing, for instance, different times for feeding or different foraging patterns (Resource partitioning), promoting co-existence.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population interactions",
+      "competition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q87",
+    "question": "MacArthur showed that five closely related species of warblers living on the same tree were able to avoid competition and co-exist due to:",
+    "options": [
+      "Behavioral differences in their foraging activities",
+      "Morphological differences",
+      "Physiological differences",
+      "Genetic differences"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "They avoided competition due to behavioral differences in their foraging activities (Resource partitioning).",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population interactions",
+      "competition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q88",
+    "question": "The human liver fluke depends on two intermediate hosts to complete its life cycle. They are:",
+    "options": [
+      "Snail and Fish",
+      "Mosquito and Human",
+      "Pig and Human",
+      "Snail and Pig"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The human liver fluke depends on two intermediate hosts - a snail and a fish - to complete its life cycle.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population interactions",
+      "parasitism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q89",
+    "question": "Ectoparasites feed on:",
+    "options": [
+      "External surface of the host organism",
+      "Internal organs of the host organism",
+      "Dead organic matter",
+      "Plants only"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Ectoparasites feed on the external surface of the host organism (e.g., lice, ticks).",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population interactions",
+      "parasitism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q90",
+    "question": "Brood parasitism is observed in:",
+    "options": [
+      "Cuckoo (Koel) and Crow",
+      "Sparrow and Pigeon",
+      "Parrot and Eagle",
+      "Hen and Duck"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Brood parasitism is observed in birds like the parasitic bird (cuckoo) laying its eggs in the nest of its host (crow).",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population interactions",
+      "parasitism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q91",
+    "question": "Which of the following statements is incorrect regarding the response of organisms to abiotic factors?",
+    "options": [
+      "Regulators are able to maintain homeostasis by physiological and behavioral means.",
+      "Conformers cannot maintain a constant internal environment.",
+      "Partial regulators regulate over a wide range of environmental conditions.",
+      "Small animals are rarely found in polar regions due to surface area to volume ratio."
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Partial regulators regulate only over a limited range of environmental conditions, not a wide range. Beyond that limit, they conform.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "responses to abiotic factors",
+      "partial regulators"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q92",
+    "question": "Assertion (A): Very small animals are rarely found in polar regions.\nReason (R): Small animals have a larger surface area relative to their volume, so they lose body heat very fast when it is cold outside.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Small animals have a large surface area relative to their volume, leading to rapid heat loss. This makes thermoregulation energetically expensive, so they are rare in polar regions.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "responses to abiotic factors",
+      "thermoregulation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q93",
+    "question": "Match the following adaptations with the organisms:\n1. Thick cuticle and sunken stomata - A. Antarctic fishes\n2. Antifreeze proteins - B. Kangaroo rat\n3. Internal fat oxidation - C. Opuntia\n4. Behavioral thermoregulation - D. Desert lizard",
+    "options": [
+      "1-C, 2-A, 3-B, 4-D",
+      "1-B, 2-A, 3-C, 4-D",
+      "1-C, 2-B, 3-A, 4-D",
+      "1-D, 2-C, 3-B, 4-A"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Opuntia - Thick cuticle; Antarctic fishes - Antifreeze proteins; Kangaroo rat - Internal fat oxidation; Desert lizard - Behavioral thermoregulation.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "adaptations",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q94",
+    "question": "Which of the following is correct for the equation dN/dt = rN((K-N)/K)?",
+    "options": [
+      "It represents logistic growth where K is carrying capacity.",
+      "It represents exponential growth where r is intrinsic rate of natural increase.",
+      "It represents geometric growth.",
+      "It implies that population density N can exceed K indefinitely."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "This is the Verhulst-Pearl Logistic Growth equation. K is carrying capacity.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population growth",
+      "logistic"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q95",
+    "question": "In a population growing logistically, when N = K, the growth rate (dN/dt) becomes:",
+    "options": [
+      "Zero",
+      "Maximum",
+      "Minimum",
+      "Infinite"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "When N = K, the term ((K-N)/K) becomes zero, so dN/dt becomes zero. The population stops growing.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population growth",
+      "logistic"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q96",
+    "question": "If a population has a birth rate of 0.05 and a death rate of 0.03, the intrinsic rate of natural increase (r) is:",
+    "options": [
+      "0.02",
+      "0.08",
+      "0.015",
+      "1.67"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "r = Birth rate (b) - Death rate (d) = 0.05 - 0.03 = 0.02.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population growth",
+      "calculation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q97",
+    "question": "Which of the following interactions is represented by '+, -'?",
+    "options": [
+      "Predation and Parasitism",
+      "Competition and Amensalism",
+      "Mutualism and Commensalism",
+      "Commensalism and Amensalism"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Predation and Parasitism are both represented by '+, -' (one benefits, other is harmed).",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population interactions",
+      "symbols"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q98",
+    "question": "The interaction where one species is harmed and the other is unaffected is called:",
+    "options": [
+      "Amensalism",
+      "Commensalism",
+      "Parasitism",
+      "Competition"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Amensalism is represented by '-, 0'.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population interactions",
+      "amensalism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q99",
+    "question": "Which of the following is an example of co-evolution?",
+    "options": [
+      "Fig tree and Wasp",
+      "Cattle egret and Grazing cattle",
+      "Sea anemone and Clown fish",
+      "Barnacles and Whale"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "The fig tree and wasp show a tight one-to-one mutualistic relationship where they have co-evolved.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population interactions",
+      "mutualism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q100",
+    "question": "In the Mediterranean orchid Ophrys, the flower employs 'sexual deceit' to get pollinated by:",
+    "options": [
+      "A species of bee",
+      "A species of wasp",
+      "A species of moth",
+      "A species of butterfly"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "It employs 'sexual deceit' to get pollinated by a species of bee. One petal resembles the female bee.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population interactions",
+      "mutualism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q101",
+    "question": "Which of the following is NOT a defense mechanism in plants against herbivores?",
+    "options": [
+      "Production of nectar",
+      "Thorns",
+      "Production of cardiac glycosides",
+      "Production of opium, quinine, strychnine"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Production of nectar is to attract pollinators (mutualism), not a defense against herbivores.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population interactions",
+      "defense"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q102",
+    "question": "Connell's elegant field experiments showed that on the rocky sea coasts of Scotland, the larger and competitively superior barnacle Balanus dominates the intertidal area and excludes the smaller barnacle Chathamalus. This is an example of:",
+    "options": [
+      "Competitive Release",
+      "Competitive Exclusion",
+      "Resource Partitioning",
+      "Co-existence"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "This is a classic example of Competitive Exclusion.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population interactions",
+      "competition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q103",
+    "question": "The Abingdon tortoise in Galapagos Islands became extinct within a decade after goats were introduced on the island. This is due to:",
+    "options": [
+      "Greater browsing efficiency of goats",
+      "Predation by goats",
+      "Disease transmitted by goats",
+      "Direct combat with goats"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "It was due to the greater browsing efficiency of the goats (Interference Competition).",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population interactions",
+      "competition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q104",
+    "question": "Assertion (A): Predators in nature are 'prudent'.\nReason (R): If a predator is too efficient and overexploits its prey, then the prey might become extinct and following it, the predator will also become extinct for lack of food.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Predators are prudent to ensure their own survival by not exterminating their food source.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population interactions",
+      "predation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q105",
+    "question": "Which of the following is true about 'Competitive Release'?",
+    "options": [
+      "A species whose distribution is restricted to a small geographical area because of the presence of a competitively superior species, is found to expand its distributional range dramatically when the competing species is experimentally removed.",
+      "Two species competing for the same resource cannot co-exist.",
+      "Two species avoid competition by resource partitioning.",
+      "A species becomes extinct due to competition."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "This is the definition of Competitive Release.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population interactions",
+      "competition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q106",
+    "question": "The female wasp uses the fruit of the fig tree not only as an oviposition (egg-laying) site but uses the developing seeds within the fruit for nourishing its larvae. The wasp pollinates the fig inflorescence while searching for suitable egg-laying sites. This relationship is:",
+    "options": [
+      "Mutualism",
+      "Commensalism",
+      "Parasitism",
+      "Amensalism"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "This is a mutualistic relationship where both benefit.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population interactions",
+      "mutualism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q107",
+    "question": "Which of the following is NOT a parasite?",
+    "options": [
+      "Female mosquito",
+      "Liver fluke",
+      "Cuscuta",
+      "Tapeworm"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "The female mosquito is not considered a parasite because it needs human blood for reproduction, not for food/survival per se (though this is a subtle distinction, NCERT states it is not considered a parasite).",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population interactions",
+      "parasitism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q108",
+    "question": "Identify the incorrect statement about 'Predation':",
+    "options": [
+      "It acts as a conduit for energy transfer across trophic levels.",
+      "It keeps prey populations under control.",
+      "It reduces species diversity in a community.",
+      "It drives the evolution of defense mechanisms in prey."
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Predation actually helps in maintaining species diversity by reducing competition among prey species.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population interactions",
+      "predation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q109",
+    "question": "In the equation for logistic growth, (K-N)/K represents:",
+    "options": [
+      "Environmental resistance",
+      "Biotic potential",
+      "Carrying capacity",
+      "Intrinsic rate of increase"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "The term (K-N)/K represents environmental resistance.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population growth",
+      "logistic"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q110",
+    "question": "Which of the following is an adaptation of parasites?",
+    "options": [
+      "Loss of unnecessary sense organs",
+      "Presence of adhesive organs or suckers",
+      "Loss of digestive system",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Parasites have evolved special adaptations like loss of unnecessary sense organs, presence of adhesive organs, loss of digestive system and high reproductive capacity.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population interactions",
+      "parasitism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q111",
+    "question": "The population interaction where one species benefits and the other is harmed is called:",
+    "options": [
+      "Parasitism or Predation",
+      "Commensalism",
+      "Amensalism",
+      "Competition"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Both Parasitism and Predation are (+, -) interactions.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population interactions",
+      "general"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q112",
+    "question": "Which of the following is NOT an example of commensalism?",
+    "options": [
+      "Orchid on mango branch",
+      "Barnacles on whale",
+      "Cattle egret and grazing cattle",
+      "Lice on humans"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Lice on humans is an example of parasitism.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population interactions",
+      "commensalism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q113",
+    "question": "The integral form of the exponential growth equation is:",
+    "options": [
+      "Nt = N0 e^rt",
+      "Nt = N0 e^rn",
+      "Nt = N0 (1+r)^t",
+      "dN/dt = rN"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "The integral form is Nt = N0 e^rt.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population growth",
+      "exponential"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q114",
+    "question": "In the exponential growth equation Nt = N0 e^rt, 'e' is:",
+    "options": [
+      "The base of natural logarithms (2.71828)",
+      "The base of common logarithms (10)",
+      "The rate of change",
+      "The carrying capacity"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "'e' is the base of natural logarithms (2.71828).",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population growth",
+      "exponential"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q115",
+    "question": "Which of the following statements about 'Niche' is correct?",
+    "options": [
+      "Each organism has an invariably defined range of conditions that it can tolerate, diversity in the resources it utilizes and a distinct functional role in the ecological system, all these together comprise its niche.",
+      "Niche is the physical place where an organism lives.",
+      "Two species can occupy the exact same niche indefinitely.",
+      "Niche is independent of the functional role of the organism."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "This is the correct definition of ecological niche.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "ecology",
+      "niche"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q116",
+    "question": "The salt concentration (salinity) in hypersaline lagoons is:",
+    "options": [
+      "> 100 ppt",
+      "< 5 ppt",
+      "30-35 ppt",
+      "50-60 ppt"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Salinity is > 100 parts per thousand in hypersaline lagoons.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "abiotic factors",
+      "water"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q117",
+    "question": "Which of the following is an example of 'Escape in space'?",
+    "options": [
+      "Migration of Siberian cranes to Keoladeo National Park",
+      "Hibernation of bears",
+      "Aestivation of snails",
+      "Diapause in zooplankton"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Migration is an example of escape in space (moving away from the stressful habitat). Hibernation, aestivation, and diapause are escape in time.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "responses to abiotic factors",
+      "migration"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q118",
+    "question": "The most important factor influencing the life of organisms is:",
+    "options": [
+      "Temperature",
+      "Water",
+      "Light",
+      "Soil"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Temperature is the most ecologically relevant environmental factor.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "abiotic factors",
+      "temperature"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q119",
+    "question": "Which of the following is NOT a characteristic of the logistic growth curve?",
+    "options": [
+      "Lag phase",
+      "Phase of acceleration",
+      "Phase of deceleration",
+      "Crash phase"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Logistic growth leads to an asymptote (K), not a crash. Exponential growth can lead to a crash if resources are suddenly exhausted, but logistic growth is characterized by deceleration as it approaches K.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population growth",
+      "logistic"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_organisms_populations_q120",
+    "question": "Darwin was convinced about 'Struggle for Existence' and 'Survival of the Fittest' because of:",
+    "options": [
+      "Interspecific competition",
+      "Intraspecific competition",
+      "Predation",
+      "Parasitism"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Darwin was convinced that interspecific competition is a potent force in organic evolution.",
+    "subject": "Botany",
+    "chapter": "Organisms and Populations",
+    "tags": [
+      "population interactions",
+      "competition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "organisms_and_populations",
+    "subjectId": "botany"
+  }
+]

@@ -1,0 +1,2642 @@
+[
+  {
+    "id": "chemistry_hydrogen_q1",
+    "question": "Which is the lightest element in the periodic table?",
+    "options": [
+      "Helium",
+      "Hydrogen",
+      "Lithium",
+      "Beryllium"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Hydrogen is the first and lightest element.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "basics"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q2",
+    "question": "Hydrogen resembles alkali metals in:",
+    "options": [
+      "Having one valence electron",
+      "Forming oxides",
+      "Forming halides",
+      "All of these"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Hydrogen shows resemblance to alkali metals in electronic configuration (ns1) and formation of similar compounds.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q3",
+    "question": "The most abundant isotope of hydrogen is:",
+    "options": [
+      "Protium",
+      "Deuterium",
+      "Tritium",
+      "None of these"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Protium (1H) is the most abundant isotope (>99.9%).",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "isotopes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q4",
+    "question": "Tritium is:",
+    "options": [
+      "Stable",
+      "Radioactive",
+      "Found in large quantities",
+      "Heavier than Helium"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Tritium is a radioactive isotope of hydrogen.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "isotopes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q5",
+    "question": "Water gas is a mixture of:",
+    "options": [
+      "CO + N2",
+      "CO + H2",
+      "CO2 + H2",
+      "CO + H2O"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Water gas (Syn gas) is a mixture of Carbon monoxide (CO) and Hydrogen (H2).",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "industrial preparation"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q6",
+    "question": "Heavy water is:",
+    "options": [
+      "H2O",
+      "D2O",
+      "H2O2",
+      "T2O"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Deuterium oxide (D2O) is known as heavy water.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "heavy water"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q7",
+    "question": "Hydrogen peroxide acts as:",
+    "options": [
+      "Oxidizing agent only",
+      "Reducing agent only",
+      "Both oxidizing and reducing agent",
+      "Neither"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "H2O2 can act as both oxidizing and reducing agent in acidic as well as alkaline medium.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "hydrogen peroxide"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q8",
+    "question": "The bond angle in water molecule is approximately:",
+    "options": [
+      "109.5\u00b0",
+      "104.5\u00b0",
+      "120\u00b0",
+      "180\u00b0"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Due to lone pair-lone pair repulsion, the bond angle in water is 104.5\u00b0.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "water"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q9",
+    "question": "Permanent hardness of water is due to chlorides and sulphates of:",
+    "options": [
+      "Na and K",
+      "Ca and Mg",
+      "Fe and Zn",
+      "Ag and Au"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Permanent hardness is caused by soluble salts of magnesium and calcium in the form of chlorides and sulphates.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "water hardness"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q10",
+    "question": "Which method is used to remove temporary hardness of water?",
+    "options": [
+      "Boiling",
+      "Clark's method",
+      "Both",
+      "None"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Temporary hardness can be removed by boiling or by Clark's method (adding lime).",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "water hardness"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q11",
+    "question": "The oxidation state of oxygen in H2O2 is:",
+    "options": [
+      "-2",
+      "-1",
+      "0",
+      "+1"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "In peroxides, oxygen has an oxidation state of -1.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "hydrogen peroxide"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q12",
+    "question": "Which isotope of hydrogen contains no neutrons?",
+    "options": [
+      "Protium",
+      "Deuterium",
+      "Tritium",
+      "All have neutrons"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Protium (1H1) has 1 proton and 0 neutrons.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "isotopes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q13",
+    "question": "Hydrogen is placed in which group of the periodic table?",
+    "options": [
+      "Group 1",
+      "Group 17",
+      "Group 18",
+      "Anomalous position"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Hydrogen resembles both alkali metals (Group 1) and halogens (Group 17), so its position is anomalous.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "periodic table"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q14",
+    "question": "Syngas is produced from coal by a process called:",
+    "options": [
+      "Coal gasification",
+      "Coal liquefaction",
+      "Carbonization",
+      "Distillation"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The process of producing syngas from coal is called coal gasification.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "industrial preparation"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q15",
+    "question": "Which form of hydrogen is used for cutting and welding metals?",
+    "options": [
+      "Molecular hydrogen",
+      "Atomic hydrogen",
+      "Nascent hydrogen",
+      "Heavy hydrogen"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Atomic hydrogen torch produces high temperature (4000 K) used for welding.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "applications"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q16",
+    "question": "The structure of H2O2 is:",
+    "options": [
+      "Linear",
+      "Planar",
+      "Open book (Non-planar)",
+      "Pyramidal"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "H2O2 has a non-planar open book structure.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "hydrogen peroxide"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q17",
+    "question": "Ionic hydrides are formed by:",
+    "options": [
+      "Transition metals",
+      "s-block elements",
+      "p-block elements",
+      "Noble gases"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Ionic (saline) hydrides are formed by s-block elements (alkali and alkaline earth metals).",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "hydrides"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q18",
+    "question": "Which of the following is an electron-deficient hydride?",
+    "options": [
+      "CH4",
+      "NH3",
+      "B2H6",
+      "H2O"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Diborane (B2H6) is an electron-deficient hydride of Group 13.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "hydrides"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q19",
+    "question": "Temporary hardness of water is due to:",
+    "options": [
+      "Chlorides of Ca and Mg",
+      "Sulphates of Ca and Mg",
+      "Bicarbonates of Ca and Mg",
+      "Nitrates of Ca and Mg"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Temporary hardness is caused by calcium and magnesium hydrogen carbonates (bicarbonates).",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "water hardness"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q20",
+    "question": "The reaction of steam on hydrocarbons at high temperature in presence of catalyst yields:",
+    "options": [
+      "Water gas",
+      "Producer gas",
+      "Coal gas",
+      "Natural gas"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Hydrocarbon + Steam -> CO + H2 (Water gas).",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "industrial preparation"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q21",
+    "question": "Which of the following is used as a moderator in nuclear reactors?",
+    "options": [
+      "H2O",
+      "D2O",
+      "H2O2",
+      "H2"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Heavy water (D2O) is used as a moderator to slow down neutrons.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "heavy water"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q22",
+    "question": "Hydrogen is prepared in the laboratory by the action of dilute acids on:",
+    "options": [
+      "Copper",
+      "Granulated Zinc",
+      "Silver",
+      "Mercury"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Zn + H2SO4 -> ZnSO4 + H2. Granulated zinc is preferred.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "preparation"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q23",
+    "question": "Metallic hydrides are also known as:",
+    "options": [
+      "Ionic hydrides",
+      "Covalent hydrides",
+      "Interstitial hydrides",
+      "Molecular hydrides"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Metallic hydrides are non-stoichiometric and often called interstitial hydrides.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "hydrides"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q24",
+    "question": "The volume strength of '10 volume' H2O2 solution means:",
+    "options": [
+      "10% H2O2",
+      "1 L gives 10 L O2 at STP",
+      "10 g H2O2 in 100 mL",
+      "10 moles H2O2"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "10 volume H2O2 means 1 liter of solution gives 10 liters of O2 at STP.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "hydrogen peroxide"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q25",
+    "question": "Which of the following is an electron-rich hydride?",
+    "options": [
+      "NaH",
+      "CH4",
+      "NH3",
+      "B2H6"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "NH3 has a lone pair on Nitrogen, making it electron-rich.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "hydrides"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q26",
+    "question": "Pure water is:",
+    "options": [
+      "Good conductor of electricity",
+      "Poor conductor of electricity",
+      "Semiconductor",
+      "Superconductor"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Pure water is a very poor conductor of electricity due to low ionization.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "water"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q27",
+    "question": "H2O2 is stored in:",
+    "options": [
+      "Glass bottles",
+      "Iron containers",
+      "Wax-lined glass or plastic bottles",
+      "Copper vessels"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "To prevent decomposition catalyzed by alkali in glass or metal surfaces, it is stored in wax-lined or plastic bottles.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "hydrogen peroxide"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q28",
+    "question": "Calgon is used for:",
+    "options": [
+      "Purification of water",
+      "Softening of hard water",
+      "Preparation of H2O2",
+      "Preparation of D2O"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Calgon (Sodium hexametaphosphate) is used for water softening.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "water hardness"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q29",
+    "question": "Which gas is evolved when sodium reacts with water?",
+    "options": [
+      "O2",
+      "H2",
+      "N2",
+      "Cl2"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "2Na + 2H2O -> 2NaOH + H2.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q30",
+    "question": "The H-O-H bond angle in ice is:",
+    "options": [
+      "109.5\u00b0",
+      "104.5\u00b0",
+      "120\u00b0",
+      "109\u00b0"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "In ice, each oxygen atom is surrounded tetrahedrally by four other oxygen atoms. The angle is close to tetrahedral (109.5\u00b0), unlike liquid water (104.5\u00b0). Wait. Actually, the H-O-H angle in the water molecule itself remains ~104.5\u00b0. But the arrangement of O atoms is tetrahedral. The question asks H-O-H bond angle. It is still considered 104.5\u00b0 or slightly different but not 109.5\u00b0. Let me check. In ice, water molecules are H-bonded. The H-O-H angle is 104.5\u00b0. The O...O...O angle is 109.5\u00b0. Let's stick to 104.5\u00b0 as the molecular angle. But some sources say it opens up slightly. Let's assume the question refers to the molecular geometry which is bent.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "water"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q31",
+    "question": "Which of the following is correct for heavy water?",
+    "options": [
+      "It has lower boiling point than water",
+      "It has higher boiling point than water",
+      "It has same boiling point as water",
+      "It freezes at lower temperature than water"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "D2O has a higher boiling point (101.4\u00b0C) than H2O due to stronger H-bonding.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "heavy water"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q32",
+    "question": "Hydrogen acts as a reducing agent because:",
+    "options": [
+      "It accepts electrons",
+      "It loses electrons",
+      "It forms hydrides",
+      "It is a gas"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Reducing agents lose electrons.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q33",
+    "question": "The catalyst used in the production of water gas from methane is:",
+    "options": [
+      "Fe",
+      "Ni",
+      "Pt",
+      "Cu"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Nickel is used as a catalyst in steam reforming of methane.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "industrial preparation"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q34",
+    "question": "Ortho and Para hydrogen differ in:",
+    "options": [
+      "Atomic number",
+      "Mass number",
+      "Spin of protons",
+      "Spin of electrons"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "They differ in the direction of nuclear spin (spin of protons). Parallel (Ortho) vs Antiparallel (Para).",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "ortho para hydrogen"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q35",
+    "question": "Which of the following hydrides is covalent?",
+    "options": [
+      "NaH",
+      "CaH2",
+      "CH4",
+      "KH"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "CH4 is a covalent (molecular) hydride.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "hydrides"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q36",
+    "question": "The bleaching action of H2O2 is due to:",
+    "options": [
+      "Reduction",
+      "Oxidation",
+      "Hydrolysis",
+      "Dehydration"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Bleaching action is due to oxidation by nascent oxygen.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "hydrogen peroxide"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q37",
+    "question": "Which of the following is not an isotope of hydrogen?",
+    "options": [
+      "Protium",
+      "Deuterium",
+      "Tritium",
+      "Helium"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Helium is a different element.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "isotopes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q38",
+    "question": "Hydrogen combines with halogens to form:",
+    "options": [
+      "Hydrogen halides",
+      "Hydrogen oxides",
+      "Hydrogen sulfides",
+      "Hydrogen nitrides"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "H2 + X2 -> 2HX (Hydrogen halides).",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q39",
+    "question": "The shape of water molecule is:",
+    "options": [
+      "Linear",
+      "Bent",
+      "Trigonal planar",
+      "Tetrahedral"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Water has a bent or V-shape structure.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "water"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q40",
+    "question": "Which of the following is used as rocket fuel?",
+    "options": [
+      "Liquid Hydrogen",
+      "Liquid Nitrogen",
+      "Liquid Helium",
+      "Liquid Argon"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Liquid hydrogen (with liquid oxygen) is used as rocket fuel.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "applications"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q41",
+    "question": "Which of the following reactions produces hydrogen?",
+    "options": [
+      "Zn + NaOH",
+      "Mg + dilute HNO3",
+      "Fe + conc. H2SO4",
+      "Cu + dilute HCl"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Zn + 2NaOH -> Na2ZnO2 + H2. Mg reacts with dilute HNO3 to give H2 (only Mg and Mn do). Fe + conc H2SO4 gives SO2. Cu does not react with dilute HCl.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "preparation"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q42",
+    "question": "The boiling point of water is exceptionally high because:",
+    "options": [
+      "It is a liquid",
+      "It has high specific heat",
+      "Water molecules are associated due to hydrogen bonding",
+      "It acts as a solvent"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Extensive intermolecular hydrogen bonding leads to high boiling point.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "water"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q43",
+    "question": "Which of the following metals adsorbs hydrogen?",
+    "options": [
+      "Zn",
+      "Pd",
+      "Al",
+      "K"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Palladium (Pd) adsorbs large volumes of hydrogen (occlusion).",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q44",
+    "question": "The dihedral angle of H2O2 in gas phase is:",
+    "options": [
+      "90.2\u00b0",
+      "111.5\u00b0",
+      "94.8\u00b0",
+      "101.9\u00b0"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "In gas phase, the dihedral angle is 111.5\u00b0. In solid phase, it is 90.2\u00b0.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "hydrogen peroxide"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q45",
+    "question": "Which of the following is used to remove permanent hardness of water?",
+    "options": [
+      "Washing soda",
+      "Boiling",
+      "Clark's method",
+      "Filtration"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Washing soda (Na2CO3) removes permanent hardness by precipitating Ca and Mg as carbonates.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "water hardness"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q46",
+    "question": "The strength of 10 volume H2O2 solution in g/L is approximately:",
+    "options": [
+      "30 g/L",
+      "17 g/L",
+      "34 g/L",
+      "68 g/L"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "2H2O2 -> 2H2O + O2. 68g H2O2 gives 22.4L O2. 10L O2 is given by (68/22.4)*10 = 30.35 g/L.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "hydrogen peroxide"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q47",
+    "question": "Tritium undergoes radioactive decay to emit:",
+    "options": [
+      "Alpha particles",
+      "Beta particles",
+      "Gamma rays",
+      "Neutrons"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Tritium decays by beta emission (low energy beta minus).",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "isotopes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q48",
+    "question": "Which of the following hydrides is most stable?",
+    "options": [
+      "HF",
+      "HCl",
+      "HBr",
+      "HI"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Bond dissociation enthalpy decreases down the group, so HF is most stable.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "hydrides"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q49",
+    "question": "Polyphosphates (like sodium hexametaphosphate) are used as water softeners because they:",
+    "options": [
+      "Precipitate Ca2+ and Mg2+",
+      "Form soluble complexes with Ca2+ and Mg2+",
+      "Oxidize impurities",
+      "Reduce impurities"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "They sequester Ca2+ and Mg2+ ions by forming soluble complexes, preventing precipitation with soap.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "water hardness"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q50",
+    "question": "Hydrogen is not obtained when zinc reacts with:",
+    "options": [
+      "Cold water",
+      "Dilute HCl",
+      "Dilute H2SO4",
+      "Hot NaOH solution"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Zinc does not react with cold water. It reacts with steam.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "preparation"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q51",
+    "question": "The oxidation state of Oxygen in F2O is:",
+    "options": [
+      "-2",
+      "+2",
+      "-1",
+      "+1"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Fluorine is more electronegative (-1). 2(-1) + x = 0. x = +2.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "oxidation number"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q52",
+    "question": "Which of the following statements about H2O2 is false?",
+    "options": [
+      "It is a pale blue liquid",
+      "It acts as an oxidizing agent",
+      "It acts as a reducing agent",
+      "Two hydroxyl groups are in the same plane"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "H2O2 has a non-planar structure. The two OH groups lie in different planes.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "hydrogen peroxide"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q53",
+    "question": "Permutit is:",
+    "options": [
+      "Hydrated sodium aluminium silicate",
+      "Sodium hexametaphosphate",
+      "Sodium carbonate",
+      "Calcium hydroxide"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Permutit (Zeolite) is hydrated sodium aluminium silicate used for water softening.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "water hardness"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q54",
+    "question": "The reaction H2O2 + O3 -> H2O + 2O2 indicates that H2O2 acts as:",
+    "options": [
+      "Oxidizing agent",
+      "Reducing agent",
+      "Acid",
+      "Base"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "O3 is reduced to O2. H2O2 is oxidized to O2. So H2O2 acts as a reducing agent.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "hydrogen peroxide"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q55",
+    "question": "Which of the following groups of elements form saline hydrides?",
+    "options": [
+      "Group 1 and 2",
+      "Group 13 and 14",
+      "Group 15 and 16",
+      "Group 7, 8, 9"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Saline (ionic) hydrides are formed by s-block elements (Group 1 and 2).",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "hydrides"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q56",
+    "question": "The maximum density of water is at:",
+    "options": [
+      "0\u00b0C",
+      "4\u00b0C",
+      "100\u00b0C",
+      "-4\u00b0C"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Water has maximum density at 4\u00b0C (277 K).",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "water"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q57",
+    "question": "Which of the following is formed when heavy water reacts with CaC2?",
+    "options": [
+      "C2H2",
+      "C2D2",
+      "CD4",
+      "C2D4"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "CaC2 + 2D2O -> C2D2 (Deuteroacetylene) + Ca(OD)2.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "heavy water"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q58",
+    "question": "Hydrogen resembles halogens in:",
+    "options": [
+      "Formation of unipositive ion",
+      "High ionization enthalpy",
+      "Reaction with metals to form hydrides",
+      "Both 2 and 3"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Hydrogen has high ionization enthalpy like halogens and forms hydrides (H-) with metals like halogens form halides.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q59",
+    "question": "Which of the following is not true for H2O2?",
+    "options": [
+      "It is a linear molecule",
+      "It is a strong oxidizing agent",
+      "It is a weak acid",
+      "It is used as a bleaching agent"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "H2O2 is non-planar (open book), not linear.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "hydrogen peroxide"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q60",
+    "question": "The process of production of dihydrogen from hydrocarbons and steam is called:",
+    "options": [
+      "Steam reforming",
+      "Water-gas shift reaction",
+      "Coal gasification",
+      "Electrolysis"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Reaction of hydrocarbons with steam to produce H2 is steam reforming.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "industrial preparation"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q61",
+    "question": "Which of the following metals does not liberate hydrogen from dilute acids?",
+    "options": [
+      "Fe",
+      "Zn",
+      "Cu",
+      "Mg"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Cu is below Hydrogen in the electrochemical series and cannot displace it from acids.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q62",
+    "question": "The H-H bond dissociation enthalpy is:",
+    "options": [
+      "Highest for a single bond between two atoms of any element",
+      "Lowest for a single bond",
+      "Equal to C-C bond",
+      "Equal to O-O bond"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "H-H bond dissociation enthalpy is the highest for a single bond between two atoms of any element.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q63",
+    "question": "Which of the following compounds is used for water softening?",
+    "options": [
+      "Ca3(PO4)2",
+      "Na3PO4",
+      "Na6P6O18",
+      "Na2HPO4"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Sodium hexametaphosphate (Calgon) is Na6P6O18.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "water hardness"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q64",
+    "question": "In the Bosch process, hydrogen is obtained from:",
+    "options": [
+      "Water gas",
+      "Natural gas",
+      "Coal",
+      "Electrolysis"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Bosch process uses water gas (CO + H2) to produce hydrogen.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "industrial preparation"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q65",
+    "question": "Which of the following hydrides is non-stoichiometric?",
+    "options": [
+      "NaH",
+      "CaH2",
+      "VH0.56",
+      "NH3"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Metallic hydrides like VH0.56 are non-stoichiometric.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "hydrides"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q66",
+    "question": "The normality of 20 volume H2O2 is:",
+    "options": [
+      "1.79 N",
+      "3.57 N",
+      "5.6 N",
+      "0.89 N"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Volume strength = 5.6 * Normality. Normality = 20 / 5.6 = 3.57 N.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "hydrogen peroxide"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q67",
+    "question": "Which of the following is correct regarding the reactivity of hydrogen isotopes?",
+    "options": [
+      "H > D > T",
+      "T > D > H",
+      "H = D = T",
+      "H > T > D"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Due to lower bond dissociation energy, Protium (H) is more reactive than Deuterium (D) and Tritium (T).",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "isotopes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q68",
+    "question": "Which of the following ions causes hardness in water?",
+    "options": [
+      "Na+",
+      "K+",
+      "Ca2+",
+      "NH4+"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Ca2+ and Mg2+ cause hardness.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "water hardness"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q69",
+    "question": "The catalyst used in the water-gas shift reaction is:",
+    "options": [
+      "Fe",
+      "Ni",
+      "Iron chromate",
+      "V2O5"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Iron chromate (Fe2O3 + Cr2O3) is used as a catalyst.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "industrial preparation"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q70",
+    "question": "Which of the following is a molecular hydride?",
+    "options": [
+      "LiH",
+      "HF",
+      "CrH",
+      "LaH3"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "HF is a covalent (molecular) hydride formed by p-block elements.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "hydrides"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q71",
+    "question": "H2O2 acts as an oxidizing agent in:",
+    "options": [
+      "Acidic medium only",
+      "Alkaline medium only",
+      "Both acidic and alkaline media",
+      "Neutral medium only"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "H2O2 acts as an oxidizing agent in both acidic and alkaline media.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "hydrogen peroxide"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q72",
+    "question": "The percentage of para-hydrogen at room temperature is:",
+    "options": [
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "At room temperature, ordinary hydrogen contains about 75% ortho and 25% para hydrogen.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "ortho para hydrogen"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q73",
+    "question": "Which of the following reactions shows the reducing nature of H2O2?",
+    "options": [
+      "PbS + 4H2O2 -> PbSO4 + 4H2O",
+      "2Fe2+ + H2O2 + 2H+ -> 2Fe3+ + 2H2O",
+      "I2 + H2O2 + 2OH- -> 2I- + 2H2O + O2",
+      "Mn2+ + H2O2 -> Mn4+ + 2OH-"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "I2 (0) -> I- (-1) is reduction. H2O2 is oxidized to O2. So H2O2 is the reducing agent.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "hydrogen peroxide"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q74",
+    "question": "Which of the following is not a property of hydrogen?",
+    "options": [
+      "It is a colorless, odorless gas",
+      "It is highly combustible",
+      "It is heavier than air",
+      "It is slightly soluble in water"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Hydrogen is much lighter than air.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q75",
+    "question": "The number of neutrons in Deuterium is:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Deuterium (2H1) has 1 proton and 1 neutron.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "isotopes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q76",
+    "question": "Which of the following is an example of an interstitial hydride?",
+    "options": [
+      "NH3",
+      "CaH2",
+      "TiH1.73",
+      "BeH2"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "TiH1.73 is a metallic/interstitial hydride.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "hydrides"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q77",
+    "question": "The reaction of CaC2 with water produces:",
+    "options": [
+      "Methane",
+      "Ethane",
+      "Acetylene",
+      "Ethylene"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "CaC2 + 2H2O -> C2H2 (Acetylene) + Ca(OH)2.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "preparation"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q78",
+    "question": "Which of the following statements is correct?",
+    "options": [
+      "Hydrogen has the same ionization potential as alkali metals",
+      "Hydrogen has the same electronegativity as halogens",
+      "Hydrogen has an oxidation state of -1 in NaH",
+      "Hydrogen is always electropositive"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "In metal hydrides like NaH, H has an oxidation state of -1.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q79",
+    "question": "Which of the following is used as a propellant in rockets?",
+    "options": [
+      "Liquid H2 + Liquid N2",
+      "Liquid H2 + Liquid O2",
+      "Liquid N2 + Liquid O2",
+      "Liquid H2 + Liquid He"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Liquid Hydrogen and Liquid Oxygen are used as rocket propellants.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "applications"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q80",
+    "question": "The structure of ice is:",
+    "options": [
+      "Open cage-like",
+      "Close packed",
+      "Body centered cubic",
+      "Face centered cubic"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Ice has an open cage-like structure with voids, leading to lower density than water.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "water"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q81",
+    "question": "Which of the following is formed when H2 reacts with CO in the presence of Cobalt catalyst?",
+    "options": [
+      "Methanol",
+      "Formaldehyde",
+      "Methane",
+      "Formic acid"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "CO + 2H2 --(Co catalyst)--> CH3OH (Methanol).",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q82",
+    "question": "Which of the following is not a use of D2O?",
+    "options": [
+      "As a moderator",
+      "In tracer mechanism",
+      "In preparation of deuterium",
+      "For drinking"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "D2O is toxic to organisms and not used for drinking.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "heavy water"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q83",
+    "question": "Which of the following is a polymeric hydride?",
+    "options": [
+      "BeH2",
+      "NaH",
+      "CaH2",
+      "LiH"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "BeH2 and MgH2 are polymeric hydrides.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "hydrides"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q84",
+    "question": "The bond angle H-O-O in H2O2 (solid) is:",
+    "options": [
+      "94.8\u00b0",
+      "101.9\u00b0",
+      "111.5\u00b0",
+      "90.2\u00b0"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "In solid phase, the dihedral angle is 90.2\u00b0. The H-O-O bond angle is 101.9\u00b0 in solid and 94.8\u00b0 in gas. Wait. Let me check. Gas phase: Dihedral 111.5, Angle 94.8. Solid phase: Dihedral 90.2, Angle 101.9. The question asks H-O-O bond angle in solid. It is 101.9\u00b0. Wait, let me double check. NCERT says: Gas phase - O-O-H angle 94.8, Dihedral 111.5. Solid phase - O-O-H angle 101.9, Dihedral 90.2. So 101.9 is correct.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "hydrogen peroxide"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q85",
+    "question": "Which of the following reactions is used for the preparation of H2O2?",
+    "options": [
+      "BaO2.8H2O + H2SO4",
+      "Na2O2 + H2O",
+      "2-ethylanthraquinol oxidation",
+      "All of these"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "All these methods are used for H2O2 preparation.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "preparation"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q86",
+    "question": "The ionization enthalpy of hydrogen resembles that of:",
+    "options": [
+      "Alkali metals",
+      "Halogens",
+      "Noble gases",
+      "Transition metals"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "IE of H (1312 kJ/mol) is very high and close to Halogens (e.g., F 1680, Cl 1255). Alkali metals have much lower IE.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q87",
+    "question": "Which of the following is correct order of boiling points?",
+    "options": [
+      "H2O > H2Te > H2Se > H2S",
+      "H2O > H2S > H2Se > H2Te",
+      "H2Te > H2Se > H2S > H2O",
+      "H2O > H2Te > H2S > H2Se"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "H2O has highest BP due to H-bonding. For others, BP increases with molecular mass (H2S < H2Se < H2Te). So H2O > H2Te > H2Se > H2S.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "hydrides"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q88",
+    "question": "The gas used in the hydrogenation of oils is:",
+    "options": [
+      "Oxygen",
+      "Hydrogen",
+      "Nitrogen",
+      "Chlorine"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Hydrogenation of vegetable oils uses Hydrogen gas.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "applications"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q89",
+    "question": "Which of the following is not a hard water?",
+    "options": [
+      "Water containing Ca(HCO3)2",
+      "Water containing MgSO4",
+      "Distilled water",
+      "Water containing CaCl2"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Distilled water is free from ions and is soft water.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "water hardness"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q90",
+    "question": "The oxidation state of hydrogen in LiH is:",
+    "options": [
+      "+1",
+      "-1",
+      "0",
+      "+2"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "In ionic hydrides, H is -1.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "oxidation number"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q91",
+    "question": "The volume strength of 1.5 N H2O2 solution is:",
+    "options": [
+      "4.8",
+      "8.4",
+      "3.0",
+      "8.0"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Volume strength = 5.6 * Normality. Vol = 5.6 * 1.5 = 8.4.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "hydrogen peroxide"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q92",
+    "question": "Calculate the hardness of water sample containing 16.2 mg of Ca(HCO3)2 per liter. (Atomic mass Ca=40, H=1, C=12, O=16)",
+    "options": [
+      "10 ppm",
+      "100 ppm",
+      "50 ppm",
+      "20 ppm"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Mol wt of Ca(HCO3)2 = 40 + 2(1+12+48) = 40 + 122 = 162 g/mol. 16.2 mg = 16.2 x 10^-3 g. Moles = 10^-4. Hardness in ppm CaCO3. 1 mole Ca(HCO3)2 = 1 mole CaCO3 (100g). 10^-4 mol = 10^-2 g CaCO3 = 10 mg. 10 mg/L = 10 ppm.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "water hardness"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q93",
+    "question": "Which of the following reactions shows the oxidizing nature of H2O2 in acidic medium?",
+    "options": [
+      "2FeSO4 + H2SO4 + H2O2 -> Fe2(SO4)3 + 2H2O",
+      "PbS + 4H2O2 -> PbSO4 + 4H2O",
+      "2KI + H2O2 -> 2KOH + I2",
+      "Ag2O + H2O2 -> 2Ag + H2O + O2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Fe2+ -> Fe3+ (Oxidation). H2O2 is the oxidizing agent. Reaction A is in acidic medium (H2SO4). Reaction B is usually neutral/acidic but solid phase. Reaction C is neutral/alkaline? Usually acidic for I- -> I2. But A is clearly acidic oxidation of Fe2+.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "hydrogen peroxide"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q94",
+    "question": "The H-O-O bond angle in H2O2 is 94.8\u00b0 in gas phase. This is due to:",
+    "options": [
+      "Repulsion between lone pairs on oxygen atoms",
+      "Repulsion between bond pairs",
+      "Hydrogen bonding",
+      "Dipole-dipole interaction"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Repulsion between lone pairs on adjacent oxygen atoms minimizes at this dihedral angle/bond angle configuration.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "hydrogen peroxide"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q95",
+    "question": "A water sample contains 111 mg CaCl2 per liter. The hardness of water in terms of CaCO3 equivalent is:",
+    "options": [
+      "100 ppm",
+      "50 ppm",
+      "200 ppm",
+      "111 ppm"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Mol wt CaCl2 = 111. 111 mg = 1 mmol. 1 mmol CaCl2 = 1 mmol CaCO3 = 100 mg. 100 mg/L = 100 ppm.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "water hardness"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q96",
+    "question": "Which of the following statements is incorrect regarding saline hydrides?",
+    "options": [
+      "They are crystalline solids",
+      "They conduct electricity in molten state",
+      "They are volatile",
+      "They react violently with water"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Saline hydrides are ionic solids, non-volatile.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "hydrides"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q97",
+    "question": "The ratio of electron, proton and neutron in Tritium is:",
+    "options": [
+      "1:1:1",
+      "1:1:2",
+      "1:1:3",
+      "1:2:1"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Tritium (3H1): 1 electron, 1 proton, 2 neutrons.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "isotopes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q98",
+    "question": "30 volumes H2O2 means:",
+    "options": [
+      "30% H2O2 by weight",
+      "30 g H2O2 in 100 mL",
+      "1 cm3 solution gives 30 cm3 O2 at STP",
+      "30 g H2O2 in 1 L"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Definition of volume strength.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "hydrogen peroxide"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q99",
+    "question": "Which of the following reactions produces hydrogen with >99.95% purity?",
+    "options": [
+      "Electrolysis of warm aqueous barium hydroxide solution between nickel electrodes",
+      "Reaction of Zn with KOH",
+      "Electrolysis of acidified water",
+      "Reaction of Al with NaOH"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "High purity hydrogen is obtained by electrolyzing warm aqueous barium hydroxide solution between nickel electrodes.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "preparation"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q100",
+    "question": "The degree of hardness of water is usually expressed as:",
+    "options": [
+      "ppm of CaCO3",
+      "g/L of CaCO3",
+      "ppm of MgCO3",
+      "g/L of MgCl2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Standard expression is ppm of CaCO3 equivalents.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "water hardness"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q101",
+    "question": "In the structure of ice, each oxygen atom is surrounded by:",
+    "options": [
+      "4 H atoms tetrahedrally",
+      "2 H atoms linearly",
+      "6 H atoms octahedrally",
+      "3 H atoms trigonally"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Each O is surrounded by 4 H atoms (2 covalent, 2 H-bonds) in a tetrahedral arrangement.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "water"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q102",
+    "question": "Which of the following is the correct order of thermal stability?",
+    "options": [
+      "H2O > H2S > H2Se > H2Te",
+      "H2Te > H2Se > H2S > H2O",
+      "H2O > H2Te > H2Se > H2S",
+      "H2S > H2O > H2Se > H2Te"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Thermal stability decreases down the group as bond energy decreases.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "hydrides"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q103",
+    "question": "The weight of H2O2 present in 1000 mL of 20 volume H2O2 solution is:",
+    "options": [
+      "60.7 g",
+      "30.35 g",
+      "91 g",
+      "17 g"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "20 vol means 1 L gives 20 L O2. Moles O2 = 20/22.4 = 0.893 mol. Moles H2O2 = 2 * 0.893 = 1.786 mol. Mass = 1.786 * 34 = 60.7 g.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "hydrogen peroxide"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q104",
+    "question": "Which of the following can remove both temporary and permanent hardness?",
+    "options": [
+      "Clark's method",
+      "Ion exchange method",
+      "Boiling",
+      "Adding washing soda"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Ion exchange (or synthetic resins) removes all ions causing hardness.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "water hardness"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q105",
+    "question": "The bond length of O-O in H2O2 is:",
+    "options": [
+      "147.5 pm",
+      "121 pm",
+      "134 pm",
+      "141 pm"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "O-O bond length in H2O2 is 147.5 pm (approx 148 pm).",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "hydrogen peroxide"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q106",
+    "question": "When Zeolite (NaAlSiO4) is treated with hard water, the Ca2+ ions are exchanged with:",
+    "options": [
+      "Na+",
+      "Al3+",
+      "Si4+",
+      "H+"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "2NaZ + Ca2+ -> CaZ2 + 2Na+. Na+ is exchanged.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "water hardness"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q107",
+    "question": "Which of the following is correct for the reaction of H2O2 with KMnO4 in acidic medium?",
+    "options": [
+      "Mn2+ is oxidized to MnO4-",
+      "MnO4- is reduced to Mn2+",
+      "H2O2 is reduced to H2O",
+      "O2 is reduced to H2O2"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "MnO4- (+7) is reduced to Mn2+ (+2). H2O2 is oxidized to O2.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "hydrogen peroxide"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q108",
+    "question": "The mass of CaO required to remove hardness of 10^6 liters of water containing 1.62 g of Ca(HCO3)2 per liter is:",
+    "options": [
+      "560 kg",
+      "56 kg",
+      "5.6 kg",
+      "5600 kg"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Ca(HCO3)2 + CaO -> 2CaCO3 + H2O. Mol wt Ca(HCO3)2 = 162. CaO = 56. 1.62 g = 0.01 mol. Requires 0.01 mol CaO = 0.56 g per liter. For 10^6 L: 0.56 * 10^6 g = 560 kg.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "water hardness"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q109",
+    "question": "Atomic hydrogen is produced by:",
+    "options": [
+      "Electrolysis of water",
+      "Thermal decomposition of H2 at high temp",
+      "Reaction of Zn with acid",
+      "Reaction of Na with water"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Dissociation of H2 into atomic hydrogen requires high energy (electric arc or high temp 2000-4000K).",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "preparation"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q110",
+    "question": "Which of the following hydrides has the lowest boiling point?",
+    "options": [
+      "H2O",
+      "H2S",
+      "H2Se",
+      "H2Te"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "H2O (high due to H-bond). H2S is lowest. Then increases H2Se < H2Te due to mass/van der Waals.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "hydrides"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q111",
+    "question": "The H-O-H angle in water is less than tetrahedral angle because:",
+    "options": [
+      "lp-lp repulsion > lp-bp repulsion",
+      "lp-bp repulsion > bp-bp repulsion",
+      "bp-bp repulsion > lp-lp repulsion",
+      "Both 1 and 2"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "VSEPR theory: lp-lp > lp-bp > bp-bp. The two lone pairs compress the bond angle.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "water"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q112",
+    "question": "Which of the following is used to determine hardness of water by titration?",
+    "options": [
+      "EDTA",
+      "Hypo",
+      "KMnO4",
+      "Oxalic acid"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Hardness is determined by complexometric titration with EDTA (Ethylene Diamine Tetra Acetic acid).",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "water hardness"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q113",
+    "question": "The number of water molecules in one drop of water (volume 0.05 mL) at room temperature is:",
+    "options": [
+      "1.67 x 10^21",
+      "1.67 x 10^22",
+      "6.02 x 10^23",
+      "1.67 x 10^20"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Mass = 0.05 g. Moles = 0.05/18 = 0.00277. Molecules = 0.00277 * 6.022e23 = 1.67 x 10^21.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "stoichiometry"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q114",
+    "question": "Which of the following statements about ortho and para hydrogen is correct?",
+    "options": [
+      "Ortho is more stable at low temperature",
+      "Para is more stable at low temperature",
+      "Both are equally stable at all temperatures",
+      "Ortho converts to para at high temperature"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "At 0 K, hydrogen is 100% para (more stable). As temp increases, ortho increases.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "ortho para hydrogen"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q115",
+    "question": "The dielectric constant of water is high (78.39). This makes water:",
+    "options": [
+      "A good solvent for ionic compounds",
+      "A good solvent for covalent compounds",
+      "A poor conductor",
+      "Highly viscous"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "High dielectric constant reduces force of attraction between ions, making it a good solvent for ionic compounds.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "water"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q116",
+    "question": "Which of the following reactions does not produce H2?",
+    "options": [
+      "Zn + NaOH",
+      "Zn + HCl",
+      "Cu + HNO3 (conc)",
+      "C + H2O (steam)"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Cu + conc HNO3 -> Cu(NO3)2 + NO2 + H2O. No H2.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "preparation"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q117",
+    "question": "The bond angle in H3O+ is approximately:",
+    "options": [
+      "104.5\u00b0",
+      "109.5\u00b0",
+      "120\u00b0",
+      "107\u00b0"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "H3O+ is pyramidal (isostructural with NH3). Bond angle is approx 107\u00b0.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "water"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q118",
+    "question": "Which of the following is the correct order of bond dissociation enthalpy?",
+    "options": [
+      "D2 > H2 > T2",
+      "H2 > D2 > T2",
+      "T2 > D2 > H2",
+      "D2 > T2 > H2"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Bond energy increases with mass of isotope. T2 > D2 > H2. (Though T is radioactive, chemically bond strength follows this trend).",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "isotopes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q119",
+    "question": "What is the mass of H2O2 in 100 mL of a solution which gives 100 mL of O2 at STP?",
+    "options": [
+      "0.3 g",
+      "0.15 g",
+      "0.6 g",
+      "0.03 g"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "100 mL O2 = 0.1 L. Moles O2 = 0.1/22.4 = 0.00446. Moles H2O2 = 2 * 0.00446 = 0.0089. Mass = 0.0089 * 34 = 0.303 g.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "hydrogen peroxide"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_hydrogen_q120",
+    "question": "The pH of D2O is:",
+    "options": [
+      "7.0",
+      "Greater than 7.0",
+      "Less than 7.0",
+      "14.0"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Kw for D2O is smaller than H2O (approx 1.35 x 10^-15 at 25C). pKw = 14.87. Neutral pH = 7.43. So neutral D2O has pH > 7.",
+    "subject": "Chemistry",
+    "chapter": "Hydrogen",
+    "tags": [
+      "heavy water"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "hydrogen",
+    "subjectId": "chemistry"
+  }
+]

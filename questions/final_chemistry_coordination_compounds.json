@@ -1,0 +1,2882 @@
+[
+  {
+    "id": "chem_coordination_compounds_q1",
+    "question": "The central metal atom or ion in a coordination entity is also referred to as:",
+    "options": [
+      "Lewis acid",
+      "Lewis base",
+      "Bronsted acid",
+      "Bronsted base"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The central metal atom or ion accepts electron pairs from ligands, thus acting as a Lewis acid.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "coordination entity",
+      "lewis acid"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q2",
+    "question": "Ligands are:",
+    "options": [
+      "Electron pair donors",
+      "Electron pair acceptors",
+      "Proton donors",
+      "Neutron acceptors"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Ligands are species that donate at least one pair of electrons to the central metal atom/ion.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "ligands",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q3",
+    "question": "The coordination number of Pt in [PtCl6]2- is:",
+    "options": [
+      "6",
+      "4",
+      "2",
+      "8"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "There are 6 chloride ligands attached to Pt, so the coordination number is 6.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "coordination number",
+      "calculation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q4",
+    "question": "Which of the following is a bidentate ligand?",
+    "options": [
+      "Ethane-1,2-diamine (en)",
+      "Ammonia",
+      "Water",
+      "Chloride"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Ethane-1,2-diamine (en) has two donor nitrogen atoms, making it a bidentate ligand.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "ligands",
+      "types"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q5",
+    "question": "EDTA is a _____ ligand.",
+    "options": [
+      "Hexadentate",
+      "Tetradentate",
+      "Bidentate",
+      "Monodentate"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "EDTA (Ethylenediaminetetraacetate) is a hexadentate ligand with 4 oxygen and 2 nitrogen donor atoms.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "ligands",
+      "types"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q6",
+    "question": "The oxidation state of Ni in [Ni(CO)4] is:",
+    "options": [
+      "0",
+      "+2",
+      "+4",
+      "-2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "CO is a neutral ligand. So, x + 4(0) = 0 => x = 0.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "oxidation state",
+      "calculation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q7",
+    "question": "The formula of Potassium hexacyanoferrate(II) is:",
+    "options": [
+      "K4[Fe(CN)6]",
+      "K3[Fe(CN)6]",
+      "K2[Fe(CN)6]",
+      "K[Fe(CN)6]"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Potassium is K+, Hexacyanoferrate(II) is [Fe(CN)6]4-. Balancing charges gives K4[Fe(CN)6].",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "nomenclature",
+      "formula"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q8",
+    "question": "Which isomerism is shown by [Co(NH3)5(NO2)]Cl2 and [Co(NH3)5(ONO)]Cl2?",
+    "options": [
+      "Linkage isomerism",
+      "Ionisation isomerism",
+      "Coordination isomerism",
+      "Geometrical isomerism"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "This arises due to the presence of ambidentate ligand NO2 which can bind through N (NO2) or O (ONO).",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "isomerism",
+      "structural"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q9",
+    "question": "In the complex [Co(NH3)6]Cl3, the species inside the square bracket constitute the:",
+    "options": [
+      "Coordination sphere",
+      "Ionisation sphere",
+      "Counter ions",
+      "Free ions"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The central metal ion and the ligands attached to it are enclosed in square brackets and is collectively termed as the coordination sphere.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "coordination sphere",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q10",
+    "question": "Which of the following complexes is homoleptic?",
+    "options": [
+      "[Co(NH3)6]3+",
+      "[Co(NH3)4Cl2]+",
+      "[Co(NH3)5Cl]2+",
+      "[Pt(NH3)2Cl2]"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Complexes in which a metal is bound to only one kind of donor groups are known as homoleptic complexes.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "homoleptic",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q11",
+    "question": "The shape of [Ni(CO)4] is:",
+    "options": [
+      "Tetrahedral",
+      "Square planar",
+      "Octahedral",
+      "Linear"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Ni is in 0 oxidation state, d10 configuration, sp3 hybridisation, hence tetrahedral.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "vbt",
+      "shape"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q12",
+    "question": "Which of the following is a strong field ligand?",
+    "options": [
+      "CN-",
+      "Cl-",
+      "F-",
+      "H2O"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "CN- is a strong field ligand according to the spectrochemical series.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "cft",
+      "ligands"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q13",
+    "question": "The colour of a coordination compound depends on:",
+    "options": [
+      "Nature of the ligand",
+      "Oxidation state of metal",
+      "Geometry of complex",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "The colour depends on the crystal field splitting which is affected by ligand, metal oxidation state and geometry.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "colour",
+      "properties"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q14",
+    "question": "Which of the following is used in the treatment of cancer?",
+    "options": [
+      "Cis-platin",
+      "Trans-platin",
+      "Zeise's salt",
+      "Ferrocene"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Cis-platin [Pt(NH3)2Cl2] is used as an anti-cancer drug.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "applications",
+      "medicine"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q15",
+    "question": "The oxidation state of Fe in Haemoglobin is:",
+    "options": [
+      "+2",
+      "+3",
+      "0",
+      "+4"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "In Haemoglobin, iron is present in +2 oxidation state.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "biological systems",
+      "oxidation state"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q16",
+    "question": "Chlorophyll is a coordination compound of:",
+    "options": [
+      "Magnesium",
+      "Iron",
+      "Cobalt",
+      "Zinc"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Chlorophyll is a coordination compound of Magnesium.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "biological systems",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q17",
+    "question": "Vitamin B12 is a coordination compound of:",
+    "options": [
+      "Cobalt",
+      "Iron",
+      "Magnesium",
+      "Zinc"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Vitamin B12 (Cyanocobalamin) is a coordination compound of Cobalt.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "biological systems",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q18",
+    "question": "The IUPAC name of [Co(NH3)6]Cl3 is:",
+    "options": [
+      "Hexaamminecobalt(III) chloride",
+      "Hexaamminecobalt(II) chloride",
+      "Triamminecobalt(III) chloride",
+      "Hexaamminecobalt chloride"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Ligand is ammine (6 -> hexa), metal is cobalt, oxidation state is +3 (x + 0 = +3), counter ion is chloride.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "nomenclature",
+      "naming"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q19",
+    "question": "Which of the following is an ambidentate ligand?",
+    "options": [
+      "SCN-",
+      "NH3",
+      "H2O",
+      "Cl-"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "SCN- can coordinate through S (thiocyanato) or N (isothiocyanato).",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "ligands",
+      "types"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q20",
+    "question": "The effective atomic number (EAN) rule states that the metal ion tends to achieve the electronic configuration of the:",
+    "options": [
+      "Next noble gas",
+      "Previous noble gas",
+      "Next alkali metal",
+      "Next halogen"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "EAN rule suggests stability when the total electrons around the metal equal the atomic number of the next noble gas.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "ean",
+      "concept"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q21",
+    "question": "The primary valency of a metal in a coordination compound corresponds to its:",
+    "options": [
+      "Oxidation state",
+      "Coordination number",
+      "Atomic number",
+      "Mass number"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "According to Werner's theory, primary valency corresponds to the oxidation state and is ionisable.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "werner theory",
+      "valency"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q22",
+    "question": "The secondary valency of a metal in a coordination compound corresponds to its:",
+    "options": [
+      "Coordination number",
+      "Oxidation state",
+      "Atomic number",
+      "Mass number"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Secondary valency corresponds to the coordination number and is non-ionisable.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "werner theory",
+      "valency"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q23",
+    "question": "Which of the following will give a white precipitate with AgNO3 solution?",
+    "options": [
+      "[Co(NH3)5Cl]Cl2",
+      "[Co(NH3)3Cl3]",
+      "[Co(NH3)4Cl2]Cl",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "All have ionisable Cl- ions outside the coordination sphere which react with AgNO3.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "werner theory",
+      "reactions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q24",
+    "question": "A chelating ligand forms a:",
+    "options": [
+      "Ring structure",
+      "Linear chain",
+      "Branched chain",
+      "Layered structure"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Chelating ligands bind to the metal through two or more donor atoms forming a cyclic or ring structure.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "ligands",
+      "chelation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q25",
+    "question": "Which of the following is a neutral ligand?",
+    "options": [
+      "CO",
+      "CN-",
+      "Cl-",
+      "OH-"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Carbon monoxide (CO) is a neutral molecule.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "ligands",
+      "types"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q26",
+    "question": "The spin only magnetic moment is given by the formula:",
+    "options": [
+      "sqrt(n(n+2)) BM",
+      "sqrt(n(n+1)) BM",
+      "n(n+2) BM",
+      "n(n+1) BM"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The formula is sqrt(n(n+2)) Bohr Magnetons, where n is the number of unpaired electrons.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "magnetic properties",
+      "formula"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q27",
+    "question": "Paramagnetism is due to the presence of:",
+    "options": [
+      "Unpaired electrons",
+      "Paired electrons",
+      "Protons",
+      "Neutrons"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Paramagnetism arises from the presence of unpaired electrons.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "magnetic properties",
+      "concept"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q28",
+    "question": "Diamagnetic substances have:",
+    "options": [
+      "No unpaired electrons",
+      "One unpaired electron",
+      "Two unpaired electrons",
+      "Many unpaired electrons"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Diamagnetic substances have all electrons paired.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "magnetic properties",
+      "concept"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q29",
+    "question": "The splitting of d-orbitals in an octahedral crystal field is into sets:",
+    "options": [
+      "t2g and eg",
+      "t2 and e",
+      "s and p",
+      "dxy and dz2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "In octahedral field, d-orbitals split into lower energy t2g set and higher energy eg set.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "cft",
+      "splitting"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q30",
+    "question": "In tetrahedral splitting, the orbital energy order is:",
+    "options": [
+      "e < t2",
+      "t2g < eg",
+      "eg < t2g",
+      "t2 < e"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "In tetrahedral field, the splitting is inverted compared to octahedral, so e set is lower than t2 set (g subscript is dropped due to lack of center of symmetry).",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "cft",
+      "splitting"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q31",
+    "question": "Spectrochemical series arranges ligands in order of:",
+    "options": [
+      "Increasing field strength",
+      "Decreasing field strength",
+      "Increasing mass",
+      "Decreasing mass"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "It arranges ligands in order of increasing crystal field splitting energy (field strength).",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "cft",
+      "spectrochemical series"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q32",
+    "question": "Which of the following is an organometallic compound?",
+    "options": [
+      "Ferrocene",
+      "Cis-platin",
+      "Haemoglobin",
+      "Chlorophyll"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Ferrocene [Fe(C5H5)2] contains metal-carbon bonds, making it an organometallic compound.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "organometallics",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q33",
+    "question": "The oxidation state of Co in [Co(en)3]3+ is:",
+    "options": [
+      "+3",
+      "+2",
+      "0",
+      "+1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "en is neutral. x + 3(0) = +3 => x = +3.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "oxidation state",
+      "calculation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q34",
+    "question": "Which of the following complexes is heteroleptic?",
+    "options": [
+      "[Co(NH3)4Cl2]+",
+      "[Co(NH3)6]3+",
+      "[Fe(CN)6]4-",
+      "[Ni(CO)4]"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "It has more than one type of ligand (NH3 and Cl).",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "heteroleptic",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q35",
+    "question": "The coordination number of Fe in [Fe(C2O4)3]3- is:",
+    "options": [
+      "6",
+      "3",
+      "4",
+      "2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Oxalate (C2O4) is a bidentate ligand. 3 ligands x 2 donor atoms = coordination number 6.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "coordination number",
+      "calculation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q36",
+    "question": "Which of the following is a pi-acid ligand?",
+    "options": [
+      "CO",
+      "NH3",
+      "F-",
+      "H2O"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "CO is a pi-acid ligand as it can accept electrons from metal d-orbitals into its antibonding pi orbitals (back bonding).",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "bonding",
+      "synergic effect"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q37",
+    "question": "Synergic bonding is present in:",
+    "options": [
+      "Metal carbonyls",
+      "Metal ammines",
+      "Metal aqua complexes",
+      "Metal halides"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Synergic bonding involves both sigma donation from ligand to metal and pi back-donation from metal to ligand, characteristic of metal carbonyls.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "bonding",
+      "synergic effect"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q38",
+    "question": "The complex [Fe(H2O)6]Cl3 is:",
+    "options": [
+      "Paramagnetic",
+      "Diamagnetic",
+      "Ferromagnetic",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Fe3+ (d5) with weak field ligand H2O has 5 unpaired electrons, hence paramagnetic.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "magnetic properties",
+      "example"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q39",
+    "question": "Which of the following does not follow the EAN rule?",
+    "options": [
+      "[Fe(CN)6]3-",
+      "[Fe(CN)6]4-",
+      "[Ni(CO)4]",
+      "[Co(NH3)6]3+"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Fe(III) is d5. Total e- = 26 - 3 + 12 = 35. Next noble gas Kr is 36. So it doesn't follow EAN.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "ean",
+      "application"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q40",
+    "question": "The oxidation state of Ag in Tollen's reagent [Ag(NH3)2]+ is:",
+    "options": [
+      "+1",
+      "0",
+      "+2",
+      "+3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "NH3 is neutral. x + 2(0) = +1 => x = +1.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "oxidation state",
+      "calculation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q41",
+    "question": "Which of the following complexes exhibits linkage isomerism?",
+    "options": [
+      "[Co(NH3)5(NO2)]Cl2",
+      "[Co(NH3)6]Cl3",
+      "[Co(en)3]Cl3",
+      "[Co(NH3)5Cl]Cl2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Linkage isomerism arises when an ambidentate ligand like NO2 is present, which can bind through N or O.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "isomerism",
+      "structural"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q42",
+    "question": "The IUPAC name of K3[Fe(CN)6] is:",
+    "options": [
+      "Potassium hexacyanoferrate(III)",
+      "Potassium hexacyanoferrate(II)",
+      "Potassium ferrocyanide",
+      "Tripotassium hexacyanoiron(III)"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Cation is Potassium. Ligand is cyano (6 -> hexa). Metal is ferrate (anionic complex). Oxidation state: 3(+1) + x + 6(-1) = 0 => x = +3.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "nomenclature",
+      "naming"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q43",
+    "question": "Which of the following will not give a precipitate with AgNO3?",
+    "options": [
+      "[Co(NH3)3Cl3]",
+      "[Co(NH3)4Cl2]Cl",
+      "[Co(NH3)5Cl]Cl2",
+      "[Co(NH3)6]Cl3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "In [Co(NH3)3Cl3], all chloride ions are inside the coordination sphere and are non-ionisable.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "werner theory",
+      "reactions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q44",
+    "question": "The magnetic moment of [NiCl4]2- is:",
+    "options": [
+      "2.83 BM",
+      "0 BM",
+      "1.73 BM",
+      "3.87 BM"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Ni2+ is d8. Cl- is weak field, so tetrahedral. 2 unpaired electrons. mu = sqrt(2(4)) = 2.83 BM.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "magnetic properties",
+      "calculation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q45",
+    "question": "Which of the following is diamagnetic?",
+    "options": [
+      "[Ni(CN)4]2-",
+      "[NiCl4]2-",
+      "[CoF6]3-",
+      "[FeF6]3-"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Ni2+ (d8) with strong field CN- forms square planar complex with all electrons paired. Hence diamagnetic.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "magnetic properties",
+      "example"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q46",
+    "question": "The hybridisation of Fe in [Fe(CN)6]3- is:",
+    "options": [
+      "d2sp3",
+      "sp3d2",
+      "sp3",
+      "dsp2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Fe3+ (d5) with strong field CN- pairs up electrons leaving two 3d orbitals empty. Hence d2sp3 (inner orbital complex).",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "vbt",
+      "hybridisation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q47",
+    "question": "The crystal field splitting energy (CFSE) for octahedral complex is denoted by:",
+    "options": [
+      "Delta_o",
+      "Delta_t",
+      "Delta_sp",
+      "Delta_sq"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Delta_o denotes crystal field splitting energy for octahedral complexes.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "cft",
+      "symbol"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q48",
+    "question": "Which of the following complexes shows optical isomerism?",
+    "options": [
+      "[Co(en)3]3+",
+      "[Co(NH3)6]3+",
+      "trans-[Co(NH3)4Cl2]+",
+      "[Co(NH3)5Cl]2+"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "[Co(en)3]3+ is chiral because it lacks a plane of symmetry due to the presence of 3 bidentate ligands.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "isomerism",
+      "optical"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q49",
+    "question": "The number of geometrical isomers for [Pt(NH3)2Cl2] is:",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "It exists as cis and trans isomers (2 isomers).",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "isomerism",
+      "geometrical"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q50",
+    "question": "Fac-mer isomerism is shown by complexes of the type:",
+    "options": [
+      "MA3B3",
+      "MA4B2",
+      "MA2B2",
+      "MA5B"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Facial (fac) and Meridional (mer) isomerism is shown by octahedral complexes of the type MA3B3.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "isomerism",
+      "geometrical"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q51",
+    "question": "Which of the following is an outer orbital complex?",
+    "options": [
+      "[CoF6]3-",
+      "[Co(NH3)6]3+",
+      "[Fe(CN)6]3-",
+      "[Mn(CN)6]3-"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "F- is a weak field ligand, so it forms a high spin or outer orbital complex (sp3d2).",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "vbt",
+      "complex type"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q52",
+    "question": "The colour of [Ti(H2O)6]3+ is violet due to:",
+    "options": [
+      "d-d transition",
+      "Charge transfer",
+      "Ligand to metal charge transfer",
+      "Metal to ligand charge transfer"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The single electron in t2g level absorbs energy and gets excited to eg level (d-d transition).",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "colour",
+      "mechanism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q53",
+    "question": "In metal carbonyls, the metal-carbon bond possesses:",
+    "options": [
+      "Both sigma and pi character",
+      "Only sigma character",
+      "Only pi character",
+      "Ionic character"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "It has both sigma (ligand to metal) and pi (metal to ligand back bonding) character.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "bonding",
+      "metal carbonyls"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q54",
+    "question": "Which of the following has the highest magnetic moment?",
+    "options": [
+      "[Fe(H2O)6]3+",
+      "[Fe(CN)6]3-",
+      "[Co(NH3)6]3+",
+      "[Ni(CN)4]2-"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "[Fe(H2O)6]3+ has 5 unpaired electrons (weak field). [Fe(CN)6]3- has 1. [Co(NH3)6]3+ has 0. [Ni(CN)4]2- has 0.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "magnetic properties",
+      "comparison"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q55",
+    "question": "The oxidation state of Ni in [Ni(DMG)2] is:",
+    "options": [
+      "+2",
+      "0",
+      "+3",
+      "+4"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "DMG (Dimethylglyoximato) is a monoanionic ligand (-1). Since the complex is neutral, Ni is +2.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "oxidation state",
+      "calculation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q56",
+    "question": "Which of the following is used for the estimation of hardness of water?",
+    "options": [
+      "EDTA",
+      "DMG",
+      "Ethane-1,2-diamine",
+      "Ammonia"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "EDTA forms stable complexes with Ca2+ and Mg2+ ions and is used to estimate hardness of water.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "applications",
+      "analysis"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q57",
+    "question": "The coordination number of Co in [Co(en)2Cl2]+ is:",
+    "options": [
+      "6",
+      "4",
+      "5",
+      "2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "en is bidentate (2x2=4) and Cl is monodentate (2x1=2). Total = 6.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "coordination number",
+      "calculation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q58",
+    "question": "Which of the following complexes follows the EAN rule?",
+    "options": [
+      "[Co(NH3)6]3+",
+      "[Ni(NH3)6]2+",
+      "[Cr(NH3)6]3+",
+      "[Fe(CN)6]3-"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Co3+ (24 e-) + 12 e- from ligands = 36 (Kr). It follows EAN rule.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "ean",
+      "application"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q59",
+    "question": "The complex [Co(NH3)5Br]SO4 and [Co(NH3)5SO4]Br are examples of:",
+    "options": [
+      "Ionisation isomerism",
+      "Linkage isomerism",
+      "Coordination isomerism",
+      "Hydrate isomerism"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "They give different ions in solution (sulphate and bromide respectively), hence ionisation isomers.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "isomerism",
+      "structural"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q60",
+    "question": "Hydrate isomerism is shown by:",
+    "options": [
+      "CrCl3.6H2O",
+      "CoCl3.6NH3",
+      "PtCl4.2NH3",
+      "Co(NH3)5BrSO4"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "CrCl3.6H2O can exist as [Cr(H2O)6]Cl3, [Cr(H2O)5Cl]Cl2.H2O, etc., differing in number of water molecules inside/outside coordination sphere.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "isomerism",
+      "structural"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q61",
+    "question": "The magnitude of crystal field splitting depends on:",
+    "options": [
+      "Field strength of ligand and oxidation state of metal",
+      "Only ligand",
+      "Only metal",
+      "Temperature"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "It depends on both the nature of the ligand and the charge on the metal ion.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "cft",
+      "splitting"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q62",
+    "question": "Which of the following is a low spin complex?",
+    "options": [
+      "[Co(NH3)6]3+",
+      "[CoF6]3-",
+      "[Fe(H2O)6]3+",
+      "[FeF6]3-"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "NH3 is a strong field ligand with Co3+, causing pairing of electrons, resulting in a low spin complex.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "cft",
+      "spin type"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q63",
+    "question": "The correct order of field strength of ligands is:",
+    "options": [
+      "I- < F- < H2O < CN-",
+      "F- < I- < H2O < CN-",
+      "CN- < H2O < F- < I-",
+      "H2O < F- < I- < CN-"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Based on spectrochemical series: I- < Br- < Cl- < F- < OH- < H2O < NH3 < en < CN- < CO.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "cft",
+      "spectrochemical series"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q64",
+    "question": "Wilkinson catalyst is used for:",
+    "options": [
+      "Hydrogenation of alkenes",
+      "Polymerisation of ethene",
+      "Oxidation of alcohols",
+      "Reduction of aldehydes"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Wilkinson catalyst [(Ph3P)3RhCl] is used for hydrogenation of alkenes.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "applications",
+      "catalysis"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q65",
+    "question": "Ziegler-Natta catalyst is:",
+    "options": [
+      "TiCl4 + Al(C2H5)3",
+      "(Ph3P)3RhCl",
+      "[PdCl4]2-",
+      "V2O5"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Ziegler-Natta catalyst is a mixture of TiCl4 and Triethylaluminium.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "applications",
+      "catalysis"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q66",
+    "question": "The complex used in black and white photography is:",
+    "options": [
+      "[Ag(S2O3)2]3-",
+      "[Ag(NH3)2]+",
+      "[Ag(CN)2]-",
+      "[Au(CN)2]-"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Hypo solution dissolves unexposed AgBr forming the complex [Ag(S2O3)2]3-.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "applications",
+      "photography"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q67",
+    "question": "Excess of copper and iron are removed by the chelating ligands:",
+    "options": [
+      "D-penicillamine and Desferrioxamine B",
+      "EDTA and DMG",
+      "Ethane-1,2-diamine and Oxalate",
+      "Ammonia and Water"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "D-penicillamine and Desferrioxamine B are used for removing excess Cu and Fe respectively.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "applications",
+      "medicine"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q68",
+    "question": "Which of the following is correct for [MnCl4]2-?",
+    "options": [
+      "Tetrahedral, paramagnetic",
+      "Square planar, diamagnetic",
+      "Tetrahedral, diamagnetic",
+      "Square planar, paramagnetic"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Mn2+ is d5. Cl- is weak field. Tetrahedral geometry (sp3). 5 unpaired electrons, so paramagnetic.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "vbt",
+      "properties"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q69",
+    "question": "The number of unpaired electrons in [CoF6]3- is:",
+    "options": [
+      "4",
+      "3",
+      "0",
+      "2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Co3+ is d6. F- is weak field. Configuration t2g4 eg2. 4 unpaired electrons.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "cft",
+      "calculation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q70",
+    "question": "The IUPAC name of [Pt(NH3)2Cl(NO2)] is:",
+    "options": [
+      "Diamminechloridonitrito-N-platinum(II)",
+      "Diamminechloridonitrito-O-platinum(II)",
+      "Diamminechloridonitroplatinum(II)",
+      "Diamminechloridonitroplatinum(IV)"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Alphabetical order: ammine, chlorido, nitrito-N. Pt oxidation state +2.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "nomenclature",
+      "naming"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q71",
+    "question": "Coordination isomerism is possible when:",
+    "options": [
+      "Both cation and anion are complex ions",
+      "Ligand is ambidentate",
+      "Water is present as solvent",
+      "Counter ion can act as ligand"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "It occurs when both cation and anion are complex ions and there is interchange of ligands.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "isomerism",
+      "structural"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q72",
+    "question": "Which of the following has square planar geometry?",
+    "options": [
+      "[Ni(CN)4]2-",
+      "[NiCl4]2-",
+      "[ZnCl4]2-",
+      "[CoCl4]2-"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "[Ni(CN)4]2- involves dsp2 hybridisation giving square planar geometry.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "vbt",
+      "geometry"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q73",
+    "question": "The value of 'spin only' magnetic moment for one of the following configurations is 2.84 BM. The correct one is:",
+    "options": [
+      "d4 (in strong ligand field)",
+      "d4 (in weak ligand field)",
+      "d3 (in weak ligand field)",
+      "d5 (in strong ligand field)"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "2.84 BM corresponds to 2 unpaired electrons. d4 in strong field (t2g4) has 2 unpaired electrons.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "magnetic properties",
+      "cft"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q74",
+    "question": "Which of the following is not a chelate?",
+    "options": [
+      "[Cd(NH3)4]2+",
+      "[Cu(en)2]2+",
+      "[Fe(C2O4)3]3-",
+      "[Co(EDTA)]-"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "NH3 is a monodentate ligand and cannot form a chelate ring.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "ligands",
+      "chelation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q75",
+    "question": "The oxidation number of cobalt in K[Co(CO)4] is:",
+    "options": [
+      "-1",
+      "+1",
+      "+3",
+      "0"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "K is +1, CO is 0. +1 + x + 0 = 0 => x = -1.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "oxidation state",
+      "calculation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q76",
+    "question": "Which of the following complexes is most stable?",
+    "options": [
+      "[Fe(C2O4)3]3-",
+      "[Fe(H2O)6]3+",
+      "[Fe(NH3)6]3+",
+      "[FeCl6]3-"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Chelating ligands like oxalate form more stable complexes (Chelate effect).",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "stability",
+      "chelate effect"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q77",
+    "question": "The correct increasing order of trans-effect of the following species is:",
+    "options": [
+      "H2O < NH3 < Cl- < CN-",
+      "NH3 < H2O < Cl- < CN-",
+      "CN- < Cl- < NH3 < H2O",
+      "CN- < NH3 < H2O < Cl-"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "CN- has strong trans effect, H2O has weak.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "trans effect",
+      "order"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q78",
+    "question": "Which of the following does not show geometrical isomerism?",
+    "options": [
+      "[Co(NH3)5Cl]Cl2",
+      "[Co(NH3)4Cl2]Cl",
+      "[Pt(NH3)2Cl2]",
+      "[Co(NH3)3Cl3]"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "MA5B type complexes do not show geometrical isomerism.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "isomerism",
+      "geometrical"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q79",
+    "question": "The complex [Co(NH3)6][Cr(CN)6] is an example of:",
+    "options": [
+      "Coordination isomerism",
+      "Linkage isomerism",
+      "Ionisation isomerism",
+      "Geometrical isomerism"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "It involves exchange of ligands between cationic and anionic coordination entities.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "isomerism",
+      "structural"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q80",
+    "question": "Which of the following is a double salt?",
+    "options": [
+      "Mohr's salt",
+      "K4[Fe(CN)6]",
+      "[Cu(NH3)4]SO4",
+      "Ni(CO)4"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Mohr's salt (FeSO4.(NH4)2SO4.6H2O) is a double salt which dissociates completely into simple ions.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "double salt",
+      "example"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q81",
+    "question": "The denticity of oxalate ion is:",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Oxalate ion (C2O4 2-) binds through two oxygen atoms, so denticity is 2.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "ligands",
+      "denticity"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q82",
+    "question": "Which of the following is paramagnetic with magnetic moment approx 1.73 BM?",
+    "options": [
+      "[Cu(NH3)4]2+",
+      "[Ni(CN)4]2-",
+      "[Zn(NH3)4]2+",
+      "[Co(NH3)6]3+"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Cu2+ (d9) has 1 unpaired electron. mu = sqrt(1(3)) = 1.73 BM.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "magnetic properties",
+      "calculation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q83",
+    "question": "The geometry of [Ni(CO)4] and [Ni(CN)4]2- are:",
+    "options": [
+      "Tetrahedral and square planar respectively",
+      "Both tetrahedral",
+      "Both square planar",
+      "Square planar and tetrahedral respectively"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "[Ni(CO)4] is sp3 (tetrahedral). [Ni(CN)4]2- is dsp2 (square planar).",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "vbt",
+      "geometry"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q84",
+    "question": "In [Cr(NH3)6]3+, the hybridisation is:",
+    "options": [
+      "d2sp3",
+      "sp3d2",
+      "sp3d",
+      "dsp2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Cr3+ is d3. It has two empty 3d orbitals available for d2sp3 hybridisation.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "vbt",
+      "hybridisation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q85",
+    "question": "The complex [Fe(H2O)5NO]SO4 is formed in the brown ring test for nitrates. The oxidation state of Fe is:",
+    "options": [
+      "+1",
+      "+2",
+      "+3",
+      "0"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "In the brown ring complex, NO is present as NO+ and Fe is in +1 oxidation state.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "oxidation state",
+      "special cases"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q86",
+    "question": "Which of the following ligands forms a chelate?",
+    "options": [
+      "Oxalate",
+      "Acetate",
+      "Cyanide",
+      "Ammonia"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Oxalate is a bidentate ligand and forms a chelate ring.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "ligands",
+      "chelation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q87",
+    "question": "The number of ions produced from the complex [Co(NH3)6]Cl3 in solution is:",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "5"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "It dissociates into [Co(NH3)6]3+ and 3Cl- ions. Total 4 ions.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "werner theory",
+      "ions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q88",
+    "question": "Which of the following is correct for the complex [Co(ox)3]3-?",
+    "options": [
+      "It is optically active",
+      "It is diamagnetic",
+      "It is square planar",
+      "It has coordination number 3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "It is an octahedral complex with 3 bidentate ligands, has no plane of symmetry, hence optically active.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "isomerism",
+      "optical"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q89",
+    "question": "The donor atoms in EDTA are:",
+    "options": [
+      "Two N and four O",
+      "Two N and two O",
+      "Four N and two O",
+      "Six O"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "EDTA has 2 Nitrogen and 4 Oxygen donor atoms.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "ligands",
+      "structure"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q90",
+    "question": "Which of the following is not an ambidentate ligand?",
+    "options": [
+      "NH2-",
+      "NO2-",
+      "SCN-",
+      "CN-"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "NH2- binds only through N. Others can bind through two different atoms.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "ligands",
+      "types"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q91",
+    "question": "Assertion (A): [Co(NH3)5SO4]Cl gives a white precipitate with AgNO3.\nReason (R): The complex dissociates to give Cl- ions.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "The complex has ionisable Cl- outside the coordination sphere, which reacts with AgNO3 to form AgCl (white ppt).",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "werner theory",
+      "reactions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q92",
+    "question": "Which of the following statements is incorrect regarding the crystal field splitting energy (Delta_o)?",
+    "options": [
+      "It depends on the nature of the ligand.",
+      "It depends on the charge on the metal ion.",
+      "It is higher for 4d and 5d series metals than for 3d series.",
+      "It is independent of the geometry of the complex."
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "CFSE depends strongly on the geometry (octahedral vs tetrahedral vs square planar).",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "cft",
+      "splitting"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q93",
+    "question": "Match the complex with its geometry/hybridisation:\n1. [Ni(CN)4]2-  -  A. sp3, Tetrahedral\n2. [NiCl4]2-    -  B. dsp2, Square Planar\n3. [Fe(CN)6]3-  -  C. sp3d2, Octahedral\n4. [FeF6]3-     -  D. d2sp3, Octahedral",
+    "options": [
+      "1-B, 2-A, 3-D, 4-C",
+      "1-A, 2-B, 3-C, 4-D",
+      "1-B, 2-A, 3-C, 4-D",
+      "1-A, 2-B, 3-D, 4-C"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "[Ni(CN)4]2- is dsp2 (sq planar), [NiCl4]2- is sp3 (tetrahedral), [Fe(CN)6]3- is d2sp3 (inner octahedral), [FeF6]3- is sp3d2 (outer octahedral).",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "vbt",
+      "matching"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q94",
+    "question": "The correct order of wavelengths of light absorbed by the complexes [Co(NH3)5Cl]2+, [Co(NH3)5(H2O)]3+, [Co(NH3)6]3+ is:",
+    "options": [
+      "[Co(NH3)5Cl]2+ > [Co(NH3)5(H2O)]3+ > [Co(NH3)6]3+",
+      "[Co(NH3)6]3+ > [Co(NH3)5(H2O)]3+ > [Co(NH3)5Cl]2+",
+      "[Co(NH3)5(H2O)]3+ > [Co(NH3)5Cl]2+ > [Co(NH3)6]3+",
+      "[Co(NH3)6]3+ > [Co(NH3)5Cl]2+ > [Co(NH3)5(H2O)]3+"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Stronger field ligands cause larger splitting (Delta_o), absorbing higher energy (lower wavelength). Field strength: NH3 > H2O > Cl-. So wavelength absorbed: Cl- complex > H2O complex > NH3 complex.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "colour",
+      "spectrochemical series"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q95",
+    "question": "Which of the following complexes is expected to be coloured?",
+    "options": [
+      "[Ti(NO3)4]",
+      "[Cu(NCCH3)4]+BF4-",
+      "[Cr(NH3)6]3+3Cl-",
+      "K3[Cu(CN)4]"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Ti(IV) is d0 (colourless). Cu(I) is d10 (colourless). Cr(III) is d3 (coloured due to d-d transition).",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "colour",
+      "prediction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q96",
+    "question": "Assertion (A): [Fe(CN)6]3- is weakly paramagnetic while [Fe(CN)6]4- is diamagnetic.\nReason (R): [Fe(CN)6]3- has +3 oxidation state with d5 configuration, while [Fe(CN)6]4- has +2 oxidation state with d6 configuration.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "In strong field CN-, d5 has 1 unpaired electron (paramagnetic), d6 has 0 unpaired electrons (diamagnetic).",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "magnetic properties",
+      "cft"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q97",
+    "question": "The number of geometrical isomers of [Co(NH3)3(NO2)3] is:",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "MA3B3 type exhibits facial (fac) and meridional (mer) isomers. Total 2.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "isomerism",
+      "geometrical"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q98",
+    "question": "Calculate the magnetic moment of a high spin octahedral complex of Co(III).",
+    "options": [
+      "4.90 BM",
+      "2.83 BM",
+      "5.92 BM",
+      "0 BM"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Co(III) is d6. High spin means weak field (t2g4 eg2). 4 unpaired electrons. mu = sqrt(4(6)) = 4.90 BM.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "magnetic properties",
+      "calculation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q99",
+    "question": "Which of the following statements is true for the complex [Co(NH3)4Br2]Cl?",
+    "options": [
+      "It shows geometrical isomerism.",
+      "It shows ionisation isomerism.",
+      "It shows optical isomerism (cis form).",
+      "Both A and B."
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "MA4B2 type shows cis-trans (geometrical). Br inside and Cl outside allows ionisation isomerism with [Co(NH3)4BrCl]Br.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "isomerism",
+      "multiple"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q100",
+    "question": "The CFSE for d4 configuration in a high spin octahedral complex is:",
+    "options": [
+      "-0.6 Delta_o",
+      "-1.6 Delta_o",
+      "-0.4 Delta_o",
+      "-1.2 Delta_o"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "High spin d4: t2g3 eg1. CFSE = 3(-0.4) + 1(0.6) = -1.2 + 0.6 = -0.6 Delta_o.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "cft",
+      "calculation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q101",
+    "question": "Assertion (A): Toxic metal ions are removed by chelating ligands.\nReason (R): Chelate complexes tend to be more stable.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Chelating ligands form stable complexes with metal ions, effectively sequestering them.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "stability",
+      "applications"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q102",
+    "question": "Which of the following pairs represents linkage isomers?",
+    "options": [
+      "[Pd(PPh3)2(NCS)2] and [Pd(PPh3)2(SCN)2]",
+      "[Co(NH3)5(NO3)]SO4 and [Co(NH3)5(SO4)]NO3",
+      "[PtCl2(NH3)4]Br2 and [PtBr2(NH3)4]Cl2",
+      "[Cu(NH3)4][PtCl4] and [Pt(NH3)4][CuCl4]"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "NCS (N-bonded) and SCN (S-bonded) are ambidentate ligands causing linkage isomerism.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "isomerism",
+      "linkage"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q103",
+    "question": "The complex [Pt(py)(NH3)(NO2)ClBrI] exists in how many geometrical isomeric forms?",
+    "options": [
+      "15",
+      "3",
+      "4",
+      "6"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "For M(abcdef) type octahedral complex, there are 15 geometrical isomers.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "isomerism",
+      "geometrical"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q104",
+    "question": "Which of the following statements is false?",
+    "options": [
+      "In [PtCl4]2-, the hybridisation is sp3.",
+      "In [Ni(CO)4], the hybridisation is sp3.",
+      "In [Ni(CN)4]2-, the hybridisation is dsp2.",
+      "In [Fe(CN)6]3-, the hybridisation is d2sp3."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "[PtCl4]2- involves dsp2 hybridisation and is square planar (characteristic of Pt(II)).",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "vbt",
+      "hybridisation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q105",
+    "question": "The stability constant (Kf) for [Cu(NH3)4]2+ is 4.5 x 10^11. Calculate the dissociation constant.",
+    "options": [
+      "2.22 x 10^-12",
+      "4.5 x 10^-11",
+      "1.0 x 10^-11",
+      "2.22 x 10^-11"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Dissociation constant = 1 / Kf = 1 / (4.5 x 10^11) = 0.222 x 10^-11 = 2.22 x 10^-12.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "stability",
+      "calculation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q106",
+    "question": "Which of the following will exhibit maximum ionic conductivity?",
+    "options": [
+      "K4[Fe(CN)6]",
+      "[Co(NH3)6]Cl3",
+      "[Cu(NH3)4]Cl2",
+      "[Ni(CO)4]"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "K4[Fe(CN)6] gives 5 ions (4K+ + [Fe(CN)6]4-). [Co(NH3)6]Cl3 gives 4. [Cu(NH3)4]Cl2 gives 3. [Ni(CO)4] gives 0.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "conductivity",
+      "ions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q107",
+    "question": "The EAN of Fe in [Fe(CN)6]4- is:",
+    "options": [
+      "36",
+      "35",
+      "37",
+      "34"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Fe(II) is 24 e-. 6 CN- donate 12 e-. Total = 36.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "ean",
+      "calculation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q108",
+    "question": "Which of the following is correct regarding the bond length in metal carbonyls?",
+    "options": [
+      "The M-C bond length decreases due to synergic bonding.",
+      "The C-O bond length increases due to synergic bonding.",
+      "Both A and B.",
+      "Neither A nor B."
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Synergic bonding increases M-C bond order (shorter bond) and decreases C-O bond order (longer bond).",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "bonding",
+      "metal carbonyls"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q109",
+    "question": "Identify the optically active complex:",
+    "options": [
+      "cis-[Co(en)2Cl2]+",
+      "trans-[Co(en)2Cl2]+",
+      "[Co(NH3)4Cl2]+",
+      "[Co(NH3)3Cl3]"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "cis-[Co(en)2Cl2]+ lacks a plane of symmetry and is optically active. Trans form has a plane of symmetry.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "isomerism",
+      "optical"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q110",
+    "question": "The complex [Fe(H2O)5NO]2+ has magnetic moment of 3.87 BM. The number of unpaired electrons and oxidation state of Fe are:",
+    "options": [
+      "3, +1",
+      "3, +2",
+      "5, +1",
+      "5, +2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "3.87 BM implies 3 unpaired electrons. In the brown ring complex, Fe is +1 (d7). With strong NO+, configuration is unusual but results in 3 unpaired electrons (sp3d2 hybridisation is often cited, but modern view is complicated; however, +1 state and 3 unpaired e- is the standard answer).",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "magnetic properties",
+      "special cases"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q111",
+    "question": "Which of the following has the highest CFSE?",
+    "options": [
+      "[Co(CN)6]3-",
+      "[Co(NH3)6]3+",
+      "[Co(H2O)6]3+",
+      "[CoF6]3-"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "CN- is the strongest field ligand, causing maximum splitting.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "cft",
+      "comparison"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q112",
+    "question": "The number of donor atoms in [Co(EDTA)]- is:",
+    "options": [
+      "6",
+      "4",
+      "5",
+      "2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "EDTA is a hexadentate ligand, so it has 6 donor atoms.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "ligands",
+      "denticity"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q113",
+    "question": "Assertion (A): [Ti(H2O)6]3+ is coloured while [Sc(H2O)6]3+ is colourless.\nReason (R): d-d transition is possible in Ti3+ but not in Sc3+.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Ti3+ is d1 (d-d transition possible). Sc3+ is d0 (no d-d transition).",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "colour",
+      "reasoning"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q114",
+    "question": "Which of the following is not an organometallic compound?",
+    "options": [
+      "Cis-platin",
+      "Ferrocene",
+      "Grignard reagent",
+      "Zeise's salt"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Cis-platin [Pt(NH3)2Cl2] has no metal-carbon bond.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "organometallics",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q115",
+    "question": "The complex [Co(NH3)5(CO3)]ClO4 involves:",
+    "options": [
+      "Monodentate carbonate",
+      "Bidentate carbonate",
+      "Tridentate carbonate",
+      "Bridging carbonate"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Coordination number of Co is 6. 5 NH3 + 1 CO3 implies CO3 is monodentate here.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "ligands",
+      "denticity"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q116",
+    "question": "Which of the following has zero magnetic moment?",
+    "options": [
+      "[Co(NH3)6]3+",
+      "[Fe(H2O)6]3+",
+      "[Cr(H2O)6]3+",
+      "[Mn(H2O)6]2+"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Co3+ (d6) with strong field NH3 pairs all electrons. Diamagnetic (0 BM).",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "magnetic properties",
+      "calculation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q117",
+    "question": "The correct order of energy of d-orbitals in square planar geometry is:",
+    "options": [
+      "dx2-y2 > dxy > dz2 > dxz = dyz",
+      "dx2-y2 > dz2 > dxy > dxz = dyz",
+      "dxy > dx2-y2 > dz2 > dxz = dyz",
+      "dx2-y2 > dxy > dxz = dyz > dz2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Standard splitting for square planar: dx2-y2 (highest) > dxy > dz2 > dxz, dyz.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "cft",
+      "splitting"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q118",
+    "question": "Which of the following species is not expected to be a ligand?",
+    "options": [
+      "NH4+",
+      "NH3",
+      "NH2-NH2",
+      "CO"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "NH4+ has no lone pair of electrons to donate.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "ligands",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q119",
+    "question": "The complex [M(AA)2X2] type (where AA is bidentate) can show:",
+    "options": [
+      "Both geometrical and optical isomerism",
+      "Only geometrical isomerism",
+      "Only optical isomerism",
+      "Neither"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Cis form is optically active. Trans form is optically inactive. It shows both.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "isomerism",
+      "multiple"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chem_coordination_compounds_q120",
+    "question": "In the spectrochemical series, which ligand produces the strongest field?",
+    "options": [
+      "CO",
+      "CN-",
+      "NH3",
+      "NO2-"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "CO is the strongest field ligand due to synergic bonding.",
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "tags": [
+      "cft",
+      "spectrochemical series"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "coordination_compounds",
+    "subjectId": "chemistry"
+  }
+]

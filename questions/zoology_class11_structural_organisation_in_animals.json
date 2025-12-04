@@ -1,0 +1,2882 @@
+[
+  {
+    "id": "zoology_structural_org_q1",
+    "question": "Which type of tissue forms the inner lining of blood vessels?",
+    "options": [
+      "Cuboidal epithelium",
+      "Columnar epithelium",
+      "Squamous epithelium",
+      "Ciliated epithelium"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Squamous epithelium (endothelium) lines blood vessels.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Epithelial Tissue",
+      "Animal Tissues"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q2",
+    "question": "The tissue that connects muscle to bone is called:",
+    "options": [
+      "Ligament",
+      "Tendon",
+      "Cartilage",
+      "Areolar tissue"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Tendons connect skeletal muscles to bones.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Connective Tissue",
+      "Animal Tissues"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q3",
+    "question": "Which of the following is a specialized connective tissue?",
+    "options": [
+      "Blood",
+      "Bone",
+      "Cartilage",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Blood, bone, and cartilage are all specialized connective tissues.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Connective Tissue",
+      "Animal Tissues"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q4",
+    "question": "The functional unit of the compound eye in a cockroach is called:",
+    "options": [
+      "Ommatidium",
+      "Ocellus",
+      "Retina",
+      "Cornea"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Ommatidia are the visual units of compound eyes.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Cockroach",
+      "Sensory Organs"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q5",
+    "question": "In earthworms, fertilization occurs in:",
+    "options": [
+      "Ovary",
+      "Oviduct",
+      "Cocoon",
+      "Soil"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Fertilization and development take place inside the cocoon.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Earthworm",
+      "Reproduction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q6",
+    "question": "Which tissue is responsible for the movement of food in the alimentary canal?",
+    "options": [
+      "Skeletal muscle",
+      "Smooth muscle",
+      "Cardiac muscle",
+      "Striated muscle"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Smooth muscles are involuntary and control peristalsis.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Muscular Tissue",
+      "Animal Tissues"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q7",
+    "question": "Goblet cells of the alimentary canal are modified from:",
+    "options": [
+      "Squamous epithelium",
+      "Columnar epithelium",
+      "Chondrocytes",
+      "Compound epithelium"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Goblet cells are modified columnar epithelial cells that secrete mucus.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Epithelial Tissue",
+      "Animal Tissues"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q8",
+    "question": "The heart of a cockroach consists of how many chambers?",
+    "options": [
+      "4",
+      "13",
+      "2",
+      "3"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "The heart of a cockroach has 13 chambers.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Cockroach",
+      "Circulatory System"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q9",
+    "question": "Which of the following is not a connective tissue?",
+    "options": [
+      "Bone",
+      "Cartilage",
+      "Blood",
+      "Muscles"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Muscles belong to muscular tissue, not connective tissue.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Animal Tissues",
+      "Classification"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q10",
+    "question": "The cells of cartilage are called:",
+    "options": [
+      "Osteocytes",
+      "Chondrocytes",
+      "Fibroblasts",
+      "Adipocytes"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Chondrocytes are cartilage cells.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Connective Tissue",
+      "Animal Tissues"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q11",
+    "question": "Adipose tissue is a type of:",
+    "options": [
+      "Loose connective tissue",
+      "Dense connective tissue",
+      "Specialized connective tissue",
+      "Epithelial tissue"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Adipose tissue is a loose connective tissue that stores fat.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Connective Tissue",
+      "Animal Tissues"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q12",
+    "question": "Intercalated discs are found in:",
+    "options": [
+      "Skeletal muscle",
+      "Smooth muscle",
+      "Cardiac muscle",
+      "Tendons"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Intercalated discs are characteristic of cardiac muscle.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Muscular Tissue",
+      "Animal Tissues"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q13",
+    "question": "The excretory organ of the cockroach is:",
+    "options": [
+      "Nephridia",
+      "Malpighian tubules",
+      "Kidney",
+      "Flame cells"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Malpighian tubules are the excretory organs in cockroaches.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Cockroach",
+      "Excretion"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q14",
+    "question": "Which tissue provides support and protection to the body?",
+    "options": [
+      "Epithelial tissue",
+      "Connective tissue",
+      "Muscular tissue",
+      "Neural tissue"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Connective tissue (like bone) provides support and protection.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Connective Tissue",
+      "Animal Tissues"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q15",
+    "question": "The scientific name of the common Indian earthworm is:",
+    "options": [
+      "Pheretima posthuma",
+      "Lumbricus terrestris",
+      "Periplaneta americana",
+      "Rana tigrina"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Pheretima posthuma is the common Indian earthworm.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Earthworm",
+      "Classification"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q16",
+    "question": "In cockroaches, the respiratory system consists of:",
+    "options": [
+      "Lungs",
+      "Gills",
+      "Trachea",
+      "Skin"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Cockroaches respire through a network of trachea.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Cockroach",
+      "Respiration"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q17",
+    "question": "Which of the following tissues has the greatest ability to regenerate?",
+    "options": [
+      "Nervous tissue",
+      "Epithelial tissue",
+      "Muscular tissue",
+      "Connective tissue"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Epithelial tissue has high regenerative power.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Epithelial Tissue",
+      "Animal Tissues"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q18",
+    "question": "The clitellum in earthworms is present in segments:",
+    "options": [
+      "14-16",
+      "12-14",
+      "16-18",
+      "10-12"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Clitellum is a glandular tissue in segments 14-16.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Earthworm",
+      "Anatomy"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q19",
+    "question": "Frog belongs to the class:",
+    "options": [
+      "Reptilia",
+      "Amphibia",
+      "Mammalia",
+      "Aves"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Frogs are amphibians.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Frog",
+      "Classification"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q20",
+    "question": "The main function of the frog's skin is:",
+    "options": [
+      "Protection",
+      "Respiration",
+      "Absorption",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Frog skin is moist and serves for respiration, protection, and absorption.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Frog",
+      "Anatomy"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q21",
+    "question": "Which tissue stores fat in the body?",
+    "options": [
+      "Areolar tissue",
+      "Adipose tissue",
+      "Dense regular tissue",
+      "Dense irregular tissue"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Adipose tissue stores fat.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Connective Tissue",
+      "Animal Tissues"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q22",
+    "question": "Nissl's granules are found in:",
+    "options": [
+      "Axon",
+      "Cyton",
+      "Dendrites",
+      "Both B and C"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Nissl's granules are found in the cell body (cyton) and dendrites of neurons.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Neural Tissue",
+      "Animal Tissues"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q23",
+    "question": "Collagen fibers are secreted by:",
+    "options": [
+      "Mast cells",
+      "Macrophages",
+      "Fibroblasts",
+      "Adipocytes"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Fibroblasts secrete fibers and matrix.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Connective Tissue",
+      "Animal Tissues"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q24",
+    "question": "The type of epithelium found in the lining of the stomach and intestine is:",
+    "options": [
+      "Squamous",
+      "Cuboidal",
+      "Columnar",
+      "Ciliated"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Columnar epithelium lines the stomach and intestine for secretion and absorption.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Epithelial Tissue",
+      "Animal Tissues"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q25",
+    "question": "Ligaments connect:",
+    "options": [
+      "Bone to bone",
+      "Muscle to bone",
+      "Muscle to muscle",
+      "Skin to muscle"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Ligaments connect one bone to another.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Connective Tissue",
+      "Animal Tissues"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q26",
+    "question": "Which of the following is a unicellular gland?",
+    "options": [
+      "Salivary gland",
+      "Goblet cell",
+      "Thyroid gland",
+      "Liver"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Goblet cells are isolated unicellular glands.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Epithelial Tissue",
+      "Animal Tissues"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q27",
+    "question": "The blood of a cockroach is called:",
+    "options": [
+      "Haemoglobin",
+      "Haemolymph",
+      "Haemocyanin",
+      "Plasma"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Cockroach blood is colorless and called haemolymph.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Cockroach",
+      "Circulatory System"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q28",
+    "question": "In earthworms, gizzard helps in:",
+    "options": [
+      "Digestion of food",
+      "Grinding of soil particles",
+      "Absorption of food",
+      "Excretion"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Gizzard helps in grinding the soil particles and decaying leaves.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Earthworm",
+      "Digestive System"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q29",
+    "question": "The heart of a frog is:",
+    "options": [
+      "2 chambered",
+      "3 chambered",
+      "4 chambered",
+      "13 chambered"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Frog heart has 3 chambers (2 auricles, 1 ventricle).",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Frog",
+      "Circulatory System"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q30",
+    "question": "Which of the following cells are found in areolar tissue?",
+    "options": [
+      "Fibroblasts",
+      "Macrophages",
+      "Mast cells",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Areolar tissue contains fibroblasts, macrophages, and mast cells.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Connective Tissue",
+      "Animal Tissues"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q31",
+    "question": "Skeletal muscles are:",
+    "options": [
+      "Striated and voluntary",
+      "Striated and involuntary",
+      "Unstriated and voluntary",
+      "Unstriated and involuntary"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Skeletal muscles are striated and under voluntary control.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Muscular Tissue",
+      "Animal Tissues"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q32",
+    "question": "Smooth muscles are found in:",
+    "options": [
+      "Wall of stomach",
+      "Wall of intestine",
+      "Blood vessels",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Smooth muscles are found in the walls of internal visceral organs.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Muscular Tissue",
+      "Animal Tissues"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q33",
+    "question": "The hard exoskeleton of a cockroach is made of:",
+    "options": [
+      "Calcium carbonate",
+      "Chitin",
+      "Keratin",
+      "Cellulose"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "The exoskeleton is chitinous.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Cockroach",
+      "Anatomy"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q34",
+    "question": "Ureotelic animals excrete:",
+    "options": [
+      "Ammonia",
+      "Uric acid",
+      "Urea",
+      "Amino acids"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Ureotelic animals excrete urea (e.g., Frogs, Humans).",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Excretion",
+      "Physiology"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q35",
+    "question": "Cockroaches are:",
+    "options": [
+      "Ureotelic",
+      "Uricotelic",
+      "Ammonotelic",
+      "Aminotelic"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Cockroaches excrete uric acid (Uricotelic) to conserve water.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Cockroach",
+      "Excretion"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q36",
+    "question": "Earthworms are:",
+    "options": [
+      "Hermaphrodite",
+      "Unisexual",
+      "Asexual",
+      "None of these"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Earthworms are bisexual or hermaphrodite.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Earthworm",
+      "Reproduction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q37",
+    "question": "The brain of a cockroach is represented by:",
+    "options": [
+      "Supra-oesophageal ganglion",
+      "Sub-oesophageal ganglion",
+      "Thoracic ganglion",
+      "Abdominal ganglion"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Supra-oesophageal ganglion acts as the brain.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Cockroach",
+      "Nervous System"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q38",
+    "question": "In frogs, respiration by lungs is called:",
+    "options": [
+      "Cutaneous respiration",
+      "Pulmonary respiration",
+      "Buccopharyngeal respiration",
+      "Branchial respiration"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Respiration by lungs is pulmonary respiration.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Frog",
+      "Respiration"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q39",
+    "question": "Which of the following is a fluid connective tissue?",
+    "options": [
+      "Bone",
+      "Cartilage",
+      "Blood",
+      "Adipose"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Blood and lymph are fluid connective tissues.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Connective Tissue",
+      "Animal Tissues"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q40",
+    "question": "Gap junctions are found in:",
+    "options": [
+      "Epithelial tissue",
+      "Connective tissue",
+      "Muscular tissue",
+      "All of the above"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Gap junctions are cell junctions found in epithelial tissue (and others, but primarily studied here).",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Epithelial Tissue",
+      "Animal Tissues"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q41",
+    "question": "Which of the following statements is incorrect regarding epithelial tissue?",
+    "options": [
+      "It has a free surface.",
+      "Cells are compactly packed with little intercellular matrix.",
+      "It is highly vascularized.",
+      "It rests on a non-cellular basement membrane."
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Epithelial tissue is avascular (lacks blood vessels).",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Epithelial Tissue",
+      "General Features"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q42",
+    "question": "Compound epithelium is found in:",
+    "options": [
+      "Lining of stomach",
+      "Dry surface of skin",
+      "Alveoli of lungs",
+      "PCT of nephron"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Compound epithelium covers dry surfaces like skin to provide protection.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Epithelial Tissue",
+      "Examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q43",
+    "question": "Which type of junction performs cementing to keep neighbouring cells together?",
+    "options": [
+      "Tight junctions",
+      "Adhering junctions",
+      "Gap junctions",
+      "Interdigitation"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Adhering junctions perform cementing.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Epithelial Tissue",
+      "Cell Junctions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q44",
+    "question": "The matrix of cartilage is:",
+    "options": [
+      "Solid and pliable",
+      "Solid and non-pliable",
+      "Fluid and pliable",
+      "Fluid and non-pliable"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Cartilage matrix is solid and pliable (resists compression). Bone is solid and non-pliable.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Connective Tissue",
+      "Animal Tissues"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q45",
+    "question": "Which of the following is not a function of the skeletal system in frogs?",
+    "options": [
+      "Protection of internal organs",
+      "Locomotion",
+      "Production of blood cells",
+      "Digestion of food"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Skeletal system does not digest food.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Frog",
+      "Physiology"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q46",
+    "question": "In cockroaches, the wings that are opaque, dark, and leathery are:",
+    "options": [
+      "Forewings (Tegmina)",
+      "Hindwings",
+      "Both",
+      "None"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Forewings (mesothoracic) called tegmina are opaque, dark, and leathery.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Cockroach",
+      "Anatomy"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q47",
+    "question": "The mouth parts of a cockroach are of:",
+    "options": [
+      "Piercing and sucking type",
+      "Biting and chewing type",
+      "Siphoning type",
+      "Sponging type"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Cockroaches have biting and chewing type mouth parts.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Cockroach",
+      "Anatomy"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q48",
+    "question": "In earthworms, the typhlosole is:",
+    "options": [
+      "A glandular tissue",
+      "A fold of intestine to increase absorption area",
+      "A respiratory organ",
+      "An excretory organ"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Typhlosole increases the effective area of absorption in the intestine.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Earthworm",
+      "Digestive System"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q49",
+    "question": "Blood glands in earthworms are present in segments:",
+    "options": [
+      "4, 5 and 6",
+      "10, 11 and 12",
+      "14, 15 and 16",
+      "1, 2 and 3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Blood glands are found in segments 4, 5, and 6.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Earthworm",
+      "Circulatory System"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q50",
+    "question": "Which of the following is correct about cardiac muscles?",
+    "options": [
+      "They are non-striated and voluntary.",
+      "They are striated and involuntary.",
+      "They are striated and voluntary.",
+      "They are non-striated and involuntary."
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Cardiac muscles are striated but involuntary.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Muscular Tissue",
+      "Animal Tissues"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q51",
+    "question": "The ciliated epithelium is found in:",
+    "options": [
+      "Bronchioles and Fallopian tubes",
+      "Stomach and Intestine",
+      "Skin and Buccal cavity",
+      "Blood vessels and Heart"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Cilia help move particles/eggs in bronchioles and fallopian tubes.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Epithelial Tissue",
+      "Examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q52",
+    "question": "Which of the following cells secretes histamine, serotonin, and heparin?",
+    "options": [
+      "Fibroblasts",
+      "Mast cells",
+      "Macrophages",
+      "Plasma cells"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Mast cells secrete these substances involved in inflammation.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Connective Tissue",
+      "Animal Tissues"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q53",
+    "question": "Dense regular connective tissue is found in:",
+    "options": [
+      "Skin",
+      "Tendons and Ligaments",
+      "Bone marrow",
+      "Adipose tissue"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Tendons and ligaments are examples of dense regular connective tissue.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Connective Tissue",
+      "Animal Tissues"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q54",
+    "question": "In frogs, the cloaca receives:",
+    "options": [
+      "Fecal matter only",
+      "Urine only",
+      "Sperms/Eggs only",
+      "Fecal matter, urine, and sperms/eggs"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Cloaca is the common opening for digestive, excretory, and reproductive systems.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Frog",
+      "Anatomy"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q55",
+    "question": "The mushroom gland in male cockroaches is located in segments:",
+    "options": [
+      "6-7 abdominal segments",
+      "4-5 abdominal segments",
+      "8-9 abdominal segments",
+      "2-3 abdominal segments"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Mushroom gland is an accessory reproductive gland in 6th-7th segments.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Cockroach",
+      "Reproduction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q56",
+    "question": "Which of the following is true for the nervous system of earthworms?",
+    "options": [
+      "It is dorsal and hollow.",
+      "It is ventral, solid, and double.",
+      "It is absent.",
+      "It consists of a brain only."
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Earthworms (non-chordates) have a ventral, solid, and double nerve cord.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Earthworm",
+      "Nervous System"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q57",
+    "question": "Osteocytes are present in spaces called:",
+    "options": [
+      "Lacunae",
+      "Lamellae",
+      "Canaliculi",
+      "Haversian canals"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Osteocytes (bone cells) reside in lacunae.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Connective Tissue",
+      "Animal Tissues"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q58",
+    "question": "Which muscle fibers are fusiform (tapering at both ends)?",
+    "options": [
+      "Skeletal muscle",
+      "Smooth muscle",
+      "Cardiac muscle",
+      "All of the above"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Smooth muscle fibers are fusiform.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Muscular Tissue",
+      "Animal Tissues"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q59",
+    "question": "In cockroaches, the mosaic vision has:",
+    "options": [
+      "More sensitivity and less resolution",
+      "More sensitivity and more resolution",
+      "Less sensitivity and more resolution",
+      "Less sensitivity and less resolution"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Mosaic vision is highly sensitive (night vision) but has low resolution.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Cockroach",
+      "Sensory Organs"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q60",
+    "question": "The spermathecae in earthworms are found in segments:",
+    "options": [
+      "6-9",
+      "14-16",
+      "17-19",
+      "5-8"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Spermathecae are in segments 6, 7, 8, and 9.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Earthworm",
+      "Reproduction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q61",
+    "question": "Bidder's canal is found in:",
+    "options": [
+      "Kidney of male frog",
+      "Kidney of female frog",
+      "Testis of frog",
+      "Ovary of frog"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Bidder's canal is present in the kidney of male frogs for sperm transport.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Frog",
+      "Reproduction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q62",
+    "question": "Which of the following is not a part of the female reproductive system of a cockroach?",
+    "options": [
+      "Ovaries",
+      "Oviduct",
+      "Spermatheca",
+      "Phallic gland"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Phallic gland is part of the male reproductive system.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Cockroach",
+      "Reproduction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q63",
+    "question": "The lining of the intestine of an earthworm has a layer of:",
+    "options": [
+      "Columnar cells",
+      "Squamous cells",
+      "Glandular cells",
+      "Ciliated cells"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "It is lined by columnar cells.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Earthworm",
+      "Anatomy"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q64",
+    "question": "Which of the following acts as a shock absorber and lubricant in joints?",
+    "options": [
+      "Hyaline cartilage",
+      "Bone",
+      "Tendon",
+      "Ligament"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Hyaline cartilage covers articular surfaces.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Connective Tissue",
+      "Animal Tissues"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q65",
+    "question": "Neuroglia make up more than ___ of the volume of neural tissue.",
+    "options": [
+      "One-half",
+      "One-third",
+      "One-fourth",
+      "Two-thirds"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Neuroglia make up more than 50% of neural tissue volume.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Neural Tissue",
+      "Animal Tissues"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q66",
+    "question": "In frogs, the vasa efferentia are:",
+    "options": [
+      "10-12 in number",
+      "2-4 in number",
+      "50-60 in number",
+      "1 pair"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "There are 10-12 vasa efferentia arising from testes.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Frog",
+      "Reproduction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q67",
+    "question": "The first segment of the earthworm is called:",
+    "options": [
+      "Prostomium",
+      "Peristomium",
+      "Clitellum",
+      "Pygidium"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Peristomium (buccal segment) is the first segment. Prostomium is a lobe.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Earthworm",
+      "Anatomy"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q68",
+    "question": "Which of the following is a correct match?",
+    "options": [
+      "Adipose tissue - Dense connective tissue",
+      "Areolar tissue - Loose connective tissue",
+      "Tendon - Specialized connective tissue",
+      "Cartilage - Loose connective tissue"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Areolar is loose. Adipose is loose. Tendon is dense. Cartilage is specialized.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Connective Tissue",
+      "Classification"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q69",
+    "question": "The spiracles in cockroaches are present on the:",
+    "options": [
+      "Dorsal side",
+      "Ventral side",
+      "Lateral side",
+      "Anterior side"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Spiracles are lateral openings.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Cockroach",
+      "Respiration"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q70",
+    "question": "In frogs, the thyroid gland produces:",
+    "options": [
+      "Thyroxine",
+      "Insulin",
+      "Adrenaline",
+      "Glucagon"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Thyroid produces thyroxine, essential for metamorphosis.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Frog",
+      "Endocrine System"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q71",
+    "question": "Exocrine glands secrete:",
+    "options": [
+      "Hormones",
+      "Mucus, saliva, earwax, etc.",
+      "Only enzymes",
+      "Only sweat"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Exocrine glands secrete products via ducts (mucus, saliva, etc.).",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Epithelial Tissue",
+      "Glands"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q72",
+    "question": "The structural and functional unit of muscle is:",
+    "options": [
+      "Sarcomere",
+      "Myofibril",
+      "Sarcolemma",
+      "Sarcoplasm"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Sarcomere is the functional unit of contraction.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Muscular Tissue",
+      "Animal Tissues"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q73",
+    "question": "Which of the following is not a part of the alimentary canal of a cockroach?",
+    "options": [
+      "Crop",
+      "Gizzard",
+      "Hepatic caeca",
+      "Malpighian tubules"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Malpighian tubules are excretory, attached at the junction of midgut and hindgut, but not part of the canal itself in terms of digestion flow like crop/gizzard.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Cockroach",
+      "Digestive System"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q74",
+    "question": "The number of segments in an earthworm is about:",
+    "options": [
+      "50-60",
+      "100-120",
+      "200-300",
+      "10-20"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Earthworms have about 100-120 segments.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Earthworm",
+      "Anatomy"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q75",
+    "question": "In frogs, the heart is enclosed in a double-walled membranous bag called:",
+    "options": [
+      "Pericardium",
+      "Pleura",
+      "Peritoneum",
+      "Meninges"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Pericardium encloses the heart.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Frog",
+      "Circulatory System"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q76",
+    "question": "Which of the following is an example of dense irregular connective tissue?",
+    "options": [
+      "Skin",
+      "Tendon",
+      "Ligament",
+      "Blood"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Skin contains dense irregular connective tissue.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Connective Tissue",
+      "Animal Tissues"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q77",
+    "question": "The function of the hepatic caeca in cockroaches is:",
+    "options": [
+      "Digestion",
+      "Excretion",
+      "Respiration",
+      "Circulation"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Hepatic caeca secrete digestive juices.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Cockroach",
+      "Digestive System"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q78",
+    "question": "Which of the following statements is true regarding blood?",
+    "options": [
+      "It contains a fiber-free matrix.",
+      "It contains fibroblasts.",
+      "It is a loose connective tissue.",
+      "It has a solid matrix."
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Blood has a fluid matrix (plasma) without fibers.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Connective Tissue",
+      "Animal Tissues"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q79",
+    "question": "The ovaries in a female cockroach are located in segments:",
+    "options": [
+      "2-6",
+      "4-8",
+      "6-10",
+      "1-3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Ovaries are in abdominal segments 2 to 6.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Cockroach",
+      "Reproduction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q80",
+    "question": "In earthworms, the principal role of calciferous glands is:",
+    "options": [
+      "Neutralize humic acid",
+      "Digestion of proteins",
+      "Excretion of urea",
+      "Respiration"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Calciferous glands neutralize humic acid present in humus.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Earthworm",
+      "Digestive System"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q81",
+    "question": "Which of the following is not a function of the frog's liver?",
+    "options": [
+      "Secretion of bile",
+      "Storage of glycogen",
+      "Digestion of fats directly",
+      "Detoxification"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Liver secretes bile which emulsifies fats, but doesn't contain enzymes to digest them directly.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Frog",
+      "Digestive System"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q82",
+    "question": "The type of tissue that forms the framework of the ear pinna is:",
+    "options": [
+      "Hyaline cartilage",
+      "Elastic cartilage",
+      "Calcified cartilage",
+      "Fibrous cartilage"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Elastic cartilage is found in the ear pinna.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Connective Tissue",
+      "Animal Tissues"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q83",
+    "question": "The anal styles are present in:",
+    "options": [
+      "Male cockroach only",
+      "Female cockroach only",
+      "Both male and female",
+      "Nymphs only"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Anal styles are a distinguishing feature of male cockroaches.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Cockroach",
+      "Sexual Dimorphism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q84",
+    "question": "In earthworms, septal nephridia are found in:",
+    "options": [
+      "Segment 15 onwards",
+      "Segment 3 to last",
+      "Segment 4 to 6",
+      "Segment 7 to 14"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Septal nephridia are present on both sides of intersegmental septa from segment 15 to the last.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Earthworm",
+      "Excretion"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q85",
+    "question": "The frog's heart pumps blood to:",
+    "options": [
+      "Lungs only",
+      "Body parts only",
+      "Both lungs and body parts",
+      "Skin only"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "It pumps mixed blood to lungs, skin, and body tissues.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Frog",
+      "Circulatory System"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q86",
+    "question": "Which of the following is not a type of simple epithelium?",
+    "options": [
+      "Squamous",
+      "Cuboidal",
+      "Columnar",
+      "Transitional"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Transitional epithelium is a type of compound epithelium.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Epithelial Tissue",
+      "Classification"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q87",
+    "question": "The main function of the anal cerci in cockroaches is:",
+    "options": [
+      "Reproduction",
+      "Sensing vibrations",
+      "Excretion",
+      "Flight"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Anal cerci are sensory organs detecting vibrations.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Cockroach",
+      "Sensory Organs"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q88",
+    "question": "In earthworms, the dorsal blood vessel collects blood from:",
+    "options": [
+      "First 13 segments",
+      "Last 13 segments",
+      "Whole body",
+      "Gut wall"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "In the first 13 segments, it acts as a collecting vessel.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Earthworm",
+      "Circulatory System"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q89",
+    "question": "The larval stage of a frog is called:",
+    "options": [
+      "Nymph",
+      "Caterpillar",
+      "Tadpole",
+      "Maggot"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Tadpole is the larva of a frog.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Frog",
+      "Development"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q90",
+    "question": "Which of the following is correct for the blood vascular system of a cockroach?",
+    "options": [
+      "Closed type",
+      "Open type",
+      "Absent",
+      "Double circulation"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Cockroaches have an open circulatory system.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Cockroach",
+      "Circulatory System"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q91",
+    "question": "Which of the following statements is incorrect regarding the nervous system of a cockroach?",
+    "options": [
+      "The brain is represented by the supra-oesophageal ganglion.",
+      "The nerve cord is double, ventral, and solid.",
+      "There are 9 ganglia in the abdomen.",
+      "The sub-oesophageal ganglion controls the mouth parts."
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "There are 6 ganglia in the abdomen and 3 in the thorax (Total 9 in body, but only 6 in abdomen).",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Cockroach",
+      "Nervous System"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q92",
+    "question": "In earthworms, the correct sequence of the passage of spermatozoa during copulation is:",
+    "options": [
+      "Testis -> Seminal vesicle -> Vasa deferentia -> Male genital pore",
+      "Testis -> Vasa deferentia -> Seminal vesicle -> Male genital pore",
+      "Seminal vesicle -> Testis -> Vasa deferentia -> Male genital pore",
+      "Testis -> Male genital pore -> Seminal vesicle"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Sperms mature in seminal vesicles and then pass through vasa deferentia.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Earthworm",
+      "Reproduction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q93",
+    "question": "Which of the following junctions help to stop substances from leaking across a tissue?",
+    "options": [
+      "Adhering junctions",
+      "Gap junctions",
+      "Tight junctions",
+      "Synaptic junctions"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Tight junctions prevent leakage.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Epithelial Tissue",
+      "Cell Junctions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q94",
+    "question": "Match the following columns and select the correct option.\nColumn I\n(a) Squamous epithelium\n(b) Cuboidal epithelium\n(c) Columnar epithelium\n(d) Ciliated epithelium\n\nColumn II\n(i) Nephrons\n(ii) Endothelium of blood vessels\n(iii) Intestine\n(iv) Bronchioles",
+    "options": [
+      "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Squamous: Blood vessels. Cuboidal: Nephrons. Columnar: Intestine. Ciliated: Bronchioles.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Epithelial Tissue",
+      "Matching"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q95",
+    "question": "In frogs, the ureters act as urinogenital ducts in:",
+    "options": [
+      "Males only",
+      "Females only",
+      "Both males and females",
+      "Neither males nor females"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "In male frogs, ureters carry both urine and sperms. In females, ureters and oviducts open separately.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Frog",
+      "Reproduction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q96",
+    "question": "Which of the following statements is true about the circulatory system of earthworms?",
+    "options": [
+      "It is of open type.",
+      "Blood glands are absent.",
+      "Blood cells are phagocytic.",
+      "Haemoglobin is dissolved in blood cells."
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Earthworms have a closed system. Blood cells are phagocytic. Haemoglobin is dissolved in plasma, not cells.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Earthworm",
+      "Circulatory System"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q97",
+    "question": "The correct sequence of organs in the alimentary canal of a cockroach is:",
+    "options": [
+      "Mouth -> Pharynx -> Oesophagus -> Crop -> Gizzard -> Mesenteron -> Ileum -> Colon -> Rectum",
+      "Mouth -> Oesophagus -> Pharynx -> Gizzard -> Crop -> Mesenteron -> Ileum -> Colon -> Rectum",
+      "Mouth -> Pharynx -> Oesophagus -> Gizzard -> Crop -> Mesenteron -> Colon -> Ileum -> Rectum",
+      "Mouth -> Pharynx -> Oesophagus -> Crop -> Gizzard -> Ileum -> Mesenteron -> Colon -> Rectum"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Standard sequence: Pharynx -> Oesophagus -> Crop -> Gizzard -> Mesenteron (Midgut) -> Hindgut (Ileum, Colon, Rectum).",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Cockroach",
+      "Digestive System"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q98",
+    "question": "Which of the following is not a characteristic of smooth muscle fibers?",
+    "options": [
+      "Fusiform shape",
+      "Uninucleate",
+      "Presence of intercalated discs",
+      "Involuntary nature"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Intercalated discs are found in cardiac muscles, not smooth muscles.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Muscular Tissue",
+      "Animal Tissues"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q99",
+    "question": "Identify the tissue shown in the diagram (Description: Cells with large central vacuole and peripheral nucleus, storing fat).",
+    "options": [
+      "Areolar tissue",
+      "Adipose tissue",
+      "Dense regular tissue",
+      "Dense irregular tissue"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Adipocytes have a large fat globule pushing the nucleus to the periphery.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Connective Tissue",
+      "Diagram Based"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q100",
+    "question": "In earthworms, the photoreceptors are located on:",
+    "options": [
+      "Dorsal surface",
+      "Ventral surface",
+      "Lateral surface",
+      "Only on prostomium"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Photoreceptors are concentrated on the dorsal surface to detect light intensity.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Earthworm",
+      "Sensory Organs"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q101",
+    "question": "Which of the following statements is correct regarding the reproductive system of frogs?",
+    "options": [
+      "Fertilisation is internal.",
+      "Development is direct.",
+      "Mature females can lay 2500-3000 eggs at a time.",
+      "Testes are adhered to the lower part of kidneys."
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Females lay 2500-3000 eggs. Fertilization is external. Development is indirect. Testes are attached to the upper part of kidneys.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Frog",
+      "Reproduction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q102",
+    "question": "The ootheca of a cockroach contains:",
+    "options": [
+      "14-16 eggs",
+      "9-10 eggs",
+      "20-30 eggs",
+      "1-2 eggs"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Each ootheca contains 14-16 eggs.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Cockroach",
+      "Reproduction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q103",
+    "question": "Which of the following is a correct difference between bone and cartilage?",
+    "options": [
+      "Bone has a pliable matrix; cartilage has a non-pliable matrix.",
+      "Bone is vascular; cartilage is avascular.",
+      "Bone cells are chondrocytes; cartilage cells are osteocytes.",
+      "Bone matrix is made of chondroitin salts; cartilage matrix is made of calcium salts."
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Bone is vascular (has blood supply); cartilage is avascular.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Connective Tissue",
+      "Comparative Anatomy"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q104",
+    "question": "In earthworms, the accessory glands are present in segments:",
+    "options": [
+      "17 and 19",
+      "18 and 20",
+      "16 and 17",
+      "10 and 11"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Accessory glands are found in segments 17 and 19.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Earthworm",
+      "Reproduction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q105",
+    "question": "The type of epithelium found in the inner lining of the ducts of salivary glands and pancreatic ducts is:",
+    "options": [
+      "Simple squamous",
+      "Simple cuboidal",
+      "Compound epithelium",
+      "Ciliated columnar"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Compound epithelium lines the larger ducts of glands.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Epithelial Tissue",
+      "Examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q106",
+    "question": "Which of the following statements is incorrect about the frog's nervous system?",
+    "options": [
+      "The brain is enclosed in a cranium.",
+      "There are 10 pairs of cranial nerves.",
+      "The medulla oblongata passes out through the foramen magnum.",
+      "The spinal cord is absent."
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Frogs have a spinal cord enclosed in the vertebral column.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Frog",
+      "Nervous System"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q107",
+    "question": "In cockroaches, the gizzard has an outer layer of muscularis and an inner cuticle forming:",
+    "options": [
+      "4 chitinous plates",
+      "6 chitinous teeth",
+      "8 chitinous plates",
+      "No teeth"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Gizzard has 6 highly chitinous teeth for grinding.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Cockroach",
+      "Digestive System"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q108",
+    "question": "Which of the following is not a function of the areolar connective tissue?",
+    "options": [
+      "It serves as a support framework for epithelium.",
+      "It stores fat.",
+      "It helps in repair of tissues.",
+      "It fills spaces inside organs."
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Fat storage is the primary function of Adipose tissue, not Areolar.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Connective Tissue",
+      "Physiology"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q109",
+    "question": "In earthworms, the nerve cord bifurcates in the:",
+    "options": [
+      "3rd and 4th segments",
+      "5th and 6th segments",
+      "1st and 2nd segments",
+      "10th segment"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "It bifurcates in the 3rd and 4th segments to encircle the pharynx.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Earthworm",
+      "Nervous System"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q110",
+    "question": "The correct sequence of layers in the wall of the alimentary canal from outside to inside is (General, but applicable contextually):",
+    "options": [
+      "Serosa -> Muscularis -> Sub-mucosa -> Mucosa",
+      "Mucosa -> Sub-mucosa -> Muscularis -> Serosa",
+      "Serosa -> Sub-mucosa -> Muscularis -> Mucosa",
+      "Muscularis -> Serosa -> Sub-mucosa -> Mucosa"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Standard histological sequence.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Histology",
+      "Digestive System"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q111",
+    "question": "Which of the following is a correct statement about the frog's excretory system?",
+    "options": [
+      "It consists of a pair of kidneys, ureters, cloaca, and urinary bladder.",
+      "Kidneys are metanephric.",
+      "Urinary bladder is absent.",
+      "Frogs are ammonotelic."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Frogs have mesonephric kidneys. They are ureotelic. Bladder is present.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Frog",
+      "Excretion"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q112",
+    "question": "In cockroaches, the titillator and pseudopenis are parts of:",
+    "options": [
+      "Left phallomere",
+      "Right phallomere",
+      "Ventral phallomere",
+      "Anal cerci"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "They are parts of the left phallomere (external genitalia).",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Cockroach",
+      "Reproduction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q113",
+    "question": "The function of the collaterial glands in female cockroaches is:",
+    "options": [
+      "Secretion of ootheca case",
+      "Storage of sperms",
+      "Digestion",
+      "Excretion"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Collaterial glands secrete the hard case of the ootheca.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Cockroach",
+      "Reproduction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q114",
+    "question": "Which of the following is true for the lymph?",
+    "options": [
+      "It transports oxygen to brain.",
+      "It transports fats.",
+      "It returns interstitial fluid to the blood.",
+      "Both B and C"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Lymph transports fats and returns fluid to blood.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Connective Tissue",
+      "Physiology"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q115",
+    "question": "In earthworms, the forests of nephridia (integumentary nephridia) are found in:",
+    "options": [
+      "Segment 3 to last",
+      "Segment 7 to 14",
+      "Segment 15 to last",
+      "All segments except first two"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Integumentary nephridia are attached to the body wall from segment 3 to the last.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Earthworm",
+      "Excretion"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q116",
+    "question": "The connective tissue sheath enclosing a muscle bundle is called:",
+    "options": [
+      "Epimysium",
+      "Perimysium",
+      "Endomysium",
+      "Fascicle"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Perimysium encloses a fascicle (muscle bundle).",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Muscular Tissue",
+      "Anatomy"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q117",
+    "question": "Which of the following is not a feature of cardiac muscle?",
+    "options": [
+      "Branched fibers",
+      "Cylindrical shape",
+      "Multinucleate condition",
+      "Communication junctions"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Cardiac muscles are usually uninucleate.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Muscular Tissue",
+      "Animal Tissues"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q118",
+    "question": "In frogs, the portal system that connects the kidney and lower parts of the body is:",
+    "options": [
+      "Hepatic portal system",
+      "Renal portal system",
+      "Hypophyseal portal system",
+      "Pulmonary portal system"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Renal portal system connects lower body to kidneys.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Frog",
+      "Circulatory System"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q119",
+    "question": "The correct order of parts in the leg of a cockroach is:",
+    "options": [
+      "Coxa -> Trochanter -> Femur -> Tibia -> Tarsus",
+      "Coxa -> Femur -> Trochanter -> Tibia -> Tarsus",
+      "Trochanter -> Coxa -> Femur -> Tibia -> Tarsus",
+      "Coxa -> Trochanter -> Tibia -> Femur -> Tarsus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Standard sequence of leg segments.",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Cockroach",
+      "Anatomy"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_structural_org_q120",
+    "question": "Which of the following statements is correct?",
+    "options": [
+      "Blood is a connective tissue with a fiber-free matrix.",
+      "Bone is a specialized connective tissue with a fluid matrix.",
+      "Cartilage is a loose connective tissue.",
+      "Adipose tissue is a dense connective tissue."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Blood is a specialized connective tissue with plasma (fiber-free matrix).",
+    "subject": "Zoology",
+    "chapter": "Structural Organisation in Animals",
+    "tags": [
+      "Connective Tissue",
+      "Classification"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "structural_organisation_in_animals",
+    "subjectId": "zoology"
+  }
+]

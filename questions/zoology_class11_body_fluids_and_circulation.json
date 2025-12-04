@@ -1,0 +1,2882 @@
+[
+  {
+    "id": "zoology_body_fluids_q1",
+    "question": "Which of the following is the most common body fluid used for transport of substances in higher organisms?",
+    "options": [
+      "Lymph",
+      "Blood",
+      "Water",
+      "Plasma"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Blood is the most commonly used body fluid.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Introduction",
+      "Basics"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q2",
+    "question": "Plasma constitutes approximately what percentage of the blood?",
+    "options": [
+      "45%",
+      "55%",
+      "65%",
+      "90%"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Plasma constitutes nearly 55% of the blood.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood",
+      "Plasma"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q3",
+    "question": "Which of the following proteins is primarily involved in the clotting of blood?",
+    "options": [
+      "Albumin",
+      "Globulin",
+      "Fibrinogen",
+      "Heparin"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Fibrinogens are needed for clotting or coagulation of blood.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood",
+      "Proteins"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q4",
+    "question": "Globulins contained in blood plasma are primarily involved in:",
+    "options": [
+      "Osmotic balance",
+      "Defense mechanisms",
+      "Clotting",
+      "Oxygen transport"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Globulins are involved in defense mechanisms of the body.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood",
+      "Proteins"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q5",
+    "question": "Which protein helps in osmotic balance?",
+    "options": [
+      "Fibrinogen",
+      "Globulin",
+      "Albumin",
+      "Prothrombin"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Albumins help in osmotic balance.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood",
+      "Proteins"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q6",
+    "question": "Erythrocytes are also known as:",
+    "options": [
+      "WBCs",
+      "RBCs",
+      "Platelets",
+      "Thrombocytes"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Erythrocytes are Red Blood Cells (RBCs).",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood",
+      "RBC"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q7",
+    "question": "The average lifespan of human RBCs is:",
+    "options": [
+      "120 days",
+      "80 days",
+      "60 days",
+      "10 days"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Average lifespan of RBCs is 120 days.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood",
+      "RBC"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q8",
+    "question": "RBCs are destroyed in the:",
+    "options": [
+      "Liver",
+      "Spleen",
+      "Kidney",
+      "Bone marrow"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Spleen is the graveyard of RBCs.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood",
+      "RBC"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q9",
+    "question": "Which of the following WBCs are the most abundant?",
+    "options": [
+      "Neutrophils",
+      "Basophils",
+      "Eosinophils",
+      "Lymphocytes"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Neutrophils are the most abundant (60-65%).",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood",
+      "WBC"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q10",
+    "question": "Which WBCs are involved in allergic reactions?",
+    "options": [
+      "Neutrophils",
+      "Basophils",
+      "Eosinophils",
+      "Monocytes"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Eosinophils resist infections and are associated with allergic reactions.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood",
+      "WBC"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q11",
+    "question": "Basophils secrete:",
+    "options": [
+      "Histamine",
+      "Serotonin",
+      "Heparin",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Basophils secrete histamine, serotonin, heparin, etc.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood",
+      "WBC"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q12",
+    "question": "Platelets are also known as:",
+    "options": [
+      "Leucocytes",
+      "Erythrocytes",
+      "Thrombocytes",
+      "Megakaryocytes"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Platelets are also called thrombocytes.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood",
+      "Platelets"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q13",
+    "question": "ABO blood grouping is based on the presence or absence of:",
+    "options": [
+      "Antigens on RBCs",
+      "Antibodies in plasma",
+      "Antigens in plasma",
+      "Antibodies on RBCs"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "It is based on two surface antigens on RBCs.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood Groups",
+      "ABO"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q14",
+    "question": "Person with blood group O is considered a universal donor because:",
+    "options": [
+      "They have both antigens A and B",
+      "They have no antigens A and B",
+      "They have both antibodies anti-A and anti-B",
+      "They have no antibodies"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Group O has no antigens on RBCs.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood Groups",
+      "ABO"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q15",
+    "question": "Person with blood group AB is considered a universal recipient because:",
+    "options": [
+      "They have both antigens A and B",
+      "They have no antibodies anti-A and anti-B",
+      "They have no antigens",
+      "They have both antibodies"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Group AB has no antibodies in plasma.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood Groups",
+      "ABO"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q16",
+    "question": "Erythroblastosis foetalis can occur if:",
+    "options": [
+      "Mother is Rh+ and Foetus is Rh-",
+      "Mother is Rh- and Foetus is Rh+",
+      "Both are Rh+",
+      "Both are Rh-"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Rh- mother and Rh+ foetus incompatibility.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood Groups",
+      "Rh Factor"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q17",
+    "question": "The fluid present in the lymphatic system is called:",
+    "options": [
+      "Blood",
+      "Plasma",
+      "Lymph",
+      "Serum"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Lymph (Tissue fluid).",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Lymph",
+      "Basics"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q18",
+    "question": "Lymph is colourless because:",
+    "options": [
+      "It lacks WBCs",
+      "It lacks RBCs",
+      "It lacks proteins",
+      "It lacks water"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Lymph lacks RBCs (and large proteins).",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Lymph",
+      "Composition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q19",
+    "question": "Open circulatory system is present in:",
+    "options": [
+      "Annelids",
+      "Arthropods",
+      "Chordates",
+      "Humans"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Arthropods and molluscs have open circulatory system.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Circulatory Pathways",
+      "Open System"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q20",
+    "question": "Closed circulatory system is present in:",
+    "options": [
+      "Arthropods",
+      "Molluscs",
+      "Annelids",
+      "None of the above"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Annelids and chordates have closed circulatory system.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Circulatory Pathways",
+      "Closed System"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q21",
+    "question": "How many chambers are present in the heart of a fish?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Fishes have a 2-chambered heart.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Circulatory Pathways",
+      "Heart"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q22",
+    "question": "Amphibians and Reptiles (except crocodiles) have a:",
+    "options": [
+      "2-chambered heart",
+      "3-chambered heart",
+      "4-chambered heart",
+      "No heart"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "They have a 3-chambered heart.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Circulatory Pathways",
+      "Heart"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q23",
+    "question": "Crocodiles, birds and mammals have a:",
+    "options": [
+      "2-chambered heart",
+      "3-chambered heart",
+      "4-chambered heart",
+      "1-chambered heart"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "They have a 4-chambered heart.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Circulatory Pathways",
+      "Heart"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q24",
+    "question": "The heart is protected by a double walled membranous bag called:",
+    "options": [
+      "Pleura",
+      "Pericardium",
+      "Peritoneum",
+      "Meninges"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Pericardium protects the heart.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Human Heart",
+      "Anatomy"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q25",
+    "question": "The opening between the right atrium and the right ventricle is guarded by:",
+    "options": [
+      "Bicuspid valve",
+      "Tricuspid valve",
+      "Mitral valve",
+      "Semilunar valve"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Tricuspid valve.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Human Heart",
+      "Valves"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q26",
+    "question": "The opening between the left atrium and the left ventricle is guarded by:",
+    "options": [
+      "Tricuspid valve",
+      "Bicuspid or Mitral valve",
+      "Semilunar valve",
+      "Eustachian valve"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Bicuspid or Mitral valve.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Human Heart",
+      "Valves"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q27",
+    "question": "The pacemaker of the heart is:",
+    "options": [
+      "AV node",
+      "SA node",
+      "Bundle of His",
+      "Purkinje fibres"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "SA node (Sino-atrial node) is the pacemaker.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Human Heart",
+      "Conduction System"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q28",
+    "question": "The duration of a cardiac cycle in a normal human is:",
+    "options": [
+      "0.8 seconds",
+      "0.5 seconds",
+      "1.0 seconds",
+      "72 seconds"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "0.8 seconds.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Cardiac Cycle",
+      "Duration"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q29",
+    "question": "The volume of blood pumped out by each ventricle per minute is called:",
+    "options": [
+      "Stroke volume",
+      "Cardiac output",
+      "Tidal volume",
+      "Residual volume"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Cardiac output.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Cardiac Cycle",
+      "Definitions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q30",
+    "question": "The first heart sound 'lub' is associated with:",
+    "options": [
+      "Closure of semilunar valves",
+      "Closure of tricuspid and bicuspid valves",
+      "Opening of semilunar valves",
+      "Opening of AV valves"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Lub is closure of AV valves.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Cardiac Cycle",
+      "Heart Sounds"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q31",
+    "question": "The second heart sound 'dub' is associated with:",
+    "options": [
+      "Closure of semilunar valves",
+      "Closure of AV valves",
+      "Opening of AV valves",
+      "Opening of semilunar valves"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Dub is closure of semilunar valves.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Cardiac Cycle",
+      "Heart Sounds"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q32",
+    "question": "In ECG, the P-wave represents:",
+    "options": [
+      "Depolarisation of atria",
+      "Depolarisation of ventricles",
+      "Repolarisation of ventricles",
+      "Repolarisation of atria"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "P-wave represents depolarisation of atria.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "ECG",
+      "Waves"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q33",
+    "question": "In ECG, the QRS complex represents:",
+    "options": [
+      "Depolarisation of atria",
+      "Depolarisation of ventricles",
+      "Repolarisation of ventricles",
+      "Repolarisation of atria"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "QRS complex represents depolarisation of ventricles.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "ECG",
+      "Waves"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q34",
+    "question": "In ECG, the T-wave represents:",
+    "options": [
+      "Depolarisation of atria",
+      "Depolarisation of ventricles",
+      "Repolarisation of ventricles",
+      "Repolarisation of atria"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "T-wave represents repolarisation of ventricles.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "ECG",
+      "Waves"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q35",
+    "question": "Double circulation includes:",
+    "options": [
+      "Pulmonary and Systemic circulation",
+      "Coronary and Systemic circulation",
+      "Pulmonary and Coronary circulation",
+      "Hepatic and Systemic circulation"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Pulmonary and Systemic circulation.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Double Circulation",
+      "Types"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q36",
+    "question": "The hepatic portal vein carries blood from ___ to liver.",
+    "options": [
+      "Heart",
+      "Intestine",
+      "Kidney",
+      "Lungs"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Intestine to liver.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Double Circulation",
+      "Portal System"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q37",
+    "question": "Normal blood pressure of a healthy human is:",
+    "options": [
+      "120/80 mmHg",
+      "80/120 mmHg",
+      "100/60 mmHg",
+      "140/90 mmHg"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "120/80 mmHg.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Disorders",
+      "Hypertension"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q38",
+    "question": "Hypertension is the term for blood pressure that is higher than normal:",
+    "options": [
+      "120/80",
+      "140/90",
+      "100/60",
+      "110/70"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "140/90 or higher is hypertension.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Disorders",
+      "Hypertension"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q39",
+    "question": "Coronary Artery Disease (CAD) is often referred to as:",
+    "options": [
+      "Heart failure",
+      "Cardiac arrest",
+      "Atherosclerosis",
+      "Angina"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Atherosclerosis.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Disorders",
+      "CAD"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q40",
+    "question": "Angina pectoris is:",
+    "options": [
+      "Acute chest pain",
+      "High blood pressure",
+      "Heart stop beating",
+      "Heart muscle damage"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Acute chest pain due to insufficient oxygen to heart muscle.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Disorders",
+      "Angina"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q41",
+    "question": "Which of the following statements is incorrect regarding plasma?",
+    "options": [
+      "It is a straw coloured, viscous fluid.",
+      "It constitutes nearly 55% of the blood.",
+      "90-92% of plasma is water.",
+      "It contains no proteins."
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Plasma contains proteins like fibrinogen, globulins and albumins (6-8%).",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood",
+      "Plasma"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q42",
+    "question": "Serum differs from blood in:",
+    "options": [
+      "Lacking globulins",
+      "Lacking albumins",
+      "Lacking clotting factors",
+      "Lacking antibodies"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Serum = Plasma without clotting factors.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood",
+      "Serum"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q43",
+    "question": "Which of the following is correct regarding Erythrocytes?",
+    "options": [
+      "They are nucleated in most mammals.",
+      "They are biconcave in shape.",
+      "They are the least abundant blood cells.",
+      "They have a lifespan of 10-20 days."
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "RBCs are biconcave and non-nucleated in most mammals.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood",
+      "RBC"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q44",
+    "question": "A healthy adult man has, on an average, ___ millions of RBCs per mm3 of blood.",
+    "options": [
+      "5 - 5.5",
+      "4 - 4.5",
+      "3 - 3.5",
+      "6 - 6.5"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "5 to 5.5 million RBCs per mm3.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood",
+      "RBC"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q45",
+    "question": "Leucocytes are known as white blood cells because:",
+    "options": [
+      "They contain white pigment.",
+      "They lack haemoglobin.",
+      "They are present in white lymph.",
+      "They are transparent."
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "They are colourless due to lack of haemoglobin.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood",
+      "WBC"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q46",
+    "question": "Which of the following is an agranulocyte?",
+    "options": [
+      "Neutrophil",
+      "Eosinophil",
+      "Basophil",
+      "Monocyte"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Lymphocytes and Monocytes are agranulocytes.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood",
+      "WBC"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q47",
+    "question": "Which WBCs are phagocytic cells which destroy foreign organisms entering the body?",
+    "options": [
+      "Neutrophils and Monocytes",
+      "Basophils and Eosinophils",
+      "Lymphocytes and Platelets",
+      "Eosinophils and Monocytes"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Neutrophils and Monocytes are phagocytic.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood",
+      "WBC"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q48",
+    "question": "A reduction in the number of platelets can lead to:",
+    "options": [
+      "Excessive loss of blood from the body",
+      "Clotting of blood inside vessels",
+      "Increase in blood pressure",
+      "Decrease in oxygen transport"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Thrombocytopenia leads to clotting disorders and excessive blood loss.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood",
+      "Platelets"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q49",
+    "question": "During blood transfusion, which of the following must be carefully matched?",
+    "options": [
+      "RBC count",
+      "WBC count",
+      "Blood group",
+      "Platelet count"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Blood group matching is essential to prevent agglutination.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood Groups",
+      "Transfusion"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q50",
+    "question": "Anti-A and Anti-B antibodies are naturally present in the plasma of a person with blood group:",
+    "options": [
+      "A",
+      "B",
+      "AB",
+      "O"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Group O has both Anti-A and Anti-B antibodies.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood Groups",
+      "ABO"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q51",
+    "question": "The Rh antigen is similar to one present in:",
+    "options": [
+      "Rhesus monkeys",
+      "Chimpanzees",
+      "Gorillas",
+      "Baboons"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Rh stands for Rhesus.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood Groups",
+      "Rh Factor"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q52",
+    "question": "To prevent Erythroblastosis foetalis, the Rh- mother should be administered:",
+    "options": [
+      "Anti-Rh antibodies",
+      "Rh antigens",
+      "Antibiotics",
+      "Steroids"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Anti-Rh antibodies (RhoGAM) are given immediately after delivery of first Rh+ child.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood Groups",
+      "Rh Factor"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q53",
+    "question": "Coagulation of blood involves the conversion of:",
+    "options": [
+      "Fibrinogen to Fibrin",
+      "Fibrin to Fibrinogen",
+      "Prothrombin to Thrombin",
+      "Both A and C"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Thrombin converts Fibrinogen to Fibrin. Prothrombin is converted to Thrombin.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Coagulation",
+      "Mechanism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q54",
+    "question": "Which ion plays a very important role in clotting?",
+    "options": [
+      "Calcium",
+      "Sodium",
+      "Potassium",
+      "Magnesium"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Calcium ions are essential for clotting.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Coagulation",
+      "Factors"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q55",
+    "question": "Lymph is an important carrier for:",
+    "options": [
+      "Nutrients",
+      "Hormones",
+      "Fats",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Lymph carries nutrients, hormones, and absorbs fats (lacteals).",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Lymph",
+      "Function"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q56",
+    "question": "In an open circulatory system, blood is pumped by the heart into:",
+    "options": [
+      "Capillaries",
+      "Large vessels and into body cavities (sinuses)",
+      "Veins",
+      "Arteries only"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Blood flows into sinuses.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Circulatory Pathways",
+      "Open System"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q57",
+    "question": "In fishes, the heart pumps out deoxygenated blood which is oxygenated by the:",
+    "options": [
+      "Lungs",
+      "Gills",
+      "Skin",
+      "Body tissues"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Gills oxygenate the blood in single circulation.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Circulatory Pathways",
+      "Fish"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q58",
+    "question": "In amphibians and reptiles, the left atrium receives oxygenated blood from:",
+    "options": [
+      "Gills/Lungs/Skin",
+      "Body tissues",
+      "Kidneys",
+      "Liver"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Left atrium receives oxygenated blood from respiratory organs.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Circulatory Pathways",
+      "Amphibians"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q59",
+    "question": "The entire heart is made of:",
+    "options": [
+      "Skeletal muscles",
+      "Smooth muscles",
+      "Cardiac muscles",
+      "Cartilage"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Cardiac muscles.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Human Heart",
+      "Anatomy"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q60",
+    "question": "The SAN generates an action potential which stimulates:",
+    "options": [
+      "Only the right atrium",
+      "Only the left atrium",
+      "Both atria to undergo simultaneous contraction",
+      "Both ventricles to undergo simultaneous contraction"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "SAN stimulates atrial systole.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Cardiac Cycle",
+      "Conduction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q61",
+    "question": "The action potential is conducted to the ventricular side by:",
+    "options": [
+      "SAN",
+      "AVN and AV bundle",
+      "Purkinje fibres only",
+      "Chordae tendineae"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "AVN and AV bundle conduct it to ventricles.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Cardiac Cycle",
+      "Conduction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q62",
+    "question": "During ventricular systole:",
+    "options": [
+      "Atria undergo systole",
+      "Atria undergo diastole",
+      "Ventricles relax",
+      "AV valves open"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Atria are in diastole during ventricular systole.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Cardiac Cycle",
+      "Events"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q63",
+    "question": "The closure of tricuspid and bicuspid valves produces the:",
+    "options": [
+      "First heart sound",
+      "Second heart sound",
+      "Third heart sound",
+      "Murmur"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "First heart sound (Lub).",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Cardiac Cycle",
+      "Heart Sounds"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q64",
+    "question": "Stroke volume is approximately:",
+    "options": [
+      "70 mL",
+      "500 mL",
+      "5000 mL",
+      "120 mL"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Stroke volume is approx 70 mL.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Cardiac Cycle",
+      "Values"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q65",
+    "question": "Cardiac output is calculated as:",
+    "options": [
+      "Stroke volume x Heart rate",
+      "Stroke volume / Heart rate",
+      "Stroke volume + Heart rate",
+      "Tidal volume x Breathing rate"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "CO = SV x HR.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Cardiac Cycle",
+      "Formulas"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q66",
+    "question": "The QRS complex represents the:",
+    "options": [
+      "Depolarisation of the atria",
+      "Depolarisation of the ventricles",
+      "Repolarisation of the ventricles",
+      "Repolarisation of the atria"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Depolarisation of ventricles.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "ECG",
+      "Waves"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q67",
+    "question": "By counting the number of QRS complexes in a given time period, one can determine:",
+    "options": [
+      "Stroke volume",
+      "Cardiac output",
+      "Heart beat rate",
+      "Blood pressure"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "It gives the heart beat rate.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "ECG",
+      "Application"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q68",
+    "question": "The T-wave marks the end of:",
+    "options": [
+      "Atrial systole",
+      "Ventricular systole",
+      "Joint diastole",
+      "Atrial diastole"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "End of T-wave marks end of systole.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "ECG",
+      "Waves"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q69",
+    "question": "Which of the following carries oxygenated blood?",
+    "options": [
+      "Pulmonary artery",
+      "Pulmonary vein",
+      "Vena cava",
+      "Hepatic portal vein"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Pulmonary vein carries oxygenated blood from lungs to heart.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Double Circulation",
+      "Vessels"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q70",
+    "question": "A special neural centre in the ___ can moderate the cardiac function through ANS.",
+    "options": [
+      "Pons",
+      "Medulla oblongata",
+      "Cerebrum",
+      "Hypothalamus"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Medulla oblongata.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Regulation",
+      "Brain"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q71",
+    "question": "Sympathetic neural signals can:",
+    "options": [
+      "Increase the rate of heart beat",
+      "Decrease the rate of heart beat",
+      "Decrease the strength of ventricular contraction",
+      "Decrease cardiac output"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Sympathetic signals increase heart rate and strength of contraction.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Regulation",
+      "ANS"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q72",
+    "question": "Parasympathetic neural signals:",
+    "options": [
+      "Increase the rate of heart beat",
+      "Decrease the rate of heart beat",
+      "Increase cardiac output",
+      "Increase speed of conduction of action potential"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Parasympathetic signals decrease heart rate.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Regulation",
+      "ANS"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q73",
+    "question": "Adrenal medullary hormones can:",
+    "options": [
+      "Decrease cardiac output",
+      "Increase cardiac output",
+      "Decrease heart rate",
+      "Have no effect on heart"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Adrenaline increases cardiac output.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Regulation",
+      "Hormones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q74",
+    "question": "Atherosclerosis affects the vessels that supply blood to the:",
+    "options": [
+      "Lungs",
+      "Heart muscle",
+      "Kidneys",
+      "Brain"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "It affects coronary arteries supplying the heart muscle.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Disorders",
+      "CAD"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q75",
+    "question": "Heart failure is the state of heart when:",
+    "options": [
+      "It stops beating",
+      "The heart muscle is suddenly damaged",
+      "It is not pumping blood effectively enough to meet the needs of the body",
+      "Blood pressure is very high"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Definition of heart failure.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Disorders",
+      "Heart Failure"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q76",
+    "question": "Cardiac arrest means:",
+    "options": [
+      "Heart stops beating",
+      "Inadequate blood supply to body",
+      "Heart muscle damage",
+      "Chest pain"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Cardiac arrest = Heart stops beating.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Disorders",
+      "Cardiac Arrest"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q77",
+    "question": "Heart attack (Myocardial infarction) occurs when:",
+    "options": [
+      "Heart stops beating",
+      "Heart muscle is suddenly damaged by an inadequate blood supply",
+      "Blood pressure is low",
+      "Heart pumps ineffective blood"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Heart attack is muscle damage due to lack of blood supply.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Disorders",
+      "Heart Attack"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q78",
+    "question": "Which of the following is not a formed element of blood?",
+    "options": [
+      "Erythrocytes",
+      "Leucocytes",
+      "Platelets",
+      "Fibres"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Fibres are not formed elements (unless clotting occurs, but they are proteins).",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood",
+      "Composition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q79",
+    "question": "The most abundant and least abundant WBCs are respectively:",
+    "options": [
+      "Neutrophils and Basophils",
+      "Neutrophils and Monocytes",
+      "Basophils and Neutrophils",
+      "Lymphocytes and Basophils"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Neutrophils (60-65%) and Basophils (0.5-1%).",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood",
+      "WBC"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q80",
+    "question": "Histamine, serotonin and heparin are secreted by:",
+    "options": [
+      "Lymphocytes",
+      "Monocytes",
+      "Neutrophils",
+      "Basophils"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Basophils secrete these.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood",
+      "WBC"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q81",
+    "question": "Which of the following matches is incorrect?",
+    "options": [
+      "Neutrophils - Phagocytosis",
+      "Eosinophils - Allergic reactions",
+      "Basophils - Secrete histamine",
+      "Monocytes - Secrete antibodies"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Lymphocytes (B-cells) secrete antibodies, not Monocytes.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood",
+      "WBC"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q82",
+    "question": "The nodal musculature has the ability to generate action potentials without any external stimuli. It is called:",
+    "options": [
+      "Autoexcitable",
+      "Contractile",
+      "Excitable",
+      "Sensitive"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Autoexcitable.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Human Heart",
+      "Properties"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q83",
+    "question": "The number of action potentials that could be generated in a minute varies at different parts of the nodal system. The SAN generates:",
+    "options": [
+      "40-60 min-1",
+      "70-75 min-1",
+      "80-100 min-1",
+      "20-25 min-1"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "70-75 action potentials per minute.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Human Heart",
+      "Conduction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q84",
+    "question": "The wall of the ventricles are much thicker than that of the atria because:",
+    "options": [
+      "They have to pump blood to long distances",
+      "They receive blood from atria",
+      "They are larger in size",
+      "They contain more blood"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "They pump blood to the lungs and body, requiring more force.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Human Heart",
+      "Anatomy"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q85",
+    "question": "Which of the following statements is true?",
+    "options": [
+      "All veins carry deoxygenated blood.",
+      "All arteries carry oxygenated blood.",
+      "Pulmonary artery carries deoxygenated blood.",
+      "Pulmonary vein carries deoxygenated blood."
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Pulmonary artery is the exception, carrying deoxygenated blood.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Double Circulation",
+      "Vessels"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q86",
+    "question": "The hepatic portal system is a unique vascular connection between:",
+    "options": [
+      "Digestive tract and liver",
+      "Liver and heart",
+      "Kidney and heart",
+      "Lungs and heart"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Digestive tract and liver.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Double Circulation",
+      "Portal System"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q87",
+    "question": "The coronary system of blood vessels is exclusively for the:",
+    "options": [
+      "Circulation of blood to and from the cardiac musculature",
+      "Circulation of blood to the lungs",
+      "Circulation of blood to the brain",
+      "Circulation of blood to the liver"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Coronary system supplies the heart muscle.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Double Circulation",
+      "Coronary"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q88",
+    "question": "Which of the following is not a symptom of hypertension?",
+    "options": [
+      "Damage to brain",
+      "Damage to kidney",
+      "Heart disease",
+      "Low blood sugar"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Low blood sugar is not a direct symptom of hypertension.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Disorders",
+      "Hypertension"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q89",
+    "question": "Congestive heart failure is often due to:",
+    "options": [
+      "Congestion of the lungs",
+      "Blockage of coronary artery",
+      "Damage of heart valves",
+      "High blood pressure"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Congestion of the lungs is a main symptom/cause.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Disorders",
+      "Heart Failure"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q90",
+    "question": "The machine used to obtain an ECG is called:",
+    "options": [
+      "Electrocardiograph",
+      "Electrocardiogram",
+      "Electroencephalograph",
+      "Spirometer"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The machine is Electrocardiograph. The record is Electrocardiogram.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "ECG",
+      "Instruments"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q91",
+    "question": "Which of the following statements is correct?",
+    "options": [
+      "The SA node generates the maximum number of action potentials, i.e., 70-75 min-1, and is responsible for initiating and maintaining the rhythmic contractile activity of the heart.",
+      "The AV node generates the maximum number of action potentials, i.e., 70-75 min-1, and is responsible for initiating and maintaining the rhythmic contractile activity of the heart.",
+      "The Bundle of His generates the maximum number of action potentials, i.e., 70-75 min-1, and is responsible for initiating and maintaining the rhythmic contractile activity of the heart.",
+      "The Purkinje fibres generate the maximum number of action potentials, i.e., 70-75 min-1, and is responsible for initiating and maintaining the rhythmic contractile activity of the heart."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "SA node is the pacemaker with highest automaticity.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Human Heart",
+      "Conduction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q92",
+    "question": "Match the items in Column I with Column II and select the correct option.\nColumn I\n(a) Fibrinogen\n(b) Globulin\n(c) Albumin\n\nColumn II\n(i) Osmotic balance\n(ii) Blood clotting\n(iii) Defence mechanism",
+    "options": [
+      "(a)-(iii), (b)-(ii), (c)-(i)",
+      "(a)-(i), (b)-(ii), (c)-(iii)",
+      "(a)-(i), (b)-(iii), (c)-(ii)",
+      "(a)-(ii), (b)-(iii), (c)-(i)"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Fibrinogen-Clotting, Globulin-Defence, Albumin-Osmotic balance.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood",
+      "Proteins"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q93",
+    "question": "Which of the following is the correct pathway of blood in a double circulation?",
+    "options": [
+      "Right Ventricle -> Pulmonary Artery -> Lungs -> Pulmonary Vein -> Left Atrium -> Left Ventricle -> Aorta -> Body Parts -> Vena Cava -> Right Atrium",
+      "Right Ventricle -> Pulmonary Vein -> Lungs -> Pulmonary Artery -> Left Atrium -> Left Ventricle -> Aorta -> Body Parts -> Vena Cava -> Right Atrium",
+      "Right Ventricle -> Pulmonary Artery -> Lungs -> Pulmonary Vein -> Right Atrium -> Left Ventricle -> Aorta -> Body Parts -> Vena Cava -> Left Atrium",
+      "Left Ventricle -> Pulmonary Artery -> Lungs -> Pulmonary Vein -> Right Atrium -> Right Ventricle -> Aorta -> Body Parts -> Vena Cava -> Left Atrium"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Correct sequence of pulmonary and systemic circulation.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Double Circulation",
+      "Pathway"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q94",
+    "question": "If the vagus nerve is cut, the heart rate will:",
+    "options": [
+      "Decrease",
+      "Increase",
+      "Stop",
+      "Remain same"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Vagus nerve (parasympathetic) slows down the heart. Cutting it removes inhibition, increasing rate.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Regulation",
+      "Nerves"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q95",
+    "question": "In a standard ECG, which of the following alphabets is the correct representation of the respective activity of the human heart?",
+    "options": [
+      "S - start of systole",
+      "T - end of diastole",
+      "P - depolarisation of the atria",
+      "R - repolarisation of ventricles"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "P wave represents atrial depolarisation.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "ECG",
+      "Waves"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q96",
+    "question": "What would be the cardiac output of a person having 72 heart beats per minute and a stroke volume of 50 ml?",
+    "options": [
+      "360 ml",
+      "3600 ml",
+      "7200 ml",
+      "5000 ml"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "CO = HR x SV = 72 x 50 = 3600 ml.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Cardiac Cycle",
+      "Calculation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q97",
+    "question": "Read the following statements and select the correct option.\nStatement A: The SA node acts as a pacemaker.\nStatement B: The SA node is located in the wall of the right atrium near the opening of the superior vena cava.",
+    "options": [
+      "Both statements A and B are correct.",
+      "Statement A is correct but B is incorrect.",
+      "Statement A is incorrect but B is correct.",
+      "Both statements A and B are incorrect."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Both statements are correct descriptions of SA node.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Human Heart",
+      "Conduction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q98",
+    "question": "Which one of the following is correct?",
+    "options": [
+      "Lymph = Plasma + RBC + WBC",
+      "Blood = Plasma + RBC + WBC + Platelets",
+      "Plasma = Blood - Lymphocytes",
+      "Serum = Blood + Fibrinogen"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Blood composition is correct.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood",
+      "Composition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q99",
+    "question": "Erythroblastosis foetalis is caused when:",
+    "options": [
+      "Rh- mother carries Rh+ foetus",
+      "Rh+ mother carries Rh- foetus",
+      "Rh+ mother carries Rh+ foetus",
+      "Rh- mother carries Rh- foetus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Rh- mother sensitized by Rh+ foetus.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood Groups",
+      "Rh Factor"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q100",
+    "question": "The diagram given here is the standard ECG of a normal person. The P-wave represents the:",
+    "options": [
+      "Initiation of the ventricular contraction",
+      "Beginning of the systole",
+      "End of systole",
+      "Contraction of both the atria"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "P-wave is atrial depolarisation leading to contraction.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "ECG",
+      "Waves"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q101",
+    "question": "Which of the following conditions causes the 'lub' sound?",
+    "options": [
+      "Closing of semilunar valves",
+      "Closing of AV valves",
+      "Opening of AV valves",
+      "Opening of semilunar valves"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Lub is closure of AV valves.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Cardiac Cycle",
+      "Heart Sounds"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q102",
+    "question": "Identify the correct statement regarding the cardiac cycle.",
+    "options": [
+      "The relaxation of atria and ventricles continues for 0.4 seconds.",
+      "The duration of the cardiac cycle is inversely proportional to the heart rate.",
+      "Stroke volume is the amount of blood pumped by each ventricle during a cardiac cycle.",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "All statements are correct.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Cardiac Cycle",
+      "Concepts"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q103",
+    "question": "Which of the following statements is incorrect?",
+    "options": [
+      "A person of 'O' blood group has anti-A and anti-B antibodies in his blood plasma.",
+      "A person of 'B' blood group can't donate blood to a person of 'A' blood group.",
+      "Blood group is designated on the basis of the presence of antibodies in the blood plasma.",
+      "A person of AB blood group is a universal recipient."
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Blood group is designated based on ANTIGENS on RBCs, not antibodies.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood Groups",
+      "ABO"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q104",
+    "question": "During the cardiac cycle, the ventricles pump approximately ___ of blood, which is called the stroke volume.",
+    "options": [
+      "70 mL",
+      "500 mL",
+      "7 L",
+      "120 mL"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Stroke volume is 70 mL.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Cardiac Cycle",
+      "Values"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q105",
+    "question": "Which of the following correctly explains a phase/event in the cardiac cycle in a standard electrocardiogram?",
+    "options": [
+      "QRS complex indicates atrial contraction.",
+      "QRS complex indicates ventricular contraction.",
+      "Time between S and T represents atrial systole.",
+      "P-wave indicates beginning of ventricular contraction."
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "QRS represents ventricular depolarisation/contraction.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "ECG",
+      "Waves"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q106",
+    "question": "A certain road accident patient with unknown blood group needs immediate blood transfusion. His one doctor friend at once offers his blood. What was the blood group of the donor?",
+    "options": [
+      "Blood group B",
+      "Blood group AB",
+      "Blood group O",
+      "Blood group A"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Group O is universal donor.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood Groups",
+      "Transfusion"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q107",
+    "question": "Which one of the following statements is correct regarding blood pressure?",
+    "options": [
+      "130/90 mmHg is considered high and requires treatment.",
+      "100/55 mmHg is considered an ideal blood pressure.",
+      "105/50 mmHg makes one very active.",
+      "190/110 mmHg may harm vital organs like brain and kidney."
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "190/110 is severe hypertension and dangerous.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Disorders",
+      "Hypertension"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q108",
+    "question": "Given below are four statements (i-iv) regarding human blood circulatory system.\n(i) Arteries are thick-walled and have narrow lumen as compared to veins.\n(ii) Angina is acute chest pain when the blood circulation to the brain is reduced.\n(iii) Persons with blood group AB can donate blood to any person with any blood group under ABO system.\n(iv) Calcium ions play a very important role in blood clotting.\nWhich two statements are correct?",
+    "options": [
+      "(i) and (iv)",
+      "(i) and (ii)",
+      "(ii) and (iii)",
+      "(iii) and (iv)"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "(i) is correct. (ii) is wrong (heart muscle, not brain). (iii) is wrong (AB is recipient). (iv) is correct.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Circulatory System",
+      "Concepts"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q109",
+    "question": "The thickening of walls of arteries is called:",
+    "options": [
+      "Arteriosclerosis",
+      "Arthritis",
+      "Aneurysm",
+      "Both B and C"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Arteriosclerosis is hardening/thickening of arteries.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Disorders",
+      "Vessels"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q110",
+    "question": "An adult human with average health has systolic and diastolic pressures as:",
+    "options": [
+      "120 mm Hg and 80 mm Hg",
+      "50 mm Hg and 80 mm Hg",
+      "120 mm Hg and 120 mm Hg",
+      "70 mm Hg and 120 mm Hg"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "120/80 mmHg.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Disorders",
+      "Hypertension"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q111",
+    "question": "Which of the following is not a granulocyte?",
+    "options": [
+      "Neutrophil",
+      "Eosinophil",
+      "Basophil",
+      "Lymphocyte"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Lymphocyte is an agranulocyte.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood",
+      "WBC"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q112",
+    "question": "The opening of the right and the left ventricles into the pulmonary artery and the aorta respectively are provided with the:",
+    "options": [
+      "Bicuspid valves",
+      "Tricuspid valves",
+      "Semilunar valves",
+      "Mitral valves"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Semilunar valves.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Human Heart",
+      "Valves"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q113",
+    "question": "Which of the following substances, if introduced into the blood stream, would cause coagulation of blood at the site of its introduction?",
+    "options": [
+      "Prothrombin",
+      "Fibrinogen",
+      "Thromboplastin",
+      "Heparin"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Thromboplastin initiates the clotting cascade.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Coagulation",
+      "Factors"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q114",
+    "question": "The heart sound 'Dup' is produced when:",
+    "options": [
+      "Mitral valve opens",
+      "Mitral valve closes",
+      "Semilunar valves at the base of aorta close",
+      "Tricuspid valve opens"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Dup is closure of semilunar valves.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Cardiac Cycle",
+      "Heart Sounds"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q115",
+    "question": "Erythropoiesis starts in:",
+    "options": [
+      "Spleen",
+      "Red bone marrow",
+      "Kidney",
+      "Liver"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Red bone marrow in adults.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood",
+      "RBC"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q116",
+    "question": "Which of the following is correct?",
+    "options": [
+      "Plasma is blood without lymphocytes.",
+      "Serum is blood without clotting factors.",
+      "Lymph is plasma without proteins.",
+      "Blood = Plasma + Formed elements"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Blood = Plasma + Formed elements is the definition.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Blood",
+      "Composition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q117",
+    "question": "The state of heart when it is not pumping blood effectively enough to meet the needs of the body is called:",
+    "options": [
+      "Angina",
+      "Cardiac arrest",
+      "Heart attack",
+      "Heart failure"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Heart failure.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Disorders",
+      "Heart Failure"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q118",
+    "question": "Which of the following is associated with a decrease in cardiac output?",
+    "options": [
+      "Sympathetic stimulation",
+      "Parasympathetic stimulation",
+      "Adrenal medullary hormones",
+      "None of the above"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Parasympathetic stimulation decreases heart rate and thus cardiac output.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Regulation",
+      "ANS"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q119",
+    "question": "The blood pressure in the mammalian aorta is maximum during:",
+    "options": [
+      "Systole of the left ventricle",
+      "Diastole of the right atrium",
+      "Systole of the left atrium",
+      "Diastole of the right ventricle"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Systole of left ventricle pumps blood into aorta at high pressure.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Cardiac Cycle",
+      "Pressure"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_body_fluids_q120",
+    "question": "Doctors use stethoscope to hear the sounds produced during each cardiac cycle. The second sound is heard when:",
+    "options": [
+      "AV node receives signal from SA node",
+      "AV valves open up",
+      "Ventricular walls vibrate due to gushing in of blood from atria",
+      "Semilunar valves close down after the blood flows into vessels from ventricles"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Closure of semilunar valves.",
+    "subject": "Zoology",
+    "chapter": "Body Fluids and Circulation",
+    "tags": [
+      "Cardiac Cycle",
+      "Heart Sounds"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "body_fluids_and_circulation",
+    "subjectId": "zoology"
+  }
+]

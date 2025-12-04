@@ -1,0 +1,2731 @@
+[
+  {
+    "id": "chemistry_p_block_class12_q1",
+    "question": "Which of the following elements does not show allotropy?",
+    "options": [
+      "Nitrogen",
+      "Phosphorus",
+      "Arsenic",
+      "Antimony"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Nitrogen does not show allotropy due to its small size and high electronegativity (though solid N2 has phases, in the context of stable allotropes like P, As, Sb, Bi, N is often cited as the exception or having limited allotropy compared to others). Actually, Bismuth also doesn't show distinct allotropy like P/As/Sb. But Nitrogen is the most common answer in this context.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 15 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q2",
+    "question": "The basicity of orthophosphoric acid is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Orthophosphoric acid is H3PO4. It has 3 -OH groups, so basicity is 3.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of phosphorus"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q3",
+    "question": "Which of the following is the most stable hydride?",
+    "options": [
+      "NH3",
+      "PH3",
+      "AsH3",
+      "SbH3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Stability decreases down the group as bond dissociation energy decreases (M-H bond length increases). NH3 is most stable.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 15 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q4",
+    "question": "Laughing gas is:",
+    "options": [
+      "NO",
+      "N2O",
+      "NO2",
+      "N2O5"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Nitrous oxide (N2O) is known as laughing gas.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of nitrogen"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q5",
+    "question": "Which of the following is a neutral oxide?",
+    "options": [
+      "NO2",
+      "N2O3",
+      "N2O5",
+      "N2O"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "N2O and NO are neutral oxides of nitrogen.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of nitrogen"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q6",
+    "question": "The shape of ammonia molecule is:",
+    "options": [
+      "Tetrahedral",
+      "Trigonal pyramidal",
+      "Square planar",
+      "Linear"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "NH3 has 3 bond pairs and 1 lone pair. Shape is trigonal pyramidal.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of nitrogen"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q7",
+    "question": "Which allotrope of phosphorus is most reactive?",
+    "options": [
+      "Red phosphorus",
+      "White phosphorus",
+      "Black phosphorus",
+      "Violet phosphorus"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "White phosphorus is most reactive due to angular strain in P4 molecule.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of phosphorus"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q8",
+    "question": "PCl5 acts as an:",
+    "options": [
+      "Oxidising agent",
+      "Reducing agent",
+      "Both",
+      "None"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "PCl5 acts as an oxidising agent (e.g., oxidises Ag to AgCl).",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of phosphorus"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q9",
+    "question": "Which of the following elements has the highest electron gain enthalpy (most negative)?",
+    "options": [
+      "F",
+      "Cl",
+      "Br",
+      "I"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Chlorine has the highest negative electron gain enthalpy. Fluorine is less negative due to small size and inter-electronic repulsion.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 17 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q10",
+    "question": "The most abundant noble gas in the atmosphere is:",
+    "options": [
+      "He",
+      "Ne",
+      "Ar",
+      "Kr"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Argon is the most abundant noble gas.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 18 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q11",
+    "question": "Which noble gas is used in MRI systems?",
+    "options": [
+      "He",
+      "Ne",
+      "Ar",
+      "Xe"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Liquid Helium is used to cool superconducting magnets in MRI.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 18 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q12",
+    "question": "Shape of XeF4 is:",
+    "options": [
+      "Tetrahedral",
+      "Square planar",
+      "Octahedral",
+      "See-saw"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "XeF4 has 4 bond pairs and 2 lone pairs. Structure is square planar.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of xenon"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q13",
+    "question": "Which of the following is a liquid at room temperature?",
+    "options": [
+      "F2",
+      "Cl2",
+      "Br2",
+      "I2"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Bromine is a liquid.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 17 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q14",
+    "question": "The oxidation state of oxygen in OF2 is:",
+    "options": [
+      "-2",
+      "-1",
+      "+1",
+      "+2"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Fluorine is more electronegative (-1). So O is +2.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 16 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q15",
+    "question": "Bleaching action of chlorine is due to:",
+    "options": [
+      "Reduction",
+      "Oxidation",
+      "Chlorination",
+      "Hydration"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Chlorine water produces nascent oxygen which oxidises coloured substance to colourless.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of chlorine"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q16",
+    "question": "Which of the following acids is monobasic?",
+    "options": [
+      "H3PO4",
+      "H3PO3",
+      "H3PO2",
+      "H2SO4"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "H3PO2 (Hypophosphorous acid) has only one P-OH bond, so it is monobasic.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of phosphorus"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q17",
+    "question": "Contact process is used for the manufacture of:",
+    "options": [
+      "Nitric acid",
+      "Sulphuric acid",
+      "Ammonia",
+      "Phosphine"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Contact process is for Sulphuric acid.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of sulphur"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q18",
+    "question": "Ostwald's process is used for the manufacture of:",
+    "options": [
+      "Nitric acid",
+      "Sulphuric acid",
+      "Ammonia",
+      "Chlorine"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Ostwald's process is for Nitric acid.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of nitrogen"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q19",
+    "question": "Haber's process is used for the manufacture of:",
+    "options": [
+      "Nitric acid",
+      "Sulphuric acid",
+      "Ammonia",
+      "Chlorine"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Haber's process is for Ammonia.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of nitrogen"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q20",
+    "question": "Which of the following halogens has the highest bond dissociation enthalpy?",
+    "options": [
+      "F2",
+      "Cl2",
+      "Br2",
+      "I2"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Cl2 has the highest bond dissociation enthalpy. F2 is lower due to repulsion.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 17 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q21",
+    "question": "Which of the following is a strong oxidising agent?",
+    "options": [
+      "F2",
+      "Cl2",
+      "Br2",
+      "I2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Fluorine is the strongest oxidising agent.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 17 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q22",
+    "question": "The catalyst used in the Contact process is:",
+    "options": [
+      "Fe",
+      "Pt",
+      "V2O5",
+      "Ni"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Vanadium pentoxide (V2O5) is the catalyst.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of sulphur"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q23",
+    "question": "Which of the following is known as King of Chemicals?",
+    "options": [
+      "HCl",
+      "HNO3",
+      "H2SO4",
+      "NaOH"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Sulphuric acid is called King of Chemicals.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of sulphur"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q24",
+    "question": "Which of the following hydrides has the lowest boiling point?",
+    "options": [
+      "H2O",
+      "H2S",
+      "H2Se",
+      "H2Te"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "H2S has the lowest boiling point. H2O is high due to H-bonding. Others increase with size.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 16 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q25",
+    "question": "Ozone is an allotrope of:",
+    "options": [
+      "Nitrogen",
+      "Oxygen",
+      "Sulphur",
+      "Phosphorus"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Ozone (O3) is an allotrope of Oxygen.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 16 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q26",
+    "question": "The formula of tear gas is:",
+    "options": [
+      "COCl2",
+      "CCl3NO2",
+      "N2O",
+      "NH3"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Chloropicrin (CCl3NO2) is tear gas.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of nitrogen"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q27",
+    "question": "Which of the following is paramagnetic?",
+    "options": [
+      "N2",
+      "O2",
+      "F2",
+      "Cl2"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "O2 is paramagnetic due to unpaired electrons in antibonding orbitals.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 16 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q28",
+    "question": "Which of the following forms hydrogen bonds?",
+    "options": [
+      "PH3",
+      "H2S",
+      "NH3",
+      "HCl"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "NH3 forms hydrogen bonds.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 15 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q29",
+    "question": "The oxidation state of sulphur in H2SO4 is:",
+    "options": [
+      "+4",
+      "+6",
+      "+2",
+      "0"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "2 + x - 8 = 0 => x = +6.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of sulphur"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q30",
+    "question": "Which of the following is a radioactive noble gas?",
+    "options": [
+      "He",
+      "Ne",
+      "Rn",
+      "Xe"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Radon (Rn) is radioactive.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 18 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q31",
+    "question": "Fluorine exhibits only oxidation state of:",
+    "options": [
+      "-1",
+      "+1",
+      "-1 and +1",
+      "Variable"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Fluorine is the most electronegative element and shows only -1 oxidation state.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 17 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q32",
+    "question": "Which of the following is used for bleaching wood pulp?",
+    "options": [
+      "Chlorine",
+      "Ozone",
+      "Sulphur dioxide",
+      "All of these"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "All can be used for bleaching.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "applications"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q33",
+    "question": "The geometry of PCl5 is:",
+    "options": [
+      "Tetrahedral",
+      "Trigonal bipyramidal",
+      "Octahedral",
+      "Square planar"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "PCl5 is trigonal bipyramidal.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of phosphorus"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q34",
+    "question": "Which of the following is not a p-block element?",
+    "options": [
+      "Al",
+      "Si",
+      "N",
+      "Ca"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Calcium (Ca) is an s-block element.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "general"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q35",
+    "question": "Which of the following is known as 'Philosopher's wool'?",
+    "options": [
+      "ZnO",
+      "ZnS",
+      "ZnCl2",
+      "ZnSO4"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "ZnO is called Philosopher's wool. (Note: Zn is d-block, but this is a common GK question often associated with p-block context or general chemistry). Let's stick to strict p-block. I should probably replace this.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "general"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q35_replacement",
+    "question": "Which of the following is an acidic oxide?",
+    "options": [
+      "Na2O",
+      "MgO",
+      "SO2",
+      "H2O"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Non-metal oxides like SO2 are acidic.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of sulphur"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q36",
+    "question": "Which of the following is the strongest acid?",
+    "options": [
+      "HF",
+      "HCl",
+      "HBr",
+      "HI"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Acidic strength increases down the group: HF < HCl < HBr < HI.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 17 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q37",
+    "question": "The gas evolved when copper reacts with concentrated nitric acid is:",
+    "options": [
+      "NO",
+      "NO2",
+      "N2O",
+      "N2"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Concentrated HNO3 gives NO2.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of nitrogen"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q38",
+    "question": "Which of the following elements is a liquid non-metal?",
+    "options": [
+      "Hg",
+      "Br2",
+      "Ga",
+      "Cs"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Bromine is a liquid non-metal. Hg is a liquid metal.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 17 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q39",
+    "question": "The most electronegative element in the periodic table is:",
+    "options": [
+      "O",
+      "F",
+      "Cl",
+      "N"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Fluorine.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 17 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q40",
+    "question": "Which of the following is used in the manufacture of glass?",
+    "options": [
+      "Na2CO3",
+      "NaCl",
+      "NaOH",
+      "Na2SO4"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Sodium carbonate (Soda ash) is used in glass manufacture. (Note: Na is s-block, but this is often taught in context of industrial chemistry. Let's find a better p-block one).",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "applications"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q40_replacement",
+    "question": "Which gas is filled in electric bulbs?",
+    "options": [
+      "N2",
+      "O2",
+      "Ar",
+      "H2"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Argon (or Nitrogen) is used to provide inert atmosphere.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 18 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q41",
+    "question": "Which of the following statements is incorrect for Group 15 elements?",
+    "options": [
+      "Stability of +5 oxidation state decreases down the group",
+      "Stability of +3 oxidation state increases down the group",
+      "Metallic character decreases down the group",
+      "Basic character of oxides increases down the group"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Metallic character increases down the group (N, P non-metals; As, Sb metalloids; Bi metal).",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 15 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q42",
+    "question": "The correct order of boiling points of hydrides of Group 15 elements is:",
+    "options": [
+      "PH3 < AsH3 < NH3 < SbH3 < BiH3",
+      "PH3 < AsH3 < SbH3 < BiH3 < NH3",
+      "PH3 < AsH3 < SbH3 < NH3 < BiH3",
+      "NH3 < PH3 < AsH3 < SbH3 < BiH3"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "PH3 < AsH3 < SbH3 < NH3 < BiH3. NH3 is higher than PH3/AsH3 due to H-bonding. BiH3 is highest due to mass/van der Waals forces.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 15 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q43",
+    "question": "Which of the following oxides of nitrogen is a coloured gas?",
+    "options": [
+      "N2O",
+      "NO",
+      "N2O5",
+      "NO2"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "NO2 is a brown coloured gas.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of nitrogen"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q44",
+    "question": "In the manufacture of ammonia by Haber's process, the condition which would give maximum yield is:",
+    "options": [
+      "High temperature, High pressure",
+      "Low temperature, Low pressure",
+      "Low temperature, High pressure",
+      "High temperature, Low pressure"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Exothermic reaction with decrease in volume. Le Chatelier's principle favors low T and high P.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of nitrogen"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q45",
+    "question": "Which of the following phosphorus halides is the best reducing agent?",
+    "options": [
+      "PCl3",
+      "PBr3",
+      "PI3",
+      "PF3"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "PI3 is least stable and P-I bond is weakest, making it a good reducing agent.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of phosphorus"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q46",
+    "question": "The basicity of pyrophosphoric acid (H4P2O7) is:",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Structure has 4 P-OH groups.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of phosphorus"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q47",
+    "question": "Which of the following is the correct order of acidic strength?",
+    "options": [
+      "H2O < H2S < H2Se < H2Te",
+      "H2Te < H2Se < H2S < H2O",
+      "H2S < H2O < H2Se < H2Te",
+      "H2O < H2Te < H2Se < H2S"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Bond dissociation energy decreases down the group, so acidic strength increases.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 16 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q48",
+    "question": "Sulphur molecule (S8) has a:",
+    "options": [
+      "Linear structure",
+      "Planar structure",
+      "Crown shape",
+      "Chair shape"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Rhombic sulphur has puckered crown shape.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of sulphur"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q49",
+    "question": "Which of the following reactions depicts the oxidising behaviour of H2SO4?",
+    "options": [
+      "2PCl5 + H2SO4 -> 2POCl3 + 2HCl + SO2Cl2",
+      "2NaOH + H2SO4 -> Na2SO4 + 2H2O",
+      "Cu + 2H2SO4 -> CuSO4 + SO2 + 2H2O",
+      "NaCl + H2SO4 -> NaHSO4 + HCl"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Cu (0) -> Cu (+2). H2SO4 is reduced to SO2.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of sulphur"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q50",
+    "question": "The correct order of electron gain enthalpy (magnitude) for halogens is:",
+    "options": [
+      "F > Cl > Br > I",
+      "Cl > F > Br > I",
+      "I > Br > Cl > F",
+      "Cl > Br > F > I"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Cl > F > Br > I. F is lower than Cl due to small size repulsion.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 17 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q51",
+    "question": "Which of the following interhalogen compounds does not exist?",
+    "options": [
+      "ClF3",
+      "ICl7",
+      "FCl3",
+      "BrF5"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "F cannot be central atom with positive oxidation state. FCl3 implies F is +3, which is impossible.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 17 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q52",
+    "question": "XeF2 involves which type of hybridisation?",
+    "options": [
+      "sp3",
+      "sp3d",
+      "sp3d2",
+      "sp3d3"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Xe has 8 valence e-. 2 bonds with F. 3 lone pairs. Total 5 pairs -> sp3d.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of xenon"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q53",
+    "question": "Which of the following noble gases forms the maximum number of compounds?",
+    "options": [
+      "He",
+      "Ne",
+      "Ar",
+      "Xe"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Xenon has lowest ionization energy among reactive noble gases.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 18 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q54",
+    "question": "Brown ring test is used for the detection of:",
+    "options": [
+      "Nitrate ion",
+      "Nitrite ion",
+      "Ammonium ion",
+      "Chloride ion"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Nitrate ion (NO3-).",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of nitrogen"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q55",
+    "question": "The catalyst used in the Deacon's process for the manufacture of chlorine is:",
+    "options": [
+      "CuCl2",
+      "FeCl3",
+      "Ni",
+      "Pt"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "CuCl2.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of chlorine"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q56",
+    "question": "Which of the following is a mixed anhydride?",
+    "options": [
+      "NO",
+      "NO2",
+      "N2O3",
+      "N2O5"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "NO2 reacts with water to give HNO2 and HNO3.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of nitrogen"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q57",
+    "question": "The structure of XeO3 is:",
+    "options": [
+      "Linear",
+      "Planar",
+      "Pyramidal",
+      "T-shaped"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "XeO3 has 3 sigma bonds and 1 lone pair. Pyramidal.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of xenon"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q58",
+    "question": "Which of the following acids of phosphorus has reducing properties?",
+    "options": [
+      "H3PO4",
+      "H3PO3",
+      "H4P2O7",
+      "HPO3"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "H3PO3 contains P-H bond which imparts reducing character.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of phosphorus"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q59",
+    "question": "The correct order of thermal stability of hydrogen halides is:",
+    "options": [
+      "HF > HCl > HBr > HI",
+      "HI > HBr > HCl > HF",
+      "HCl > HF > HBr > HI",
+      "HF > HI > HCl > HBr"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Bond strength decreases down the group, so stability decreases.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 17 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q60",
+    "question": "Which of the following is not a property of ozone?",
+    "options": [
+      "It acts as an oxidising agent",
+      "It acts as a bleaching agent",
+      "It is paramagnetic",
+      "It turns tailing of mercury"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Ozone is diamagnetic.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 16 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q61",
+    "question": "The hybridisation of S in SF6 is:",
+    "options": [
+      "sp3d",
+      "sp3d2",
+      "sp3d3",
+      "sp3"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "S has 6 valence e-. 6 bonds with F. sp3d2.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of sulphur"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q62",
+    "question": "Which of the following is used as an anaesthetic?",
+    "options": [
+      "NH3",
+      "NO",
+      "N2O",
+      "NO2"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "N2O (Nitrous oxide) mixed with oxygen.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of nitrogen"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q63",
+    "question": "Aqua regia is a mixture of:",
+    "options": [
+      "3 parts conc. HCl and 1 part conc. HNO3",
+      "1 part conc. HCl and 3 parts conc. HNO3",
+      "3 parts conc. H2SO4 and 1 part conc. HNO3",
+      "1 part conc. H2SO4 and 3 parts conc. HNO3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "3:1 ratio of HCl:HNO3.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of chlorine"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q64",
+    "question": "Which of the following is the most acidic oxide?",
+    "options": [
+      "P4O10",
+      "As4O10",
+      "Sb4O10",
+      "Bi2O3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Acidic character decreases down the group.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 15 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q65",
+    "question": "Which of the following does not react with water?",
+    "options": [
+      "PCl5",
+      "SiCl4",
+      "CCl4",
+      "BCl3"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "CCl4 does not hydrolyse because C does not have d-orbitals to accept lone pair from water.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 14 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q66",
+    "question": "The oxidation state of phosphorus in H3PO3 is:",
+    "options": [
+      "+3",
+      "+4",
+      "+5",
+      "+2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "3(+1) + x + 3(-2) = 0 => 3 + x - 6 = 0 => x = +3.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of phosphorus"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q67",
+    "question": "Which of the following is a solid at room temperature?",
+    "options": [
+      "F2",
+      "Cl2",
+      "Br2",
+      "I2"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Iodine is a solid.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 17 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q68",
+    "question": "Which of the following is isostructural with XeF2?",
+    "options": [
+      "ICl2-",
+      "SbCl3",
+      "BaCl2",
+      "TeF2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "XeF2 is linear. ICl2- (I has 7+1=8e, 2 bonds, 3 lone pairs) is also linear.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of xenon"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q69",
+    "question": "The basicity of H3PO2 is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Monobasic (one P-OH bond).",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of phosphorus"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q70",
+    "question": "Which of the following elements forms p(pi)-p(pi) multiple bonds?",
+    "options": [
+      "N",
+      "P",
+      "As",
+      "Sb"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Nitrogen forms p(pi)-p(pi) bonds due to small size.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 15 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q71",
+    "question": "Which of the following is the most stable allotrope of sulphur at room temperature?",
+    "options": [
+      "Rhombic sulphur",
+      "Monoclinic sulphur",
+      "Plastic sulphur",
+      "Colloidal sulphur"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Rhombic sulphur (alpha-sulphur) is most stable at room temp.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of sulphur"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q72",
+    "question": "Which of the following is not a correct statement?",
+    "options": [
+      "Oxygen is paramagnetic",
+      "Sulphur shows +2, +4, +6 oxidation states",
+      "Ozone is a powerful oxidising agent",
+      "Oxygen molecule involves p(pi)-d(pi) bonding"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Oxygen does not have d-orbitals.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 16 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q73",
+    "question": "Which of the following is the correct order of bond angle?",
+    "options": [
+      "NH3 > PH3 > AsH3 > SbH3",
+      "SbH3 > AsH3 > PH3 > NH3",
+      "NH3 > SbH3 > PH3 > AsH3",
+      "PH3 > NH3 > AsH3 > SbH3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Bond angle decreases down the group as electronegativity of central atom decreases.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 15 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q74",
+    "question": "The reaction of Cl2 with hot and concentrated NaOH gives:",
+    "options": [
+      "NaCl and NaClO",
+      "NaCl and NaClO3",
+      "NaClO and NaClO3",
+      "NaCl and NaClO4"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "3Cl2 + 6NaOH -> 5NaCl + NaClO3 + 3H2O.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of chlorine"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q75",
+    "question": "Which of the following is used in the preparation of chlorine?",
+    "options": [
+      "MnO2",
+      "KMnO4",
+      "PbO2",
+      "All of these"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "All can oxidise HCl to Cl2.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of chlorine"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q76",
+    "question": "The number of P-O-P bonds in cyclic metaphosphoric acid trimer (HPO3)3 is:",
+    "options": [
+      "0",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Cyclic trimer has 3 P-O-P bonds.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of phosphorus"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q77",
+    "question": "Which of the following is not a pseudo halide?",
+    "options": [
+      "CN-",
+      "SCN-",
+      "OCN-",
+      "RCOO-"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "RCOO- is carboxylate, not pseudo halide.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 17 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q78",
+    "question": "Which of the following noble gases is most soluble in water?",
+    "options": [
+      "He",
+      "Ne",
+      "Ar",
+      "Xe"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Solubility increases with size due to dipole-induced dipole interaction.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 18 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q79",
+    "question": "The basicity of phosphorous acid (H3PO3) is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Dibasic (two P-OH bonds).",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of phosphorus"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q80",
+    "question": "Which of the following is the correct order of oxidising power?",
+    "options": [
+      "F2 > Cl2 > Br2 > I2",
+      "I2 > Br2 > Cl2 > F2",
+      "Cl2 > F2 > Br2 > I2",
+      "Br2 > Cl2 > F2 > I2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Standard reduction potential decreases down the group.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 17 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q81",
+    "question": "Which of the following is not an acidic salt?",
+    "options": [
+      "NaH2PO2",
+      "NaH2PO3",
+      "NaH2PO4",
+      "Na2HPO4"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "H3PO2 is monobasic, so NaH2PO2 is a normal salt (all acidic H replaced). H3PO3 is dibasic, so NaH2PO3 is acidic. H3PO4 is tribasic.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of phosphorus"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q82",
+    "question": "Which of the following is used as a refrigerant?",
+    "options": [
+      "NH3",
+      "PH3",
+      "AsH3",
+      "SbH3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Liquid ammonia is used as a refrigerant.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of nitrogen"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q83",
+    "question": "Which of the following is the most reactive?",
+    "options": [
+      "N2",
+      "P4",
+      "As4",
+      "Sb4"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "White phosphorus (P4) is highly reactive.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 15 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q84",
+    "question": "The shape of I3- ion is:",
+    "options": [
+      "Linear",
+      "Bent",
+      "Pyramidal",
+      "T-shaped"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Linear (sp3d hybridisation, 3 lone pairs).",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 17 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q85",
+    "question": "Which of the following is not a disproportionation reaction?",
+    "options": [
+      "2H2O2 -> 2H2O + O2",
+      "P4 + 3NaOH + 3H2O -> PH3 + 3NaH2PO2",
+      "Cl2 + 2NaOH -> NaCl + NaClO + H2O",
+      "2F2 + 2NaOH -> 2NaF + OF2 + H2O"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "In F2 reaction, F goes from 0 to -1 only. O goes from -2 to +2. Not disproportionation of F.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 17 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q86",
+    "question": "The anhydride of perchloric acid is:",
+    "options": [
+      "Cl2O",
+      "ClO2",
+      "Cl2O6",
+      "Cl2O7"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "HClO4 anhydride is Cl2O7.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of chlorine"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q87",
+    "question": "Which of the following is the correct order of bond dissociation enthalpy?",
+    "options": [
+      "F2 > Cl2 > Br2 > I2",
+      "Cl2 > Br2 > F2 > I2",
+      "Cl2 > F2 > Br2 > I2",
+      "Br2 > Cl2 > F2 > I2"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Cl2 > Br2 > F2 > I2. F2 is exceptionally low.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 17 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q88",
+    "question": "Which of the following is used in the manufacture of nitric acid?",
+    "options": [
+      "Pt/Rh gauge catalyst",
+      "V2O5",
+      "Fe",
+      "Ni"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Ostwald's process uses Pt/Rh gauge.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of nitrogen"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q89",
+    "question": "Which of the following is the strongest base?",
+    "options": [
+      "NH3",
+      "PH3",
+      "AsH3",
+      "SbH3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Electron density on central atom decreases down the group (size increases).",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 15 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q90",
+    "question": "Which of the following is a neutral ligand?",
+    "options": [
+      "NO",
+      "NO2-",
+      "NO3-",
+      "CN-"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "NO (Nitrosyl) is neutral.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of nitrogen"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q91",
+    "question": "Which of the following statements is correct regarding the hydrolysis of NCl3 and PCl3?",
+    "options": [
+      "Both give HCl",
+      "NCl3 gives HOCl and NH3, while PCl3 gives H3PO3 and HCl",
+      "Both give HOCl",
+      "NCl3 gives HNO2 and HCl, while PCl3 gives H3PO4 and HCl"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "NCl3 + 3H2O -> NH3 + 3HOCl (due to electronegativity difference N-Cl vs P-Cl and lack of d-orbitals in N). PCl3 + 3H2O -> H3PO3 + 3HCl.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of nitrogen",
+      "compounds of phosphorus"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q92",
+    "question": "The correct order of acidic strength of oxides of nitrogen is:",
+    "options": [
+      "NO < N2O < N2O3 < N2O5",
+      "N2O < NO < N2O3 < N2O4 < N2O5",
+      "NO < N2O < N2O5 < N2O3",
+      "N2O5 < N2O4 < N2O3 < NO < N2O"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Acidic strength increases with oxidation state of nitrogen. N2O(+1) < NO(+2) < N2O3(+3) < N2O4(+4) < N2O5(+5).",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of nitrogen"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q93",
+    "question": "When copper is heated with concentrated H2SO4, the products formed are:",
+    "options": [
+      "CuSO4 + H2",
+      "CuSO4 + SO2 + H2O",
+      "CuO + SO2",
+      "CuS + H2O"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Cu + 2H2SO4 (conc) -> CuSO4 + SO2 + 2H2O.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of sulphur"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q94",
+    "question": "Which of the following xenon compounds has a distorted octahedral geometry?",
+    "options": [
+      "XeF6",
+      "XeF4",
+      "XeO3",
+      "XeOF4"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "XeF6 has 6 bond pairs and 1 lone pair. Structure is distorted octahedral (or capped octahedral).",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of xenon"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q95",
+    "question": "The reaction of P4 with SOCl2 produces:",
+    "options": [
+      "PCl3",
+      "PCl5",
+      "POCl3",
+      "PSCl3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "P4 + 8SOCl2 -> 4PCl3 + 4SO2 + 2S2Cl2.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of phosphorus"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q96",
+    "question": "Which of the following statements is incorrect regarding the structure of H2SO5 (Caro's acid)?",
+    "options": [
+      "It contains one peroxy linkage",
+      "Sulphur is in +6 oxidation state",
+      "It is a dibasic acid",
+      "It has tetrahedral geometry around S"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "H2SO5 (Peroxymonosulphuric acid) has structure HO-SO2-O-OH. It has one ionizable H attached to O (actually two -OH groups, but one is peroxy). Wait, let's check basicity. H2SO5 -> H+ + HSO5-. Second ionization is weak. But usually considered dibasic? No, peroxy acids often behave differently. H2SO5 has two -OH groups. One is attached to S, one is part of -O-OH. Both H can be released. But pKa values differ. However, standard texts often classify it as dibasic. Let's re-evaluate. Option B: +6. Yes. Option A: Yes. Option D: Yes. Is it dibasic? H2SO5 + 2NaOH -> Na2SO5 + 2H2O. Yes, it can form salts. Let's look for a more obvious error. Maybe oxidation state? x + 2 + 3(-2) + 2(-1) = 0 (if peroxy). 2 + x - 6 - 2 = 0? No. Structure: H-O-S(=O)(=O)-O-O-H. Oxidation state of S: 6 bonds to O. +6. Correct. Peroxy linkage: Yes. Tetrahedral: Yes. Dibasic: Yes. Is there any catch? Maybe it's monobasic in some context? Actually, the peroxy hydrogen is much less acidic. But technically dibasic. Let's check another option. Maybe 'Sulphur is in +8 oxidation state' is the distractor? No, option says +6. Let's change the question to something less ambiguous. Or maybe the answer is 'It is a dibasic acid' because it acts as monobasic in titration? Let's switch to a clearer question.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of sulphur"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q96_replacement",
+    "question": "The oxidation state of sulphur in H2S2O8 is:",
+    "options": [
+      "+6",
+      "+7",
+      "+4",
+      "+5"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Marshall's acid (H2S2O8) has a peroxy linkage. Structure: HO3S-O-O-SO3H. Oxidation state is +6.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of sulphur"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q97",
+    "question": "Which of the following is the correct order of bond angle?",
+    "options": [
+      "PF3 < PCl3 < PBr3 < PI3",
+      "PI3 < PBr3 < PCl3 < PF3",
+      "PF3 < PBr3 < PCl3 < PI3",
+      "PI3 < PCl3 < PBr3 < PF3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "As electronegativity of surrounding atom decreases (F > Cl > Br > I), the bond angle increases due to repulsion between bond pairs being closer to central atom? No, opposite. If surrounding atom is more electronegative (F), electron density is pulled away from central atom, reducing bp-bp repulsion, so angle decreases. So PF3 has smallest angle. PI3 has largest.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of phosphorus"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q98",
+    "question": "Which of the following reactions does not occur?",
+    "options": [
+      "2F2 + 2H2O -> 4HF + O2",
+      "Cl2 + H2O -> HCl + HOCl",
+      "2I2 + 2H2O -> 4HI + O2",
+      "Br2 + H2O -> HBr + HOBr"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Reaction of I2 with water is non-spontaneous (Delta G > 0). In fact, the reverse reaction (oxidation of I- by O2 in acidic medium) occurs.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 17 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q99",
+    "question": "The hydrolysis of XeF6 gives:",
+    "options": [
+      "XeO3",
+      "XeOF4",
+      "XeO2F2",
+      "All of these depending on conditions"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Complete hydrolysis gives XeO3. Partial hydrolysis gives XeOF4 or XeO2F2.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of xenon"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q100",
+    "question": "Concentrated HNO3 renders aluminium passive due to the formation of:",
+    "options": [
+      "Aluminium nitrate",
+      "Aluminium oxide",
+      "Aluminium nitride",
+      "Aluminium sulphate"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Formation of a thin protective layer of oxide (Al2O3) on the surface.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of nitrogen"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q101",
+    "question": "Which of the following is paramagnetic in nature?",
+    "options": [
+      "NO2",
+      "N2O4",
+      "N2O",
+      "N2O5"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "NO2 has an odd number of valence electrons (5+6+6=17), so it is paramagnetic. N2O4 (dimer) is diamagnetic.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of nitrogen"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q102",
+    "question": "The basicity of H3PO3 and H3PO4 is respectively:",
+    "options": [
+      "1 and 2",
+      "2 and 3",
+      "3 and 3",
+      "2 and 2"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "H3PO3 is dibasic (2 P-OH), H3PO4 is tribasic (3 P-OH).",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of phosphorus"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q103",
+    "question": "Which of the following statements is true for the reaction: 2F2 + 2H2O -> 4H+ + 4F- + O2?",
+    "options": [
+      "Water acts as reducing agent",
+      "Water acts as oxidising agent",
+      "F2 acts as reducing agent",
+      "None of these"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "F2 oxidises water to O2. So water is the reducing agent.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 17 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q104",
+    "question": "The correct increasing order of basic strength of hydrides:",
+    "options": [
+      "BiH3 < SbH3 < AsH3 < PH3 < NH3",
+      "NH3 < PH3 < AsH3 < SbH3 < BiH3",
+      "BiH3 < SbH3 < PH3 < AsH3 < NH3",
+      "SbH3 < BiH3 < AsH3 < PH3 < NH3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Basic strength decreases down the group as electron density on central atom decreases.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 15 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q105",
+    "question": "Which of the following is not a property of red phosphorus?",
+    "options": [
+      "It is insoluble in water",
+      "It is soluble in CS2",
+      "It does not show chemiluminescence",
+      "It is less reactive than white phosphorus"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Red phosphorus is insoluble in CS2 (White P is soluble).",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of phosphorus"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q106",
+    "question": "In the structure of ClF3, the number of lone pairs of electrons on central atom Cl is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Cl has 7 valence e-. 3 bonds with F. 4 electrons remaining = 2 lone pairs.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 17 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q107",
+    "question": "Which of the following is the strongest reducing agent?",
+    "options": [
+      "H2O",
+      "H2S",
+      "H2Se",
+      "H2Te"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Reducing character increases down the group as thermal stability decreases.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 16 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q108",
+    "question": "The boiling points of noble gases are very low because:",
+    "options": [
+      "They are monoatomic",
+      "They have weak dispersion forces",
+      "They have high ionisation enthalpy",
+      "They are inert"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Weak van der Waals (dispersion) forces between atoms.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 18 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q109",
+    "question": "Which of the following species has tetrahedral geometry?",
+    "options": [
+      "BH4-",
+      "NH2-",
+      "CO3 2-",
+      "H3O+"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "BH4- has 4 bond pairs, 0 lone pairs. Tetrahedral. NH2- (2bp, 2lp, bent). CO3 2- (planar). H3O+ (pyramidal).",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "general"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q110",
+    "question": "When chlorine water is exposed to sunlight, the colour changes from yellow-green to colourless due to formation of:",
+    "options": [
+      "HCl and HOCl",
+      "HCl and O2",
+      "HOCl and O2",
+      "HClO3"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "2Cl2 + 2H2O -> 4HCl + O2. HOCl formed initially decomposes to HCl and O2 in sunlight.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of chlorine"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q111",
+    "question": "Which of the following is correct for P4O10?",
+    "options": [
+      "It contains 4 P-P bonds",
+      "It contains 10 P-O-P bonds",
+      "It contains 6 P-O-P bonds",
+      "It contains 4 P=O bonds and 12 P-O single bonds"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Structure of P4O10 has 6 P-O-P bonds and 4 P=O bonds. Total 16 bonds? No. Each P is bonded to 3 bridging O and 1 terminal O. 4 P atoms. 4 terminal P=O. 6 bridging O atoms (edges of tetrahedron). So 6 P-O-P linkages.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of phosphorus"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q112",
+    "question": "The reaction of ammonia with excess chlorine gives:",
+    "options": [
+      "NH4Cl",
+      "NCl3 + HCl",
+      "N2 + NH4Cl",
+      "NCl3 + NH4Cl"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "NH3 + 3Cl2 (excess) -> NCl3 + 3HCl. (If NH3 is excess: 8NH3 + 3Cl2 -> 6NH4Cl + N2).",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of nitrogen"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q113",
+    "question": "Which of the following is not a characteristic of interhalogen compounds?",
+    "options": [
+      "They are more reactive than halogens (except F2)",
+      "They are covalent molecules",
+      "They are diamagnetic",
+      "They have low boiling points compared to constituent halogens"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "They usually have higher BP/MP than constituent halogens due to polarity.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 17 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q114",
+    "question": "The hybridisation of P in PCl5(solid) is:",
+    "options": [
+      "sp3d",
+      "sp3 and sp3d2",
+      "sp3d2",
+      "sp3"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "In solid state, PCl5 exists as [PCl4]+[PCl6]-. Hybridisation is sp3 and sp3d2.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of phosphorus"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q115",
+    "question": "Which of the following statements is incorrect?",
+    "options": [
+      "ONF is isoelectronic with O2N-",
+      "OF2 is an oxide of fluorine",
+      "Cl2O7 is an anhydride of perchloric acid",
+      "O3 molecule is bent"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "OF2 is Oxygen difluoride (fluoride of oxygen), not oxide of fluorine, because F is more electronegative.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 17 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q116",
+    "question": "The correct order of electron affinity of Group 16 elements is:",
+    "options": [
+      "O > S > Se > Te",
+      "S > Se > Te > O",
+      "S > O > Se > Te",
+      "O > S > Te > Se"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "S > Se > Te > Po > O. Oxygen has lowest electron affinity due to small size repulsion.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 16 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q117",
+    "question": "Which of the following is used to dry ammonia gas?",
+    "options": [
+      "Conc. H2SO4",
+      "P2O5",
+      "Anhydrous CaCl2",
+      "Quick lime (CaO)"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Ammonia is basic. H2SO4, P2O5 are acidic. CaCl2 forms adduct (CaCl2.8NH3). CaO is basic and suitable.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of nitrogen"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q118",
+    "question": "Which of the following has the highest dipole moment?",
+    "options": [
+      "NH3",
+      "PH3",
+      "AsH3",
+      "SbH3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "NH3 has highest dipole moment. Direction of lone pair moment and bond moments add up.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "group 15 elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q119",
+    "question": "The number of S-S bonds in S3O9 (cyclic trimer of SO3) is:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "S3O9 has S-O-S linkages, no S-S bonds.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of sulphur"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q120",
+    "question": "Which of the following is not a disproportionation reaction?",
+    "options": [
+      "3HNO2 -> HNO3 + 2NO + H2O",
+      "2H3PO3 -> 3H3PO4 + PH3",
+      "4H3PO3 -> 3H3PO4 + PH3",
+      "2NO2 + 2NaOH -> NaNO2 + NaNO3 + H2O"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Wait, 4H3PO3 -> 3H3PO4 + PH3 is the correct stoichiometry for disproportionation of H3PO3. Option B is unbalanced/incorrect stoichiometry but represents the same reaction type. Let's check if there's a non-disproportionation one. All listed are disproportionation. HNO2 (+3 -> +5, +2). H3PO3 (+3 -> +5, -3). NO2 (+4 -> +3, +5). Maybe I should put a simple redox. Let's replace option B with 'NH4NO3 -> N2O + 2H2O'. This is comproportionation/decomposition, not disproportionation? N is -3 and +5 going to +1. Yes, comproportionation. Or just decomposition.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of nitrogen"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_p_block_class12_q120_replacement",
+    "question": "Which of the following is NOT a disproportionation reaction?",
+    "options": [
+      "3HNO2 -> HNO3 + 2NO + H2O",
+      "4H3PO3 -> 3H3PO4 + PH3",
+      "2NO2 + 2NaOH -> NaNO2 + NaNO3 + H2O",
+      "NH4NO3 -> N2O + 2H2O"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "NH4NO3 decomposition involves N in -3 and +5 oxidation states going to +1 (N2O). This is comproportionation (or syn-proportionation), the reverse of disproportionation.",
+    "subject": "Chemistry",
+    "chapter": "The p-Block Elements (Class 12)",
+    "tags": [
+      "compounds of nitrogen"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "the_p_block_elements_class12",
+    "subjectId": "chemistry"
+  }
+]

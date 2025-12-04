@@ -1,0 +1,2642 @@
+[
+  {
+    "id": "chemistry_chemical_kinetics_q1",
+    "question": "The rate of a chemical reaction tells us about:",
+    "options": [
+      "The reactants taking part in the reaction",
+      "The products formed in the reaction",
+      "How slow or fast the reaction is taking place",
+      "None of the above"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Rate of reaction is the speed at which reactants are converted into products.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "rate of reaction"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q2",
+    "question": "The unit of rate of reaction is:",
+    "options": [
+      "mol L-1 s-1",
+      "mol L s-1",
+      "mol-1 L s-1",
+      "s-1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Rate is change in concentration (mol L-1) per unit time (s).",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "units"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q3",
+    "question": "For a zero order reaction, the unit of rate constant is:",
+    "options": [
+      "s-1",
+      "mol L-1 s-1",
+      "L mol-1 s-1",
+      "L2 mol-2 s-1"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "For zero order, rate = k. So unit of k is same as rate.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "units"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q4",
+    "question": "The molecularity of a reaction cannot be:",
+    "options": [
+      "Zero",
+      "Fractional",
+      "Integer",
+      "Both Zero and Fractional"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Molecularity is the number of colliding species, which must be a positive integer.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "molecularity"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q5",
+    "question": "The half-life period of a first order reaction is given by:",
+    "options": [
+      "0.693/k",
+      "k/0.693",
+      "2.303/k",
+      "0.693k"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "t1/2 = ln(2)/k = 0.693/k.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "half-life"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q6",
+    "question": "A catalyst increases the rate of reaction by:",
+    "options": [
+      "Increasing activation energy",
+      "Decreasing activation energy",
+      "Decreasing enthalpy change",
+      "Increasing internal energy"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Catalysts provide an alternative pathway with lower activation energy.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "catalyst"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q7",
+    "question": "The order of a reaction can be:",
+    "options": [
+      "Zero",
+      "Fractional",
+      "Integer",
+      "All of these"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Order is an experimental quantity and can be zero, integer, or fractional.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "order of reaction"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q8",
+    "question": "For a first order reaction, the unit of rate constant is:",
+    "options": [
+      "mol L-1 s-1",
+      "s-1",
+      "L mol-1 s-1",
+      "mol-1 L s-1"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Rate = k[A]. Unit of k = Rate/[A] = (mol L-1 s-1) / (mol L-1) = s-1.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "units"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q9",
+    "question": "The rate constant of a reaction depends on:",
+    "options": [
+      "Temperature",
+      "Initial concentration",
+      "Time",
+      "Extent of reaction"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Rate constant k depends on temperature (Arrhenius equation).",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "rate constant"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q10",
+    "question": "In the Arrhenius equation k = A e^(-Ea/RT), A is called:",
+    "options": [
+      "Rate constant",
+      "Activation energy",
+      "Frequency factor",
+      "Gas constant"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "A is the frequency factor or pre-exponential factor.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "arrhenius equation"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q11",
+    "question": "The minimum energy required for molecules to react is called:",
+    "options": [
+      "Potential energy",
+      "Kinetic energy",
+      "Activation energy",
+      "Threshold energy"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Threshold energy is the minimum total energy molecules must possess to react. Activation energy is the EXTRA energy required.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "activation energy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q12",
+    "question": "For a reaction A -> B, the rate of reaction increases two times on increasing the concentration of A four times. The order of reaction is:",
+    "options": [
+      "0",
+      "0.5",
+      "1",
+      "2"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Rate = k[A]^n. 2 = 4^n. 2^1 = (2^2)^n = 2^2n. 2n=1 => n=0.5.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "order of reaction"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q13",
+    "question": "Radioactive decay follows which order kinetics?",
+    "options": [
+      "Zero order",
+      "First order",
+      "Second order",
+      "Third order"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "All natural radioactive decay processes follow first order kinetics.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "order of reaction"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q14",
+    "question": "The plot of ln k vs 1/T is a straight line with slope equal to:",
+    "options": [
+      "-Ea/R",
+      "Ea/R",
+      "Ea",
+      "-Ea"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "ln k = ln A - Ea/RT. Slope = -Ea/R.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "arrhenius equation"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q15",
+    "question": "Which of the following statements is correct about the order of a reaction?",
+    "options": [
+      "It is always a whole number",
+      "It can be determined from the balanced chemical equation",
+      "It is an experimentally determined quantity",
+      "It is equal to the molecularity of the reaction"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Order is determined experimentally.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "order of reaction"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q16",
+    "question": "The half-life of a zero order reaction is proportional to:",
+    "options": [
+      "Initial concentration",
+      "Square of initial concentration",
+      "Independent of initial concentration",
+      "Inverse of initial concentration"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "t1/2 = [A]0 / 2k.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "half-life"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q17",
+    "question": "In a chemical reaction, the activation energy is the energy difference between:",
+    "options": [
+      "Reactants and products",
+      "Reactants and activated complex",
+      "Products and activated complex",
+      "Reactants and threshold energy"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Activation energy = Energy of activated complex - Energy of reactants.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "activation energy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q18",
+    "question": "For the reaction 2A + B -> 3C, the rate of appearance of C is related to rate of disappearance of A as:",
+    "options": [
+      "d[C]/dt = d[A]/dt",
+      "d[C]/dt = -3/2 d[A]/dt",
+      "d[C]/dt = -2/3 d[A]/dt",
+      "d[C]/dt = 2/3 d[A]/dt"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Rate = -1/2 d[A]/dt = 1/3 d[C]/dt. So d[C]/dt = -3/2 d[A]/dt.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "rate of reaction"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q19",
+    "question": "The temperature coefficient of a reaction is the ratio of rate constants at temperatures differing by:",
+    "options": [
+      "1 C",
+      "10 C",
+      "100 C",
+      "0 C"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Temperature coefficient = k(T+10) / k(T).",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "rate constant"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q20",
+    "question": "Which of the following factors affects the rate of a reaction?",
+    "options": [
+      "Concentration of reactants",
+      "Temperature",
+      "Presence of catalyst",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Rate depends on concentration, temperature, catalyst, surface area, etc.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "factors affecting rate"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q21",
+    "question": "The rate constant for a first order reaction is 60 s-1. How much time will it take to reduce the initial concentration of the reactant to its 1/16th value?",
+    "options": [
+      "4.6 x 10^-2 s",
+      "4.6 x 10^2 s",
+      "2.3 x 10^-2 s",
+      "2.3 x 10^2 s"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "1/16 = (1/2)^4. So 4 half lives. t1/2 = 0.693/60 = 0.01155 s. Total time = 4 * 0.01155 = 0.0462 s.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "calculations"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q22",
+    "question": "A reaction is second order with respect to a reactant. How is the rate of reaction affected if the concentration of the reactant is doubled?",
+    "options": [
+      "Doubled",
+      "Halved",
+      "Quadrupled",
+      "Remains same"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Rate = k[A]^2. If [A] -> 2[A], Rate -> k(2A)^2 = 4k[A]^2 = 4 times.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "order of reaction"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q23",
+    "question": "The unit of rate constant for a second order reaction is:",
+    "options": [
+      "s-1",
+      "mol L-1 s-1",
+      "L mol-1 s-1",
+      "L2 mol-2 s-1"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Rate = k[A]^2. Unit k = Rate/[A]^2 = (mol/L s) / (mol/L)^2 = L mol-1 s-1.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "units"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q24",
+    "question": "For an elementary reaction 2A + B -> Products, the molecularity is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "0"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Molecularity is sum of stoichiometric coefficients in elementary step: 2+1=3.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "molecularity"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q25",
+    "question": "The rate of a reaction generally doubles for every:",
+    "options": [
+      "10 C rise in temperature",
+      "1 C rise in temperature",
+      "100 C rise in temperature",
+      "5 C rise in temperature"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Rule of thumb: Rate doubles for every 10 degree rise.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "temperature dependence"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q26",
+    "question": "Which of the following is a pseudo first order reaction?",
+    "options": [
+      "Hydrolysis of ethyl acetate in acidic medium",
+      "Decomposition of HI",
+      "Decomposition of N2O5",
+      "Inversion of cane sugar"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Acid hydrolysis of ester involves water in excess, so it behaves as first order.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "order of reaction"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q27",
+    "question": "The activation energy of a reaction can be determined from the slope of which plot?",
+    "options": [
+      "ln k vs T",
+      "ln k vs 1/T",
+      "k vs T",
+      "k vs 1/T"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Arrhenius plot: ln k vs 1/T.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "arrhenius equation"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q28",
+    "question": "In a zero order reaction, the rate is independent of:",
+    "options": [
+      "Temperature",
+      "Concentration of reactants",
+      "Concentration of products",
+      "None of these"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Rate = k[A]^0 = k. Independent of concentration.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "order of reaction"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q29",
+    "question": "The role of a catalyst is to change:",
+    "options": [
+      "Gibbs energy of reaction",
+      "Enthalpy of reaction",
+      "Activation energy of reaction",
+      "Equilibrium constant"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Catalyst lowers activation energy.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "catalyst"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q30",
+    "question": "For a reaction A + B -> Products, if rate = k[A][B]^2, the order of reaction is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "0"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Order = sum of powers = 1 + 2 = 3.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "order of reaction"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q31",
+    "question": "The time required for 99.9% completion of a first order reaction is about:",
+    "options": [
+      "10 times t1/2",
+      "100 times t1/2",
+      "50 times t1/2",
+      "Infinite"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "t99.9 = 10 * t1/2 (approx).",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "calculations"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q32",
+    "question": "Which of the following is true for a zero order reaction?",
+    "options": [
+      "t1/2 is proportional to initial concentration",
+      "t1/2 is independent of initial concentration",
+      "t1/2 is inversely proportional to initial concentration",
+      "t1/2 is proportional to square of initial concentration"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "t1/2 = [A]0 / 2k.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "half-life"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q33",
+    "question": "The collision theory is applicable to:",
+    "options": [
+      "First order reactions",
+      "Zero order reactions",
+      "Bimolecular reactions",
+      "Intramolecular reactions"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Collision theory is based on collisions between two molecules (bimolecular).",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "collision theory"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q34",
+    "question": "Photochemical reactions are generally:",
+    "options": [
+      "Zero order",
+      "First order",
+      "Second order",
+      "Third order"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Rate depends on intensity of light, not concentration, so often zero order.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "order of reaction"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q35",
+    "question": "The rate of a reaction decreases with time because:",
+    "options": [
+      "Concentration of reactants decreases",
+      "Concentration of products increases",
+      "Temperature decreases",
+      "Catalyst gets exhausted"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Rate depends on reactant concentration, which decreases as reaction proceeds.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "rate of reaction"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q36",
+    "question": "For a reaction to occur, the colliding molecules must have energy greater than:",
+    "options": [
+      "Potential energy",
+      "Kinetic energy",
+      "Threshold energy",
+      "Internal energy"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Molecules must possess threshold energy for effective collision.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "collision theory"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q37",
+    "question": "The rate law for the reaction A + 2B -> C is found to be Rate = k[A][B]. The order of reaction is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "0"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Order = 1 + 1 = 2.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "order of reaction"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q38",
+    "question": "Which of the following graphs represents a zero order reaction?",
+    "options": [
+      "[R] vs t is a straight line with negative slope",
+      "ln[R] vs t is a straight line with negative slope",
+      "1/[R] vs t is a straight line with positive slope",
+      "Rate vs t is a straight line with positive slope"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "[R] = -kt + [R]0. Plot of [R] vs t is linear with slope -k.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "graphs"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q39",
+    "question": "The integrated rate equation for first order reaction is:",
+    "options": [
+      "k = (2.303/t) log([R]0/[R])",
+      "k = (1/t) ([R]0 - [R])",
+      "k = (1/t) (1/[R] - 1/[R]0)",
+      "k = [R]0 / 2t"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Standard integrated rate law for first order.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "rate laws"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q40",
+    "question": "A reaction A -> B is first order with respect to A. If the concentration of A is doubled, the half-life of the reaction will:",
+    "options": [
+      "Double",
+      "Halve",
+      "Remain same",
+      "Quadruple"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Half-life of first order reaction is independent of initial concentration.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "half-life"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q41",
+    "question": "For a first order reaction, the time required for 99% completion is:",
+    "options": [
+      "2 times t1/2",
+      "4 times t1/2",
+      "6.66 times t1/2",
+      "10 times t1/2"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "t99% = (2.303/k) log(100/1) = (2.303/k) * 2. t1/2 = 0.693/k. Ratio = (4.606/k) / (0.693/k) = 6.65 approx 6.66.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "calculations"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q42",
+    "question": "The rate constant of a reaction is 2.0 x 10^-5 s-1. The order of the reaction is:",
+    "options": [
+      "Zero",
+      "First",
+      "Second",
+      "Third"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Unit s-1 corresponds to first order reaction.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "order of reaction"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q43",
+    "question": "For a reaction A + B -> Products, doubling the concentration of A doubles the rate, but doubling the concentration of B has no effect on the rate. The rate law is:",
+    "options": [
+      "Rate = k[A][B]",
+      "Rate = k[A]^2",
+      "Rate = k[A]",
+      "Rate = k[A][B]^2"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Order wrt A is 1, order wrt B is 0. Rate = k[A]^1[B]^0 = k[A].",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "rate laws"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q44",
+    "question": "The activation energy for a reaction is 50 kJ/mol. The presence of a catalyst lowers the activation energy by 25%. What is the activation energy of the catalyzed reaction?",
+    "options": [
+      "37.5 kJ/mol",
+      "12.5 kJ/mol",
+      "62.5 kJ/mol",
+      "25 kJ/mol"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "New Ea = 50 - (0.25 * 50) = 50 - 12.5 = 37.5 kJ/mol.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "activation energy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q45",
+    "question": "A first order reaction is 50% complete in 1.26 x 10^14 s. How much time will it take for 100% completion?",
+    "options": [
+      "1.26 x 10^15 s",
+      "2.52 x 10^14 s",
+      "2.52 x 10^28 s",
+      "Infinite"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "First order reactions theoretically take infinite time for 100% completion.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "half-life"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q46",
+    "question": "The rate constant of a reaction at 500 K and 700 K are 0.02 s-1 and 0.07 s-1 respectively. Calculate the value of Ea.",
+    "options": [
+      "18.23 kJ/mol",
+      "28.23 kJ/mol",
+      "10.23 kJ/mol",
+      "38.23 kJ/mol"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "log(k2/k1) = Ea/2.303R (1/T1 - 1/T2). log(3.5) = Ea/19.15 (1/500 - 1/700). 0.544 = Ea/19.15 (0.002 - 0.00143). 0.544 = Ea/19.15 * 0.00057. Ea = 0.544 * 19.15 / 0.00057 = 18277 J/mol = 18.28 kJ/mol.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "calculations"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q47",
+    "question": "For the reaction 2N2O5 -> 4NO2 + O2, the rate of reaction can be expressed as:",
+    "options": [
+      "-d[N2O5]/dt",
+      "-1/2 d[N2O5]/dt",
+      "d[N2O5]/dt",
+      "1/2 d[N2O5]/dt"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Rate = -1/2 d[N2O5]/dt = 1/4 d[NO2]/dt = d[O2]/dt.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "rate of reaction"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q48",
+    "question": "If the concentration of reactant is increased by 'x' times, the rate constant 'k' becomes:",
+    "options": [
+      "x times",
+      "x^n times",
+      "1/x times",
+      "Remains same"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Rate constant is independent of concentration.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "rate constant"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q49",
+    "question": "The decomposition of NH3 on platinum surface is zero order reaction. If k = 2.5 x 10^-4 mol L-1 s-1, the rate of production of H2 is:",
+    "options": [
+      "2.5 x 10^-4 mol L-1 s-1",
+      "5.0 x 10^-4 mol L-1 s-1",
+      "7.5 x 10^-4 mol L-1 s-1",
+      "1.25 x 10^-4 mol L-1 s-1"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "2NH3 -> N2 + 3H2. Rate = k = 1/3 d[H2]/dt. d[H2]/dt = 3k = 3 * 2.5 x 10^-4 = 7.5 x 10^-4.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "calculations"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q50",
+    "question": "For a reaction X -> Y, the rate of reaction becomes twenty seven times when the concentration of X is increased three times. What is the order of the reaction?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "0"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "27 = 3^n. 3^3 = 3^n. n=3.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "order of reaction"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q51",
+    "question": "The half-life of a substance in a first order reaction is 15 minutes. The rate constant is:",
+    "options": [
+      "4.62 x 10^-2 min-1",
+      "3.46 x 10^-2 min-1",
+      "2.31 x 10^-2 min-1",
+      "0.046 min-1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "k = 0.693/15 = 0.0462 min-1.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "calculations"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q52",
+    "question": "Which of the following statements is incorrect about molecularity?",
+    "options": [
+      "It is a theoretical concept",
+      "It can be zero or fractional",
+      "It is applicable only to elementary reactions",
+      "It cannot be greater than 3"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Molecularity cannot be zero or fractional. It must be a positive integer.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "molecularity"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q53",
+    "question": "For a reaction A + B -> C, the rate law is Rate = k[A]^1/2[B]^2. What is the order of the reaction?",
+    "options": [
+      "2.5",
+      "1.5",
+      "2",
+      "0.5"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Order = 0.5 + 2 = 2.5.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "order of reaction"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q54",
+    "question": "The rate of a gaseous reaction is given by k[A][B]. If the volume of the reaction vessel is reduced to 1/4th of the initial volume, the rate of reaction will become:",
+    "options": [
+      "4 times",
+      "8 times",
+      "16 times",
+      "1/16 times"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Volume 1/4 -> Concentration 4 times. Rate' = k(4A)(4B) = 16k[A][B] = 16 times.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "calculations"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q55",
+    "question": "A first order reaction takes 40 minutes for 30% decomposition. Calculate t1/2.",
+    "options": [
+      "77.7 min",
+      "55.5 min",
+      "66.6 min",
+      "88.8 min"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "k = (2.303/40) log(100/70) = 0.0575 * 0.155 = 0.0089 min-1. t1/2 = 0.693/0.0089 = 77.8 min.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "calculations"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q56",
+    "question": "The activation energy of a reaction is zero. The rate constant of this reaction:",
+    "options": [
+      "Increases with increase in temperature",
+      "Decreases with increase in temperature",
+      "Is independent of temperature",
+      "Decreases with decrease in temperature"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "k = A e^(-Ea/RT). If Ea=0, k = A. Independent of T.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "activation energy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q57",
+    "question": "For the reaction 2A -> B + 3C, if -d[A]/dt = k1[A]^2, d[B]/dt = k2[A]^2, d[C]/dt = k3[A]^2, the relation between k1, k2, k3 is:",
+    "options": [
+      "k1 = k2 = k3",
+      "2k1 = k2 = 3k3",
+      "k1/2 = k2 = k3/3",
+      "k1 = 2k2 = 3k3"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Rate = -1/2 d[A]/dt = d[B]/dt = 1/3 d[C]/dt. 1/2 k1 = k2 = 1/3 k3.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "rate laws"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q58",
+    "question": "A plot of log(a-x) against time 't' is a straight line. This indicates that the reaction is of:",
+    "options": [
+      "Zero order",
+      "First order",
+      "Second order",
+      "Third order"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Integrated rate law for first order: log(a-x) = -kt/2.303 + log a.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "graphs"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q59",
+    "question": "The rate constant of a reaction is 1.5 x 10^7 s-1 at 50 C and 4.5 x 10^7 s-1 at 100 C. Calculate the value of activation energy.",
+    "options": [
+      "22 kJ/mol",
+      "220 kJ/mol",
+      "2.2 kJ/mol",
+      "11 kJ/mol"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "log(4.5/1.5) = Ea/19.15 (1/323 - 1/373). log 3 = Ea/19.15 (0.0031 - 0.00268). 0.477 = Ea/19.15 * 0.00042. Ea = 0.477 * 19.15 / 0.00042 = 21748 J = 21.7 kJ.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "calculations"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q60",
+    "question": "Which of the following is not a characteristic of a catalyst?",
+    "options": [
+      "It does not initiate a reaction",
+      "It does not alter the equilibrium constant",
+      "It changes the rate of reaction",
+      "It changes the enthalpy of reaction"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Catalyst does not change enthalpy (Delta H).",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "catalyst"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q61",
+    "question": "For a reaction 2NO + O2 -> 2NO2, rate = k[NO]^2[O2]. If volume of vessel is reduced to 1/3 of its original value, the rate becomes:",
+    "options": [
+      "3 times",
+      "9 times",
+      "27 times",
+      "1/27 times"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Conc becomes 3 times. Rate' = k(3NO)^2(3O2) = 27k[NO]^2[O2].",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "calculations"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q62",
+    "question": "The half-life of a first order reaction is 10 min. What percentage of the reactant will be left after 1 hour?",
+    "options": [
+      "1.56%",
+      "3.12%",
+      "6.25%",
+      "12.5%"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "60 min = 6 half lives. Remaining = (1/2)^6 = 1/64 = 0.0156 = 1.56%.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "calculations"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q63",
+    "question": "If the rate of reaction is equal to the rate constant, the order of the reaction is:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Rate = k[A]^0 = k.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "order of reaction"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q64",
+    "question": "The rate constant of a reaction is 0.0693 min-1. Starting with 10 mol, the rate of reaction after 10 min is:",
+    "options": [
+      "0.693 mol min-1",
+      "0.3465 mol min-1",
+      "0.0693 mol min-1",
+      "0.03465 mol min-1"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "t1/2 = 0.693/0.0693 = 10 min. After 10 min, conc is halved (5 mol). Rate = k[A] = 0.0693 * 5 = 0.3465.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "calculations"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q65",
+    "question": "In the reaction A -> B, if the concentration of A is plotted against time, a straight line with negative slope is obtained. The order of reaction is:",
+    "options": [
+      "Zero",
+      "First",
+      "Second",
+      "Third"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "[A] = -kt + [A]0. Linear plot of [A] vs t implies zero order.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "graphs"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q66",
+    "question": "Which of the following statements is correct?",
+    "options": [
+      "Order of a reaction is equal to the sum of powers of concentration terms in rate law",
+      "Order of a reaction is equal to the sum of stoichiometric coefficients in balanced equation",
+      "Order of a reaction is always a whole number",
+      "Order of a reaction can be determined theoretically"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Definition of order.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "order of reaction"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q67",
+    "question": "For a reaction A -> Products, the rate is 10^-2 M/s when [A] = 1 M and rate is 10^-4 M/s when [A] = 0.1 M. The order of reaction is:",
+    "options": [
+      "1",
+      "2",
+      "0",
+      "0.5"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Rate1/Rate2 = (C1/C2)^n. 10^-2/10^-4 = (1/0.1)^n. 100 = 10^n. n=2.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "order of reaction"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q68",
+    "question": "The rate constant for a reaction is 10.8 x 10^-5 mol L-1 s-1. The reaction is of:",
+    "options": [
+      "First order",
+      "Zero order",
+      "Second order",
+      "Half order"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Unit mol L-1 s-1 corresponds to zero order.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "units"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q69",
+    "question": "The activation energy of a reaction is 9 kcal/mol. The increase in the rate constant when its temperature is raised from 295 K to 300 K is approximately:",
+    "options": [
+      "10%",
+      "50%",
+      "100%",
+      "25%"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "ln(k2/k1) = Ea/R (1/T1 - 1/T2). log(k2/k1) = 9000/(2.303*2) * (5/(295*300)) = 1954 * 0.000056 = 0.11. k2/k1 = 1.28. Increase is 28% approx 25%.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "calculations"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q70",
+    "question": "For a first order reaction A -> Products, the concentration of A changes from 0.1 M to 0.025 M in 40 minutes. The rate of reaction when the concentration of A is 0.01 M is:",
+    "options": [
+      "1.73 x 10^-4 M/min",
+      "3.47 x 10^-4 M/min",
+      "3.47 x 10^-5 M/min",
+      "1.73 x 10^-5 M/min"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "0.1 -> 0.05 -> 0.025 (2 half lives). 2 t1/2 = 40 min. t1/2 = 20 min. k = 0.693/20 = 0.03465 min-1. Rate = k[A] = 0.03465 * 0.01 = 3.465 x 10^-4.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "calculations"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q71",
+    "question": "A reaction is 50% complete in 2 hours and 75% complete in 4 hours. The order of reaction is:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "t75% = 2 * t50% for first order. 4 = 2 * 2. Correct.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "order of reaction"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q72",
+    "question": "The rate constant of a reaction depends upon:",
+    "options": [
+      "Temperature",
+      "Initial concentration",
+      "Time of reaction",
+      "Extent of reaction"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Rate constant is a function of temperature.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "rate constant"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q73",
+    "question": "For a reaction 2A + B -> 3C + D, which of the following does not express the reaction rate?",
+    "options": [
+      "-d[A]/2dt",
+      "-d[C]/3dt",
+      "-d[B]/dt",
+      "d[D]/dt"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Rate = 1/3 d[C]/dt. Option B has negative sign, which is for reactants.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "rate of reaction"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q74",
+    "question": "The unit of frequency factor A in Arrhenius equation is:",
+    "options": [
+      "Same as that of rate constant",
+      "Same as that of activation energy",
+      "Same as that of temperature",
+      "Dimensionless"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "k = A e^(-Ea/RT). Exponential term is dimensionless. So unit of A = unit of k.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "arrhenius equation"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q75",
+    "question": "For the reaction H2 + Cl2 -> 2HCl in presence of sunlight, the order of reaction is:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Photochemical reaction of H2 and Cl2 is zero order.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "order of reaction"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q76",
+    "question": "The slope of the plot of log k vs 1/T is:",
+    "options": [
+      "-Ea/2.303R",
+      "Ea/2.303R",
+      "Ea/R",
+      "-Ea/R"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "log k = log A - Ea/2.303RT. Slope = -Ea/2.303R.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "arrhenius equation"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q77",
+    "question": "If the initial concentration of reactants in a zero order reaction is doubled, the half-life period:",
+    "options": [
+      "Doubles",
+      "Halves",
+      "Remains same",
+      "Becomes four times"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "t1/2 = [A]0 / 2k. Proportional to [A]0.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "half-life"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q78",
+    "question": "The rate of a reaction is doubled when the temperature changes from 27 C to 37 C. Calculate the energy of activation.",
+    "options": [
+      "53.6 kJ/mol",
+      "43.6 kJ/mol",
+      "33.6 kJ/mol",
+      "63.6 kJ/mol"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "log 2 = Ea/19.15 (1/300 - 1/310). 0.301 = Ea/19.15 * 0.000107. Ea = 0.301 * 19.15 / 0.000107 = 53870 J = 53.9 kJ.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "calculations"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q79",
+    "question": "Which of the following expressions is correct for the rate of reaction given below? 5Br-(aq) + BrO3-(aq) + 6H+(aq) -> 3Br2(aq) + 3H2O(l)",
+    "options": [
+      "d[Br-]/dt = 5 d[H+]/dt",
+      "d[Br-]/dt = 6/5 d[H+]/dt",
+      "d[Br-]/dt = 5/6 d[H+]/dt",
+      "d[Br-]/dt = d[H+]/dt"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Rate = -1/5 d[Br-]/dt = -1/6 d[H+]/dt. d[Br-]/dt = 5/6 d[H+]/dt.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "rate of reaction"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q80",
+    "question": "The rate constant for a first order reaction is 4.606 x 10^-3 s-1. The time required to reduce 2.0 g of the reactant to 0.2 g is:",
+    "options": [
+      "200 s",
+      "500 s",
+      "1000 s",
+      "100 s"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "t = (2.303/k) log(2/0.2) = (2.303/4.606x10^-3) log 10 = 0.5 x 10^3 * 1 = 500 s.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "calculations"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q81",
+    "question": "For a reaction, activation energy Ea = 0 and the rate constant at 200 K is 1.6 x 10^6 s-1. The rate constant at 400 K will be:",
+    "options": [
+      "3.2 x 10^6 s-1",
+      "1.6 x 10^6 s-1",
+      "1.6 x 10^5 s-1",
+      "3.2 x 10^5 s-1"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "If Ea=0, k is independent of T. So k remains same.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "activation energy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q82",
+    "question": "The decomposition of phosphine (PH3) on tungsten at low pressure is a first order reaction. It is because the:",
+    "options": [
+      "Rate is proportional to the surface coverage",
+      "Rate is inversely proportional to the surface coverage",
+      "Rate is independent of the surface coverage",
+      "Rate of decomposition is very slow"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "At low pressure, surface coverage is proportional to pressure (concentration), so it follows first order.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "surface chemistry"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q83",
+    "question": "For the reaction A + B -> Products, it is observed that doubling the concentration of A increases the rate by a factor of 4, while doubling the concentration of B has no effect. The rate law is:",
+    "options": [
+      "Rate = k[A][B]",
+      "Rate = k[A]^2",
+      "Rate = k[A]^2[B]",
+      "Rate = k[B]^2"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Order wrt A is 2 (2^2=4). Order wrt B is 0. Rate = k[A]^2.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "rate laws"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q84",
+    "question": "The unit of rate constant for a reaction is L mol-1 s-1. The order of reaction is:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Second order.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "units"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q85",
+    "question": "The rate of a chemical reaction doubles for every 10 C rise of temperature. If the temperature is raised by 50 C, the rate of the reaction increases by about:",
+    "options": [
+      "10 times",
+      "24 times",
+      "32 times",
+      "64 times"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "2^(50/10) = 2^5 = 32 times.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "temperature dependence"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q86",
+    "question": "A reaction is 50% completed in 2 hours and 75% completed in 4 hours. The order of reaction is:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Duplicate of q71.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "order of reaction"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q87",
+    "question": "For a reaction A -> B, the rate of reaction is quadrupled when the concentration of A is doubled. The rate of reaction is:",
+    "options": [
+      "First order",
+      "Second order",
+      "Zero order",
+      "Third order"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "2^n = 4 => n=2.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "order of reaction"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q88",
+    "question": "The activation energy of a reaction is 50 kJ/mol. If the temperature is increased from 300 K to 310 K, the rate constant approximately:",
+    "options": [
+      "Doubles",
+      "Halves",
+      "Triples",
+      "Remains same"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "For Ea approx 50 kJ/mol, 10 degree rise near room temp roughly doubles the rate.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "temperature dependence"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q89",
+    "question": "The rate constant for a reaction is 2 x 10^-2 L mol-1 s-1. If the concentration of the reactant is 1 M, the half-life period is:",
+    "options": [
+      "50 s",
+      "100 s",
+      "25 s",
+      "200 s"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Unit L mol-1 s-1 is second order. t1/2 = 1/(k[A]0) = 1/(0.02 * 1) = 50 s.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "half-life"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q90",
+    "question": "Which of the following plots will be linear for a second order reaction A -> Products?",
+    "options": [
+      "[A] vs t",
+      "ln[A] vs t",
+      "1/[A] vs t",
+      "[A]^2 vs t"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "1/[A] = kt + 1/[A]0. Plot of 1/[A] vs t is linear.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "graphs"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q91",
+    "question": "For a first order reaction, the time required for 99.9% completion is how many times the time required for 50% completion?",
+    "options": [
+      "10",
+      "20",
+      "50",
+      "100"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "t99.9% = (2.303/k) log(100/0.1) = (2.303/k) * 3. t50% = (2.303/k) * 0.301. Ratio = 3/0.301 approx 10.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "calculations"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q92",
+    "question": "The rate constant for the decomposition of a hydrocarbon is 2.418 x 10^-5 s-1 at 546 K. If the energy of activation is 179.9 kJ/mol, what will be the value of pre-exponential factor?",
+    "options": [
+      "3.9 x 10^12 s-1",
+      "4.0 x 10^12 s-1",
+      "3.9 x 10^13 s-1",
+      "4.0 x 10^13 s-1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "log k = log A - Ea/2.303RT. log(2.418x10^-5) = log A - 179900/(2.303*8.314*546). -4.616 = log A - 179900/10452. -4.616 = log A - 17.21. log A = 12.59. A = 3.9 x 10^12 s-1.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "calculations"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q93",
+    "question": "Consider the reaction A + B -> Products. When concentration of B alone was doubled, the half-life did not change. When the concentration of A alone was doubled, the rate increased by two times. The unit of rate constant for this reaction is:",
+    "options": [
+      "L mol-1 s-1",
+      "s-1",
+      "mol L-1 s-1",
+      "Dimensionless"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Half-life independent of B implies order wrt B is 1 (for half life? No, t1/2 independent of conc means 1st order. But wait, usually t1/2 depends on conc for other orders. For 1st order, t1/2 is constant. So if t1/2 doesn't change when B changes, order wrt B is 1). Rate doubles when A doubles implies order wrt A is 1. Total order = 1+1=2. Unit L mol-1 s-1.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "rate laws"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q94",
+    "question": "The decomposition of A into product has value of k as 4.5 x 10^3 s-1 at 10 C and energy of activation 60 kJ/mol. At what temperature would k be 1.5 x 10^4 s-1?",
+    "options": [
+      "24 C",
+      "12 C",
+      "30 C",
+      "40 C"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "log(k2/k1) = Ea/2.303R (1/T1 - 1/T2). log(1.5x10^4 / 4.5x10^3) = log(3.33) = 0.522. 0.522 = 60000/19.15 (1/283 - 1/T2). 0.522 = 3133 (0.00353 - 1/T2). 0.000166 = 0.00353 - 1/T2. 1/T2 = 0.00336. T2 = 297 K = 24 C.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "calculations"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q95",
+    "question": "For a reaction, the rate law is Rate = k[A][B]^2/3. The order of reaction is:",
+    "options": [
+      "1.66",
+      "2.66",
+      "1.33",
+      "0.66"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Order = 1 + 2/3 = 5/3 = 1.66.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "order of reaction"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q96",
+    "question": "A first order reaction is 40% complete in 50 minutes. Calculate the value of the rate constant. In what time will the reaction be 80% complete?",
+    "options": [
+      "k = 0.0102 min-1, t = 157.6 min",
+      "k = 0.0102 min-1, t = 100 min",
+      "k = 0.0204 min-1, t = 157.6 min",
+      "k = 0.0051 min-1, t = 200 min"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "k = (2.303/50) log(100/60) = 0.046 * 0.2218 = 0.0102 min-1. t = (2.303/0.0102) log(100/20) = 225.7 * 0.699 = 157.7 min.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "calculations"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q97",
+    "question": "The time for half life period of a certain reaction A -> Products is 1 hour. When the initial concentration of the reactant 'A' is 2.0 mol L-1, how much time does it take for its concentration to come from 0.50 to 0.25 mol L-1 if it is a zero order reaction?",
+    "options": [
+      "1 h",
+      "4 h",
+      "0.5 h",
+      "0.25 h"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "For zero order, t1/2 = [A]0/2k. 1 = 2/2k => k = 1 mol L-1 h-1. Time for 0.5 to 0.25: Delta [A] = 0.25. t = Delta [A] / k = 0.25/1 = 0.25 h.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "calculations"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q98",
+    "question": "The activation energy of a reaction is 75.2 kJ/mol in the absence of a catalyst and 50.14 kJ/mol with a catalyst. How many times will the rate of reaction grow in the presence of a catalyst at 25 C?",
+    "options": [
+      "25000 times",
+      "10000 times",
+      "15000 times",
+      "20000 times"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "log(k_cat/k_uncat) = (Ea - Ea_cat)/2.303RT = (75200 - 50140) / (2.303 * 8.314 * 298) = 25060 / 5705 = 4.39. Ratio = 10^4.39 = 24547 approx 25000.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "calculations"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q99",
+    "question": "For a reaction 2A + B -> 3C, rate = k[A][B]. If the concentration of A is doubled and that of B is halved, the rate of reaction will be:",
+    "options": [
+      "Increased by 4 times",
+      "Decreased by 2 times",
+      "Increased by 2 times",
+      "Remains the same"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Rate' = k(2A)(B/2) = k[A][B]. Remains same.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "calculations"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q100",
+    "question": "Two reactions R1 and R2 have identical pre-exponential factors. Activation energy of R1 exceeds that of R2 by 10 kJ/mol. If k1 and k2 are rate constants for R1 and R2 respectively at 300 K, then ln(k2/k1) is equal to: (R = 8.314 J mol-1 K-1)",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "ln(k2/k1) = (Ea1 - Ea2)/RT = 10000 / (8.314 * 300) = 10000 / 2494 = 4.0.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "calculations"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q101",
+    "question": "The rate of a first order reaction is 0.04 mol L-1 s-1 at 10 seconds and 0.03 mol L-1 s-1 at 20 seconds after initiation of the reaction. The half-life period of the reaction is:",
+    "options": [
+      "24.1 s",
+      "44.1 s",
+      "34.1 s",
+      "54.1 s"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Rate1 = k[A]1, Rate2 = k[A]2. [A] = [A]0 e^-kt. Rate = k[A]0 e^-kt. 0.04 = k[A]0 e^-10k. 0.03 = k[A]0 e^-20k. Divide: 4/3 = e^10k. ln(1.33) = 10k. 0.287 = 10k. k = 0.0287 s-1. t1/2 = 0.693/0.0287 = 24.1 s.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "calculations"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q102",
+    "question": "In a reaction between A and B, the initial rate of reaction (r0) was measured for different initial concentrations of A and B as given below: [A]/M: 0.20, 0.20, 0.40. [B]/M: 0.30, 0.10, 0.05. r0/M s-1: 5.07x10^-5, 5.07x10^-5, 1.43x10^-4. The order of reaction with respect to A and B is:",
+    "options": [
+      "1.5, 0",
+      "1.5, 1",
+      "1, 0",
+      "1, 1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Compare 1 and 2: [A] constant, [B] changes 0.3->0.1 (1/3), Rate constant. So order wrt B is 0. Compare 2 and 3: [B] changes but order is 0 so ignore. [A] changes 0.2->0.4 (2 times). Rate changes 5.07x10^-5 -> 1.43x10^-4 (approx 2.8 times). 2^n = 2.8. 2^1.5 = 2.82. So n=1.5.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "rate laws"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q103",
+    "question": "The decomposition of N2O5 takes place according to the equation 2N2O5 -> 4NO2 + O2. If the rate constant is 3.0 x 10^-5 s-1, how long will it take to decompose 2.5 g of N2O5 to 0.5 g?",
+    "options": [
+      "53640 s",
+      "26820 s",
+      "107280 s",
+      "13410 s"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "First order. t = (2.303/k) log(2.5/0.5) = (2.303/3x10^-5) log 5 = 76766 * 0.699 = 53659 s approx 53640 s.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "calculations"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q104",
+    "question": "The rate of reaction triples when temperature changes from 20 C to 50 C. Calculate the energy of activation.",
+    "options": [
+      "28.8 kJ/mol",
+      "12.5 kJ/mol",
+      "35.5 kJ/mol",
+      "40.2 kJ/mol"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "log 3 = Ea/19.15 (1/293 - 1/323). 0.477 = Ea/19.15 * 0.000317. Ea = 0.477 * 19.15 / 0.000317 = 28815 J = 28.8 kJ.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "calculations"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q105",
+    "question": "For a reaction A -> B, the rate constant is 0.693 min-1. If the initial concentration of A is 1.0 M, what is the concentration of A after 10 minutes?",
+    "options": [
+      "0.001 M",
+      "0.01 M",
+      "0.1 M",
+      "0.0001 M"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "t1/2 = 0.693/0.693 = 1 min. 10 min = 10 half lives. [A] = 1 * (1/2)^10 = 1/1024 approx 0.001 M.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "calculations"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q106",
+    "question": "The rate constant for the first order decomposition of H2O2 is given by log k = 14.34 - 1.25 x 10^4 K/T. Calculate Ea for this reaction.",
+    "options": [
+      "239.3 kJ/mol",
+      "125 kJ/mol",
+      "100 kJ/mol",
+      "200 kJ/mol"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Compare with log k = log A - Ea/2.303RT. Ea/2.303R = 1.25 x 10^4. Ea = 1.25 x 10^4 * 2.303 * 8.314 = 239339 J = 239.3 kJ.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "calculations"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q107",
+    "question": "A reaction is 50% complete in 20 minutes and 75% complete in 40 minutes. What is the order of reaction?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "t75% = 2 * t50%. Characteristic of first order.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "order of reaction"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q108",
+    "question": "The rate constant k for a first order reaction is 10^-3 s-1. How much time will it take for 20 g of the reactant to reduce to 5 g?",
+    "options": [
+      "1386 s",
+      "693 s",
+      "2000 s",
+      "1000 s"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "20 -> 10 -> 5. Two half lives. t1/2 = 0.693/10^-3 = 693 s. Total time = 2 * 693 = 1386 s.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "calculations"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q109",
+    "question": "For a reaction A + B -> Products, the rate law is Rate = k[A][B]^2. If the concentration of B is doubled, keeping [A] constant, the rate of reaction will increase by a factor of:",
+    "options": [
+      "2",
+      "4",
+      "8",
+      "16"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "2^2 = 4.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "rate laws"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q110",
+    "question": "The half-life of a radioactive isotope is 4 hours. If the initial mass of the isotope was 200 g, the mass remaining after 24 hours is:",
+    "options": [
+      "1.56 g",
+      "3.125 g",
+      "6.25 g",
+      "12.5 g"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "24/4 = 6 half lives. Mass = 200 * (1/2)^6 = 200/64 = 3.125 g.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "calculations"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q111",
+    "question": "The rate constant of a first order reaction is 3.0 x 10^-6 s-1. If the initial concentration is 0.10 M, the initial rate of reaction is:",
+    "options": [
+      "3.0 x 10^-7 M s-1",
+      "3.0 x 10^-5 M s-1",
+      "3.0 x 10^-8 M s-1",
+      "3.0 x 10^-6 M s-1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Rate = k[A] = 3.0x10^-6 * 0.1 = 3.0x10^-7.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "calculations"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q112",
+    "question": "For a reaction X -> Y, the rate of reaction becomes 8 times when the concentration of X is doubled. The order of reaction is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "0"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "2^n = 8. n=3.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "order of reaction"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q113",
+    "question": "The activation energy of a reaction is 94.14 kJ/mol and the value of k at 313 K is 1.8 x 10^-5 s-1. Calculate the frequency factor A.",
+    "options": [
+      "1.8 x 10^10 s-1",
+      "9.6 x 10^10 s-1",
+      "5.2 x 10^10 s-1",
+      "2.4 x 10^10 s-1"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "log k = log A - Ea/2.303RT. log(1.8x10^-5) = log A - 94140/(2.303*8.314*313). -4.74 = log A - 15.7. log A = 10.96. A = 9.1 x 10^10 approx 9.6 x 10^10.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "calculations"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q114",
+    "question": "A substance 'A' decomposes by a first order reaction starting initially with [A] = 2.00 M and after 200 min [A] becomes 0.15 M. For this reaction t1/2 is:",
+    "options": [
+      "53.72 min",
+      "50.49 min",
+      "48.45 min",
+      "46.45 min"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "k = (2.303/200) log(2/0.15) = 0.0115 * 1.12 = 0.0129 min-1. t1/2 = 0.693/0.0129 = 53.7 min.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "calculations"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q115",
+    "question": "The rate constant for a second order reaction is 8 x 10^-5 M-1 min-1. How long will it take a 1 M solution to be reduced to 0.5 M?",
+    "options": [
+      "1.25 x 10^4 min",
+      "2.5 x 10^4 min",
+      "5 x 10^4 min",
+      "8 x 10^4 min"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "t = 1/k (1/[A] - 1/[A]0) = 1/8x10^-5 (1/0.5 - 1/1) = 12500 * (2-1) = 12500 min = 1.25 x 10^4 min.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "calculations"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q116",
+    "question": "The activation energy for a reaction is 209.5 kJ/mol at 581 K. Calculate the fraction of molecules of reactants having energy equal to or greater than activation energy.",
+    "options": [
+      "1.5 x 10^-19",
+      "2.5 x 10^-19",
+      "3.5 x 10^-19",
+      "4.5 x 10^-19"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "x = e^(-Ea/RT). ln x = -Ea/RT = -209500/(8.314*581) = -43.37. log x = -43.37/2.303 = -18.83. x = 1.47 x 10^-19.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "calculations"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q117",
+    "question": "For a first order reaction, the ratio of time for 75% completion to 50% completion is:",
+    "options": [
+      "2:1",
+      "4:1",
+      "3:1",
+      "5:1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "t75% = 2 * t50%. Ratio 2:1.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "calculations"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q118",
+    "question": "The rate of a reaction increases by 2.5 times when the temperature is raised from 300 K to 310 K. If k at 300 K is 1.5 x 10^-4 s-1, then k at 310 K will be:",
+    "options": [
+      "3.75 x 10^-4 s-1",
+      "3.0 x 10^-4 s-1",
+      "6.0 x 10^-4 s-1",
+      "1.5 x 10^-3 s-1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "k2 = 2.5 * k1 = 2.5 * 1.5 x 10^-4 = 3.75 x 10^-4.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "calculations"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q119",
+    "question": "The rate constant of a reaction is 3 x 10^2 min-1. What is the percentage of reactant remaining after 10 minutes?",
+    "options": [
+      "0%",
+      "10%",
+      "50%",
+      "Almost zero"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "k is very large (300 min-1). Reaction is extremely fast. After 10 min, reactant will be negligible.",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "conceptual"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_chemical_kinetics_q120",
+    "question": "For a reaction A + B -> C + D, doubling the concentration of both the reactants increases the reaction rate by 8 times and doubling the initial concentration of only B simply doubles the reaction rate. The rate law for the reaction is:",
+    "options": [
+      "Rate = k[A][B]^2",
+      "Rate = k[A][B]",
+      "Rate = k[A]^2[B]",
+      "Rate = k[A]^2[B]^2"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Double B -> Rate doubles => Order wrt B is 1. Double A and B -> Rate 8 times. 2^x * 2^1 = 8. 2^x = 4. x=2. Rate = k[A]^2[B].",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "tags": [
+      "rate laws"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "chemical_kinetics",
+    "subjectId": "chemistry"
+  }
+]

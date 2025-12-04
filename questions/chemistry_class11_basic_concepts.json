@@ -1,0 +1,2706 @@
+[
+  {
+    "id": "chemistry_basic_concepts_q1",
+    "question": "Which of the following is a homogeneous mixture?",
+    "options": [
+      "Sand and water",
+      "Oil and water",
+      "Air",
+      "Granite"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Air is a homogeneous mixture of gases.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "matter",
+      "mixtures"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q2",
+    "question": "The significant figures in 0.00052 are:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "5"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Zeros preceding the first non-zero digit are not significant. So, 5 and 2 are significant.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "significant figures"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q3",
+    "question": "One mole of any gas at STP occupies a volume of:",
+    "options": [
+      "11.2 L",
+      "22.4 L",
+      "22.7 L",
+      "24.5 L"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "According to IUPAC standards (STP: 1 bar and 273.15 K), the molar volume is 22.7 L. (Old convention was 22.4 L at 1 atm).",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "mole concept",
+      "molar volume"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q4",
+    "question": "Which law states that matter can neither be created nor destroyed?",
+    "options": [
+      "Law of Definite Proportions",
+      "Law of Multiple Proportions",
+      "Law of Conservation of Mass",
+      "Avogadro's Law"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "The Law of Conservation of Mass states that mass is neither created nor destroyed in a chemical reaction.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "laws of chemical combination"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q5",
+    "question": "The SI unit of temperature is:",
+    "options": [
+      "Celsius",
+      "Fahrenheit",
+      "Kelvin",
+      "Rankine"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "The SI unit of temperature is Kelvin (K).",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "units",
+      "measurement"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q6",
+    "question": "What is the mass of 1 mole of carbon-12 atoms?",
+    "options": [
+      "12 g",
+      "1 g",
+      "6.022 x 10^23 g",
+      "12 kg"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The molar mass of Carbon-12 is exactly 12 g/mol.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "mole concept",
+      "molar mass"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q7",
+    "question": "Which of the following contains the maximum number of atoms?",
+    "options": [
+      "1 g of H2",
+      "1 g of N2",
+      "1 g of O2",
+      "1 g of CH4"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Moles = Mass/Molar Mass. 1g H2 = 0.5 mol. 1g N2 = 1/28 mol. 1g O2 = 1/32 mol. 1g CH4 = 1/16 mol. H2 has the most moles and thus most atoms.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "mole concept",
+      "atoms"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q8",
+    "question": "The empirical formula of glucose is:",
+    "options": [
+      "CH2O",
+      "C6H12O6",
+      "CHO",
+      "C2H4O2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Glucose is C6H12O6. Ratio C:H:O is 6:12:6 = 1:2:1. Empirical formula is CH2O.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "empirical formula"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q9",
+    "question": "Molarity is defined as the number of moles of solute per:",
+    "options": [
+      "Liter of solvent",
+      "Liter of solution",
+      "Kilogram of solvent",
+      "Kilogram of solution"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Molarity (M) is moles of solute per liter of solution.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "concentration terms",
+      "molarity"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q10",
+    "question": "Which prefix represents 10^-9?",
+    "options": [
+      "Micro",
+      "Nano",
+      "Pico",
+      "Femto"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Nano represents 10^-9.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "units",
+      "prefixes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q11",
+    "question": "The number of significant figures in 2.00 is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "Infinite"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Trailing zeros after a decimal point are significant. So, 2.00 has 3 significant figures.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "significant figures"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q12",
+    "question": "Avogadro's number is approximately:",
+    "options": [
+      "6.022 x 10^22",
+      "6.022 x 10^23",
+      "6.022 x 10^24",
+      "6.022 x 10^-23"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Avogadro's constant is 6.022 x 10^23 mol^-1.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "mole concept",
+      "constants"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q13",
+    "question": "Which of the following is an element?",
+    "options": [
+      "Water",
+      "Air",
+      "Diamond",
+      "Salt"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Diamond is an allotrope of Carbon, which is an element.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "matter",
+      "elements"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q14",
+    "question": "The molecular mass of H2SO4 is:",
+    "options": [
+      "49 u",
+      "98 u",
+      "50 u",
+      "100 u"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "H(1x2) + S(32) + O(16x4) = 2 + 32 + 64 = 98 u.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "molecular mass"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q15",
+    "question": "Molality is independent of:",
+    "options": [
+      "Mass of solvent",
+      "Mass of solute",
+      "Temperature",
+      "Nature of solute"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Molality involves mass, which does not change with temperature. Molarity involves volume, which changes with temperature.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "concentration terms",
+      "molality"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q16",
+    "question": "1 amu (atomic mass unit) is defined as:",
+    "options": [
+      "1/12th mass of C-12 atom",
+      "Mass of one H atom",
+      "Mass of one O-16 atom",
+      "1/16th mass of O-16 atom"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "1 amu is defined as 1/12th of the mass of a Carbon-12 atom.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "atomic mass"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q17",
+    "question": "Which of the following pairs illustrates the Law of Multiple Proportions?",
+    "options": [
+      "H2O and D2O",
+      "NaCl and NaBr",
+      "CO and CO2",
+      "MgO and Mg(OH)2"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Carbon combines with Oxygen to form CO and CO2, where the ratio of Oxygen masses (16:32 or 1:2) is a simple whole number.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "laws of chemical combination"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q18",
+    "question": "The limiting reagent in a reaction is the reactant that:",
+    "options": [
+      "Has the smallest mass",
+      "Has the smallest coefficient",
+      "Is consumed completely",
+      "Is present in excess"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "The limiting reagent is the one that is completely consumed and limits the amount of product formed.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "stoichiometry",
+      "limiting reagent"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q19",
+    "question": "How many moles of water are present in 180 g of water?",
+    "options": [
+      "1 mol",
+      "10 mol",
+      "18 mol",
+      "100 mol"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Moles = Mass / Molar Mass = 180 g / 18 g/mol = 10 mol.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "mole concept"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q20",
+    "question": "Gay Lussac's Law of Gaseous Volumes is valid for:",
+    "options": [
+      "Solids",
+      "Liquids",
+      "Gases",
+      "All of these"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Gay Lussac's Law deals with the volumes of reacting gases.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "laws of chemical combination"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q21",
+    "question": "The sum of 2.5 and 1.25 with correct significant figures is:",
+    "options": [
+      "3.75",
+      "3.7",
+      "3.8",
+      "4.0"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "For addition, the result should have the same number of decimal places as the term with the fewest decimal places. 2.5 has 1 decimal place. 2.5 + 1.25 = 3.75 -> round to 3.8.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "significant figures"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q22",
+    "question": "Which physical quantity has the unit 'candela'?",
+    "options": [
+      "Luminous intensity",
+      "Electric current",
+      "Amount of substance",
+      "Thermodynamic temperature"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Candela (cd) is the SI unit of luminous intensity.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "units"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q23",
+    "question": "What is the percentage of Carbon in CO2?",
+    "options": [
+      "27.27%",
+      "29.29%",
+      "42.8%",
+      "50%"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Mass of C = 12, Mass of CO2 = 44. %C = (12/44) * 100 = 27.27%.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "percentage composition"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q24",
+    "question": "Which of the following is a compound?",
+    "options": [
+      "Gold",
+      "Ozone",
+      "Ammonia",
+      "Mercury"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Ammonia (NH3) is a compound made of Nitrogen and Hydrogen. Gold, Ozone (O3), and Mercury are elements.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "matter",
+      "compounds"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q25",
+    "question": "The number of atoms in 0.1 mol of a triatomic gas is:",
+    "options": [
+      "6.022 x 10^22",
+      "1.806 x 10^23",
+      "3.011 x 10^23",
+      "1.806 x 10^22"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "0.1 mol molecules * 3 atoms/molecule * 6.022x10^23 = 1.8066 x 10^23 atoms.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "mole concept",
+      "atoms"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q26",
+    "question": "Which of the following concentration terms depends on temperature?",
+    "options": [
+      "Molality",
+      "Mole fraction",
+      "Mass percentage",
+      "Molarity"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Molarity involves volume, which is temperature dependent.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "concentration terms"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q27",
+    "question": "How many grams of NaOH are required to make 250 mL of 0.4 M solution?",
+    "options": [
+      "4 g",
+      "40 g",
+      "2 g",
+      "10 g"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "M = moles/Volume(L). 0.4 = moles / 0.25. Moles = 0.1. Mass = 0.1 * 40 g/mol = 4 g.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "molarity",
+      "stoichiometry"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q28",
+    "question": "The scientific notation for 0.00016 is:",
+    "options": [
+      "1.6 x 10^-3",
+      "1.6 x 10^-4",
+      "16 x 10^-5",
+      "0.16 x 10^-3"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Move decimal 4 places right: 1.6 x 10^-4.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "scientific notation"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q29",
+    "question": "Which of the following is not a fundamental unit?",
+    "options": [
+      "Meter",
+      "Kilogram",
+      "Second",
+      "Liter"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Liter is a derived unit for volume. Meter, Kilogram, and Second are fundamental SI units.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "units"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q30",
+    "question": "The mass of one molecule of water is approximately:",
+    "options": [
+      "18 g",
+      "1.66 x 10^-24 g",
+      "3 x 10^-23 g",
+      "18 kg"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Mass = 18 g / 6.022x10^23 \u2248 2.99 x 10^-23 g.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "mole concept"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q31",
+    "question": "Which mixture is used in the 'Law of Definite Proportions' example usually?",
+    "options": [
+      "Water from different sources",
+      "Air from different places",
+      "Alloys",
+      "Isotopes"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Water obtained from any source (river, rain, tap) always contains Hydrogen and Oxygen in the ratio 1:8 by mass.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "laws of chemical combination"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q32",
+    "question": "The number of moles of solute present in 1 kg of solvent is called:",
+    "options": [
+      "Molarity",
+      "Molality",
+      "Normality",
+      "Formality"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Molality (m) is defined as moles of solute per kilogram of solvent.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "concentration terms"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q33",
+    "question": "What is the formula mass of CaCl2?",
+    "options": [
+      "111 u",
+      "75.5 u",
+      "110 u",
+      "90 u"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Ca(40) + 2*Cl(35.5) = 40 + 71 = 111 u.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "molecular mass"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q34",
+    "question": "Which of the following has the highest mass?",
+    "options": [
+      "1 g atom of C",
+      "1/2 mole of CH4",
+      "10 mL of water",
+      "3.011 x 10^23 atoms of Oxygen"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "1 g atom C = 12g. 1/2 mol CH4 = 8g. 10 mL water = 10g. 3.011x10^23 O atoms = 0.5 mol O = 8g. Highest is 12g.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "mole concept"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q35",
+    "question": "Precision refers to:",
+    "options": [
+      "Closeness to true value",
+      "Closeness of various measurements",
+      "Accuracy",
+      "None of these"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Precision refers to the closeness of various measurements for the same quantity.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "measurement",
+      "precision"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q36",
+    "question": "The number of significant figures in 0.050 is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Leading zeros are not significant. Trailing zeros after decimal are significant. So 5 and 0 are significant.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "significant figures"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q37",
+    "question": "Which of the following is a derived unit?",
+    "options": [
+      "Mass",
+      "Time",
+      "Density",
+      "Length"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Density = Mass/Volume. It is derived from fundamental units.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "units"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q38",
+    "question": "The volume occupied by 1 mole of liquid water at 4 degrees Celsius is:",
+    "options": [
+      "22.4 L",
+      "18 mL",
+      "1 L",
+      "18 L"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Density of water is 1 g/mL. 1 mole = 18 g. Volume = Mass/Density = 18 mL.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "mole concept",
+      "density"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q39",
+    "question": "Which of the following statements is correct about a compound?",
+    "options": [
+      "Constituents retain their properties",
+      "Constituents can be separated by physical methods",
+      "Constituents are present in fixed ratio by mass",
+      "It is a heterogeneous mixture"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "In a compound, elements combine in a fixed ratio by mass.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "compounds"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q40",
+    "question": "The prefix 'mega' stands for:",
+    "options": [
+      "10^3",
+      "10^6",
+      "10^9",
+      "10^-6"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Mega stands for 10^6.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "units",
+      "prefixes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q41",
+    "question": "Calculate the mass of CO2 produced by heating 20 g of pure limestone (CaCO3).",
+    "options": [
+      "4.4 g",
+      "8.8 g",
+      "2.2 g",
+      "10 g"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "CaCO3 -> CaO + CO2. 100g CaCO3 gives 44g CO2. 20g will give (44/100)*20 = 8.8g.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "stoichiometry"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q42",
+    "question": "What is the mole fraction of the solute in a 1.00 m aqueous solution?",
+    "options": [
+      "0.177",
+      "0.0177",
+      "0.0344",
+      "1.770"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "1 molal means 1 mol solute in 1 kg (1000g) water. Moles of water = 1000/18 = 55.55. Mole fraction = 1 / (1 + 55.55) = 1/56.55 = 0.0177.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "concentration terms",
+      "mole fraction"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q43",
+    "question": "How many moles of methane are required to produce 22 g of CO2 after combustion?",
+    "options": [
+      "1 mol",
+      "0.5 mol",
+      "2 mol",
+      "0.25 mol"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "CH4 + 2O2 -> CO2 + 2H2O. 1 mol CH4 gives 1 mol (44g) CO2. For 22g (0.5 mol) CO2, 0.5 mol CH4 is needed.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "stoichiometry",
+      "combustion"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q44",
+    "question": "The density of a 2 M solution of acetic acid (MW=60) is 1.02 g/mL. The molality of the solution is:",
+    "options": [
+      "2.22 m",
+      "1.11 m",
+      "3.33 m",
+      "2.0 m"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Mass of 1 L solution = 1020 g. Mass of solute = 2 * 60 = 120 g. Mass of solvent = 1020 - 120 = 900 g = 0.9 kg. Molality = 2 / 0.9 = 2.22 m.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "concentration terms",
+      "molality"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q45",
+    "question": "A hydrocarbon contains 80% Carbon and 20% Hydrogen by mass. The empirical formula is:",
+    "options": [
+      "CH",
+      "CH2",
+      "CH3",
+      "CH4"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "C: 80/12 = 6.66. H: 20/1 = 20. Ratio C:H = 6.66:20 = 1:3. Empirical formula CH3.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "empirical formula"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q46",
+    "question": "What volume of oxygen gas (O2) measured at 0\u00b0C and 1 atm, is needed to burn completely 1 L of propane gas (C3H8) measured under the same conditions?",
+    "options": [
+      "5 L",
+      "10 L",
+      "7 L",
+      "6 L"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "C3H8 + 5O2 -> 3CO2 + 4H2O. 1 vol propane needs 5 vol oxygen. 1 L needs 5 L.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "stoichiometry",
+      "gas laws"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q47",
+    "question": "How many atoms are contained in one mole of sucrose (C12H22O11)?",
+    "options": [
+      "45 x 6.022 x 10^23 atoms",
+      "20 x 6.022 x 10^23 atoms",
+      "6.022 x 10^23 atoms",
+      "12 x 6.022 x 10^23 atoms"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "One molecule has 12+22+11 = 45 atoms. 1 mole has 45 * NA atoms.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "mole concept",
+      "atoms"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q48",
+    "question": "Which has the maximum number of molecules?",
+    "options": [
+      "7 g N2",
+      "2 g H2",
+      "16 g NO2",
+      "16 g O2"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "N2: 7/28 = 0.25 mol. H2: 2/2 = 1 mol. NO2: 16/46 = 0.35 mol. O2: 16/32 = 0.5 mol. H2 has max moles.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "mole concept"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q49",
+    "question": "If 0.5 mol of BaCl2 is mixed with 0.2 mol of Na3PO4, the maximum number of moles of Ba3(PO4)2 that can be formed is:",
+    "options": [
+      "0.7 mol",
+      "0.5 mol",
+      "0.1 mol",
+      "0.16 mol"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "3BaCl2 + 2Na3PO4 -> Ba3(PO4)2 + 6NaCl. BaCl2: 0.5/3 = 0.166. Na3PO4: 0.2/2 = 0.1. Na3PO4 is limiting. Moles product = 0.1 mol.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "limiting reagent"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q50",
+    "question": "The mass of 112 cm^3 of CH4 gas at STP is:",
+    "options": [
+      "0.16 g",
+      "0.8 g",
+      "0.08 g",
+      "1.6 g"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Moles = 112 / 22400 = 0.005 mol. Mass = 0.005 * 16 = 0.08 g.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "mole concept",
+      "gas volume"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q51",
+    "question": "Boron has two stable isotopes, 10B (19%) and 11B (81%). Calculate average atomic mass of boron in the periodic table.",
+    "options": [
+      "10.81",
+      "10.2",
+      "11.2",
+      "10.0"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Avg Mass = (10*19 + 11*81)/100 = (190 + 891)/100 = 1081/100 = 10.81.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "atomic mass",
+      "isotopes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q52",
+    "question": "What is the concentration of nitrate ions if equal volumes of 0.1 M AgNO3 and 0.1 M NaCl are mixed?",
+    "options": [
+      "0.1 M",
+      "0.05 M",
+      "0.2 M",
+      "0.025 M"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Volume doubles, so concentration halves. [NO3-] = 0.1 / 2 = 0.05 M. (NO3- is a spectator ion).",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "concentration terms",
+      "dilution"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q53",
+    "question": "A compound has molecular formula X4O6. If 10 g of X4O6 contains 5.72 g of X, then atomic mass of X is:",
+    "options": [
+      "32 amu",
+      "37 amu",
+      "42 amu",
+      "98 amu"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Mass O = 10 - 5.72 = 4.28 g. Moles O = 4.28/16 = 0.2675. Formula X4O6 -> Moles X = (4/6)*Moles O = 0.1783. Atomic Mass X = 5.72 / 0.1783 = 32.08.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "atomic mass",
+      "stoichiometry"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q54",
+    "question": "How many significant figures should be present in the answer of the following calculation: (2.5 x 1.25) / 3.5?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The term with the least significant figures is 2.5 and 3.5 (2 sig figs). So answer should have 2 sig figs.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "significant figures"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q55",
+    "question": "The weight of one molecule of a compound C60H122 is:",
+    "options": [
+      "1.2 x 10^-20 g",
+      "1.4 x 10^-21 g",
+      "5.02 x 10^23 g",
+      "6.023 x 10^23 g"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Molar mass = 60*12 + 122*1 = 720 + 122 = 842 g/mol. Mass of 1 molecule = 842 / 6.022x10^23 = 1.398 x 10^-21 g.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "mole concept",
+      "molecular mass"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q56",
+    "question": "Which of the following samples contains the largest number of atoms?",
+    "options": [
+      "1 g of Ni(s)",
+      "1 g of Ca(s)",
+      "1 g of N2(g)",
+      "1 g of B(s)"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Moles = 1/AtomicMass. Ni(58.7), Ca(40), N(14), B(10.8). B has smallest atomic mass, so 1g B has most moles and atoms.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "mole concept",
+      "atoms"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q57",
+    "question": "Calculate the number of Cl- ions in 100 mL of 0.001 M MgCl2 solution.",
+    "options": [
+      "1.204 x 10^20",
+      "1.204 x 10^19",
+      "6.022 x 10^20",
+      "6.022 x 10^19"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Moles MgCl2 = 0.1 L * 0.001 M = 10^-4 mol. Moles Cl- = 2 * 10^-4. Number = 2 * 10^-4 * 6.022x10^23 = 1.2044 x 10^20.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "mole concept",
+      "ions"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q58",
+    "question": "What is the normality of 1 M H2SO4 solution?",
+    "options": [
+      "1 N",
+      "2 N",
+      "0.5 N",
+      "4 N"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Normality = Molarity * n-factor. For H2SO4, n-factor is 2. N = 1 * 2 = 2 N.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "concentration terms",
+      "normality"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q59",
+    "question": "10 g of Hydrogen and 64 g of Oxygen were filled in a steel vessel and exploded. Amount of water produced in this reaction will be:",
+    "options": [
+      "3 mol",
+      "4 mol",
+      "1 mol",
+      "2 mol"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "2H2 + O2 -> 2H2O. Moles H2 = 10/2 = 5. Moles O2 = 64/32 = 2. O2 is limiting (needs 4 H2, have 5). 2 mol O2 produces 4 mol H2O.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "limiting reagent"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q60",
+    "question": "The number of water molecules is maximum in:",
+    "options": [
+      "1.8 gram of water",
+      "18 gram of water",
+      "18 moles of water",
+      "18 molecules of water"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "18 moles > 1 mole (18g) > 0.1 mole (1.8g) > 18 molecules.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "mole concept"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q61",
+    "question": "How many moles of lead (II) chloride will be formed from a reaction between 6.5 g of PbO and 3.2 g of HCl?",
+    "options": [
+      "0.029",
+      "0.044",
+      "0.333",
+      "0.011"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "PbO + 2HCl -> PbCl2 + H2O. Moles PbO = 6.5/223 = 0.029. Moles HCl = 3.2/36.5 = 0.087. PbO is limiting (needs 0.058 HCl, have 0.087). Moles PbCl2 = 0.029.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "limiting reagent"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q62",
+    "question": "Equal masses of H2, O2 and CH4 have been taken in a container of volume V at temperature 27\u00b0C in identical conditions. The ratio of the volumes of gases H2 : O2 : CH4 would be:",
+    "options": [
+      "16 : 1 : 2",
+      "8 : 1 : 2",
+      "16 : 8 : 1",
+      "8 : 16 : 1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Volume ratio = Mole ratio. Mass m. Moles: m/2 : m/32 : m/16. Ratio: 1/2 : 1/32 : 1/16. Multiply by 32: 16 : 1 : 2.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "gas laws",
+      "mole concept"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q63",
+    "question": "What is the mass percent of oxygen in Al2(SO4)3.18H2O? (Molar mass = 666 g/mol)",
+    "options": [
+      "72%",
+      "60%",
+      "50%",
+      "80%"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Oxygens: 3*4 + 18 = 12 + 18 = 30 atoms. Mass O = 30 * 16 = 480. % = (480/666)*100 = 72.07%.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "percentage composition"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q64",
+    "question": "The number of electrons in 1.6 g of CH4 is:",
+    "options": [
+      "6.02 x 10^23",
+      "6.02 x 10^24",
+      "6.02 x 10^22",
+      "3.01 x 10^23"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Moles CH4 = 1.6/16 = 0.1. Electrons per molecule = 6+4=10. Total electrons = 0.1 * 10 * NA = 1 * NA = 6.02 x 10^23.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "mole concept",
+      "electrons"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q65",
+    "question": "Volume of 0.1 M H2SO4 required to neutralize 30 mL of 0.2 M NaOH is:",
+    "options": [
+      "30 mL",
+      "15 mL",
+      "60 mL",
+      "45 mL"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "N1V1 = N2V2. H2SO4 Normality = 0.2 N. NaOH Normality = 0.2 N. 0.2 * V1 = 0.2 * 30. V1 = 30 mL.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "titration",
+      "stoichiometry"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q66",
+    "question": "Which one of the following has the smallest number of molecules?",
+    "options": [
+      "0.1 mol of CO2 gas",
+      "11.2 L of CO2 gas at STP",
+      "22 g of CO2 gas",
+      "22.4 x 10^3 mL of CO2 gas at STP"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "0.1 mol. 11.2L=0.5 mol. 22g=0.5 mol. 22.4L=1 mol. Smallest is 0.1 mol.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "mole concept"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q67",
+    "question": "A mixture of 2.3 g formic acid and 4.5 g oxalic acid is treated with conc. H2SO4. The evolved gaseous mixture is passed through KOH pellets. Weight (in g) of the remaining product at STP will be:",
+    "options": [
+      "1.4",
+      "3.0",
+      "2.8",
+      "4.4"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Formic acid (HCOOH) -> CO + H2O. Oxalic acid (H2C2O4) -> CO + CO2 + H2O. KOH absorbs CO2. Remaining is CO. Moles HCOOH=2.3/46=0.05 (gives 0.05 CO). Moles Oxalic=4.5/90=0.05 (gives 0.05 CO). Total CO = 0.1 mol. Mass CO = 0.1 * 28 = 2.8 g.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "stoichiometry",
+      "reactions"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q68",
+    "question": "The percentage of nitrogen in urea is about:",
+    "options": [
+      "46%",
+      "85%",
+      "18%",
+      "28%"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Urea NH2CONH2. Molar mass = 60. N mass = 28. % = (28/60)*100 = 46.6%.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "percentage composition"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q69",
+    "question": "Two oxides of a metal contain 50% and 40% metal M respectively. If the formula of the first oxide is MO2, the formula of the second oxide will be:",
+    "options": [
+      "MO2",
+      "MO3",
+      "M2O",
+      "M2O5"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Oxide 1: 50% M, 50% O. Ratio M:O mass = 1:1. Formula MO2 implies M=32 (since O2=32). Oxide 2: 40% M, 60% O. Mass M=32. 40% -> 32g. 100% -> 80g. O mass = 48g. Moles O = 48/16 = 3. Formula MO3.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "empirical formula",
+      "stoichiometry"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q70",
+    "question": "Dissolving 120 g of urea (mol. wt. 60) in 1000 g of water gave a solution of density 1.15 g/mL. The molarity of the solution is:",
+    "options": [
+      "1.78 M",
+      "2.00 M",
+      "2.05 M",
+      "2.22 M"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Moles urea = 2. Total mass = 1120 g. Volume = 1120/1.15 = 973.9 mL = 0.974 L. Molarity = 2/0.974 = 2.05 M.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "molarity",
+      "density"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q71",
+    "question": "Which of the following has the largest mass?",
+    "options": [
+      "0.5 mole of CH4",
+      "0.5 mole of SO2",
+      "0.5 mole of O2",
+      "0.5 mole of CO2"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Mass = moles * MM. CH4(8g), SO2(32g), O2(16g), CO2(22g). SO2 is largest.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "mole concept"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q72",
+    "question": "The number of atoms in 4.25 g of NH3 is approximately:",
+    "options": [
+      "1 x 10^23",
+      "2 x 10^23",
+      "4 x 10^23",
+      "6 x 10^23"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Moles NH3 = 4.25/17 = 0.25. Atoms per molecule = 4. Total atoms = 0.25 * 4 * 6x10^23 = 6x10^23.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "mole concept",
+      "atoms"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q73",
+    "question": "If 30 mL of H2 and 20 mL of O2 react to form water, what is left at the end of the reaction?",
+    "options": [
+      "10 mL of H2",
+      "5 mL of O2",
+      "10 mL of O2",
+      "0 mL of both"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "2H2 + O2 -> 2H2O. 30 mL H2 requires 15 mL O2. 20 mL O2 available. 5 mL O2 remains.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "limiting reagent",
+      "gas volumes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q74",
+    "question": "What is the molarity of pure water (density = 1 g/mL)?",
+    "options": [
+      "1 M",
+      "18 M",
+      "55.5 M",
+      "100 M"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "1 L water = 1000 g. Moles = 1000/18 = 55.55. Molarity = 55.55 M.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "molarity"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q75",
+    "question": "The ratio of masses of oxygen and nitrogen in a particular gaseous mixture is 1:4. The ratio of number of their molecules is:",
+    "options": [
+      "1:4",
+      "7:32",
+      "1:8",
+      "3:16"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Mass ratio O2:N2 = 1:4. Moles ratio = (1/32) : (4/28) = 1/32 : 1/7 = 7 : 32.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "mole concept",
+      "ratio"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q76",
+    "question": "How many moles of electron weigh 1 kg?",
+    "options": [
+      "6.023 x 10^23",
+      "1 / (9.1 x 10^-31)",
+      "10^8 / (9.1 x 6.023)",
+      "1 / (9.1 x 10^-28 x 6.023)"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Mass of 1 mole e- = 9.1 x 10^-31 kg * 6.022 x 10^23. Moles in 1 kg = 1 / (Mass of 1 mole). = 1 / (9.1x10^-31 * 6.02x10^23) = 10^8 / (9.1 * 6.02).",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "mole concept",
+      "electrons"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q77",
+    "question": "Which of the following contains the same number of molecules as 16 g of Oxygen?",
+    "options": [
+      "16 g of O3",
+      "16 g of SO2",
+      "32 g of SO2",
+      "32 g of O3"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "16g O2 = 0.5 mol. 32g SO2 = 32/64 = 0.5 mol.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "mole concept"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q78",
+    "question": "The number of gram molecules of oxygen in 6.02 x 10^24 CO molecules is:",
+    "options": [
+      "10 g molecules",
+      "5 g molecules",
+      "1 g molecule",
+      "0.5 g molecules"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Moles CO = 10. Each CO has 1 O atom. Total O atoms = 10 moles. O2 molecules (gram molecules) = 10/2 = 5.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "mole concept"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q79",
+    "question": "The molarity of a solution obtained by mixing 750 mL of 0.5 M HCl with 250 mL of 2 M HCl will be:",
+    "options": [
+      "0.875 M",
+      "1.00 M",
+      "1.75 M",
+      "0.975 M"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "M = (M1V1 + M2V2)/(V1+V2) = (0.5*750 + 2*250)/1000 = (375 + 500)/1000 = 875/1000 = 0.875 M.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "molarity",
+      "mixing"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q80",
+    "question": "For the reaction A + 2B -> C, 5 moles of A and 8 moles of B will produce:",
+    "options": [
+      "5 moles of C",
+      "4 moles of C",
+      "8 moles of C",
+      "13 moles of C"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "B is limiting (needs 10 B for 5 A, have 8). 8 moles B produce 4 moles C.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "limiting reagent"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q81",
+    "question": "What is the mass of precipitate formed when 50 mL of 16.9% solution of AgNO3 is mixed with 50 mL of 5.8% NaCl solution?",
+    "options": [
+      "28 g",
+      "3.5 g",
+      "7 g",
+      "14 g"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "16.9% means 16.9g/100mL. 50mL has 8.45g AgNO3 (0.05 mol). 5.8% means 5.8g/100mL. 50mL has 2.9g NaCl (0.05 mol). AgCl formed = 0.05 mol. Mass = 0.05 * 143.5 = 7.175 g -> approx 7 g.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "stoichiometry",
+      "precipitation"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q82",
+    "question": "The number of moles of oxygen in 1 L of air containing 21% oxygen by volume, under standard conditions, is:",
+    "options": [
+      "0.0093 mol",
+      "2.10 mol",
+      "0.186 mol",
+      "0.21 mol"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Vol O2 = 0.21 L. Moles = 0.21 / 22.4 = 0.009375 mol.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "mole concept",
+      "gas volume"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q83",
+    "question": "Which of the following is dependent on temperature?",
+    "options": [
+      "Weight percentage",
+      "Molality",
+      "Molarity",
+      "Mole fraction"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Molarity depends on volume, which changes with temperature.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "concentration terms"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q84",
+    "question": "The equivalent weight of H3PO4 in the reaction H3PO4 + 2NaOH -> Na2HPO4 + 2H2O is:",
+    "options": [
+      "98",
+      "49",
+      "32.66",
+      "24.5"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "2 Hydrogens are replaced. n-factor = 2. Eq Wt = M/2 = 98/2 = 49.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "equivalent weight"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q85",
+    "question": "A metal oxide has the formula Z2O3. It can be reduced by hydrogen to give free metal and water. 0.1596 g of the metal oxide requires 6 mg of hydrogen for complete reduction. The atomic weight of the metal is:",
+    "options": [
+      "27.9",
+      "159.6",
+      "79.8",
+      "55.8"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Z2O3 + 3H2 -> 2Z + 3H2O. 6mg H2 = 0.003 mol. Moles Z2O3 = 0.001. Mass = 0.1596 g. MM = 159.6. 2Z + 48 = 159.6. 2Z = 111.6. Z = 55.8.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "stoichiometry",
+      "atomic mass"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q86",
+    "question": "100 mL of PH3 on decomposition produced phosphorus and hydrogen. The change in volume is:",
+    "options": [
+      "50 mL increase",
+      "500 mL decrease",
+      "900 mL decrease",
+      "Nil"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "4PH3(g) -> P4(s) + 6H2(g). 4 vol -> 6 vol. Increase = 2 vol. For 100 mL (4 vol), increase is 50 mL.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "stoichiometry",
+      "gas volumes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q87",
+    "question": "The number of moles of KMnO4 reduced by one mole of KI in alkaline medium is:",
+    "options": [
+      "1",
+      "2",
+      "5",
+      "1/6"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "In alkaline medium: 2KMnO4 + KI + H2O -> 2MnO2 + KIO3 + 2KOH. 2 mol KMnO4 react with 1 mol KI.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "stoichiometry",
+      "redox"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q88",
+    "question": "How many moles of magnesium phosphate, Mg3(PO4)2 will contain 0.25 mole of oxygen atoms?",
+    "options": [
+      "0.02",
+      "3.125 x 10^-2",
+      "1.25 x 10^-2",
+      "2.5 x 10^-2"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "1 mol Mg3(PO4)2 has 8 mol O. Moles compound = 0.25 / 8 = 0.03125 = 3.125 x 10^-2.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "mole concept"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q89",
+    "question": "Volume of CO2 obtained at STP by the complete reaction of 2.5 g CaCO3 with excess HCl is:",
+    "options": [
+      "2.24 L",
+      "1.12 L",
+      "0.84 L",
+      "0.56 L"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "CaCO3 + 2HCl -> CaCl2 + H2O + CO2. Moles CaCO3 = 2.5/100 = 0.025. Vol CO2 = 0.025 * 22.4 = 0.56 L.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "stoichiometry"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q90",
+    "question": "The number of molecules in 18 mg of water is:",
+    "options": [
+      "6.02 x 10^23",
+      "6.02 x 10^20",
+      "6.02 x 10^21",
+      "6.02 x 10^19"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "18 mg = 0.018 g. Moles = 0.001. Molecules = 6.02 x 10^20.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "mole concept"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q91",
+    "question": "A mixture of 1.0 mole of Al and 3.0 mole of Cl2 are allowed to react as: 2Al(s) + 3Cl2(g) -> 2AlCl3(s). Then moles of excess reagent left is:",
+    "options": [
+      "1.5 mol Cl2",
+      "0.5 mol Al",
+      "1.0 mol Al",
+      "0 mol"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Ratio required Al:Cl2 is 2:3. We have 1:3. Al is limiting. 1 mol Al requires 1.5 mol Cl2. Wait, 2 Al requires 3 Cl2. 1 Al requires 1.5 Cl2. We have 3 Cl2. So Cl2 is excess. Amount used = 1.5. Amount left = 1.5 mol Cl2. Let's recheck. 2Al + 3Cl2. 1 mol Al needs 1.5 mol Cl2. We have 3.0 mol Cl2. Excess Cl2 = 3.0 - 1.5 = 1.5 mol. Correct option is A.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "limiting reagent"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q92",
+    "question": "A metal M forms a chloride in which the metal is 20% by weight. The equivalent weight of the metal will be:",
+    "options": [
+      "8.87",
+      "35.5",
+      "7.1",
+      "17.75"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Mass Metal = 20g, Mass Cl = 80g. Eq Wt Metal / Eq Wt Cl = Mass Metal / Mass Cl. E / 35.5 = 20 / 80. E = 35.5 / 4 = 8.875.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "equivalent weight"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q93",
+    "question": "What volume of 98% H2SO4 solution (density 1.84 g/mL) is required to prepare 5 L of 0.5 M H2SO4 solution?",
+    "options": [
+      "136 mL",
+      "13.6 mL",
+      "27.2 mL",
+      "68 mL"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Molarity = (98 * 1.84 * 10) / 98 = 18.4 M. M1V1 = M2V2. 18.4 * V1 = 0.5 * 5000. V1 = 2500 / 18.4 = 135.8 mL.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "molarity",
+      "dilution"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q94",
+    "question": "25.4 g of I2 and 14.2 g of Cl2 are made to react completely to yield a mixture of ICl and ICl3. Calculate the number of moles of ICl and ICl3 formed.",
+    "options": [
+      "0.1 mol, 0.1 mol",
+      "0.5 mol, 0.5 mol",
+      "0.2 mol, 0.2 mol",
+      "0.1 mol, 0.05 mol"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Moles I2 = 25.4/254 = 0.1. Moles Cl2 = 14.2/71 = 0.2. Let x mol ICl and y mol ICl3. I balance: x+y = 2*0.1 = 0.2. Cl balance: x+3y = 2*0.2 = 0.4. Subtract: 2y = 0.2 -> y=0.1. x=0.1.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "stoichiometry",
+      "mixture analysis"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q95",
+    "question": "A mixture of HCOOH and H2C2O4 is heated with conc. H2SO4. The gas produced is collected and on treating with KOH solution, the volume of the gas decreases by 1/6th. Calculate the molar ratio of the two acids in the original mixture.",
+    "options": [
+      "4:1",
+      "1:4",
+      "3:1",
+      "1:3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "HCOOH -> CO + H2O. H2C2O4 -> CO + CO2 + H2O. Let a mol HCOOH, b mol H2C2O4. Gases: CO (a+b), CO2 (b). Total vol V = a+2b. KOH absorbs CO2 (b). Decrease = b. Given b = (1/6)(a+2b). 6b = a+2b. 4b = a. a/b = 4/1.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "stoichiometry",
+      "gas analysis"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q96",
+    "question": "1 g of a carbonate (M2CO3) on treatment with excess HCl produces 0.01186 mole of CO2. The molar mass of M2CO3 is:",
+    "options": [
+      "84.3 g/mol",
+      "118.6 g/mol",
+      "19.7 g/mol",
+      "100 g/mol"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "M2CO3 + 2HCl -> 2MCl + H2O + CO2. Moles M2CO3 = Moles CO2 = 0.01186. Molar Mass = Mass/Moles = 1 / 0.01186 = 84.31 g/mol.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "stoichiometry",
+      "molar mass"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q97",
+    "question": "The density of 3 M solution of Na2S2O3 is 1.25 g/mL. Calculate the percent by weight of Na2S2O3.",
+    "options": [
+      "37.92%",
+      "47.4%",
+      "15.8%",
+      "30.5%"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Molar mass Na2S2O3 = 158. Mass of 1 L solution = 1250 g. Mass of solute = 3 * 158 = 474 g. % w/w = (474/1250)*100 = 37.92%.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "concentration terms",
+      "percentage composition"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q98",
+    "question": "How many milliliters of 0.5 M H2SO4 are needed to dissolve 0.5 g of copper(II) carbonate?",
+    "options": [
+      "8.1 mL",
+      "16.2 mL",
+      "4.05 mL",
+      "20 mL"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "CuCO3 + H2SO4 -> CuSO4 + H2O + CO2. Moles CuCO3 = 0.5/123.5 = 0.00405. Moles H2SO4 needed = 0.00405. Vol = n/M = 0.00405/0.5 = 0.0081 L = 8.1 mL.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "stoichiometry",
+      "titration"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q99",
+    "question": "A 5.0 g sample of a mixture of CaCO3 and SiO2 is heated strongly to decompose CaCO3. After heating, the mass of the residue is 3.9 g. What is the percentage of CaCO3 in the original mixture?",
+    "options": [
+      "50%",
+      "25%",
+      "75%",
+      "40%"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Loss in mass = CO2 evolved = 5.0 - 3.9 = 1.1 g. Moles CO2 = 1.1/44 = 0.025. Moles CaCO3 = 0.025. Mass CaCO3 = 0.025 * 100 = 2.5 g. % = (2.5/5.0)*100 = 50%.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "stoichiometry",
+      "mixture analysis"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q100",
+    "question": "The mole fraction of a solute in a solution is 0.1. At 298 K, molarity of this solution is the same as its molality. Density of this solution at 298 K is 2.0 g/cm3. The ratio of the molecular weights of the solute and solvent (MW_solute / MW_solvent) is:",
+    "options": [
+      "9",
+      "11",
+      "7",
+      "5"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Let moles solute = 1, moles solvent = 9. Molality m = 1 / (9 * M_solv / 1000). Molarity M = 1 / V_soln(L). Given M=m. So V_soln = Mass_solv(kg). Mass_soln / d = Mass_solv. (1*M_solu + 9*M_solv)/2000 = 9*M_solv/1000. M_solu + 9M_solv = 18M_solv. M_solu = 9M_solv. Ratio = 9.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "concentration terms",
+      "advanced"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q101",
+    "question": "10 mL of a gaseous hydrocarbon was burnt completely in 80 mL of O2 at STP. The volume of the remaining gas is 70 mL. The volume became 50 mL on treatment with NaOH. The formula of the hydrocarbon is:",
+    "options": [
+      "C2H4",
+      "C2H6",
+      "C3H8",
+      "CH4"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Vol CO2 = 70 - 50 = 20 mL. Vol O2 used = 80 - 50 = 30 mL. CxHy + (x+y/4)O2 -> xCO2 + y/2H2O. 10 mL CxHy -> 10x CO2. 10x = 20 => x=2. O2 used: 10(x+y/4) = 30. 2 + y/4 = 3. y/4 = 1. y=4. Formula C2H4.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "combustion",
+      "stoichiometry"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q102",
+    "question": "To neutralize completely 20 mL of 0.1 M aqueous solution of phosphorus acid (H3PO3), the volume of 0.1 M aqueous KOH solution required is:",
+    "options": [
+      "10 mL",
+      "40 mL",
+      "60 mL",
+      "20 mL"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "H3PO3 is dibasic. n-factor = 2. Normality = 0.2 N. N1V1 = N2V2. 0.2 * 20 = 0.1 * V2. V2 = 40 mL.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "titration",
+      "acids and bases"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q103",
+    "question": "A sample of H2SO4 (density 1.787 g/mL) is labeled as 86% by weight. What is the molarity of the acid? What volume of the acid has to be used to make 1 L of 0.2 M H2SO4?",
+    "options": [
+      "15.7 M, 12.7 mL",
+      "17.8 M, 11.2 mL",
+      "15.7 M, 127 mL",
+      "12.5 M, 16 mL"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "M = (86 * 1.787 * 10) / 98 = 15.68 M. V = (0.2 * 1000) / 15.68 = 12.75 mL.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "molarity",
+      "dilution"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q104",
+    "question": "The equivalent weight of MnSO4 is half its molecular weight when it is converted to:",
+    "options": [
+      "Mn2O3",
+      "MnO2",
+      "MnO4-",
+      "MnO4(2-)"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "MnSO4 (Mn+2). Eq Wt = MW / n. n=2. Change in ox state must be 2. +2 -> +4 (MnO2).",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "equivalent weight",
+      "redox"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q105",
+    "question": "How many moles of FeC2O4 are required to reduce one mole of KMnO4 in acidic medium?",
+    "options": [
+      "1/5",
+      "5/3",
+      "3/5",
+      "5"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "KMnO4 (n=5). FeC2O4 -> Fe3+ + 2CO2. Fe(+2->+3, n=1), C2O4(-2->2CO2, n=2). Total n for FeC2O4 = 3. Eq KMnO4 = Eq FeC2O4. 1*5 = x*3. x = 5/3.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "redox",
+      "stoichiometry"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q106",
+    "question": "A mixture of N2 and H2 is caused to react in a closed container to form NH3. The reaction ceases before either reactant has been totally consumed. At this stage, 2.0 moles of each N2, H2 and NH3 are present. Then the weight of N2 and H2 present originally were respectively:",
+    "options": [
+      "112 g and 8 g",
+      "84 g and 10 g",
+      "84 g and 8 g",
+      "112 g and 10 g"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "N2 + 3H2 -> 2NH3. 2 mol NH3 formed. Requires 1 mol N2 and 3 mol H2. Remaining: 2 mol N2, 2 mol H2. Initial N2 = 1+2=3 mol (84g). Initial H2 = 3+2=5 mol (10g).",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "stoichiometry",
+      "equilibrium"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q107",
+    "question": "In the reaction 4NH3 + 5O2 -> 4NO + 6H2O, when 1 mole of ammonia and 1 mole of oxygen are made to react to completion:",
+    "options": [
+      "1.0 mole of H2O is produced",
+      "1.0 mole of NO is produced",
+      "All the oxygen is consumed",
+      "All the ammonia is consumed"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Ratio NH3:O2 = 4:5 = 0.8. Given 1:1 = 1.0. O2 is limiting (needs 1.25 O2 for 1 NH3). So all O2 is consumed.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "limiting reagent"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q108",
+    "question": "The mass of carbon anode consumed (giving only CO2) in the production of 270 kg of aluminium metal from bauxite by the Hall process is:",
+    "options": [
+      "180 kg",
+      "270 kg",
+      "90 kg",
+      "360 kg"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "2Al2O3 + 3C -> 4Al + 3CO2. 4 mol Al (108g) requires 3 mol C (36g). Ratio 36/108 = 1/3. For 270 kg Al, C needed = 270/3 = 90 kg.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "stoichiometry",
+      "metallurgy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q109",
+    "question": "Equal volumes of 0.1 M AgNO3 and 0.2 M NaCl are mixed. The concentration of NO3- ions in the mixture will be:",
+    "options": [
+      "0.1 M",
+      "0.05 M",
+      "0.2 M",
+      "0.15 M"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "NO3- comes from AgNO3. Initial M=0.1. Volume doubles. Final M = 0.1/2 = 0.05 M.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "concentration terms",
+      "dilution"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q110",
+    "question": "A 100 mL solution contains 4.9 g of H2SO4 and 4 g of NaOH. The pH of the resulting solution will be:",
+    "options": [
+      "7",
+      "1",
+      "2",
+      "13"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Moles H2SO4 = 4.9/98 = 0.05. Moles H+ = 0.1. Moles NaOH = 4/40 = 0.1. Moles OH- = 0.1. Neutralization is complete. pH = 7.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "titration",
+      "pH"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q111",
+    "question": "What is the molarity of SO4(2-) ions in a solution prepared by dissolving 24.5 g of H2SO4 and 14.2 g of Na2SO4 in water to make 500 mL solution?",
+    "options": [
+      "0.5 M",
+      "0.7 M",
+      "0.2 M",
+      "1.0 M"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Moles H2SO4 = 24.5/98 = 0.25. Moles Na2SO4 = 14.2/142 = 0.1. Total SO4 = 0.35 mol. Vol = 0.5 L. M = 0.35/0.5 = 0.7 M.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "molarity",
+      "ions"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q112",
+    "question": "The atomic weights of two elements A and B are 40 and 80 respectively. If x g of A contains y atoms, how many atoms are present in 2x g of B?",
+    "options": [
+      "y",
+      "2y",
+      "y/2",
+      "y/4"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Moles A = x/40. Atoms = y. Moles B = 2x/80 = x/40. Moles are same, so atoms are same = y.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "mole concept"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q113",
+    "question": "100 mL of O2 and H2 kept at same temperature and pressure have number of molecules in ratio:",
+    "options": [
+      "1:1",
+      "16:1",
+      "1:16",
+      "32:2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Avogadro's Law: Equal volumes of gases at same T and P contain equal number of molecules.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "gas laws"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q114",
+    "question": "A metal oxide contains 53% metal and 47% oxygen. The equivalent weight of metal is:",
+    "options": [
+      "9.02",
+      "18.04",
+      "4.51",
+      "27.06"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Eq Wt = (Mass Metal / Mass Oxygen) * 8 = (53/47) * 8 = 1.127 * 8 = 9.02.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "equivalent weight"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q115",
+    "question": "Volume of water needed to mix with 10 mL 10 N HNO3 to get 0.1 N HNO3 is:",
+    "options": [
+      "1000 mL",
+      "990 mL",
+      "1010 mL",
+      "10 mL"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "N1V1 = N2V2. 10 * 10 = 0.1 * V2. V2 = 1000 mL. Water added = 1000 - 10 = 990 mL.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "dilution"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q116",
+    "question": "The number of moles of BaCO3 which contains 1.5 moles of oxygen atoms is:",
+    "options": [
+      "0.5",
+      "1.0",
+      "3.0",
+      "1.5"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "1 mol BaCO3 has 3 mol O. x mol BaCO3 has 1.5 mol O. 3x = 1.5. x = 0.5.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "mole concept"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q117",
+    "question": "If Avogadro number NA is changed from 6.022 x 10^23 to 6.022 x 10^20, this would change:",
+    "options": [
+      "The definition of mass in units of grams",
+      "The mass of one mole of carbon",
+      "The ratio of chemical species to each other in a balanced equation",
+      "The ratio of elements to each other in a compound"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Mass of 1 mole = Mass of 1 atom * NA. If NA decreases, mass of 1 mole decreases. 1 mole of Carbon would be 12 mg instead of 12 g.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "mole concept"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q118",
+    "question": "Which has maximum number of atoms?",
+    "options": [
+      "24 g C(12)",
+      "56 g Fe(56)",
+      "27 g Al(27)",
+      "108 g Ag(108)"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "C: 24/12=2 mol. Fe: 56/56=1 mol. Al: 27/27=1 mol. Ag: 108/108=1 mol. C has 2 moles.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "mole concept"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q119",
+    "question": "A 0.2 molal aqueous solution of a weak acid (HX) is 20% ionized. The freezing point of the solution is (Kf = 1.86 K kg/mol):",
+    "options": [
+      "-0.45 C",
+      "-0.90 C",
+      "-0.31 C",
+      "-0.53 C"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "i = 1 + alpha(n-1) = 1 + 0.2(2-1) = 1.2. Delta Tf = i * Kf * m = 1.2 * 1.86 * 0.2 = 0.4464. Tf = -0.45 C.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "colligative properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_basic_concepts_q120",
+    "question": "The weight of iron which will be converted into its oxide (Fe3O4) by the action of 18 g of steam on it will be:",
+    "options": [
+      "168 g",
+      "84 g",
+      "42 g",
+      "21 g"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "3Fe + 4H2O -> Fe3O4 + 4H2. 4 mol H2O (72g) reacts with 3 mol Fe (168g). 18g H2O reacts with (168/72)*18 = 168/4 = 42 g.",
+    "subject": "Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "tags": [
+      "stoichiometry"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "basic_concepts",
+    "subjectId": "chemistry"
+  }
+]

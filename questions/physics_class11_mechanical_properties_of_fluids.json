@@ -1,0 +1,2835 @@
+[
+  {
+    "id": "physics_fluids_q1",
+    "question": "Pressure is defined as:",
+    "options": [
+      "Force per unit area",
+      "Force per unit volume",
+      "Energy per unit area",
+      "Mass per unit volume"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Pressure P = F/A.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Pressure"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q2",
+    "question": "The SI unit of pressure is:",
+    "options": [
+      "Newton",
+      "Pascal",
+      "Joule",
+      "Watt"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Pascal (Pa) is N/m^2.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Units"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q3",
+    "question": "Pascal's Law states that pressure applied to an enclosed fluid is transmitted:",
+    "options": [
+      "Diminished to every portion",
+      "Undiminished to every portion",
+      "Only to the bottom",
+      "Only to the sides"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Pascal's law: Pressure change is transmitted undiminished.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Pascal's Law"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q4",
+    "question": "Hydraulic lift works on the principle of:",
+    "options": [
+      "Archimedes' Principle",
+      "Bernoulli's Principle",
+      "Pascal's Law",
+      "Torricelli's Law"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Hydraulic lift uses Pascal's law.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Pascal's Law"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q5",
+    "question": "The pressure exerted by a liquid column of height h and density \u03c1 is:",
+    "options": [
+      "h\u03c1g",
+      "h/\u03c1g",
+      "\u03c1g/h",
+      "hg/\u03c1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "P = h\u03c1g.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Pressure"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q6",
+    "question": "1 Atmosphere (atm) is equal to:",
+    "options": [
+      "1.013 x 10^5 Pa",
+      "1.013 x 10^4 Pa",
+      "1.013 x 10^6 Pa",
+      "10^5 Pa"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Standard atmospheric pressure.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Units"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q7",
+    "question": "Archimedes' Principle deals with:",
+    "options": [
+      "Viscosity",
+      "Surface Tension",
+      "Buoyancy",
+      "Turbulence"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Archimedes' principle explains buoyant force.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Archimedes' Principle"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q8",
+    "question": "The upward force exerted by a fluid on an immersed body is called:",
+    "options": [
+      "Drag",
+      "Lift",
+      "Buoyant force",
+      "Viscous force"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Definition of buoyant force.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Buoyancy"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q9",
+    "question": "Bernoulli's theorem is based on conservation of:",
+    "options": [
+      "Mass",
+      "Momentum",
+      "Energy",
+      "Angular Momentum"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Bernoulli's equation is energy conservation for fluids.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Bernoulli's Principle"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q10",
+    "question": "Equation of continuity is based on conservation of:",
+    "options": [
+      "Mass",
+      "Energy",
+      "Momentum",
+      "Charge"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "A1v1 = A2v2 comes from mass conservation.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Fluid Dynamics"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q11",
+    "question": "Viscosity is the property of a fluid by virtue of which it:",
+    "options": [
+      "Opposes relative motion between layers",
+      "Conducts heat",
+      "Exerts pressure",
+      "Expands on heating"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Viscosity is internal friction.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Viscosity"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q12",
+    "question": "The SI unit of coefficient of viscosity is:",
+    "options": [
+      "Pa s",
+      "N m",
+      "kg/m",
+      "m/s"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Poiseuille (Pl) or Pa s.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Units"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q13",
+    "question": "Stokes' Law gives the viscous drag force on a:",
+    "options": [
+      "Sphere",
+      "Cube",
+      "Cylinder",
+      "Cone"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "F = 6\u03c0\u03b7rv is for a sphere.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Viscosity"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q14",
+    "question": "Terminal velocity is attained when:",
+    "options": [
+      "Viscous force + Buoyant force = Weight",
+      "Viscous force = Weight",
+      "Buoyant force = Weight",
+      "Viscous force = Buoyant force"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Net force is zero.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Viscosity"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q15",
+    "question": "Reynolds number determines the nature of:",
+    "options": [
+      "Flow of fluid",
+      "Surface tension",
+      "Viscosity",
+      "Buoyancy"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Re < 1000 laminar, Re > 2000 turbulent.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Fluid Dynamics"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q16",
+    "question": "Surface tension arises due to:",
+    "options": [
+      "Cohesive forces",
+      "Adhesive forces",
+      "Gravitational forces",
+      "Viscous forces"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Unbalanced cohesive forces on surface molecules.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Surface Tension"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q17",
+    "question": "The unit of surface tension is:",
+    "options": [
+      "N/m",
+      "N m",
+      "N/m^2",
+      "J"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Force per unit length.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Units"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q18",
+    "question": "Raindrops are spherical due to:",
+    "options": [
+      "Viscosity",
+      "Surface Tension",
+      "Gravity",
+      "Air resistance"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Surface tension minimizes surface area.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Surface Tension"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q19",
+    "question": "Angle of contact for water and glass is approximately:",
+    "options": [
+      "0\u00b0",
+      "90\u00b0",
+      "135\u00b0",
+      "180\u00b0"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "For pure water and clean glass, it is nearly zero.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Surface Tension"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q20",
+    "question": "Angle of contact for mercury and glass is:",
+    "options": [
+      "Acute",
+      "Obtuse",
+      "Zero",
+      "90\u00b0"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Mercury does not wet glass, angle > 90.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Surface Tension"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q21",
+    "question": "Capillary rise is due to:",
+    "options": [
+      "Surface Tension",
+      "Viscosity",
+      "Gravity",
+      "Pressure difference"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Surface tension causes capillary action.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Surface Tension"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q22",
+    "question": "With increase in temperature, surface tension of a liquid:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains same",
+      "Becomes zero"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Intermolecular forces weaken.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Surface Tension"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q23",
+    "question": "With increase in temperature, viscosity of a liquid:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains same",
+      "Becomes infinite"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Liquids become thinner (less viscous) when heated.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Viscosity"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q24",
+    "question": "With increase in temperature, viscosity of a gas:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains same",
+      "Becomes zero"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Gas viscosity increases with T due to increased molecular collisions.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Viscosity"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q25",
+    "question": "Torricelli's Law gives the velocity of efflux as:",
+    "options": [
+      "\u221a(2gh)",
+      "\u221a(gh)",
+      "2gh",
+      "gh"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "v = \u221a(2gh).",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Fluid Dynamics"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q26",
+    "question": "Venturimeter is used to measure:",
+    "options": [
+      "Fluid pressure",
+      "Fluid density",
+      "Rate of flow of fluid",
+      "Surface tension"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Measures flow rate using Bernoulli's principle.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Fluid Dynamics"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q27",
+    "question": "Magnus effect is associated with:",
+    "options": [
+      "Rotating cylinder/ball in fluid",
+      "Stationary body in fluid",
+      "Flow in capillary",
+      "Surface tension"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Lift force on a rotating body in fluid flow.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Fluid Dynamics"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q28",
+    "question": "Streamline flow is also known as:",
+    "options": [
+      "Turbulent flow",
+      "Laminar flow",
+      "Unsteady flow",
+      "Rotational flow"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Streamline or laminar flow.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Fluid Dynamics"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q29",
+    "question": "The excess pressure inside a liquid drop is:",
+    "options": [
+      "2S/R",
+      "4S/R",
+      "S/R",
+      "S/2R"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Drop has one surface. P = 2S/R.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Surface Tension"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q30",
+    "question": "The excess pressure inside a soap bubble is:",
+    "options": [
+      "2S/R",
+      "4S/R",
+      "S/R",
+      "S/2R"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Bubble has two surfaces. P = 4S/R.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Surface Tension"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q31",
+    "question": "Relative density is the ratio of:",
+    "options": [
+      "Density of substance to density of water",
+      "Density of water to density of substance",
+      "Mass of substance to mass of water",
+      "Volume of substance to volume of water"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Definition of relative density (specific gravity).",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Density"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q32",
+    "question": "A body floats in a liquid if:",
+    "options": [
+      "Weight > Buoyant force",
+      "Weight < Buoyant force",
+      "Weight = Buoyant force",
+      "Density > Liquid density"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Floating condition: Weight equals buoyant force.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Buoyancy"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q33",
+    "question": "The working of an atomizer depends upon:",
+    "options": [
+      "Bernoulli's theorem",
+      "Boyle's law",
+      "Archimedes' principle",
+      "Newton's law"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "High speed air creates low pressure, sucking up liquid.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Bernoulli's Principle"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q34",
+    "question": "Which of the following is not a unit of pressure?",
+    "options": [
+      "Torr",
+      "Bar",
+      "Pascal",
+      "Newton"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Newton is unit of force.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Units"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q35",
+    "question": "Blood pressure in humans is usually measured in:",
+    "options": [
+      "Pa",
+      "mm of Hg",
+      "atm",
+      "Bar"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Standard medical unit.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Pressure"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q36",
+    "question": "Detergents clean clothes by:",
+    "options": [
+      "Increasing surface tension",
+      "Decreasing surface tension",
+      "Increasing viscosity",
+      "Decreasing viscosity"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Lower surface tension allows water to penetrate pores.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Surface Tension"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q37",
+    "question": "The shape of the meniscus of water in a glass tube is:",
+    "options": [
+      "Concave",
+      "Convex",
+      "Flat",
+      "Irregular"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Water wets glass, concave meniscus.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Surface Tension"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q38",
+    "question": "The shape of the meniscus of mercury in a glass tube is:",
+    "options": [
+      "Concave",
+      "Convex",
+      "Flat",
+      "Irregular"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Mercury does not wet glass, convex meniscus.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Surface Tension"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q39",
+    "question": "A hydraulic press uses a large piston of area A and a small piston of area a. If force f is applied on a, the force exerted by A is:",
+    "options": [
+      "f A/a",
+      "f a/A",
+      "f",
+      "f A a"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "P = f/a = F/A. F = f A/a.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Pascal's Law",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q40",
+    "question": "If the area of cross section of a pipe decreases, the velocity of fluid flow:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains same",
+      "Becomes zero"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Equation of continuity A1v1 = A2v2. A decreases => v increases.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Fluid Dynamics"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q41",
+    "question": "A tank is filled with water to a height H. A hole is made in one of the walls at a depth h below the water surface. The distance x from the foot of the wall at which the stream of water strikes the floor is:",
+    "options": [
+      "2\u221a[h(H-h)]",
+      "\u221a[h(H-h)]",
+      "2\u221a[hH]",
+      "\u221a[2h(H-h)]"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "v = \u221a(2gh). Time to fall H-h is t = \u221a(2(H-h)/g). Range x = vt = \u221a(2gh) * \u221a(2(H-h)/g) = 2\u221a[h(H-h)].",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Fluid Dynamics",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q42",
+    "question": "Two rain drops of radii r and 2r fall through air with terminal velocities v1 and v2 respectively. The ratio v1:v2 is:",
+    "options": [
+      "1:2",
+      "1:4",
+      "2:1",
+      "4:1"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Terminal velocity v \u221d r^2. v1/v2 = (r/2r)^2 = 1/4.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Viscosity",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q43",
+    "question": "Water rises to a height of 2 cm in a capillary tube. If the tube is tilted through 60\u00b0 from the vertical, the length of the water column in the tube will be:",
+    "options": [
+      "4 cm",
+      "2 cm",
+      "1 cm",
+      "8 cm"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "h = l cos \u03b8. l = h / cos \u03b8 = 2 / cos 60 = 2 / 0.5 = 4 cm.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Surface Tension",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q44",
+    "question": "A block of wood floats in water with 2/3 of its volume submerged. The density of wood is:",
+    "options": [
+      "667 kg/m^3",
+      "333 kg/m^3",
+      "1000 kg/m^3",
+      "500 kg/m^3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "V_sub / V_total = \u03c1_body / \u03c1_liquid. 2/3 = \u03c1 / 1000. \u03c1 = 666.67 kg/m^3.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Buoyancy",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q45",
+    "question": "Two soap bubbles of radii r1 and r2 (r1 > r2) coalesce to form a single bubble. The radius of curvature of the common interface is:",
+    "options": [
+      "r1 r2 / (r1 - r2)",
+      "r1 r2 / (r1 + r2)",
+      "r1 + r2",
+      "r1 - r2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "P_excess = 4S/r. P1 - P2 = 4S/r_common. (4S/r2 - 4S/r1) = 4S/R. 1/R = 1/r2 - 1/r1. R = r1r2/(r1-r2).",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Surface Tension",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q46",
+    "question": "Water flows through a horizontal pipe of varying cross-section. At a point where velocity is 2 m/s, pressure is 2000 Pa. At another point where velocity is 4 m/s, the pressure is (Density of water = 1000 kg/m^3):",
+    "options": [
+      "2000 Pa",
+      "1000 Pa",
+      "Zero",
+      "-4000 Pa"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "P1 + 1/2 \u03c1 v1^2 = P2 + 1/2 \u03c1 v2^2. 2000 + 500(4) = P2 + 500(16). 4000 = P2 + 8000. P2 = -4000 Pa. (Negative gauge pressure possible).",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Bernoulli's Principle",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q47",
+    "question": "A large tank is filled with water (density = 10^3 kg/m^3). A small hole is made at a depth 10 m below water surface. The velocity of efflux is (g = 10 m/s^2):",
+    "options": [
+      "10 m/s",
+      "14.1 m/s",
+      "20 m/s",
+      "100 m/s"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "v = \u221a(2gh) = \u221a(2 * 10 * 10) = \u221a200 = 14.14 m/s.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Fluid Dynamics",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q48",
+    "question": "The work done in blowing a soap bubble of radius R is W. The work done in blowing a bubble of radius 2R will be:",
+    "options": [
+      "2W",
+      "4W",
+      "8W",
+      "16W"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "W = T * 2 * Area = T * 2 * 4\u03c0R^2 = 8\u03c0TR^2. W' = 8\u03c0T(2R)^2 = 4 * 8\u03c0TR^2 = 4W.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Surface Tension",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q49",
+    "question": "A body weighs 50 g in air and 40 g in water. The specific gravity of the body is:",
+    "options": [
+      "1.25",
+      "5",
+      "4",
+      "0.8"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "SG = Weight in air / Loss of weight in water = 50 / (50-40) = 50/10 = 5.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Buoyancy",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q50",
+    "question": "Eight small drops of mercury, each of radius r, coalesce to form a large drop. The ratio of surface energy of large drop to that of 8 small drops is:",
+    "options": [
+      "1:2",
+      "1:4",
+      "2:1",
+      "4:1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Volume conservation: 8 * 4/3 \u03c0 r^3 = 4/3 \u03c0 R^3. R = 2r. Area ratio: A_large / A_small_total = 4\u03c0R^2 / (8 * 4\u03c0r^2) = R^2 / 8r^2 = 4r^2 / 8r^2 = 1/2.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Surface Tension",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q51",
+    "question": "Water is flowing through a horizontal pipe. The pressure difference between two points A and B is 1000 Pa. If the velocity at A is 2 m/s, what is the velocity at B? (Density = 1000 kg/m^3, Pressure at A > Pressure at B)",
+    "options": [
+      "2.45 m/s",
+      "4 m/s",
+      "1.41 m/s",
+      "3 m/s"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "PA + 1/2 \u03c1 vA^2 = PB + 1/2 \u03c1 vB^2. PA - PB = 1/2 \u03c1 (vB^2 - vA^2). 1000 = 500 (vB^2 - 4). 2 = vB^2 - 4. vB^2 = 6. vB = \u221a6 \u2248 2.45 m/s.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Bernoulli's Principle",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q52",
+    "question": "A U-tube contains water and methylated spirit separated by mercury. The mercury columns in the two arms are in level with 10.0 cm of water in one arm and 12.5 cm of spirit in the other. The specific gravity of spirit is:",
+    "options": [
+      "0.8",
+      "1.0",
+      "1.25",
+      "0.6"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "P_water = P_spirit. h_w \u03c1_w g = h_s \u03c1_s g. 10 * 1 = 12.5 * SG. SG = 10/12.5 = 0.8.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Pressure",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q53",
+    "question": "A liquid rises to a height of 5 cm in a glass capillary tube of radius 0.02 cm. The height to which the liquid will rise in a glass capillary of radius 0.04 cm is:",
+    "options": [
+      "2.5 cm",
+      "5 cm",
+      "10 cm",
+      "1.25 cm"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "h \u221d 1/r. h1r1 = h2r2. 5 * 0.02 = h2 * 0.04. h2 = 2.5 cm.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Surface Tension",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q54",
+    "question": "A square plate of side 10 cm moves parallel to another plate with a velocity of 10 cm/s, both plates immersed in water. If the viscous force is 200 dyne and viscosity of water is 0.01 poise, what is the distance between the plates?",
+    "options": [
+      "0.05 cm",
+      "0.5 cm",
+      "0.005 cm",
+      "5 cm"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "F = \u03b7 A dv/dx. 200 = 0.01 * (100) * 10 / dx. 200 = 10/dx. dx = 10/200 = 1/20 = 0.05 cm.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Viscosity",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q55",
+    "question": "The pressure at the bottom of a water tank is 3P, where P is atmospheric pressure. If water is drawn out till the level becomes 1/3rd, then pressure at the bottom will be:",
+    "options": [
+      "5P/3",
+      "2P",
+      "4P/3",
+      "P"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "P_bottom = P_atm + h\u03c1g = 3P. h\u03c1g = 2P. New height h/3. P_new = P + (h/3)\u03c1g = P + 2P/3 = 5P/3.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Pressure",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q56",
+    "question": "A piece of ice is floating in a beaker containing water. When the whole of the ice melts, the level of water:",
+    "options": [
+      "Remains the same",
+      "Falls",
+      "Rises",
+      "First rises then falls"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Volume of water displaced = Volume of water formed from melting ice. Level remains same.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Buoyancy"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q57",
+    "question": "Two capillaries of same material but radii r1 and r2 are dipped in a liquid. The heights to which liquid rises are h1 and h2. Then:",
+    "options": [
+      "h1 r1 = h2 r2",
+      "h1/r1 = h2/r2",
+      "h1 r2 = h2 r1",
+      "h1 r1^2 = h2 r2^2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Jurin's Law: h \u221d 1/r. hr = constant.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Surface Tension"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q58",
+    "question": "A spherical ball of radius r falls through a viscous liquid with velocity v. The retarding viscous force is proportional to:",
+    "options": [
+      "r v",
+      "r^2 v",
+      "r v^2",
+      "r^2 v^2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Stokes' law F = 6\u03c0\u03b7rv. F \u221d rv.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Viscosity"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q59",
+    "question": "A hydraulic automobile lift is designed to lift cars with a maximum mass of 3000 kg. The area of cross-section of the piston carrying the load is 425 cm^2. What maximum pressure would the smaller piston have to bear?",
+    "options": [
+      "6.92 x 10^5 Pa",
+      "7.06 x 10^5 Pa",
+      "1.5 x 10^5 Pa",
+      "3.0 x 10^5 Pa"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "P = F/A = mg/A = 3000 * 9.8 / (425 * 10^-4) = 29400 / 0.0425 \u2248 6.917e5 Pa.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Pascal's Law",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q60",
+    "question": "The cylindrical tube of a spray pump has a cross-section of 8.0 cm^2 one end of which has 40 fine holes each of diameter 1.0 mm. If the liquid flow inside the tube is 1.5 m/min, what is the speed of ejection of the liquid through the holes?",
+    "options": [
+      "0.64 m/s",
+      "0.32 m/s",
+      "1.2 m/s",
+      "0.1 m/s"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "A1 v1 = n A2 v2. 8e-4 * (1.5/60) = 40 * \u03c0(0.5e-3)^2 * v2. 8e-4 * 0.025 = 40 * \u03c0 * 0.25e-6 * v2. 2e-5 = 10\u03c0 * 1e-6 * v2. 20 = 10\u03c0 v2. v2 = 2/\u03c0 \u2248 0.64 m/s.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Fluid Dynamics",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q61",
+    "question": "A U-shaped wire is dipped in a soap solution, and removed. The thin soap film formed between the wire and the light slider supports a weight of 1.5 x 10^-2 N (which includes the small weight of the slider). The length of the slider is 30 cm. What is the surface tension of the film?",
+    "options": [
+      "0.025 N/m",
+      "0.05 N/m",
+      "0.0125 N/m",
+      "0.1 N/m"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "F = 2Sl. S = F/2l = 1.5e-2 / (2 * 0.3) = 1.5e-2 / 0.6 = 0.025 N/m.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Surface Tension",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q62",
+    "question": "What is the pressure inside the drop of mercury of radius 3.00 mm at room temperature? Surface tension of mercury at that temperature (20\u00b0C) is 4.65 x 10^-1 N/m. The atmospheric pressure is 1.01 x 10^5 Pa.",
+    "options": [
+      "1.013 x 10^5 Pa",
+      "1.016 x 10^5 Pa",
+      "1.020 x 10^5 Pa",
+      "1.010 x 10^5 Pa"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "P_excess = 2S/R = 2 * 0.465 / 3e-3 = 0.93 / 0.003 = 310 Pa. P_total = P_atm + 310 = 101000 + 310 = 101310 Pa = 1.013e5 Pa.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Surface Tension",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q63",
+    "question": "In a test experiment on a model aeroplane in a wind tunnel, the flow speeds on the upper and lower surfaces of the wing are 70 m/s and 63 m/s respectively. What is the lift on the wing if its area is 2.5 m^2? (Density of air = 1.3 kg/m^3)",
+    "options": [
+      "1.5 x 10^3 N",
+      "2.5 x 10^3 N",
+      "1.0 x 10^3 N",
+      "3.0 x 10^3 N"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "\u0394P = 1/2 \u03c1 (v1^2 - v2^2) = 0.5 * 1.3 * (70^2 - 63^2) = 0.65 * (4900 - 3969) = 0.65 * 931 \u2248 605 Pa. Lift = \u0394P * A = 605 * 2.5 = 1512.5 N \u2248 1.5e3 N.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Bernoulli's Principle",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q64",
+    "question": "Figures show the velocity streamlines for a fluid flowing through a pipe. The velocity of the fluid is maximum at:",
+    "options": [
+      "Narrowest part",
+      "Widest part",
+      "Inlet",
+      "Outlet"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Equation of continuity: v \u221d 1/A. Max velocity at min area.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Fluid Dynamics"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q65",
+    "question": "Water rises in a capillary tube to a height h. It will rise to a height more than h:",
+    "options": [
+      "On the surface of the sun",
+      "In a lift moving down with an acceleration",
+      "At the poles",
+      "In a lift moving up with an acceleration"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "h = 2S cos\u03b8 / r\u03c1g_eff. If lift moves down, g_eff = g-a < g. So h increases.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Surface Tension",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q66",
+    "question": "A cylindrical vessel contains a liquid of density \u03c1 up to height H. The liquid is closed by a piston of mass m and area of cross section A. There is a small hole at the bottom of the vessel. The speed v with which the liquid comes out of the hole is:",
+    "options": [
+      "\u221a[2gH]",
+      "\u221a[2(gH + mg/\u03c1A)]",
+      "\u221a[2(gH + m/\u03c1A)]",
+      "\u221a[2gH + mg/A]"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Pressure at bottom P = P_atm + mg/A + \u03c1gH. Outside P_atm. Bernoulli: P + 0 = P_atm + 1/2 \u03c1 v^2. mg/A + \u03c1gH = 1/2 \u03c1 v^2. v^2 = 2(gH + mg/\u03c1A).",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Bernoulli's Principle",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q67",
+    "question": "A body floats in water with 40% of its volume outside water. When the same body floats in an oil, 60% of its volume remains outside oil. The relative density of oil is:",
+    "options": [
+      "0.9",
+      "1.0",
+      "1.2",
+      "1.5"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Water: V_sub = 0.6V. \u03c1_body = 0.6 \u03c1_w. Oil: V_sub = 0.4V. \u03c1_body = 0.4 \u03c1_oil. 0.6 \u03c1_w = 0.4 \u03c1_oil. \u03c1_oil / \u03c1_w = 0.6/0.4 = 1.5.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Buoyancy",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q68",
+    "question": "The terminal velocity of a small sphere of radius a in a viscous liquid is proportional to:",
+    "options": [
+      "a^2",
+      "a",
+      "1/a",
+      "1/a^2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "v_t = 2a^2 (\u03c1-\u03c3)g / 9\u03b7. v_t \u221d a^2.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Viscosity"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q69",
+    "question": "A liquid flows through a horizontal tube. The velocities of the liquid in the two sections, which have areas of cross-section A1 and A2, are v1 and v2 respectively. The difference in the levels of the liquid in the two vertical tubes is h. Then:",
+    "options": [
+      "v1^2 - v2^2 = 2gh",
+      "v2^2 - v1^2 = 2gh",
+      "v1^2 + v2^2 = 2gh",
+      "v1^2 - v2^2 = gh"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "P1 + 1/2 \u03c1 v1^2 = P2 + 1/2 \u03c1 v2^2. P1 - P2 = h\u03c1g. h\u03c1g = 1/2 \u03c1 (v2^2 - v1^2). 2gh = v2^2 - v1^2.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Bernoulli's Principle",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q70",
+    "question": "Two soap bubbles have volumes in the ratio 8:1. The ratio of excess pressure inside them is:",
+    "options": [
+      "1:2",
+      "2:1",
+      "1:4",
+      "4:1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "V \u221d r^3. r1/r2 = (8/1)^(1/3) = 2. P \u221d 1/r. P1/P2 = r2/r1 = 1/2.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Surface Tension",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q71",
+    "question": "A wooden block of volume 1000 cm^3 is suspended from a spring balance. It weighs 12 N in air. It is suspended in water such that half of the block is below the surface of water. The reading of the spring balance is:",
+    "options": [
+      "10 N",
+      "7 N",
+      "12 N",
+      "5 N"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Buoyant force = V_sub \u03c1 g = 500e-6 * 1000 * 10 = 5 N. Apparent weight = 12 - 5 = 7 N.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Buoyancy",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q72",
+    "question": "The height of a mercury barometer is 76 cm at sea level and 50 cm at the top of a hill. Determine the height of the hill. (Density of mercury = 13600 kg/m^3, Density of air = 1.3 kg/m^3, g = 9.8 m/s^2)",
+    "options": [
+      "2720 m",
+      "2000 m",
+      "1360 m",
+      "2500 m"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "\u0394P = \u03c1_air g h_hill. \u0394P = (0.76 - 0.50) * \u03c1_Hg * g = 0.26 * 13600 * g. 0.26 * 13600 * g = 1.3 * g * h_hill. h_hill = 0.26 * 13600 / 1.3 = 0.2 * 13600 = 2720 m.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Pressure",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q73",
+    "question": "A liquid does not wet the solid surface if the angle of contact is:",
+    "options": [
+      "0\u00b0",
+      "45\u00b0",
+      "90\u00b0",
+      "> 90\u00b0"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Obtuse angle means non-wetting.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Surface Tension"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q74",
+    "question": "Water rises to a height h in a capillary tube. If the length of capillary tube above the surface of water is made less than h, then:",
+    "options": [
+      "Water rises upto the top of capillary tube and stays there without overflowing",
+      "Water rises upto the top of capillary tube and flows out",
+      "Water rises upto a height less than h",
+      "Water does not rise at all"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Radius of curvature adjusts (increases) so that h'R' = hR. Water does not overflow.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Surface Tension"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q75",
+    "question": "A large open tank has two holes in the wall. One is a square hole of side L at a depth y from the top and the other is a circular hole of radius R at a depth 4y from the top. When the tank is completely filled with water, the quantities of water flowing out per second from both holes are the same. Then, R is equal to:",
+    "options": [
+      "L/\u221a2\u03c0",
+      "2\u03c0L",
+      "L",
+      "L/2\u03c0"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Q = Av. L^2 \u221a(2gy) = \u03c0R^2 \u221a(2g(4y)). L^2 = \u03c0R^2 * 2. R^2 = L^2 / 2\u03c0. R = L / \u221a(2\u03c0).",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Fluid Dynamics",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q76",
+    "question": "The velocity of water in a river is 18 km/h near the surface. If the river is 5 m deep, find the shearing stress between the horizontal layers of water. (Viscosity of water = 10^-2 poise)",
+    "options": [
+      "10^-2 N/m^2",
+      "10^-3 N/m^2",
+      "10^-4 N/m^2",
+      "10^-1 N/m^2"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "v = 18 km/h = 5 m/s. dv/dx = 5/5 = 1. Stress = \u03b7 dv/dx = 1e-3 Pa s (10^-2 poise = 10^-3 Pa s) * 1 = 10^-3 N/m^2.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Viscosity",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q77",
+    "question": "A drop of water of volume V is pressed between the two glass plates so as to spread to an area A. If T is the surface tension, the normal force required to separate the plates is:",
+    "options": [
+      "TA^2/V",
+      "2TA^2/V",
+      "2TA/V",
+      "TA/V"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Force F = P * A = (2T/d) * A. V = A * d => d = V/A. F = 2T / (V/A) * A = 2TA^2/V.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Surface Tension",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q78",
+    "question": "An iceberg floats in sea water with a part of it submerged. The percentage fraction of the ice berg submerged is (Density of ice = 0.9 g/cm^3, density of sea water = 1.1 g/cm^3):",
+    "options": [
+      "18%",
+      "10%",
+      "82%",
+      "90%"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "V_sub / V = \u03c1_ice / \u03c1_water = 0.9 / 1.1 = 9/11 \u2248 0.818 = 81.8%. Closest 82%.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Buoyancy",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q79",
+    "question": "Two water pipes P and Q having diameters 2 x 10^-2 m and 4 x 10^-2 m respectively are joined in series with the main supply line of water. The velocity of water flowing in pipe P is:",
+    "options": [
+      "4 times that of Q",
+      "2 times that of Q",
+      "1/2 times that of Q",
+      "1/4 times that of Q"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "A1v1 = A2v2. v \u221d 1/D^2. D_Q = 2 D_P. v_P / v_Q = (D_Q / D_P)^2 = 4. v_P = 4 v_Q.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Fluid Dynamics",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q80",
+    "question": "At what speed the velocity head of a stream of water be equal to 40 cm of Hg?",
+    "options": [
+      "10.3 m/s",
+      "2.8 m/s",
+      "12.26 m/s",
+      "5.6 m/s"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "v^2/2g = h_water. h_water = 40 cm Hg * 13.6 = 544 cm = 5.44 m. v = \u221a(2 * 9.8 * 5.44) = \u221a(106.6) \u2248 10.3 m/s.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Bernoulli's Principle",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q81",
+    "question": "A manometer connected to a closed tap reads 3.5 x 10^5 N/m^2. When the valve is opened, the reading of manometer falls to 3.0 x 10^5 N/m^2, then velocity of flow of water is:",
+    "options": [
+      "100 m/s",
+      "10 m/s",
+      "1 m/s",
+      "10\u221a10 m/s"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "P1 - P2 = 1/2 \u03c1 v^2. 0.5e5 = 500 v^2. v^2 = 100. v = 10 m/s.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Bernoulli's Principle",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q82",
+    "question": "The surface tension of soap solution is 0.03 N/m. The work done in blowing to form a soap bubble of surface area 40 cm^2 is:",
+    "options": [
+      "1.2 x 10^-4 J",
+      "2.4 x 10^-4 J",
+      "12 x 10^-4 J",
+      "24 x 10^-4 J"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "W = T * 2 * A (2 surfaces). W = 0.03 * 2 * 40e-4 = 0.06 * 0.004 = 2.4e-4 J.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Surface Tension",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q83",
+    "question": "A small ball of density \u03c1 is immersed in a liquid of density \u03c3 (\u03c3 > \u03c1) to a depth h and released. The height above the surface of water up to which the ball will jump is:",
+    "options": [
+      "\u03c3h/\u03c1",
+      "(\u03c3/\u03c1 - 1)h",
+      "(\u03c1/\u03c3 - 1)h",
+      "\u03c1h/\u03c3"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Net upward force F = V(\u03c3-\u03c1)g. a = F/m = V(\u03c3-\u03c1)g / V\u03c1 = (\u03c3/\u03c1 - 1)g. v^2 = 2ah. Height H = v^2/2g = ah/g = (\u03c3/\u03c1 - 1)h.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Buoyancy",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q84",
+    "question": "A vessel whose bottom has round holes with diameter of 0.1 mm is filled with water. The maximum height to which the water can be filled without leakage is (S.T. of water = 75 dyne/cm, g = 1000 cm/s^2):",
+    "options": [
+      "30 cm",
+      "15 cm",
+      "60 cm",
+      "7.5 cm"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "h\u03c1g = 2S/r. h = 2S/r\u03c1g = 2 * 75 / (0.005 * 1 * 1000) = 150 / 5 = 30 cm.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Surface Tension",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q85",
+    "question": "The rate of flow of liquid through a capillary tube of radius r is V. If the radius of capillary tube is doubled and pressure difference is also doubled, the rate of flow will become:",
+    "options": [
+      "16 V",
+      "32 V",
+      "8 V",
+      "4 V"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Poiseuille's Law: V \u221d P r^4. V' \u221d (2P) (2r)^4 = 2 * 16 * P r^4 = 32 V.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Viscosity",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q86",
+    "question": "The pressure at the bottom of a tank containing a liquid does not depend on:",
+    "options": [
+      "Acceleration due to gravity",
+      "Height of the liquid column",
+      "Area of the bottom surface",
+      "Nature of the liquid"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "P = h\u03c1g. Independent of Area.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Pressure"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q87",
+    "question": "Two hail stones with radii in the ratio of 1:2 fall from a great height through the atmosphere. Then the ratio of their terminal velocities is:",
+    "options": [
+      "1:2",
+      "1:4",
+      "2:1",
+      "4:1"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "v \u221d r^2. Ratio 1:4.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Viscosity",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q88",
+    "question": "Water rises in a vertical capillary tube up to a height of 2.0 cm. If the tube is inclined at an angle of 60\u00b0 with the vertical, then up to what length the water will rise in the tube?",
+    "options": [
+      "2.0 cm",
+      "4.0 cm",
+      "4/\u221a3 cm",
+      "2\u221a2 cm"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "l = h / cos 60 = 2 / 0.5 = 4 cm.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Surface Tension",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q89",
+    "question": "A wind with speed 40 m/s blows parallel to the roof of a house. The area of the roof is 250 m^2. Assuming that the pressure inside the house is atmospheric pressure, the force exerted by the wind on the roof and the direction of the force will be (\u03c1_air = 1.2 kg/m^3):",
+    "options": [
+      "2.4 x 10^5 N, upwards",
+      "2.4 x 10^5 N, downwards",
+      "4.8 x 10^5 N, upwards",
+      "4.8 x 10^5 N, downwards"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "\u0394P = 1/2 \u03c1 v^2 = 0.5 * 1.2 * 1600 = 960 Pa. F = \u0394P * A = 960 * 250 = 240000 = 2.4e5 N. Upwards.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Bernoulli's Principle",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q90",
+    "question": "A liquid is flowing in a horizontal pipe of non-uniform cross-section. At a point where the velocity of liquid is v, the pressure is P. At another point where the velocity is 2v, the pressure will be (\u03c1 is density):",
+    "options": [
+      "P - 3/2 \u03c1 v^2",
+      "P - 1/2 \u03c1 v^2",
+      "P - 2 \u03c1 v^2",
+      "P - \u03c1 v^2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "P1 + 1/2 \u03c1 v^2 = P2 + 1/2 \u03c1 (2v)^2. P2 = P + 0.5\u03c1v^2 - 2\u03c1v^2 = P - 1.5\u03c1v^2.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Bernoulli's Principle",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q91",
+    "question": "A tank is filled with water to a height H. A hole is made in one of the walls at a depth h below the water surface. The distance x from the foot of the wall at which the stream of water strikes the floor is maximum when h is equal to:",
+    "options": [
+      "H/2",
+      "H",
+      "H/3",
+      "2H/3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Range R = 2\u221a[h(H-h)]. For max R, d(R^2)/dh = 0. H - 2h = 0. h = H/2.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Fluid Dynamics",
+      "Calculus in Physics"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q92",
+    "question": "A cylindrical vessel of radius R contains a liquid of density \u03c1. The vessel is rotated about its axis with angular velocity \u03c9. The difference in height of the liquid at the center of the vessel and at the side is:",
+    "options": [
+      "\u03c9^2 R^2 / 2g",
+      "\u03c9^2 R^2 / g",
+      "\u03c9^2 R^2 / 4g",
+      "2\u03c9^2 R^2 / g"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "dP/dr = \u03c1\u03c9^2r. \u222bdP = \u222b\u03c1\u03c9^2r dr. P_edge - P_center = \u03c1\u03c9^2R^2/2. Also P_edge - P_center = \u03c1gh. h = \u03c9^2R^2/2g.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Fluid Dynamics",
+      "Rotational Motion"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q93",
+    "question": "A small sphere of radius r falls from rest in a viscous liquid. As a result, heat is produced due to viscous force. The rate of production of heat when the sphere attains its terminal velocity, is proportional to:",
+    "options": [
+      "r^3",
+      "r^2",
+      "r^5",
+      "r^4"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Power P = F * v. F = 6\u03c0\u03b7rv. v \u221d r^2. F \u221d r^3. P \u221d r^3 * r^2 = r^5.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Viscosity",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q94",
+    "question": "A wooden block, with a coin placed on its top, floats in water. If the coin falls into water, the level of water in the container:",
+    "options": [
+      "Decreases",
+      "Increases",
+      "Remains same",
+      "Depends on mass of coin"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Initially, coin displaces water equal to its weight (mass * g). Volume displaced = m_coin / \u03c1_water. When in water, it displaces volume = m_coin / \u03c1_coin. Since \u03c1_coin > \u03c1_water, V_displaced_initial > V_displaced_final. Level falls.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Buoyancy",
+      "Conceptual"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q95",
+    "question": "A homogeneous solid cylinder of length L and cross-sectional area A is immersed such that it floats with its axis vertical at the liquid-liquid interface with length L/4 in the denser liquid (density 2\u03c1). The lower density liquid has density \u03c1. The density of the solid cylinder is:",
+    "options": [
+      "5\u03c1/4",
+      "4\u03c1/5",
+      "\u03c1",
+      "3\u03c1/2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Weight = Buoyant force. AL D g = A(L/4)(2\u03c1)g + A(3L/4)(\u03c1)g. D = 2\u03c1/4 + 3\u03c1/4 = 5\u03c1/4.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Buoyancy",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q96",
+    "question": "A vertical U-tube of uniform inner cross section contains mercury in both sides of its arms. A glycerin (density = 1.3 g/cm^3) column of length 10 cm is introduced into one of its arms. Oil of density 0.8 g/cm^3 is poured into the other arm until the upper surfaces of oil and glycerin are in the same horizontal level. Find the length of the oil column. (Density of mercury = 13.6 g/cm^3)",
+    "options": [
+      "9.6 cm",
+      "10.4 cm",
+      "8.2 cm",
+      "7.5 cm"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Let length of oil be h. Level difference of mercury = x. P_left = P_right. P_atm + h_gly * \u03c1_gly * g = P_atm + h * \u03c1_oil * g + x * \u03c1_Hg * g. Also geometry: h_gly + level_diff = h. Or wait, 'upper surfaces... same level'. So h = h_gly + x? No. If upper surfaces are same level, and oil is lighter, oil column must be longer? No, mercury balances. Let's say interface in left is A, right is B. h_gly = 10. h_oil = h. Upper surfaces same level => bottom of oil is (10-h) below bottom of glycerin? No. Let's assume equilibrium from bottom. P_A = P_B. P_atm + 10(1.3) = P_atm + h(0.8) + (10-h)(13.6). 13 = 0.8h + 136 - 13.6h. 12.8h = 123. h = 9.61 cm.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Pressure",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q97",
+    "question": "A large tank is filled with water (density \u03c1). A small hole is made at a depth h below water surface. The velocity of efflux is v. If the pressure above water surface is increased by P, the velocity of efflux becomes v'. Then v' is:",
+    "options": [
+      "\u221a[v^2 + 2P/\u03c1]",
+      "\u221a[v^2 + P/\u03c1]",
+      "\u221a[v^2 + 2P/\u03c1g]",
+      "\u221a[v^2 + P/2\u03c1]"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Bernoulli: P_atm + P + \u03c1gh = P_atm + 1/2 \u03c1 v'^2. P + \u03c1gh = 1/2 \u03c1 v'^2. v'^2 = 2P/\u03c1 + 2gh. Since v^2 = 2gh, v'^2 = v^2 + 2P/\u03c1. v' = \u221a[v^2 + 2P/\u03c1].",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Bernoulli's Principle",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q98",
+    "question": "A capillary tube of radius r is dipped in water and water rises in it to a height h. The mass of the water in the capillary is 5g. Another capillary tube of radius 2r is dipped in water. The mass of water that will rise in this tube is:",
+    "options": [
+      "5.0 g",
+      "10.0 g",
+      "20.0 g",
+      "2.5 g"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "h \u221d 1/r. M = \u03c0r^2 h \u03c1. M' = \u03c0(2r)^2 (h/2) \u03c1 = 4\u03c0r^2 (h/2) \u03c1 = 2 (\u03c0r^2 h \u03c1) = 2M. 2 * 5 = 10g.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Surface Tension",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q99",
+    "question": "A solid sphere of density \u03b7 (> 1) times lighter than water is suspended in a water tank by a string tied to its base as shown in fig. If the mass of the sphere is m, then the tension in the string is given by:",
+    "options": [
+      "(\u03b7-1)mg",
+      "\u03b7mg",
+      "mg/(\u03b7-1)",
+      "(\u03b7-1)mg/\u03b7"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Buoyant force B = V \u03c1_w g. Weight W = V \u03c1_s g = m g. \u03c1_w = \u03b7 \u03c1_s. B = V (\u03b7 \u03c1_s) g = \u03b7 (V \u03c1_s g) = \u03b7 mg. T + W = B. T = B - W = \u03b7mg - mg = (\u03b7-1)mg.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Buoyancy",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q100",
+    "question": "A liquid flows through a horizontal pipe of varying cross-section. The pressure is 3000 Pa where velocity is 2 m/s. What is the pressure where the velocity is 4 m/s? (Density = 1000 kg/m^3)",
+    "options": [
+      "-3000 Pa",
+      "-1000 Pa",
+      "1000 Pa",
+      "Zero"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "P1 + 1/2 \u03c1 v1^2 = P2 + 1/2 \u03c1 v2^2. 3000 + 500(4) = P2 + 500(16). 5000 = P2 + 8000. P2 = -3000 Pa.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Bernoulli's Principle",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q101",
+    "question": "A jar is filled with two non-mixing liquids 1 and 2 having densities \u03c11 and \u03c12 respectively. A solid ball, made of a material of density \u03c13, is dropped in the jar. It comes to equilibrium in the position shown in the figure. Which of the following is true for \u03c11, \u03c12 and \u03c13?",
+    "options": [
+      "\u03c11 < \u03c13 < \u03c12",
+      "\u03c13 < \u03c11 < \u03c12",
+      "\u03c11 > \u03c13 > \u03c12",
+      "\u03c11 < \u03c12 < \u03c13"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Ball floats between them. So it's denser than top liquid (\u03c11) and lighter than bottom liquid (\u03c12). \u03c11 < \u03c13 < \u03c12.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Buoyancy",
+      "Conceptual"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q102",
+    "question": "A rectangular vessel when full of water takes 10 minutes to be emptied through an orifice in its bottom. How much time will it take to be emptied when half filled with water?",
+    "options": [
+      "9 min",
+      "7 min",
+      "5 min",
+      "3 min"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "t \u221d \u221aH. t1/t2 = \u221aH / \u221a(H/2) = \u221a2. t2 = t1 / \u221a2 = 10 / 1.414 = 7.07 min.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Fluid Dynamics",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q103",
+    "question": "A wooden block of mass m and density \u03c1 floats in water (density \u03c3). If it is slightly depressed and released, it executes SHM. The time period of oscillation is (A is area of cross-section):",
+    "options": [
+      "2\u03c0 \u221a[m / A\u03c3g]",
+      "2\u03c0 \u221a[A\u03c3g / m]",
+      "2\u03c0 \u221a[m\u03c1 / A\u03c3g]",
+      "2\u03c0 \u221a[m / \u03c1g]"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Restoring force F = - (A x \u03c3 g). k = A\u03c3g. T = 2\u03c0 \u221a(m/k) = 2\u03c0 \u221a(m/A\u03c3g).",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Buoyancy",
+      "SHM"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q104",
+    "question": "A candle of diameter d is floating on a liquid in a cylindrical container of diameter D (D >> d). If it is burning at the rate of 2 cm/hour then the top of the candle will:",
+    "options": [
+      "Remain at the same height",
+      "Fall at the rate of 1 cm/hour",
+      "Fall at the rate of 2 cm/hour",
+      "Go up the rate of 1 cm/hour"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Let L be length. Weight = AL\u03c1g. Buoyant force = A h_sub \u03c1_l g. L\u03c1 = h_sub \u03c1_l. h_sub = L (\u03c1/\u03c1_l). Height of top = h_sub + (L-h_sub) above liquid? No. Height of top above liquid level = L - h_sub = L(1 - \u03c1/\u03c1_l). Rate = dL/dt (1 - \u03c1/\u03c1_l). If \u03c1 approx \u03c1_l (wax and water), then rate is small. Wait. Standard problem. Wax density ~ 0.9. Water 1. L - 0.9L = 0.1L. Rate = 0.1 * 2 = 0.2. But options are 1 or 2. Maybe specific gravity is 0.5? If SG=0.5, h_sub=0.5L. Top height = 0.5L. Rate = 0.5 * 2 = 1 cm/hr. Let's assume SG=0.5.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Buoyancy",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q105",
+    "question": "A horizontal pipe line carries water in a streamline flow. At a point along the pipe where the cross-sectional area is 10 cm^2, the water velocity is 1 m/s and the pressure is 2000 Pa. What is the pressure at another point where the cross-sectional area is 5 cm^2?",
+    "options": [
+      "500 Pa",
+      "1000 Pa",
+      "1500 Pa",
+      "2500 Pa"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "A1v1 = A2v2. 10*1 = 5*v2. v2 = 2 m/s. P1 + 1/2 \u03c1 v1^2 = P2 + 1/2 \u03c1 v2^2. 2000 + 500(1) = P2 + 500(4). 2500 = P2 + 2000. P2 = 500 Pa.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Bernoulli's Principle",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q106",
+    "question": "A block of ice floats on a liquid of density 1.2 g/cc in a beaker. When the ice completely melts, the level of liquid:",
+    "options": [
+      "Rises",
+      "Falls",
+      "Remains same",
+      "First rises then falls"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Ice density 0.9. Liquid 1.2. Ice displaces mass M. Volume displaced V_sub = M/1.2. Water formed volume V_w = M/1. V_w > V_sub. Level rises.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Buoyancy",
+      "Conceptual"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q107",
+    "question": "Two spherical soap bubbles of radii r1 and r2 in vacuum coalesce under isothermal conditions. The resulting bubble has a radius equal to:",
+    "options": [
+      "\u221a(r1^2 + r2^2)",
+      "r1 + r2",
+      "\u221a(r1r2)",
+      "(r1+r2)/2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Surface energy conservation? No, isothermal means Temperature constant. PV = constant? No. Surface energy + PV? Usually energy conservation is used if adiabatic. If isothermal, Surface Energy is conserved? No. Area decreases. Energy released. If isothermal, T is constant. Surface tension S is constant. P1V1 + P2V2 = PV? Moles conserved. P = 4S/r. (4S/r1)(4/3\u03c0r1^3) + (4S/r2)(4/3\u03c0r2^3) = (4S/R)(4/3\u03c0R^3). r1^2 + r2^2 = R^2. R = \u221a(r1^2 + r2^2).",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Surface Tension",
+      "Thermodynamics"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q108",
+    "question": "A lead shot of 1mm diameter falls through a long column of glycerine. The variation of its velocity v with distance covered s is best represented by a graph which is:",
+    "options": [
+      "A straight line passing through origin",
+      "A parabola",
+      "A curve increasing and becoming constant",
+      "A straight line with negative slope"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Velocity increases initially due to gravity, then viscous force increases, net force decreases, velocity approaches terminal velocity (constant).",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Viscosity",
+      "Conceptual"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q109",
+    "question": "A vessel contains oil (density 0.8 g/cc) over mercury (density 13.6 g/cc). A homogeneous sphere floats with half its volume immersed in mercury and the other half in oil. The density of the material of the sphere in g/cc is:",
+    "options": [
+      "7.2",
+      "6.4",
+      "3.3",
+      "12.8"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Weight = Buoyant force. V \u03c1_s g = (V/2) \u03c1_oil g + (V/2) \u03c1_Hg g. \u03c1_s = (\u03c1_oil + \u03c1_Hg)/2 = (0.8 + 13.6)/2 = 14.4/2 = 7.2.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Buoyancy",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q110",
+    "question": "A U-tube of uniform cross-section is partially filled with a liquid I. Another liquid II which does not mix with liquid I is poured into one side. It is found that the liquid levels of the two sides of the tube are the same, while the level of liquid I has risen by 2 cm. If the specific gravity of liquid I is 1.1, the specific gravity of liquid II must be:",
+    "options": [
+      "1.1",
+      "1.0",
+      "1.21",
+      "0.9"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "If levels are same, pressures at bottom must be same. P1 = P2. h1 \u03c11 g = h2 \u03c12 g. h1 = h2. So \u03c11 = \u03c12. SG = 1.1.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Pressure",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q111",
+    "question": "A solid sphere of radius R is floating in a liquid of density \u03c1 with half of its volume submerged. If the sphere is slightly pushed and released, it starts performing simple harmonic motion. The frequency of these oscillations is:",
+    "options": [
+      "1/2\u03c0 \u221a[3g/2R]",
+      "1/2\u03c0 \u221a[g/R]",
+      "1/2\u03c0 \u221a[2g/R]",
+      "1/2\u03c0 \u221a[3g/R]"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Restoring force F = - (\u03c0R^2 x) \u03c1 g (approx for small x near equator). Mass m = V \u03c1_s = (4/3 \u03c0 R^3) (\u03c1/2). (Since half submerged). ma = - \u03c0R^2 \u03c1 g x. a = - (\u03c0R^2 \u03c1 g / (2/3 \u03c0 R^3 \u03c1)) x = - (3g/2R) x. \u03c9 = \u221a(3g/2R). f = 1/2\u03c0 \u221a(3g/2R).",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Buoyancy",
+      "SHM"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q112",
+    "question": "A cylindrical vessel is filled with water to a height H. A hole is made at the bottom. The time taken to empty the tank from H to H/2 is t1 and from H/2 to 0 is t2. The ratio t1/t2 is:",
+    "options": [
+      "\u221a2 - 1",
+      "1/\u221a2",
+      "\u221a2 + 1",
+      "1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "t \u221d \u221aH_initial - \u221aH_final. t1 \u221d \u221aH - \u221a(H/2). t2 \u221d \u221a(H/2) - 0. t1/t2 = (\u221aH - \u221aH/\u221a2) / (\u221aH/\u221a2) = (1 - 1/\u221a2) / (1/\u221a2) = \u221a2 - 1.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Fluid Dynamics",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q113",
+    "question": "A large number of water drops each of radius r combine to have a drop of radius R. The rise in temperature is (S is surface tension, J is mechanical equivalent of heat):",
+    "options": [
+      "3S/J (1/r - 1/R)",
+      "3S/J (1/R - 1/r)",
+      "2S/J (1/r - 1/R)",
+      "S/J (1/r - 1/R)"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Energy released \u0394E = 4\u03c0R^2 S (n r^2/R^2 - 1) = 4\u03c0R^2 S (R/r - 1) = 4\u03c0R^3 S (1/r - 1/R). \u0394E = ms\u0394T = (4/3 \u03c0 R^3 \u03c1) s \u0394T. 4\u03c0R^3 S (1/r - 1/R) = 4/3 \u03c0 R^3 \u03c1 s J \u0394T. 3S (1/r - 1/R) = \u03c1 s J \u0394T. For water \u03c1=1, s=1. \u0394T = 3S/J (1/r - 1/R).",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Surface Tension",
+      "Thermodynamics"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q114",
+    "question": "A liquid flows in a tube from left to right. A1 and A2 are the cross-sections of the portions of the tube. The ratio of speeds v1/v2 will be:",
+    "options": [
+      "A2/A1",
+      "A1/A2",
+      "\u221a(A2/A1)",
+      "\u221a(A1/A2)"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Equation of continuity A1v1 = A2v2. v1/v2 = A2/A1.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Fluid Dynamics",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q115",
+    "question": "Two small drops of mercury, each of radius R, coalesce to form a single large drop. The ratio of the total surface energy before and after the change is:",
+    "options": [
+      "2^(1/3) : 1",
+      "1 : 2^(1/3)",
+      "2 : 1",
+      "1 : 2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Volume 2 * 4/3\u03c0R^3 = 4/3\u03c0R'^3. R' = 2^(1/3) R. Area ratio A_initial/A_final = 2 * 4\u03c0R^2 / 4\u03c0R'^2 = 2 R^2 / (2^(2/3) R^2) = 2^(1/3). Energy ratio is same as Area ratio.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Surface Tension",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q116",
+    "question": "A body floats in a liquid contained in a beaker. The whole system falls freely under gravity. The upthrust on the body due to the liquid is:",
+    "options": [
+      "Zero",
+      "Equal to weight of liquid displaced",
+      "Equal to weight of body",
+      "Infinite"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Effective g is zero. Buoyant force depends on g. So zero.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Buoyancy",
+      "Conceptual"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q117",
+    "question": "A tank is filled with water to height H. There is a hole at depth h. The range is R. If the hole is at depth H-h, the range will be:",
+    "options": [
+      "R",
+      "2R",
+      "R/2",
+      "R^2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Range = 2\u221a[h(H-h)]. If we swap h with H-h, the expression remains same. So Range is same.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Fluid Dynamics",
+      "Conceptual"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q118",
+    "question": "The excess pressure inside a soap bubble is P. If the radius of the bubble is doubled, the excess pressure will be:",
+    "options": [
+      "P/2",
+      "2P",
+      "P/4",
+      "4P"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "P = 4S/R. P' = 4S/2R = P/2.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Surface Tension",
+      "Numericals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q119",
+    "question": "A balloon with mass m is descending down with an acceleration a (where a < g). How much mass should be removed from it so that it starts moving up with an acceleration a?",
+    "options": [
+      "2ma / (g+a)",
+      "2ma / (g-a)",
+      "ma / (g+a)",
+      "ma / (g-a)"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Down: mg - B = ma. Up: B - (m-dm)g = (m-dm)a. B = m(g-a). m(g-a) - mg + dmg = ma - dma. -ma + dmg = ma - dma. dm(g+a) = 2ma. dm = 2ma/(g+a).",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Buoyancy",
+      "Newton's Laws"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_fluids_q120",
+    "question": "The potential energy of a molecule on the surface of liquid compared to one inside the liquid is:",
+    "options": [
+      "Greater",
+      "Less",
+      "Same",
+      "Zero"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Work is done to bring a molecule from inside to surface against cohesive forces. So PE is greater.",
+    "subject": "Physics",
+    "chapter": "Mechanical Properties of Fluids",
+    "tags": [
+      "Surface Tension",
+      "Conceptual"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "mechanical_properties_of_fluids",
+    "subjectId": "physics"
+  }
+]

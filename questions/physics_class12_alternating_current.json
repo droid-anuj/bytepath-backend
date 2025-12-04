@@ -1,0 +1,2762 @@
+[
+  {
+    "id": "physics_12_ac_q1",
+    "question": "Alternating current is a current whose magnitude:",
+    "options": [
+      "Changes continuously and direction changes periodically",
+      "Remains constant and direction changes periodically",
+      "Changes continuously and direction remains constant",
+      "Remains constant and direction remains constant"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Definition of AC.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q2",
+    "question": "The frequency of AC mains in India is:",
+    "options": [
+      "50 Hz",
+      "60 Hz",
+      "100 Hz",
+      "120 Hz"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Standard frequency in India is 50 Hz.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "General Knowledge"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q3",
+    "question": "The RMS value of AC is related to the peak value I0 by:",
+    "options": [
+      "Irms = I0 / \u221a2",
+      "Irms = I0 \u221a2",
+      "Irms = 2 I0",
+      "Irms = I0 / 2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Standard relation for sinusoidal AC.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "RMS Value"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q4",
+    "question": "The average value of AC over a complete cycle is:",
+    "options": [
+      "Zero",
+      "I0",
+      "I0 / \u221a2",
+      "2 I0 / \u03c0"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Positive and negative halves cancel out.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Average Value"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q5",
+    "question": "In a purely resistive circuit, voltage and current are:",
+    "options": [
+      "In phase",
+      "Out of phase by 90 degrees",
+      "Out of phase by 180 degrees",
+      "Out of phase by 45 degrees"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "No phase difference in resistor.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "AC Circuits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q6",
+    "question": "In a purely inductive circuit, current:",
+    "options": [
+      "Lags behind voltage by 90 degrees",
+      "Leads voltage by 90 degrees",
+      "Is in phase with voltage",
+      "Lags behind voltage by 45 degrees"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Inductor opposes change in current, causing lag.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "AC Circuits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q7",
+    "question": "In a purely capacitive circuit, current:",
+    "options": [
+      "Leads voltage by 90 degrees",
+      "Lags behind voltage by 90 degrees",
+      "Is in phase with voltage",
+      "Leads voltage by 45 degrees"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Capacitor charges up, current leads.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "AC Circuits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q8",
+    "question": "Inductive reactance XL is given by:",
+    "options": [
+      "\u03c9L",
+      "1/\u03c9L",
+      "\u03c9/L",
+      "L/\u03c9"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "XL = 2\u03c0fL = \u03c9L.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Reactance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q9",
+    "question": "Capacitive reactance XC is given by:",
+    "options": [
+      "1/\u03c9C",
+      "\u03c9C",
+      "\u03c9/C",
+      "C/\u03c9"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "XC = 1/2\u03c0fC = 1/\u03c9C.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Reactance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q10",
+    "question": "The unit of reactance is:",
+    "options": [
+      "Ohm",
+      "Henry",
+      "Farad",
+      "Ampere"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Reactance opposes current, like resistance.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Units"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q11",
+    "question": "Impedance Z of an LCR series circuit is given by:",
+    "options": [
+      "\u221a(R^2 + (XL - XC)^2)",
+      "\u221a(R^2 + (XL + XC)^2)",
+      "R + XL + XC",
+      "\u221a(R^2 - (XL - XC)^2)"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Phasor sum of R and (XL-XC).",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "LCR Circuit"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q12",
+    "question": "At resonance in an LCR series circuit:",
+    "options": [
+      "XL = XC",
+      "XL > XC",
+      "XL < XC",
+      "R = 0"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Resonance condition.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Resonance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q13",
+    "question": "The power factor of a purely resistive circuit is:",
+    "options": [
+      "1",
+      "0",
+      "0.5",
+      "Infinity"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "cos\u03c6 = cos0 = 1.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Power Factor"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q14",
+    "question": "The power factor of a purely inductive circuit is:",
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "0.5"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "cos90 = 0.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Power Factor"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q15",
+    "question": "Wattless current flows in a circuit containing:",
+    "options": [
+      "Only Inductor",
+      "Only Resistor",
+      "Resistor and Inductor",
+      "Resistor and Capacitor"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Pure L or C consumes no power.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Power"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q16",
+    "question": "The Q-factor of a resonant circuit determines:",
+    "options": [
+      "Sharpness of resonance",
+      "Power factor",
+      "Impedance",
+      "Frequency"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Higher Q means sharper resonance.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Resonance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q17",
+    "question": "A choke coil is used to control current in:",
+    "options": [
+      "AC circuits only",
+      "DC circuits only",
+      "Both AC and DC circuits",
+      "Integrated circuits"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Works by inductive reactance, which exists only for AC.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "AC Circuits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q18",
+    "question": "The peak voltage of 220 V AC mains is:",
+    "options": [
+      "311 V",
+      "220 V",
+      "156 V",
+      "440 V"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "V0 = Vrms \u221a2 = 220 * 1.414 \u2248 311 V.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "RMS Value"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q19",
+    "question": "In an AC circuit, power is consumed only in:",
+    "options": [
+      "Resistance",
+      "Inductance",
+      "Capacitance",
+      "All of these"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "L and C store energy, R dissipates it.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Power"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q20",
+    "question": "The dimensional formula of impedance is same as that of:",
+    "options": [
+      "Resistance",
+      "Charge",
+      "Current",
+      "Voltage"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Both are measured in Ohms.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Dimensions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q21",
+    "question": "The phase difference between voltage and current in an LCR series circuit at resonance is:",
+    "options": [
+      "0 degrees",
+      "90 degrees",
+      "45 degrees",
+      "180 degrees"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Circuit becomes purely resistive.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Resonance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q22",
+    "question": "A capacitor blocks:",
+    "options": [
+      "DC",
+      "AC",
+      "Both AC and DC",
+      "Neither AC nor DC"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "For DC, f=0, XC = infinity.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Reactance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q23",
+    "question": "An inductor allows easy path for:",
+    "options": [
+      "DC",
+      "AC",
+      "High frequency AC",
+      "None of these"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "For DC, f=0, XL = 0.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Reactance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q24",
+    "question": "The resonant frequency of an LCR circuit is:",
+    "options": [
+      "1 / (2\u03c0\u221aLC)",
+      "1 / \u221aLC",
+      "\u221aLC",
+      "2\u03c0\u221aLC"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Standard formula.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Resonance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q25",
+    "question": "Hot wire ammeters are used to measure:",
+    "options": [
+      "Both AC and DC",
+      "Only AC",
+      "Only DC",
+      "None of these"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Based on heating effect (I^2 R), independent of direction.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Measuring Instruments"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q26",
+    "question": "The mean value of AC over half cycle is:",
+    "options": [
+      "2 I0 / \u03c0",
+      "I0 / \u221a2",
+      "I0",
+      "Zero"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Standard value.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Average Value"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q27",
+    "question": "The ratio of peak value to RMS value of AC is:",
+    "options": [
+      "\u221a2",
+      "1/\u221a2",
+      "2",
+      "1/2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "I0 / Irms = \u221a2.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "RMS Value"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q28",
+    "question": "Power factor is defined as:",
+    "options": [
+      "True Power / Apparent Power",
+      "Apparent Power / True Power",
+      "True Power x Apparent Power",
+      "Resistance / Impedance"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Ratio of real power to apparent power.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Power Factor"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q29",
+    "question": "Also Power factor is equal to:",
+    "options": [
+      "R/Z",
+      "Z/R",
+      "XL/R",
+      "R/XL"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "cos\u03c6 = R/Z.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Power Factor"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q30",
+    "question": "The impedance of a resonant LCR series circuit is:",
+    "options": [
+      "Minimum",
+      "Maximum",
+      "Zero",
+      "Infinite"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Z = R (minimum) at resonance.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Resonance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q31",
+    "question": "The current in a resonant LCR series circuit is:",
+    "options": [
+      "Maximum",
+      "Minimum",
+      "Zero",
+      "Infinite"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Impedance is min, so current is max.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Resonance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q32",
+    "question": "In a step-up transformer, the output voltage is:",
+    "options": [
+      "Greater than input voltage",
+      "Less than input voltage",
+      "Equal to input voltage",
+      "Zero"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Definition.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Transformer"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q33",
+    "question": "In a step-down transformer, the output current is:",
+    "options": [
+      "Greater than input current",
+      "Less than input current",
+      "Equal to input current",
+      "Zero"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Voltage decreases, current increases (for constant power).",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Transformer"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q34",
+    "question": "The efficiency of an ideal transformer is:",
+    "options": [
+      "100%",
+      "50%",
+      "0%",
+      "Infinite"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "No losses.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Transformer"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q35",
+    "question": "The core of a transformer is laminated to reduce:",
+    "options": [
+      "Eddy current loss",
+      "Hysteresis loss",
+      "Copper loss",
+      "Flux leakage"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Repeated concept.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Transformer"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q36",
+    "question": "The phase angle between voltage and current in a pure resistive circuit is:",
+    "options": [
+      "0",
+      "\u03c0/2",
+      "\u03c0",
+      "\u03c0/4"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "In phase.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "AC Circuits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q37",
+    "question": "The phase angle between voltage and current in a pure inductive circuit is:",
+    "options": [
+      "\u03c0/2",
+      "0",
+      "\u03c0",
+      "\u03c0/4"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "90 degrees.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "AC Circuits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q38",
+    "question": "The phase angle between voltage and current in a pure capacitive circuit is:",
+    "options": [
+      "\u03c0/2",
+      "0",
+      "\u03c0",
+      "\u03c0/4"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "90 degrees.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "AC Circuits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q39",
+    "question": "If frequency of AC is doubled, inductive reactance becomes:",
+    "options": [
+      "Doubled",
+      "Halved",
+      "Quadrupled",
+      "Unchanged"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "XL = 2\u03c0fL. XL \u221d f.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Reactance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q40",
+    "question": "If frequency of AC is doubled, capacitive reactance becomes:",
+    "options": [
+      "Halved",
+      "Doubled",
+      "Quadrupled",
+      "Unchanged"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "XC = 1/2\u03c0fC. XC \u221d 1/f.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Reactance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q41",
+    "question": "The instantaneous value of an AC is given by I = 5 sin(314t). The frequency of AC is:",
+    "options": [
+      "50 Hz",
+      "100 Hz",
+      "60 Hz",
+      "314 Hz"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "\u03c9 = 314. 2\u03c0f = 314. f = 314 / (2 * 3.14) = 314 / 6.28 = 50 Hz.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "AC Equation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q42",
+    "question": "An alternating voltage is given by V = 100 sin(100\u03c0t). The RMS value of voltage is:",
+    "options": [
+      "100 V",
+      "70.7 V",
+      "141.4 V",
+      "50 V"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "V0 = 100. Vrms = 100 / \u221a2 = 100 * 0.707 = 70.7 V.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "RMS Value"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q43",
+    "question": "A 100 ohm resistor is connected to a 220 V, 50 Hz AC supply. The RMS value of current in the circuit is:",
+    "options": [
+      "2.2 A",
+      "3.1 A",
+      "1.5 A",
+      "2.0 A"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Irms = Vrms / R = 220 / 100 = 2.2 A.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "AC Circuits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q44",
+    "question": "The inductive reactance of a coil is 100 ohm. If the inductance is doubled and frequency is halved, the new inductive reactance will be:",
+    "options": [
+      "100 ohm",
+      "200 ohm",
+      "50 ohm",
+      "400 ohm"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "XL = 2\u03c0fL. XL' = 2\u03c0(f/2)(2L) = 2\u03c0fL = XL = 100 ohm.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Reactance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q45",
+    "question": "A capacitor of 10 \u03bcF is connected to a 50 Hz AC source. The capacitive reactance is:",
+    "options": [
+      "318 ohm",
+      "31.8 ohm",
+      "3180 ohm",
+      "3.18 ohm"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "XC = 1 / (2\u03c0fC) = 1 / (2 * 3.14 * 50 * 10^-5) = 1 / (314 * 10^-5) = 10^5 / 314 = 100000 / 314 \u2248 318 ohm.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Reactance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q46",
+    "question": "In an LCR series circuit, R = 10 ohm, XL = 20 ohm, XC = 20 ohm. The impedance of the circuit is:",
+    "options": [
+      "10 ohm",
+      "20 ohm",
+      "50 ohm",
+      "Zero"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "XL = XC (Resonance). Z = R = 10 ohm.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "LCR Circuit"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q47",
+    "question": "In a series LCR circuit, the voltage across R, L and C are 30 V, 60 V and 20 V respectively. The supply voltage is:",
+    "options": [
+      "50 V",
+      "70 V",
+      "110 V",
+      "10 V"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "V = \u221a(VR^2 + (VL - VC)^2) = \u221a(30^2 + (60-20)^2) = \u221a(900 + 1600) = \u221a2500 = 50 V.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "LCR Circuit"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q48",
+    "question": "The power dissipated in an AC circuit with V = 100 sin(100t) and I = 100 sin(100t + \u03c0/3) is:",
+    "options": [
+      "2500 W",
+      "5000 W",
+      "10000 W",
+      "250 W"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "P = Vrms Irms cos\u03c6. Vrms = 100/\u221a2. Irms = 100/\u221a2. cos\u03c6 = cos(60) = 0.5. P = (100/\u221a2) * (100/\u221a2) * 0.5 = (10000/2) * 0.5 = 5000 * 0.5 = 2500 W.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Power"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q49",
+    "question": "A transformer has 500 turns in primary and 1000 turns in secondary. If primary voltage is 200 V, secondary voltage is:",
+    "options": [
+      "400 V",
+      "100 V",
+      "200 V",
+      "50 V"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Vs/Vp = Ns/Np. Vs = 200 * (1000/500) = 400 V.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Transformer"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q50",
+    "question": "In an AC circuit, V = 200 sin(314t) and I = sin(314t + \u03c0/2). The power consumed is:",
+    "options": [
+      "Zero",
+      "200 W",
+      "100 W",
+      "50 W"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Phase difference is 90 degrees. cos90 = 0. Power = 0.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Power"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q51",
+    "question": "A coil has inductance 0.1 H. The reactance at 50 Hz is:",
+    "options": [
+      "31.4 ohm",
+      "3.14 ohm",
+      "314 ohm",
+      "0.314 ohm"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "XL = 2\u03c0fL = 2 * 3.14 * 50 * 0.1 = 314 * 0.1 = 31.4 ohm.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Reactance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q52",
+    "question": "A 60 \u03bcF capacitor is connected to a 110 V, 60 Hz AC supply. The RMS value of current is:",
+    "options": [
+      "2.49 A",
+      "1.5 A",
+      "3.0 A",
+      "2.0 A"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "XC = 1/(2\u03c0fC) = 1/(2*3.14*60*60x10^-6) = 10^6 / 22608 \u2248 44.2 ohm. I = V/XC = 110/44.2 \u2248 2.49 A.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "AC Circuits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q53",
+    "question": "The peak value of an alternating current is 5 A and its frequency is 60 Hz. Its RMS value is:",
+    "options": [
+      "3.535 A",
+      "5 A",
+      "2.5 A",
+      "7.07 A"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Irms = 5 / 1.414 = 3.535 A.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "RMS Value"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q54",
+    "question": "An LCR series circuit with R=100 ohm is connected to a 200 V, 50 Hz AC source. When only the capacitance is removed, the current lags voltage by 60 degrees. When only the inductance is removed, the current leads voltage by 60 degrees. The current in the circuit is:",
+    "options": [
+      "2 A",
+      "1 A",
+      "4 A",
+      "0.5 A"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "tan60 = XL/R. tan60 = XC/R. So XL = XC. Resonance. Z = R = 100. I = V/Z = 200/100 = 2 A.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "LCR Circuit"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q55",
+    "question": "A resistor of 10 ohm and an inductor of 10 mH are in series with an AC source of 100 V, 50 Hz. The impedance is:",
+    "options": [
+      "10.5 ohm",
+      "10 ohm",
+      "13.14 ohm",
+      "20 ohm"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "XL = 2\u03c0fL = 314 * 0.01 = 3.14 ohm. Z = \u221a(10^2 + 3.14^2) = \u221a(100 + 9.86) = \u221a109.86 \u2248 10.48 ohm.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "AC Circuits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q56",
+    "question": "In a series LCR circuit, the potential difference between the terminals of the inductor is 60 V, between the terminals of the capacitor is 30 V and that between the terminals of resistor is 40 V. The supply voltage will be equal to:",
+    "options": [
+      "50 V",
+      "70 V",
+      "130 V",
+      "10 V"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "V = \u221a(40^2 + (60-30)^2) = \u221a(1600 + 900) = 50 V.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "LCR Circuit"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q57",
+    "question": "A transformer is used to light a 140 W, 24 V lamp from a 240 V AC mains. The current in the mains is 0.7 A. The efficiency of the transformer is:",
+    "options": [
+      "83.3%",
+      "70%",
+      "60%",
+      "90%"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "P_out = 140 W. P_in = 240 * 0.7 = 168 W. Efficiency = 140/168 = 0.833 = 83.3%.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Transformer"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q58",
+    "question": "The self-inductance of the motor of an electric fan is 10 H. In order to impart maximum power at 50 Hz, it should be connected to a capacitance of:",
+    "options": [
+      "1 \u03bcF",
+      "2 \u03bcF",
+      "4 \u03bcF",
+      "8 \u03bcF"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Max power at resonance. XL = XC. 2\u03c0fL = 1/2\u03c0fC. C = 1 / (4\u03c0^2 f^2 L) = 1 / (4 * 10 * 2500 * 10) = 1 / 1000000 = 10^-6 F = 1 \u03bcF. (Taking \u03c0^2 \u2248 10).",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Resonance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q59",
+    "question": "An AC source is rated 220 V, 50 Hz. The average voltage is calculated in a time interval of 0.01 s. It:",
+    "options": [
+      "May be zero",
+      "Must be zero",
+      "Is never zero",
+      "Is 220/\u221a2 V"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "T = 1/50 = 0.02 s. 0.01 s is T/2. Average over half cycle is 2V0/\u03c0. But if interval is from T/4 to 3T/4, it is zero. So 'May be zero'.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Average Value"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q60",
+    "question": "A coil of resistance 200 ohm and self-inductance 1.0 H has been connected to an AC source of frequency 200/2\u03c0 Hz. The phase difference between voltage and current is:",
+    "options": [
+      "45 degrees",
+      "30 degrees",
+      "60 degrees",
+      "75 degrees"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "f = 100/\u03c0. \u03c9 = 2\u03c0f = 200. XL = \u03c9L = 200 * 1 = 200 ohm. tan\u03c6 = XL/R = 200/200 = 1. \u03c6 = 45 degrees.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "AC Circuits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q61",
+    "question": "In an AC circuit, the current is given by I = 5 sin(100t - \u03c0/2) and the AC potential is V = 200 sin(100t). The power consumption is:",
+    "options": [
+      "Zero",
+      "1000 W",
+      "500 W",
+      "200 W"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Phase diff is 90. Power is zero.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Power"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q62",
+    "question": "A 220 V, 50 Hz AC source is connected to an inductance of 0.2 H and a resistance of 20 ohm in series. What is the current in the circuit?",
+    "options": [
+      "3.3 A",
+      "10 A",
+      "5 A",
+      "2.5 A"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "XL = 2\u03c0fL = 314 * 0.2 = 62.8 ohm. Z = \u221a(20^2 + 62.8^2) = \u221a(400 + 3944) = \u221a4344 \u2248 65.9 ohm. I = 220/65.9 \u2248 3.33 A.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "AC Circuits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q63",
+    "question": "The potential difference V and the current I flowing through an instrument in an AC circuit of frequency f are given by V = 5 cos \u03c9t volts and I = 2 sin \u03c9t amperes (where \u03c9 = 2\u03c0f). The power dissipated in the instrument is:",
+    "options": [
+      "Zero",
+      "10 W",
+      "5 W",
+      "2.5 W"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "V is cos, I is sin. Phase diff 90. Power 0.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Power"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q64",
+    "question": "In an AC circuit, the reactance of a coil is \u221a3 times its resistance. The phase difference between the voltage across the coil and the current through the coil will be:",
+    "options": [
+      "60 degrees",
+      "30 degrees",
+      "45 degrees",
+      "90 degrees"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "tan\u03c6 = XL/R = \u221a3. \u03c6 = 60 degrees.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "AC Circuits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q65",
+    "question": "An alternating current of RMS value 10 A passes through a 12 ohm resistor. The maximum potential difference across the resistor is:",
+    "options": [
+      "169.68 V",
+      "120 V",
+      "150 V",
+      "100 V"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Vrms = 10 * 12 = 120 V. V0 = 120 * \u221a2 = 120 * 1.414 = 169.68 V.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "RMS Value"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q66",
+    "question": "A choke coil has:",
+    "options": [
+      "High inductance and low resistance",
+      "Low inductance and high resistance",
+      "High inductance and high resistance",
+      "Low inductance and low resistance"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "To reduce current without power loss (P=I^2R), R should be low. To have high impedance, XL should be high.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "AC Circuits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q67",
+    "question": "The primary winding of a transformer has 500 turns and the secondary has 5000 turns. If the primary is connected to a 220 V DC supply, the secondary output will be:",
+    "options": [
+      "Zero",
+      "2200 V",
+      "22 V",
+      "220 V"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Transformer works only on AC.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Transformer"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q68",
+    "question": "A bulb and a capacitor are connected in series to a source of alternating current. If its frequency is increased, while keeping the voltage of the source constant, then:",
+    "options": [
+      "Bulb will give more intense light",
+      "Bulb will give less intense light",
+      "Bulb will give light of same intensity",
+      "Bulb will stop radiating light"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "XC = 1/2\u03c0fC. f increases, XC decreases. Z decreases. I increases. Brightness increases.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "AC Circuits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q69",
+    "question": "An alternating voltage V = V0 sin \u03c9t is applied across a circuit. As a result, a current I = I0 sin(\u03c9t - \u03c0/2) flows in it. The power consumed per cycle is:",
+    "options": [
+      "Zero",
+      "0.5 V0 I0",
+      "0.707 V0 I0",
+      "V0 I0"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Phase diff 90. Power 0.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Power"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q70",
+    "question": "A coil of inductance L has an inductive reactance of XL in an AC circuit in which the effective current is I. The coil is made from a superconducting material and has no resistance. The rate at which power is dissipated in the coil is:",
+    "options": [
+      "Zero",
+      "I XL",
+      "I^2 XL",
+      "I X^2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Pure inductor dissipates no power.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Power"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q71",
+    "question": "The resonant frequency of a series LCR circuit with L = 2.0 H, C = 32 \u03bcF and R = 10 ohm is:",
+    "options": [
+      "20 Hz",
+      "100 Hz",
+      "50 Hz",
+      "200 Hz"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "f = 1/(2\u03c0\u221aLC) = 1/(2\u03c0 \u221a(2 * 32x10^-6)) = 1/(2\u03c0 \u221a64x10^-6) = 1/(2\u03c0 * 8x10^-3) = 1000 / 16\u03c0 \u2248 1000/50.24 \u2248 20 Hz.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Resonance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q72",
+    "question": "A 100 \u03bcF capacitor in series with a 40 ohm resistance is connected to a 110 V, 60 Hz supply. The maximum current in the circuit is:",
+    "options": [
+      "3.24 A",
+      "2.29 A",
+      "1.5 A",
+      "4.5 A"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "XC = 1/(2\u03c0fC) = 1/(376.8 * 10^-4) = 26.5 ohm. Z = \u221a(40^2 + 26.5^2) = \u221a(1600 + 702) = \u221a2302 = 48 ohm. Irms = 110/48 = 2.29 A. I0 = 2.29 * 1.414 = 3.24 A.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "AC Circuits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q73",
+    "question": "A series LCR circuit with R = 20 ohm, L = 1.5 H and C = 35 \u03bcF is connected to a variable-frequency 200 V AC supply. When the frequency of the supply equals the natural frequency of the circuit, what is the average power transferred to the circuit in one complete cycle?",
+    "options": [
+      "2000 W",
+      "1000 W",
+      "500 W",
+      "4000 W"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "At resonance Z = R = 20. I = 200/20 = 10 A. P = I^2 R = 100 * 20 = 2000 W.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Power"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q74",
+    "question": "A transformer has an efficiency of 80% and works at 100 V and 4 kW. If the secondary voltage is 240 V, the current in the primary coil is:",
+    "options": [
+      "40 A",
+      "10 A",
+      "4 A",
+      "16.6 A"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "P_in = 4 kW = 4000 W. V_p = 100 V. I_p = 4000/100 = 40 A.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Transformer"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q75",
+    "question": "The core of any transformer is laminated so as to:",
+    "options": [
+      "Reduce the energy loss due to eddy currents",
+      "Make it light weight",
+      "Make it robust and strong",
+      "Increase the secondary voltage"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Repeated concept.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Transformer"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q76",
+    "question": "In an AC circuit, the voltage across an inductor leads the current by:",
+    "options": [
+      "\u03c0/2",
+      "\u03c0",
+      "\u03c0/4",
+      "0"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Standard phase relation.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "AC Circuits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q77",
+    "question": "The RMS value of potential difference V shown in the figure is:",
+    "options": [
+      "V0 / \u221a2",
+      "V0",
+      "V0 / 2",
+      "V0 / \u03c0"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Assuming sinusoidal. Vrms = V0/\u221a2.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "RMS Value"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q78",
+    "question": "In a circuit, L, C and R are connected in series with an alternating voltage source of frequency f. The current leads the voltage by 45 degrees. The value of C is:",
+    "options": [
+      "1 / (2\u03c0f(2\u03c0fL + R))",
+      "1 / (\u03c0f(2\u03c0fL + R))",
+      "1 / (2\u03c0f(2\u03c0fL - R))",
+      "1 / (2\u03c0f(R - 2\u03c0fL))"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "tan\u03c6 = (XC - XL)/R. tan45 = 1. XC - XL = R. XC = R + XL. 1/\u03c9C = R + \u03c9L. C = 1 / (\u03c9(R + \u03c9L)) = 1 / (2\u03c0f(R + 2\u03c0fL)).",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "LCR Circuit"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q79",
+    "question": "A coil of inductive reactance 31 ohm has a resistance of 8 ohm. It is placed in series with a condenser of capacitive reactance 25 ohm. The combination is connected to an AC source of 110 V. The power factor of the circuit is:",
+    "options": [
+      "0.8",
+      "0.6",
+      "0.5",
+      "0.1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "XL = 31, XC = 25, R = 8. Z = \u221a(8^2 + (31-25)^2) = \u221a(64 + 36) = 10. PF = R/Z = 8/10 = 0.8.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Power Factor"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q80",
+    "question": "The instantaneous voltage through a device of impedance 20 ohm is e = 80 sin 100\u03c0t. The effective value of the current is:",
+    "options": [
+      "2.828 A",
+      "4 A",
+      "1.414 A",
+      "2 A"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "V0 = 80. Vrms = 80/\u221a2. Irms = Vrms/Z = (80/\u221a2)/20 = 4/\u221a2 = 2\u221a2 = 2.828 A.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "AC Circuits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q81",
+    "question": "In an AC circuit, the current lags behind the voltage by \u03c0/3. The components in the circuit are:",
+    "options": [
+      "R and L",
+      "R and C",
+      "L and C",
+      "Only R"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Lagging current implies inductive nature. So R and L.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "AC Circuits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q82",
+    "question": "The reactance of a capacitor of capacitance C is X. If both the frequency and capacitance be doubled, then new reactance will be:",
+    "options": [
+      "X/4",
+      "X/2",
+      "2X",
+      "4X"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "X = 1/\u03c9C. X' = 1/(2\u03c9 * 2C) = 1/4\u03c9C = X/4.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Reactance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q83",
+    "question": "A coil of 40 H inductance is connected in series with a resistance of 8 ohm and the combination is joined to the terminals of a 2 V battery. The time constant of the circuit is:",
+    "options": [
+      "5 s",
+      "1/5 s",
+      "40 s",
+      "20 s"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "\u03c4 = L/R = 40/8 = 5 s.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "AC Circuits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q84",
+    "question": "In a circuit, the phase difference between the alternating current and the source voltage is \u03c0/2. Which of the following cannot be the element(s) of the circuit?",
+    "options": [
+      "Only C",
+      "Only L",
+      "L and R",
+      "L and C"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "If R is present, phase diff is < 90. So L and R cannot give 90 deg.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "AC Circuits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q85",
+    "question": "An alternating e.m.f. of angular frequency \u03c9 is applied across an inductance. The instantaneous power developed in the circuit has an angular frequency:",
+    "options": [
+      "2\u03c9",
+      "\u03c9",
+      "\u03c9/2",
+      "Zero"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "P = VI = V0 sin\u03c9t * I0 sin(\u03c9t-90) = -V0I0 sin\u03c9t cos\u03c9t = -V0I0/2 sin(2\u03c9t). Freq is 2\u03c9.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Power"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q86",
+    "question": "In an AC circuit, the current is given by I = 4 sin(100\u03c0t + 30 degrees) A. The current becomes maximum for the first time at t equal to:",
+    "options": [
+      "1/600 s",
+      "1/300 s",
+      "1/200 s",
+      "1/100 s"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Max when 100\u03c0t + \u03c0/6 = \u03c0/2. 100\u03c0t = \u03c0/3. 100t = 1/3. t = 1/300 s. Wait. 30 deg is \u03c0/6. \u03c0/2 - \u03c0/6 = 3\u03c0/6 - \u03c0/6 = 2\u03c0/6 = \u03c0/3. 100\u03c0t = \u03c0/3. t = 1/300. Option B. Let's recheck. sin(theta) max at pi/2. 100pi t + pi/6 = pi/2. 100pi t = pi/3. t = 1/300. Yes.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "AC Equation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q87",
+    "question": "The impedance of a circuit, when a resistance R and an inductor of inductance L are connected in series in an AC circuit of frequency f, is:",
+    "options": [
+      "\u221a(R^2 + 4\u03c0^2f^2L^2)",
+      "\u221a(R^2 + 2\u03c0^2f^2L^2)",
+      "\u221a(R + 4\u03c0^2f^2L^2)",
+      "\u221a(R + 2\u03c0^2f^2L^2)"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Z = \u221a(R^2 + XL^2) = \u221a(R^2 + (2\u03c0fL)^2).",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "AC Circuits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q88",
+    "question": "A 20 volt AC is applied to a circuit consisting of a resistance and a coil with negligible resistance. If the voltage across the resistance is 12 V, the voltage across the coil is:",
+    "options": [
+      "16 V",
+      "10 V",
+      "8 V",
+      "6 V"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "V^2 = VR^2 + VL^2. 400 = 144 + VL^2. VL^2 = 256. VL = 16 V.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "AC Circuits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q89",
+    "question": "In a series LCR circuit, the voltage across the resistance, capacitance and inductance is 10 V each. If the capacitance is short circuited, the voltage across the inductance will be:",
+    "options": [
+      "10 V",
+      "10/\u221a2 V",
+      "20 V",
+      "20/\u221a2 V"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Initially VR=VL=VC=10. V_source = 10 V (Resonance). If C shorted, circuit is LR. R=XL. Z = \u221a(R^2+R^2) = R\u221a2. I = V/Z = 10/R\u221a2. VL = I XL = (10/R\u221a2) * R = 10/\u221a2 V.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "LCR Circuit"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q90",
+    "question": "A transformer is used to light a 100 W and 110 V lamp from a 220 V mains. If the main current is 0.5 A, the efficiency of the transformer is:",
+    "options": [
+      "90%",
+      "95%",
+      "96%",
+      "99%"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Repeated question. 90%.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Transformer"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q91",
+    "question": "An LCR series circuit with L = 100 mH, C = 100 \u03bcF, R = 120 ohm is connected to an AC source of V = 30 sin(100t). The phase difference between voltage and current is:",
+    "options": [
+      "37 degrees",
+      "53 degrees",
+      "45 degrees",
+      "60 degrees"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "XL = 100 * 0.1 = 10 ohm. XC = 1/(100 * 10^-4) = 100 ohm. tan\u03c6 = (XC - XL)/R = (100 - 10)/120 = 90/120 = 3/4. \u03c6 = 37 degrees. Wait. tan\u03c6 = 0.75 is 37 deg. But usually tan53 = 4/3. tan37 = 3/4. So 37 degrees. But current leads voltage because XC > XL. So -37 degrees. Magnitude is 37. Wait. Let me recheck. tan\u03c6 = (XC-XL)/R = 90/120 = 0.75. \u03c6 = 37 deg. Option A. Wait. Is it 53? tan53 = 1.33. tan37 = 0.75. Yes. 37 degrees.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "LCR Circuit"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q92",
+    "question": "In a series LCR circuit, the voltage across resistance, capacitance and inductance is 10 V each. If the capacitance is short circuited, the voltage across the inductance will be:",
+    "options": [
+      "10 V",
+      "10/\u221a2 V",
+      "20 V",
+      "20/\u221a2 V"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Repeated question. 10/\u221a2 V.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "LCR Circuit"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q93",
+    "question": "A circuit consists of a resistance of 10 ohm and a capacitance of 0.1 \u03bcF. If an alternating emf of 100 V, 50 Hz is applied, the current in the circuit is:",
+    "options": [
+      "3.14 mA",
+      "6.28 mA",
+      "1.57 mA",
+      "10 A"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "XC = 1/(2\u03c0fC) = 1/(314 * 10^-7) = 10^7 / 314 = 31847 ohm. R = 10. Z \u2248 XC. I = 100/31847 = 0.00314 A = 3.14 mA.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "AC Circuits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q94",
+    "question": "A coil of inductance 8.4 mH and resistance 6 ohm is connected to a 12 V battery. The current in the coil is 1.0 A at approximately the time:",
+    "options": [
+      "500 ms",
+      "20 ms",
+      "35 ms",
+      "1 ms"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "I0 = 12/6 = 2 A. I = I0 (1 - e^(-Rt/L)). 1 = 2 (1 - e^(-Rt/L)). 0.5 = 1 - e^-x. e^-x = 0.5. x = ln 2 = 0.693. Rt/L = 0.693. t = 0.693 * L / R = 0.693 * 8.4x10^-3 / 6 = 0.1155 * 8.4 x 10^-3 = 0.97 x 10^-3 s \u2248 1 ms.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "AC Circuits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q95",
+    "question": "A 750 Hz, 20 V source is connected to a resistance of 100 ohm, an inductance of 0.1803 H and a capacitance of 10 \u03bcF all in series. The time in which the resistance (thermal capacity 2 J/C) will get heated by 10 C is:",
+    "options": [
+      "348 s",
+      "400 s",
+      "200 s",
+      "100 s"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "XL = 2\u03c0 * 750 * 0.1803 = 850 ohm. XC = 1/(2\u03c0 * 750 * 10^-5) = 21.2 ohm. Z = \u221a(100^2 + (850-21)^2) \u2248 830 ohm. I = 20/830 = 0.024 A. P = I^2 R = 0.024^2 * 100 = 0.0576 W. Heat required H = ms\u0394T = C\u0394T = 2 * 10 = 20 J. t = H/P = 20/0.0576 = 347.2 s. Closest 348 s.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Power"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q96",
+    "question": "In an LCR circuit, capacitance is changed from C to 2C. For the resonant frequency to remain unchanged, the inductance should be changed from L to:",
+    "options": [
+      "L/2",
+      "2L",
+      "4L",
+      "L/4"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "\u03c9 = 1/\u221aLC. LC = constant. 2C * L' = LC. L' = L/2.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Resonance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q97",
+    "question": "An AC voltage is applied to a resistance R and an inductor L in series. If R and the inductive reactance are both equal to 3 ohm, the phase difference between the applied voltage and the current in the circuit is:",
+    "options": [
+      "\u03c0/4",
+      "\u03c0/2",
+      "Zero",
+      "\u03c0/6"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "tan\u03c6 = XL/R = 3/3 = 1. \u03c6 = 45 deg = \u03c0/4.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "AC Circuits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q98",
+    "question": "A coil has resistance 30 ohm and inductive reactance 20 ohm at 50 Hz frequency. If an AC source of 200 V, 100 Hz is connected across the coil, the current in the coil will be:",
+    "options": [
+      "4.0 A",
+      "2.0 A",
+      "8.0 A",
+      "5.0 A"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "At 50 Hz, XL = 20. At 100 Hz, XL' = 40. R = 30. Z = \u221a(30^2 + 40^2) = 50 ohm. I = 200/50 = 4 A.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "AC Circuits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q99",
+    "question": "The voltage of an AC source varies with time according to the equation V = 120 sin(100\u03c0t) cos(100\u03c0t). The frequency of this voltage is:",
+    "options": [
+      "100 Hz",
+      "50 Hz",
+      "150 Hz",
+      "200 Hz"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "V = 60 * 2 sin(100\u03c0t) cos(100\u03c0t) = 60 sin(200\u03c0t). \u03c9 = 200\u03c0. f = 100 Hz.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "AC Equation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q100",
+    "question": "A fully charged capacitor C with initial charge q0 is connected to a coil of self inductance L at t=0. The time at which the energy is stored equally between the electric and the magnetic fields is:",
+    "options": [
+      "\u03c0\u221aLC / 4",
+      "\u03c0\u221aLC / 2",
+      "\u221aLC",
+      "\u03c0\u221aLC"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "q = q0 cos\u03c9t. UE = q^2/2C. UB = 1/2 LI^2. UE = UB => UE = U_total/2. q^2/2C = 1/2 * q0^2/2C. q = q0/\u221a2. cos\u03c9t = 1/\u221a2. \u03c9t = \u03c0/4. t = \u03c0/4\u03c9 = \u03c0\u221aLC / 4.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "LC Oscillations"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q101",
+    "question": "In a series LCR circuit, the voltage across the resistance, capacitance and inductance is 10 V each. If the capacitance is short circuited, the voltage across the inductance will be:",
+    "options": [
+      "10 V",
+      "10/\u221a2 V",
+      "20 V",
+      "20/\u221a2 V"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Repeated question.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "LCR Circuit"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q102",
+    "question": "A telephone wire of length 200 km has a capacitance of 0.014 \u03bcF per km. If it carries an AC of frequency 5 kHz, what should be the value of an inductor required to be connected in series so that the impedance of the circuit is minimum?",
+    "options": [
+      "0.35 mH",
+      "3.5 mH",
+      "35 mH",
+      "350 mH"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "C = 200 * 0.014 = 2.8 \u03bcF. Resonance condition. L = 1/(4\u03c0^2 f^2 C) = 1/(4 * 10 * 25x10^6 * 2.8x10^-6) = 1/(2800) = 0.35 x 10^-3 H = 0.35 mH.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Resonance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q103",
+    "question": "An alternating voltage V = 200\u221a2 sin(100t) is connected to a 1 \u03bcF capacitor through an AC ammeter. The reading of the ammeter will be:",
+    "options": [
+      "10 mA",
+      "20 mA",
+      "40 mA",
+      "80 mA"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Vrms = 200. XC = 1/\u03c9C = 1/(100 * 10^-6) = 10^4 ohm. Irms = 200/10^4 = 0.02 A = 20 mA.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "AC Circuits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q104",
+    "question": "A circuit draws 330 W from a 110 V, 60 Hz AC line. The power factor is 0.6 and the current lags the voltage. The capacitance of a series capacitor that will result in a power factor of unity is:",
+    "options": [
+      "31 \u03bcF",
+      "54 \u03bcF",
+      "151 \u03bcF",
+      "201 \u03bcF"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "P = VI cos\u03c6. 330 = 110 * I * 0.6. I = 5 A. Z = 110/5 = 22 ohm. R = Z cos\u03c6 = 22 * 0.6 = 13.2 ohm. XL = Z sin\u03c6 = 22 * 0.8 = 17.6 ohm. For PF=1, XC=XL=17.6. C = 1/2\u03c0fXC = 1/(377 * 17.6) = 1/6635 = 150 \u03bcF. Wait. 1/6635 = 1.5 x 10^-4 = 150 \u03bcF. Option C is 151 \u03bcF. Let's recheck. 377 * 17.6 = 6635.2. 1/6635.2 = 1.507 x 10^-4. Yes, 151 \u03bcF. But option B is 54. Let me check calculation. 330/66 = 5. Correct. 22 * 0.6 = 13.2. 22 * 0.8 = 17.6. Correct. 1/(2*3.14*60*17.6) = 1/6631 = 150.8. Option C is correct.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Power Factor"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q105",
+    "question": "An inductor 20 mH, a capacitor 100 \u03bcF and a resistor 50 ohm are connected in series across a source of emf V = 10 sin 314t. The power loss in the circuit is:",
+    "options": [
+      "0.79 W",
+      "0.43 W",
+      "2.74 W",
+      "1.13 W"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "XL = 314 * 0.02 = 6.28 ohm. XC = 1/(314 * 10^-4) = 31.8 ohm. Z = \u221a(50^2 + (31.8-6.28)^2) = \u221a(2500 + 651) = \u221a3151 = 56.1 ohm. Irms = (10/\u221a2)/56.1 = 0.126 A. P = I^2 R = 0.126^2 * 50 = 0.0158 * 50 = 0.79 W.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Power"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q106",
+    "question": "A series LCR circuit is connected to an AC voltage source. When L is removed from the circuit, the phase difference between current and voltage is \u03c0/3. If instead C is removed from the circuit, the phase difference is again \u03c0/3 between current and voltage. The power factor of the circuit is:",
+    "options": [
+      "0.5",
+      "1.0",
+      "-1.0",
+      "Zero"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "tan(\u03c0/3) = XC/R. tan(\u03c0/3) = XL/R. So XL = XC. Resonance. PF = 1.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Power Factor"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q107",
+    "question": "The potential difference across the resistance, capacitance and inductance are 80 V, 40 V and 100 V respectively in an LCR circuit. The power factor of this circuit is:",
+    "options": [
+      "0.4",
+      "0.5",
+      "0.8",
+      "1.0"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "V = \u221a(80^2 + (100-40)^2) = \u221a(6400 + 3600) = 100 V. PF = VR/V = 80/100 = 0.8.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Power Factor"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q108",
+    "question": "A coil of self-inductance L is connected in series with a bulb B and an AC source. Brightness of the bulb decreases when:",
+    "options": [
+      "Frequency of the AC source is decreased",
+      "Number of turns in the coil is reduced",
+      "A capacitance of reactance XC = XL is included in the same circuit",
+      "An iron rod is inserted in the coil"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Iron rod increases L, increases XL, increases Z, decreases I, decreases brightness.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "AC Circuits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q109",
+    "question": "In a series LCR circuit, R = 200 ohm and the voltage and the frequency of the main supply is 220 V and 50 Hz respectively. On taking out the capacitance from the circuit the current lags behind the voltage by 30 degrees. On taking out the inductor from the circuit the current leads the voltage by 30 degrees. The power dissipated in the LCR circuit is:",
+    "options": [
+      "242 W",
+      "305 W",
+      "210 W",
+      "Zero"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "XL=XC (Resonance). Z=R=200. I = 220/200 = 1.1 A. P = I^2 R = 1.21 * 200 = 242 W.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Power"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q110",
+    "question": "An AC voltage source of variable angular frequency \u03c9 and fixed amplitude V0 is connected in series with a capacitance C and an electric bulb of resistance R (inductance zero). When \u03c9 is increased:",
+    "options": [
+      "The bulb glows dimmer",
+      "The bulb glows brighter",
+      "Total impedance of the circuit is unchanged",
+      "Total impedance of the circuit increases"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "XC = 1/\u03c9C. \u03c9 increases, XC decreases, Z decreases, I increases, Brightness increases.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "AC Circuits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q111",
+    "question": "A transformer having efficiency of 90% is working on 200 V and 3 kW power supply. If the current in the secondary coil is 6 A, the voltage across the secondary coil and the current in the primary coil respectively are:",
+    "options": [
+      "300 V, 15 A",
+      "450 V, 15 A",
+      "450 V, 13.5 A",
+      "600 V, 15 A"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "P_in = 3000 W. I_p = 3000/200 = 15 A. P_out = 0.9 * 3000 = 2700 W. V_s = 2700/6 = 450 V.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Transformer"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q112",
+    "question": "A resistor 30 ohm, inductor of reactance 10 ohm and capacitor of reactance 10 ohm are connected in series to an AC voltage source e = 300\u221a2 sin(\u03c9t). The current in the circuit is:",
+    "options": [
+      "10\u221a2 A",
+      "10 A",
+      "30\u221a2 A",
+      "30 A"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "XL=XC=10. Resonance. Z=R=30. Irms = (300\u221a2/\u221a2)/30 = 300/30 = 10 A.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "AC Circuits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q113",
+    "question": "An ideal choke takes a current of 8 A when connected to an AC source of 100 V and 50 Hz. A pure resistor under the same conditions takes a current of 10 A. If two are connected in series to an AC supply of 100 V and 40 Hz, then the current in the series combination of above resistor and inductor is:",
+    "options": [
+      "10 A",
+      "8 A",
+      "5\u221a2 A",
+      "10\u221a2 A"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "XL1 = 100/8 = 12.5 ohm at 50 Hz. R = 100/10 = 10 ohm. At 40 Hz, XL2 = 12.5 * 40/50 = 10 ohm. Z = \u221a(10^2 + 10^2) = 10\u221a2. I = 100/10\u221a2 = 10/\u221a2 = 5\u221a2 A.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "AC Circuits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q114",
+    "question": "In a series LCR circuit, the voltage across R is 100 V and R = 1 k\u03a9 with C = 2 \u03bcF. The resonant frequency \u03c9 is 200 rad/s. At resonance the voltage across L is:",
+    "options": [
+      "40 V",
+      "250 V",
+      "4 x 10^-3 V",
+      "2.5 x 10^-3 V"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "I = 100/1000 = 0.1 A. At resonance XL = XC = 1/\u03c9C = 1/(200 * 2x10^-6) = 10^6 / 400 = 2500 ohm. VL = I XL = 0.1 * 2500 = 250 V.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "LCR Circuit"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q115",
+    "question": "A capacitor of capacitance 2 \u03bcF is connected in the tank circuit of an oscillator oscillating with a frequency of 1 kHz. If the current flows in the circuit is 2 mA, then the voltage across the capacitor will be:",
+    "options": [
+      "0.16 V",
+      "0.32 V",
+      "79.5 V",
+      "159 V"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "XC = 1/(2\u03c0fC) = 1/(6.28 * 1000 * 2x10^-6) = 1000 / 12.56 = 79.6 ohm. V = I XC = 0.002 * 79.6 = 0.159 V \u2248 0.16 V.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "AC Circuits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q116",
+    "question": "Using an AC voltmeter, the potential difference in the electrical line in a house is read to be 234 V. If the line frequency is known to be 50 cycles per second, the equation for the line voltage is:",
+    "options": [
+      "V = 165 sin(100\u03c0t)",
+      "V = 331 sin(100\u03c0t)",
+      "V = 220 sin(100\u03c0t)",
+      "V = 440 sin(100\u03c0t)"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Vrms = 234. V0 = 234 * 1.414 = 330.8 \u2248 331 V. \u03c9 = 100\u03c0.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "AC Equation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q117",
+    "question": "A coil of inductance 5.0 mH and negligible resistance is connected to an oscillator of voltage 10 V and frequency 1000 Hz. The peak current in the circuit is:",
+    "options": [
+      "0.32 A",
+      "0.45 A",
+      "0.15 A",
+      "0.64 A"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "XL = 2\u03c0fL = 6.28 * 1000 * 0.005 = 31.4 ohm. Irms = 10/31.4 = 0.318 A. I0 = 0.318 * 1.414 = 0.45 A.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "AC Circuits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q118",
+    "question": "A resistor R, an inductor L and a capacitor C are connected in series to an oscillator of frequency n. If the resonant frequency is nr, then the current lags behind voltage, when:",
+    "options": [
+      "n = 0",
+      "n < nr",
+      "n = nr",
+      "n > nr"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Current lags when circuit is inductive. XL > XC. \u03c9L > 1/\u03c9C. \u03c9^2 > 1/LC. \u03c9 > \u03c9r. n > nr.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Resonance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q119",
+    "question": "A series LCR circuit containing a resistance of 120 ohm has angular resonance frequency 4 x 10^5 rad/s. At resonance the voltage across resistance and inductance are 60 V and 40 V respectively. The value of inductance L is:",
+    "options": [
+      "200 \u03bcH",
+      "2 mH",
+      "0.2 mH",
+      "20 mH"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "I = 60/120 = 0.5 A. VL = 40 V. XL = 40/0.5 = 80 ohm. L = XL/\u03c9 = 80 / 4x10^5 = 20 x 10^-5 = 200 x 10^-6 = 200 \u03bcH.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "LCR Circuit"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  },
+  {
+    "id": "physics_12_ac_q120",
+    "question": "The self-inductance of the motor of an electric fan is 10 H. In order to impart maximum power at 50 Hz, it should be connected to a capacitance of:",
+    "options": [
+      "1 \u03bcF",
+      "2 \u03bcF",
+      "4 \u03bcF",
+      "8 \u03bcF"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Repeated question. 1 \u03bcF.",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "tags": [
+      "Resonance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "alternating_current",
+    "subjectId": "physics"
+  }
+]

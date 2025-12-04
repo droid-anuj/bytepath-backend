@@ -1,0 +1,2882 @@
+[
+  {
+    "id": "zoology_digestion_q1",
+    "question": "The process of conversion of complex food substances to simple absorbable forms is called:",
+    "options": [
+      "Assimilation",
+      "Digestion",
+      "Egestion",
+      "Circulation"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Digestion is the breakdown of complex food into simple absorbable forms.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Introduction",
+      "Basics"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q2",
+    "question": "Which of the following is the hardest substance in the human body?",
+    "options": [
+      "Bone",
+      "Cartilage",
+      "Enamel",
+      "Dentine"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Enamel covering the teeth is the hardest substance.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive System",
+      "Teeth"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q3",
+    "question": "The dental formula of human permanent teeth is:",
+    "options": [
+      "2123/2123",
+      "2102/2102",
+      "2122/2122",
+      "2132/2132"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The dental formula for permanent teeth in humans is 2123/2123.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive System",
+      "Teeth"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q4",
+    "question": "Which of the following is a common passage for food and air?",
+    "options": [
+      "Larynx",
+      "Pharynx",
+      "Oesophagus",
+      "Trachea"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Pharynx is the common passage for food and air.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive System",
+      "Anatomy"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q5",
+    "question": "The stomach is located in the:",
+    "options": [
+      "Upper right portion of abdominal cavity",
+      "Upper left portion of abdominal cavity",
+      "Lower right portion of abdominal cavity",
+      "Lower left portion of abdominal cavity"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "The stomach is in the upper left portion of the abdominal cavity.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive System",
+      "Stomach"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q6",
+    "question": "Which part of the small intestine is C-shaped?",
+    "options": [
+      "Duodenum",
+      "Jejunum",
+      "Ileum",
+      "Caecum"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Duodenum is the C-shaped first part of the small intestine.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive System",
+      "Small Intestine"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q7",
+    "question": "Vermiform appendix arises from:",
+    "options": [
+      "Duodenum",
+      "Jejunum",
+      "Caecum",
+      "Colon"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Vermiform appendix arises from the caecum.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive System",
+      "Large Intestine"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q8",
+    "question": "The largest gland in the human body is:",
+    "options": [
+      "Pancreas",
+      "Liver",
+      "Thyroid",
+      "Pituitary"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Liver is the largest gland.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive Glands",
+      "Liver"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q9",
+    "question": "Bile is secreted by:",
+    "options": [
+      "Gall bladder",
+      "Liver",
+      "Pancreas",
+      "Stomach"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Bile is secreted by hepatic cells of the liver.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive Glands",
+      "Liver"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q10",
+    "question": "Which enzyme is present in saliva?",
+    "options": [
+      "Pepsin",
+      "Trypsin",
+      "Salivary amylase",
+      "Lipase"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Saliva contains salivary amylase (ptyalin).",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestion of Food",
+      "Enzymes"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q11",
+    "question": "Salivary amylase acts on:",
+    "options": [
+      "Proteins",
+      "Fats",
+      "Starch",
+      "Vitamins"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Salivary amylase hydrolyzes starch into maltose.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestion of Food",
+      "Carbohydrates"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q12",
+    "question": "Pepsinogen is secreted by:",
+    "options": [
+      "Mucus neck cells",
+      "Peptic (Chief) cells",
+      "Parietal (Oxyntic) cells",
+      "Pancreatic cells"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Peptic or Chief cells secrete proenzyme pepsinogen.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive Glands",
+      "Stomach"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q13",
+    "question": "HCl is secreted by:",
+    "options": [
+      "Chief cells",
+      "Oxyntic cells",
+      "Goblet cells",
+      "Hepatocytes"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Oxyntic (Parietal) cells secrete HCl.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive Glands",
+      "Stomach"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q14",
+    "question": "The pH of saliva is approximately:",
+    "options": [
+      "1.8",
+      "6.8",
+      "7.8",
+      "8.8"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Saliva has a pH of about 6.8.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestion of Food",
+      "Saliva"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q15",
+    "question": "Which of the following is a proteolytic enzyme of the stomach?",
+    "options": [
+      "Trypsin",
+      "Pepsin",
+      "Amylase",
+      "Lipase"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Pepsin is the proteolytic enzyme in the stomach.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestion of Food",
+      "Proteins"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q16",
+    "question": "Bile helps in the emulsification of:",
+    "options": [
+      "Proteins",
+      "Carbohydrates",
+      "Fats",
+      "Nucleic acids"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Bile salts help in the emulsification of fats.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestion of Food",
+      "Fats"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q17",
+    "question": "Which of the following enzymes is not present in pancreatic juice?",
+    "options": [
+      "Trypsinogen",
+      "Chymotrypsinogen",
+      "Enterokinase",
+      "Amylase"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Enterokinase is secreted by the intestinal mucosa, not pancreas.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive Glands",
+      "Pancreas"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q18",
+    "question": "The enzyme that activates trypsinogen is:",
+    "options": [
+      "Pepsin",
+      "Enterokinase",
+      "Chymotrypsin",
+      "Bile"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Enterokinase activates trypsinogen to trypsin.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestion of Food",
+      "Enzymes"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q19",
+    "question": "Digestion of proteins begins in:",
+    "options": [
+      "Mouth",
+      "Stomach",
+      "Small intestine",
+      "Large intestine"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Protein digestion starts in the stomach with pepsin.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestion of Food",
+      "Proteins"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q20",
+    "question": "Succus entericus is the name given to:",
+    "options": [
+      "Gastric juice",
+      "Pancreatic juice",
+      "Intestinal juice",
+      "Bile"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Intestinal juice is called succus entericus.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive Glands",
+      "Intestine"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q21",
+    "question": "Villi are found in:",
+    "options": [
+      "Stomach",
+      "Small intestine",
+      "Large intestine",
+      "Oesophagus"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Villi are finger-like projections in the small intestine.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive System",
+      "Small Intestine"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q22",
+    "question": "The main function of villi is to:",
+    "options": [
+      "Secrete enzymes",
+      "Increase surface area for absorption",
+      "Protect the wall",
+      "Grind food"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Villi increase the surface area for absorption.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Absorption",
+      "Physiology"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q23",
+    "question": "Which of the following is absorbed in the stomach?",
+    "options": [
+      "Glucose",
+      "Amino acids",
+      "Alcohol",
+      "Fatty acids"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Alcohol and some drugs are absorbed in the stomach.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Absorption",
+      "Stomach"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q24",
+    "question": "Jaundice is a disorder of:",
+    "options": [
+      "Skin",
+      "Eyes",
+      "Liver",
+      "Kidney"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Jaundice affects the liver.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Disorders",
+      "Liver"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q25",
+    "question": "Indigestion is caused by:",
+    "options": [
+      "Inadequate enzyme secretion",
+      "Anxiety",
+      "Food poisoning",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Indigestion can be caused by all these factors.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Disorders",
+      "General"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q26",
+    "question": "The opening of the stomach into the duodenum is guarded by:",
+    "options": [
+      "Gastro-oesophageal sphincter",
+      "Pyloric sphincter",
+      "Sphincter of Oddi",
+      "Ileocaecal valve"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Pyloric sphincter guards the opening of stomach into duodenum.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive System",
+      "Sphincters"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q27",
+    "question": "Which of the following is a vestigial organ in humans?",
+    "options": [
+      "Liver",
+      "Vermiform appendix",
+      "Pancreas",
+      "Stomach"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Vermiform appendix is a vestigial organ.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive System",
+      "Large Intestine"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q28",
+    "question": "Glisson's capsule is found in:",
+    "options": [
+      "Pancreas",
+      "Liver",
+      "Kidney",
+      "Stomach"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Glisson's capsule is the connective tissue sheath covering hepatic lobules in the liver.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive Glands",
+      "Liver"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q29",
+    "question": "The milk protein is digested by:",
+    "options": [
+      "Pepsin",
+      "Rennin",
+      "Trypsin",
+      "Lipase"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Rennin digests milk protein in infants.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestion of Food",
+      "Proteins"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q30",
+    "question": "Which of the following is the structural and functional unit of liver?",
+    "options": [
+      "Hepatic cells",
+      "Hepatic lobules",
+      "Hepatic cords",
+      "Glisson's capsule"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Hepatic lobules are the structural and functional units.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive Glands",
+      "Liver"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q31",
+    "question": "Faeces are temporarily stored in:",
+    "options": [
+      "Caecum",
+      "Colon",
+      "Rectum",
+      "Ileum"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Faeces are stored in the rectum before defecation.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive System",
+      "Large Intestine"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q32",
+    "question": "Vomiting is controlled by the vomit centre in the:",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Medulla",
+      "Hypothalamus"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Vomit centre is in the medulla.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Disorders",
+      "Control"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q33",
+    "question": "The tongue is attached to the floor of the oral cavity by:",
+    "options": [
+      "Papillae",
+      "Frenulum",
+      "Uvula",
+      "Epiglottis"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Frenulum attaches the tongue to the floor.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive System",
+      "Mouth"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q34",
+    "question": "Which of the following prevents the entry of food into the glottis?",
+    "options": [
+      "Uvula",
+      "Epiglottis",
+      "Frenulum",
+      "Tonsils"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Epiglottis is the cartilaginous flap preventing food entry into windpipe.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive System",
+      "Pharynx"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q35",
+    "question": "Kwashiorkor is caused by deficiency of:",
+    "options": [
+      "Carbohydrates",
+      "Proteins",
+      "Fats",
+      "Vitamins"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Kwashiorkor is a protein deficiency disorder.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Disorders",
+      "PEM"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q36",
+    "question": "Marasmus occurs in children:",
+    "options": [
+      "More than 1 year of age",
+      "Less than 1 year of age",
+      "Adults",
+      "Old age"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Marasmus is found in infants less than a year old.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Disorders",
+      "PEM"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q37",
+    "question": "The primary dentition in human differs from permanent dentition in not having one of the following type of teeth:",
+    "options": [
+      "Molars",
+      "Incisors",
+      "Canines",
+      "Premolars"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Premolars are absent in milk teeth.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive System",
+      "Teeth"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q38",
+    "question": "Where do certain symbiotic microorganisms normally occur in human body?",
+    "options": [
+      "Caecum",
+      "Oral lining",
+      "Vermiform appendix",
+      "Duodenum"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Caecum hosts symbiotic microorganisms.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive System",
+      "Large Intestine"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q39",
+    "question": "Which one of the following vitamins can be synthesized by bacteria inside the gut?",
+    "options": [
+      "Vitamin D",
+      "Vitamin K",
+      "Vitamin A",
+      "Vitamin C"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Vitamin K (and B12) is synthesized by gut bacteria.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Absorption",
+      "Vitamins"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q40",
+    "question": "The wall of the alimentary canal from oesophagus to rectum possesses how many layers?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "It has 4 layers: Serosa, Muscularis, Sub-mucosa, Mucosa.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive System",
+      "Histology"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q41",
+    "question": "Which of the following layers of the alimentary canal forms the rugae in the stomach?",
+    "options": [
+      "Serosa",
+      "Muscularis",
+      "Sub-mucosa",
+      "Mucosa"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Mucosa forms irregular folds (rugae) in the stomach.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive System",
+      "Histology"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q42",
+    "question": "Brunner's glands are found in:",
+    "options": [
+      "Mucosa of duodenum",
+      "Sub-mucosa of duodenum",
+      "Mucosa of ileum",
+      "Sub-mucosa of stomach"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Brunner's glands are characteristic of the sub-mucosa of the duodenum.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive Glands",
+      "Histology"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q43",
+    "question": "Which of the following is not a function of the large intestine?",
+    "options": [
+      "Absorption of water",
+      "Absorption of minerals",
+      "Secretion of mucus",
+      "Significant digestive activity"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "No significant digestive activity occurs in the large intestine.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive System",
+      "Large Intestine"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q44",
+    "question": "The proteolytic enzyme rennin is found in:",
+    "options": [
+      "Gastric juice of infants",
+      "Gastric juice of adults",
+      "Pancreatic juice",
+      "Intestinal juice"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Rennin is found in the gastric juice of infants to digest milk proteins.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestion of Food",
+      "Enzymes"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q45",
+    "question": "Which of the following statements is incorrect?",
+    "options": [
+      "Mucosa forms gastric glands in the stomach.",
+      "Mucosa forms crypts of Lieberkuhn in the intestine.",
+      "Serosa is the outermost layer made of mesothelium.",
+      "Muscularis is formed by smooth muscles usually arranged into an inner longitudinal and outer circular layer."
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Muscularis has inner circular and outer longitudinal layers.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive System",
+      "Histology"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q46",
+    "question": "Chylomicrons are:",
+    "options": [
+      "Protein coated fat globules",
+      "Fat coated protein globules",
+      "Micelles",
+      "Fatty acid droplets"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Chylomicrons are small protein-coated fat globules transported into lymph vessels.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Absorption",
+      "Fats"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q47",
+    "question": "Which of the following stimulates the production of pancreatic juice and bicarbonate?",
+    "options": [
+      "Angiotensin and epinephrine",
+      "Gastrin and insulin",
+      "Cholecystokinin and secretin",
+      "Insulin and glucagon"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "CCK and Secretin stimulate the pancreas.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Control",
+      "Hormones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q48",
+    "question": "The sphincter of Oddi guards the opening of:",
+    "options": [
+      "Common hepatic duct",
+      "Common bile duct",
+      "Pancreatic duct",
+      "Hepato-pancreatic duct"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "It guards the hepato-pancreatic duct opening into the duodenum.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive System",
+      "Sphincters"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q49",
+    "question": "Carrier ions like Na+ facilitate the absorption of substances like:",
+    "options": [
+      "Amino acids and glucose",
+      "Glucose and fatty acids",
+      "Fatty acids and glycerol",
+      "Fructose and some amino acids"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Glucose and amino acids are absorbed with the help of carrier ions like Na+.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Absorption",
+      "Mechanisms"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q50",
+    "question": "Which of the following enzymes is not a disaccharidase?",
+    "options": [
+      "Maltase",
+      "Lactase",
+      "Sucrase",
+      "Amylase"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Amylase breaks down starch (polysaccharide), not disaccharides.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestion of Food",
+      "Enzymes"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q51",
+    "question": "The intrinsic factor secreted by parietal cells is essential for:",
+    "options": [
+      "Absorption of Vitamin B12",
+      "Digestion of proteins",
+      "Absorption of glucose",
+      "Emulsification of fats"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Intrinsic factor is essential for the absorption of Vitamin B12.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive Glands",
+      "Stomach"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q52",
+    "question": "Which of the following is a correct match?",
+    "options": [
+      "Renin - Protein",
+      "Trypsin - Starch",
+      "Invertase - Sucrose",
+      "Amylase - Lactose"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Invertase (Sucrase) digests sucrose.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestion of Food",
+      "Enzymes"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q53",
+    "question": "About 30% of starch is hydrolysed in the oral cavity by:",
+    "options": [
+      "Salivary amylase",
+      "Pancreatic amylase",
+      "Lysozyme",
+      "Pepsin"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Salivary amylase hydrolyzes about 30% of starch.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestion of Food",
+      "Carbohydrates"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q54",
+    "question": "The common bile duct is formed by the fusion of:",
+    "options": [
+      "Cystic duct and hepatic duct",
+      "Cystic duct and pancreatic duct",
+      "Hepatic duct and pancreatic duct",
+      "Hepatic duct and cystic duct"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Cystic duct (from gall bladder) and common hepatic duct form the common bile duct.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive Glands",
+      "Ducts"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q55",
+    "question": "Fructose is absorbed into the blood through mucosa cells of intestine by the process called:",
+    "options": [
+      "Active transport",
+      "Facilitated transport",
+      "Simple diffusion",
+      "Co-transport mechanism"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Fructose is absorbed by facilitated transport.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Absorption",
+      "Mechanisms"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q56",
+    "question": "Which of the following gastric cells indirectly help in erythropoiesis?",
+    "options": [
+      "Chief cells",
+      "Mucous cells",
+      "Goblet cells",
+      "Parietal cells"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Parietal cells secrete intrinsic factor needed for Vit B12 absorption, which is essential for RBC formation.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive Glands",
+      "Stomach"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q57",
+    "question": "The enzyme enterokinase helps in conversion of:",
+    "options": [
+      "Caseinogen into casein",
+      "Trypsinogen into trypsin",
+      "Pepsinogen into pepsin",
+      "Proteins into polypeptides"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Enterokinase activates trypsinogen.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestion of Food",
+      "Enzymes"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q58",
+    "question": "Which of the following is not a component of bile?",
+    "options": [
+      "Bilirubin",
+      "Biliverdin",
+      "Digestive enzymes",
+      "Cholesterol"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Bile contains no digestive enzymes.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive Glands",
+      "Bile"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q59",
+    "question": "The backflow of faecal matter from the large intestine into the small intestine is prevented by:",
+    "options": [
+      "Epiglottis",
+      "Sphincter of Oddi",
+      "Ileocaecal valve",
+      "Pyloric sphincter"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Ileocaecal valve prevents backflow.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive System",
+      "Valves"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q60",
+    "question": "Which of the following pairs is not correctly matched?",
+    "options": [
+      "Vitamin B12 - Pernicious anaemia",
+      "Vitamin B1 - Beri-beri",
+      "Vitamin C - Scurvy",
+      "Vitamin B2 - Pellagra"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Pellagra is caused by deficiency of Vitamin B3 (Niacin), not B2.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Disorders",
+      "Vitamins"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q61",
+    "question": "The wave-like muscular contractions of the digestive tract are called:",
+    "options": [
+      "Mastication",
+      "Peristalsis",
+      "Deglutition",
+      "Emulsification"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Peristalsis is the wave-like contraction.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Physiology",
+      "Movement"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q62",
+    "question": "Lysozyme in saliva acts as an:",
+    "options": [
+      "Antibacterial agent",
+      "Antiviral agent",
+      "Antifungal agent",
+      "Digestive enzyme"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Lysozyme prevents infection (antibacterial).",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestion of Food",
+      "Saliva"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q63",
+    "question": "In the stomach, gastric acid is secreted by the:",
+    "options": [
+      "peptic cells",
+      "acidic cells",
+      "gastrin secreting cells",
+      "parietal cells"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Parietal (oxyntic) cells secrete HCl.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive Glands",
+      "Stomach"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q64",
+    "question": "The breakdown of biomacromolecules mentioned in the chapter occurs mainly in the:",
+    "options": [
+      "Stomach",
+      "Duodenum",
+      "Jejunum",
+      "Ileum"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Major digestion occurs in the duodenum.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestion of Food",
+      "Small Intestine"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q65",
+    "question": "Absorption of substances takes place in different parts of the alimentary canal. However, maximum absorption occurs in the:",
+    "options": [
+      "Stomach",
+      "Small intestine",
+      "Large intestine",
+      "Oesophagus"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Maximum absorption occurs in the small intestine.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Absorption",
+      "Physiology"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q66",
+    "question": "Which of the following hormones stimulates the production of pancreatic juice and bicarbonate?",
+    "options": [
+      "Angiotensin and epinephrine",
+      "Gastrin and insulin",
+      "Cholecystokinin and secretin",
+      "Insulin and glucagon"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "CCK and Secretin.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Control",
+      "Hormones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q67",
+    "question": "The enzyme that is not present in succus entericus is:",
+    "options": [
+      "Nucleosidase",
+      "Lipase",
+      "Maltase",
+      "Nuclease"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Nucleases are pancreatic enzymes. Succus entericus has nucleosidases.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestion of Food",
+      "Enzymes"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q68",
+    "question": "Which of the following statements is true?",
+    "options": [
+      "Pepsin converts proteins into amino acids.",
+      "Trypsin converts proteins into peptones.",
+      "Chymotrypsin converts proteins into amino acids.",
+      "Carboxypeptidase breaks down peptides into amino acids."
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Carboxypeptidase is an exopeptidase that releases amino acids.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestion of Food",
+      "Proteins"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q69",
+    "question": "The abnormal frequency of bowel movement and increased liquidity of the faecal discharge is known as:",
+    "options": [
+      "Constipation",
+      "Indigestion",
+      "Diarrhoea",
+      "Vomiting"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "This is the definition of diarrhoea.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Disorders",
+      "General"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q70",
+    "question": "Which of the following is not a salivary gland?",
+    "options": [
+      "Parotid",
+      "Sub-maxillary",
+      "Sub-lingual",
+      "Lacrimal"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Lacrimal glands secrete tears.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive Glands",
+      "Salivary Glands"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q71",
+    "question": "The duct of the parotid gland is called:",
+    "options": [
+      "Stenson's duct",
+      "Wharton's duct",
+      "Duct of Rivinus",
+      "Duct of Wirsung"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Stenson's duct is the parotid duct.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive Glands",
+      "Ducts"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q72",
+    "question": "Crypts of Lieberkuhn are present in:",
+    "options": [
+      "Pancreas and secrete pancreatic juice",
+      "Small intestine and secrete digestive enzymes",
+      "Stomach and secrete gastric juice",
+      "Liver and secrete bile"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Crypts of Lieberkuhn are in the small intestine.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive Glands",
+      "Intestine"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q73",
+    "question": "Which of the following is correct regarding the digestion of fats?",
+    "options": [
+      "Fats are emulsified by bile.",
+      "Lipases break down fats into fatty acids and glycerol.",
+      "Digestion of fats starts in the mouth.",
+      "Both A and B"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Bile emulsifies fats, and lipases digest them.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestion of Food",
+      "Fats"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q74",
+    "question": "The condition where the liver is affected, skin and eyes turn yellow due to the deposit of bile pigments is:",
+    "options": [
+      "Vomiting",
+      "Jaundice",
+      "Diarrhoea",
+      "Constipation"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "This describes Jaundice.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Disorders",
+      "Liver"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q75",
+    "question": "Which of the following is absorbed by simple diffusion?",
+    "options": [
+      "Glucose (some amount)",
+      "Amino acids (some amount)",
+      "Chloride ions",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Small amounts of glucose, amino acids, and electrolytes like chloride are absorbed by simple diffusion.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Absorption",
+      "Mechanisms"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q76",
+    "question": "The energy content of 1g of fat is:",
+    "options": [
+      "4.1 kcal",
+      "5.65 kcal",
+      "9.45 kcal",
+      "4.0 kcal"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Gross calorific value of fat is 9.45 kcal/g.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Nutrition",
+      "Calorific Value"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q77",
+    "question": "Which of the following is not a part of the large intestine?",
+    "options": [
+      "Caecum",
+      "Colon",
+      "Rectum",
+      "Ileum"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Ileum is part of the small intestine.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive System",
+      "Anatomy"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q78",
+    "question": "The tongue is a freely movable muscular organ attached to the floor of the oral cavity by the:",
+    "options": [
+      "Frenulum",
+      "Hyoid bone",
+      "Epiglottis",
+      "Tonsils"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Frenulum attaches the tongue.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive System",
+      "Mouth"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q79",
+    "question": "Which of the following cells secrete mucus?",
+    "options": [
+      "Oxyntic cells",
+      "Chief cells",
+      "Goblet cells",
+      "Paneth cells"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Goblet cells secrete mucus.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive Glands",
+      "Histology"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q80",
+    "question": "The principal site for the absorption of nutrients is:",
+    "options": [
+      "Stomach",
+      "Small intestine",
+      "Large intestine",
+      "Mouth"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Small intestine is the principal site.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Absorption",
+      "Physiology"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q81",
+    "question": "Which of the following is not a function of the liver?",
+    "options": [
+      "Production of bile",
+      "Detoxification of drugs",
+      "Storage of glycogen",
+      "Secretion of insulin"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Insulin is secreted by the Pancreas.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive Glands",
+      "Liver"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q82",
+    "question": "The teeth that are monophyodont in humans are:",
+    "options": [
+      "Incisors",
+      "Canines",
+      "Premolars",
+      "Molars"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Premolars (and last molars) appear only once.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive System",
+      "Teeth"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q83",
+    "question": "Which of the following is true about the absorption of fats?",
+    "options": [
+      "They are absorbed directly into blood capillaries.",
+      "They are reformed into chylomicrons and transported into lacteals.",
+      "They are absorbed as micelles into blood.",
+      "They are not absorbed."
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Fats enter lacteals as chylomicrons.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Absorption",
+      "Fats"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q84",
+    "question": "The physiological calorific value of carbohydrates is:",
+    "options": [
+      "4.0 kcal/g",
+      "4.1 kcal/g",
+      "9.0 kcal/g",
+      "5.65 kcal/g"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Physiological value is 4.0 kcal/g.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Nutrition",
+      "Calorific Value"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q85",
+    "question": "Which of the following is a deficiency disease?",
+    "options": [
+      "Jaundice",
+      "Indigestion",
+      "Marasmus",
+      "Diarrhoea"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Marasmus is a PEM (Protein Energy Malnutrition) deficiency disease.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Disorders",
+      "PEM"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q86",
+    "question": "The enzyme that hydrolyses nucleic acids is:",
+    "options": [
+      "Lipase",
+      "Amylase",
+      "Nuclease",
+      "Protease"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Nucleases digest nucleic acids.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestion of Food",
+      "Enzymes"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q87",
+    "question": "Which of the following is not a step in the process of nutrition?",
+    "options": [
+      "Ingestion",
+      "Digestion",
+      "Excretion",
+      "Egestion"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Excretion is removal of metabolic waste, distinct from egestion (removal of undigested food) in the context of holozoic nutrition steps.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Introduction",
+      "Basics"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q88",
+    "question": "The opening of the common hepato-pancreatic duct is guarded by:",
+    "options": [
+      "Pyloric sphincter",
+      "Sphincter of Oddi",
+      "Ileocaecal valve",
+      "Gastro-oesophageal sphincter"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Sphincter of Oddi guards it.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive System",
+      "Sphincters"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q89",
+    "question": "Which of the following is the correct dental formula for a child (milk teeth)?",
+    "options": [
+      "2123/2123",
+      "2102/2102",
+      "2122/2122",
+      "2112/2112"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Milk teeth formula is 2102/2102.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive System",
+      "Teeth"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q90",
+    "question": "The saliva contains electrolytes like:",
+    "options": [
+      "Na+, K+, Cl-, HCO3-",
+      "Na+, K+, Ca++, Mg++",
+      "Cl-, HCO3-, PO4---, SO4--",
+      "Fe++, Cu++, Zn++, Mn++"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Saliva contains Na+, K+, Cl-, HCO3-.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestion of Food",
+      "Saliva"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q91",
+    "question": "Which of the following statements is incorrect regarding the histology of the alimentary canal?",
+    "options": [
+      "Serosa is the outermost layer made up of a thin mesothelium.",
+      "Muscularis is formed by smooth muscles arranged into an inner longitudinal and an outer circular layer.",
+      "Submucosal layer is formed of loose connective tissue.",
+      "Mucosa is the innermost layer lining the lumen."
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Correct arrangement is inner circular and outer longitudinal layers.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive System",
+      "Histology"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q92",
+    "question": "Match the following columns and select the correct option.\nColumn I\n(a) Biomacromolecules of food\n(b) Human digestive system\n(c) Stomach\n(d) Thecodont\n\nColumn II\n(i) Alimentary canal and associated glands\n(ii) Embedded in jaw bones\n(iii) Outer wall of alimentary canal\n(iv) Converted into simple substances\n(v) J-shaped bag like structure",
+    "options": [
+      "(a)-(ii), (b)-(i), (c)-(v), (d)-(iii)",
+      "(a)-(iv), (b)-(i), (c)-(v), (d)-(ii)",
+      "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Biomacromolecules -> Converted (iv). Digestive system -> Alimentary canal + glands (i). Stomach -> J-shaped (v). Thecodont -> Embedded (ii).",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive System",
+      "Matching"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q93",
+    "question": "Which of the following is true regarding the absorption of fats?",
+    "options": [
+      "Fatty acids and glycerol being insoluble, cannot be absorbed into the blood.",
+      "They are first incorporated into small droplets called micelles which move into the intestinal mucosa.",
+      "They are re-formed into very small protein coated fat globules called the chylomicrons which are transported into the lymph vessels (lacteals) in the villi.",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "All statements describe the process of fat absorption accurately.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Absorption",
+      "Fats"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q94",
+    "question": "If for some reason our goblet cells are non-functional, this will adversely affect:",
+    "options": [
+      "Production of somatostatin",
+      "Secretion of sebum from the sebaceous glands",
+      "Maturation of sperms",
+      "Smooth movement of food down the intestine"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Goblet cells secrete mucus which lubricates the food passage.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive System",
+      "Physiology"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q95",
+    "question": "A healthy person eats the following diet - 5 gm raw sugar, 4 gm albumin, 10 gm pure buffalo ghee adultrated with 2 gm vegetable ghee (hydrogenated vegetable oil) and 5 gm lignin. How many calories is he likely to get?",
+    "options": [
+      "126",
+      "164",
+      "112",
+      "144"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Sugar (Carb): 5*4 = 20. Albumin (Protein): 4*4 = 16. Ghee+Oil (Fat): 12*9 = 108. Lignin (Fiber): 0. Total = 20+16+108 = 144 kcal.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Nutrition",
+      "Calorific Value"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q96",
+    "question": "Which of the following statements is correct?",
+    "options": [
+      "The colon is divided into three parts \u2013 an ascending, a transverse and a descending part.",
+      "The descending part of the colon opens into the rectum which opens out through the anus.",
+      "The caecum is a small blind sac which hosts some symbiotic micro-organisms.",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "All statements are correct descriptions of the large intestine anatomy.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive System",
+      "Large Intestine"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q97",
+    "question": "In the stomach, the proenzyme pepsinogen is converted into active pepsin by:",
+    "options": [
+      "Trypsin",
+      "HCl",
+      "Enterokinase",
+      "Bile"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "HCl provides the acidic pH required for the activation of pepsinogen.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestion of Food",
+      "Stomach"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q98",
+    "question": "Which of the following is not a function of the large intestine?",
+    "options": [
+      "Absorption of some water, minerals and certain drugs.",
+      "Secretion of mucus which helps in adhering the waste (undigested) particles together and lubricating it for an easy passage.",
+      "Significant digestive activity.",
+      "None of the above"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "No significant digestive activity occurs in the large intestine.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive System",
+      "Large Intestine"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q99",
+    "question": "The enzyme enterokinase is secreted by:",
+    "options": [
+      "Pancreas",
+      "Intestinal mucosa",
+      "Stomach",
+      "Liver"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Intestinal mucosa secretes enterokinase.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive Glands",
+      "Intestine"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q100",
+    "question": "Which of the following sequences is correct for the digestion of proteins?",
+    "options": [
+      "Proteins -> Peptones -> Dipeptides -> Amino acids",
+      "Proteins -> Amino acids -> Peptones -> Dipeptides",
+      "Proteins -> Dipeptides -> Peptones -> Amino acids",
+      "Proteins -> Peptones -> Amino acids -> Dipeptides"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Proteins are broken down to proteoses/peptones, then dipeptides, then amino acids.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestion of Food",
+      "Proteins"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q101",
+    "question": "The net calorific value of 1 g of protein is:",
+    "options": [
+      "5.65 kcal",
+      "4.0 kcal",
+      "9.45 kcal",
+      "4.1 kcal"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Physiological value is 4.0 kcal/g.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Nutrition",
+      "Calorific Value"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q102",
+    "question": "Which of the following is correct regarding the action of pancreatic juice?",
+    "options": [
+      "Trypsinogen is activated by enterokinase.",
+      "Chymotrypsinogen is activated by trypsin.",
+      "Procarboxypeptidases are activated by trypsin.",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "All are correct steps in the activation cascade.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestion of Food",
+      "Enzymes"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q103",
+    "question": "In which of the following diseases, the liver is affected, skin and eyes turn yellow due to the deposit of bile pigments?",
+    "options": [
+      "Vomiting",
+      "Jaundice",
+      "Diarrhoea",
+      "Constipation"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Jaundice is characterized by these symptoms.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Disorders",
+      "Liver"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q104",
+    "question": "Which of the following is not a cause of indigestion?",
+    "options": [
+      "Inadequate enzyme secretion",
+      "Anxiety",
+      "Food poisoning",
+      "Drinking water"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Drinking water does not cause indigestion.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Disorders",
+      "General"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q105",
+    "question": "Select the correct match of the digested products in humans given in column I with their absorption site and mechanism in column II.\nColumn I\n(a) Glycine, glucose\n(b) Fructose, Na+\n(c) Glycerol, fatty acids\n(d) Cholesterol, maltose\n\nColumn II\n(i) Small intestine, active absorption\n(ii) Small intestine, passive absorption\n(iii) Duodenum, move as chylomicrons\n(iv) Large intestine, active absorption",
+    "options": [
+      "(a)-(i)",
+      "(b)-(ii)",
+      "(c)-(iii)",
+      "(d)-(iv)"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Glucose and amino acids (like glycine) are absorbed actively in the small intestine.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Absorption",
+      "Mechanisms"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q106",
+    "question": "Which of the following statements is incorrect?",
+    "options": [
+      "Faecal accumulation in the rectum initiates a neural reflex causing an urge for its removal.",
+      "Irregular bowel movements cause constipation.",
+      "In diarrhoea, absorption of food is increased.",
+      "All of the above"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "In diarrhoea, absorption of food is reduced, not increased.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Disorders",
+      "General"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q107",
+    "question": "The bile duct and the pancreatic duct open together into the duodenum as the common hepato-pancreatic duct which is guarded by a sphincter called:",
+    "options": [
+      "Sphincter of Boyden",
+      "Sphincter of Oddi",
+      "Pyloric sphincter",
+      "Gastro-oesophageal sphincter"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Sphincter of Oddi.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive System",
+      "Sphincters"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q108",
+    "question": "Which of the following is true for the digestion of carbohydrates?",
+    "options": [
+      "Starch is hydrolysed by salivary amylase into maltose.",
+      "Polysaccharides are hydrolysed by pancreatic amylase into disaccharides.",
+      "Disaccharides are broken down by disaccharidases in the succus entericus.",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "All steps are correct.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestion of Food",
+      "Carbohydrates"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q109",
+    "question": "The wall of the alimentary canal possesses four layers. The correct sequence from outside to inside is:",
+    "options": [
+      "Mucosa, Sub-mucosa, Muscularis, Serosa",
+      "Serosa, Muscularis, Sub-mucosa, Mucosa",
+      "Serosa, Sub-mucosa, Muscularis, Mucosa",
+      "Muscularis, Serosa, Sub-mucosa, Mucosa"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Serosa -> Muscularis -> Sub-mucosa -> Mucosa.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive System",
+      "Histology"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q110",
+    "question": "Which of the following is not a component of the pancreatic juice?",
+    "options": [
+      "Trypsinogen",
+      "Chymotrypsinogen",
+      "Enterokinase",
+      "Procarboxypeptidases"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Enterokinase is secreted by the intestinal mucosa.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive Glands",
+      "Pancreas"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q111",
+    "question": "The intestinal juice or succus entericus contains:",
+    "options": [
+      "Disaccharidases",
+      "Dipeptidases",
+      "Lipases",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "It contains all these enzymes.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive Glands",
+      "Intestine"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q112",
+    "question": "Which of the following is correct regarding the absorption of alcohol?",
+    "options": [
+      "It is absorbed in the mouth.",
+      "It is absorbed in the stomach.",
+      "It is absorbed in the small intestine.",
+      "It is not absorbed."
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Alcohol is absorbed in the stomach.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Absorption",
+      "Stomach"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q113",
+    "question": "The principal organ for absorption of nutrients is:",
+    "options": [
+      "Mouth",
+      "Stomach",
+      "Small intestine",
+      "Large intestine"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Small intestine.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Absorption",
+      "Physiology"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q114",
+    "question": "Which of the following is not true about the liver?",
+    "options": [
+      "It is the largest gland of the body.",
+      "It weighs about 1.2 to 1.5 kg in an adult human.",
+      "It is situated in the abdominal cavity, just below the diaphragm.",
+      "It has three lobes."
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "The liver has two lobes (left and right).",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive Glands",
+      "Liver"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q115",
+    "question": "The saliva secreted into the oral cavity contains:",
+    "options": [
+      "Electrolytes",
+      "Salivary amylase",
+      "Lysozyme",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Saliva contains all these components.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestion of Food",
+      "Saliva"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q116",
+    "question": "Which of the following is a protein deficiency disease?",
+    "options": [
+      "Kwashiorkor",
+      "Marasmus",
+      "Both A and B",
+      "Scurvy"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Both are PEM diseases. Kwashiorkor is protein deficiency, Marasmus is protein and calorie deficiency.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Disorders",
+      "PEM"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q117",
+    "question": "The process of conversion of complex food substances to simple absorbable forms is called:",
+    "options": [
+      "Digestion",
+      "Assimilation",
+      "Absorption",
+      "Egestion"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Digestion.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Introduction",
+      "Basics"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q118",
+    "question": "Which of the following is not a part of the small intestine?",
+    "options": [
+      "Duodenum",
+      "Jejunum",
+      "Ileum",
+      "Caecum"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Caecum is part of the large intestine.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive System",
+      "Anatomy"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q119",
+    "question": "The opening of the stomach into the duodenum is guarded by the:",
+    "options": [
+      "Pyloric sphincter",
+      "Gastro-oesophageal sphincter",
+      "Sphincter of Oddi",
+      "Ileocaecal valve"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Pyloric sphincter.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive System",
+      "Sphincters"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_digestion_q120",
+    "question": "Which of the following is correct regarding the dental formula of human permanent teeth?",
+    "options": [
+      "2123/2123",
+      "2122/2122",
+      "2102/2102",
+      "2133/2133"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "2123/2123.",
+    "subject": "Zoology",
+    "chapter": "Digestion and Absorption",
+    "tags": [
+      "Digestive System",
+      "Teeth"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "digestion_and_absorption",
+    "subjectId": "zoology"
+  }
+]

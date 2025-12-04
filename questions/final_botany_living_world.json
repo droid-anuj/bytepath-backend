@@ -1,0 +1,2882 @@
+[
+  {
+    "id": "botany_living_world_q1",
+    "question": "Which of the following is a defining characteristic of living organisms?",
+    "options": [
+      "Growth",
+      "Reproduction",
+      "Metabolism",
+      "Ability to make sound"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Metabolism is a defining feature of all living organisms without exception, whereas growth and reproduction have exceptions.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "characteristics of life",
+      "metabolism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q2",
+    "question": "The basic unit of classification is:",
+    "options": [
+      "Genus",
+      "Species",
+      "Order",
+      "Kingdom"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Species is considered the basic and lowest unit of classification.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomy",
+      "classification"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q3",
+    "question": "Binomial nomenclature was proposed by:",
+    "options": [
+      "Carolous Linnaeus",
+      "Aristotle",
+      "Darwin",
+      "Bentham and Hooker"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Carolus Linnaeus introduced the system of Binomial Nomenclature.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "nomenclature",
+      "scientists"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q4",
+    "question": "In binomial nomenclature, the first name represents the:",
+    "options": [
+      "Species",
+      "Genus",
+      "Family",
+      "Order"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "The first word in a biological name represents the genus while the second component denotes the specific epithet.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "nomenclature",
+      "rules"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q5",
+    "question": "Which of the following is the correct scientific name of Wheat?",
+    "options": [
+      "Triticum aestivum",
+      "Oryza sativa",
+      "Zea mays",
+      "Mangifera indica"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Triticum aestivum is the scientific name for wheat.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "scientific names",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q6",
+    "question": "The term 'Systematics' refers to:",
+    "options": [
+      "Identification and classification of plants and animals",
+      "Nomenclature and identification of plants and animals",
+      "Diversity of kinds of organisms and their relationship",
+      "Different kinds of organisms and their classification"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Systematics deals with the diversity of organisms and their comparative and evolutionary relationships.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "systematics",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q7",
+    "question": "Which of the following taxonomic categories contains organisms with the least number of similar characters?",
+    "options": [
+      "Species",
+      "Genus",
+      "Family",
+      "Class"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "As we go higher from species to kingdom, the number of common characteristics goes on decreasing. Among the options, Class is the highest category.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic hierarchy",
+      "characteristics"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q8",
+    "question": "ICBN stands for:",
+    "options": [
+      "International Code of Botanical Nomenclature",
+      "International Congress of Biological Names",
+      "Indian Code of Botanical Nomenclature",
+      "Indian Congress of Biological Names"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "ICBN stands for International Code of Botanical Nomenclature.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "abbreviations",
+      "nomenclature"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q9",
+    "question": "The highest category in the taxonomic hierarchy is:",
+    "options": [
+      "Phylum",
+      "Class",
+      "Kingdom",
+      "Domain"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Kingdom is the highest category in the traditional taxonomic hierarchy.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic hierarchy",
+      "kingdom"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q10",
+    "question": "Which of the following is not a correct statement?",
+    "options": [
+      "Botanical gardens have collection of living plants for reference.",
+      "A museum has collection of photographs of plants and animals.",
+      "Key is a taxonomic aid for identification of specimens.",
+      "Herbarium houses dried, pressed and preserved plant specimens."
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Museums have collections of preserved plant and animal specimens, not just photographs.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic aids",
+      "museum"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q11",
+    "question": "Growth in living organisms is from:",
+    "options": [
+      "Outside",
+      "Inside",
+      "Both outside and inside",
+      "Neither outside nor inside"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Living organisms show internal growth (intussusception), whereas non-living objects grow from the outside (accretion).",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "characteristics of life",
+      "growth"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q12",
+    "question": "The sum total of all chemical reactions occurring in our body is called:",
+    "options": [
+      "Anabolism",
+      "Catabolism",
+      "Metabolism",
+      "Respiration"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Metabolism is the sum total of all chemical reactions occurring in a living body.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "metabolism",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q13",
+    "question": "Which one of the following aspects is an exclusive characteristic of living things?",
+    "options": [
+      "Isolated metabolic reactions occur in vitro",
+      "Increase in mass from inside only",
+      "Perception of events happening in the environment and their memory",
+      "Increase in mass by accumulation of material both on surface as well as internally"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Intrinsic growth (increase in mass from inside) is a defining property of living organisms.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "characteristics of life",
+      "consciousness"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q14",
+    "question": "In plants, growth occurs:",
+    "options": [
+      "Only up to a certain age",
+      "Continuously throughout their life span",
+      "Only in certain seasons",
+      "Only when nutrients are available"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "In plants, growth by cell division occurs continuously throughout their life span.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "growth",
+      "plants"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q15",
+    "question": "The famous book 'Systema Naturae' was written by:",
+    "options": [
+      "Darwin",
+      "Lamarck",
+      "Linnaeus",
+      "Theophrastus"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Linnaeus wrote the book 'Systema Naturae'.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "books",
+      "scientists"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q16",
+    "question": "Which of the following is correct for the scientific name of Mango?",
+    "options": [
+      "Mangifera Indica",
+      "mangifera indica",
+      "Mangifera indica",
+      "Mangifera INDICA"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "The genus name starts with a capital letter and the species epithet starts with a small letter. Both should be italicized or underlined.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "nomenclature",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q17",
+    "question": "Taxon represents:",
+    "options": [
+      "A rank",
+      "A species",
+      "A unit of classification",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Taxon represents a unit of classification at any level (rank, species, etc.).",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxon",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q18",
+    "question": "Which of the following serves as a quick referral system in taxonomical studies?",
+    "options": [
+      "Museum",
+      "Zoological Park",
+      "Herbarium",
+      "Botanical Garden"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Herbarium sheets carry a label providing information about date and place of collection, English, local and botanical names, family, collector's name, etc., serving as a quick referral system.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic aids",
+      "herbarium"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q19",
+    "question": "Couplet represents the choice made between two opposite options which results in:",
+    "options": [
+      "Rejection of both",
+      "Acceptance of both",
+      "Acceptance of one and rejection of the other",
+      "None of the above"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "A couplet in a taxonomic key represents a pair of contrasting characters, resulting in the acceptance of one and rejection of the other.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic aids",
+      "key"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q20",
+    "question": "Order is a higher category that is the assemblage of:",
+    "options": [
+      "Species",
+      "Genera",
+      "Families",
+      "Classes"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Order is the assemblage of families which exhibit a few similar characters.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic hierarchy",
+      "order"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q21",
+    "question": "Which of the following is a family?",
+    "options": [
+      "Solanum",
+      "Solanaceae",
+      "Polymoniales",
+      "Plantae"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Solanaceae is a family. Solanum is a genus, Polymoniales is an order, and Plantae is a kingdom.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic hierarchy",
+      "family"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q22",
+    "question": "National Botanical Research Institute (NBRI) is located in:",
+    "options": [
+      "Howrah",
+      "Lucknow",
+      "Delhi",
+      "Dehradun"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "NBRI is located in Lucknow, India.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "institutes",
+      "location"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q23",
+    "question": "Manuals are useful in providing information for:",
+    "options": [
+      "Identification of names of species found in an area",
+      "Index to the plant species found in a particular area",
+      "Monograph of a family",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Manuals provide information for the identification of names of species found in a particular area.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic aids",
+      "manuals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q24",
+    "question": "Which of the following is not a defining property of living organisms?",
+    "options": [
+      "Metabolism",
+      "Cellular organization",
+      "Consciousness",
+      "Reproduction"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Reproduction is not a defining property because there are living organisms (like mules, sterile worker bees) that do not reproduce.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "characteristics of life",
+      "exceptions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q25",
+    "question": "Photoperiod affects:",
+    "options": [
+      "Reproduction in seasonal breeders",
+      "Metabolism",
+      "Growth",
+      "Cellular organization"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Photoperiod affects reproduction in seasonal breeders, both plants and animals.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "characteristics of life",
+      "photoperiod"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q26",
+    "question": "The suffix '-ales' indicates:",
+    "options": [
+      "Family",
+      "Order",
+      "Class",
+      "Genus"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "The suffix '-ales' is used for Order in plant taxonomy (e.g., Polymoniales).",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "nomenclature",
+      "suffixes"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q27",
+    "question": "Which of the following organisms multiply by fragmentation?",
+    "options": [
+      "Fungi",
+      "Filamentous algae",
+      "Protonema of mosses",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Fungi, filamentous algae, and the protonema of mosses all multiply by fragmentation.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "reproduction",
+      "fragmentation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q28",
+    "question": "A group of related genera with still less number of similarities as compared to genus and species constitutes a:",
+    "options": [
+      "Order",
+      "Class",
+      "Family",
+      "Division"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Family is a group of related genera with fewer similarities compared to genus and species.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic hierarchy",
+      "family"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q29",
+    "question": "The scientific name of Potato is:",
+    "options": [
+      "Solanum tuberosum",
+      "Solanum melongena",
+      "Solanum nigrum",
+      "Panthera leo"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Solanum tuberosum is the scientific name of Potato.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "scientific names",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q30",
+    "question": "Monographs contain information on:",
+    "options": [
+      "Any one taxon",
+      "All taxa",
+      "Habitat and distribution",
+      "Index of plants"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Monographs contain information on any one taxon.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic aids",
+      "monograph"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q31",
+    "question": "Which of the following is correct sequence of taxonomic categories?",
+    "options": [
+      "Species -> Genus -> Order -> Family",
+      "Species -> Genus -> Family -> Order",
+      "Genus -> Species -> Family -> Order",
+      "Species -> Family -> Genus -> Order"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "The correct sequence is Species -> Genus -> Family -> Order.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic hierarchy",
+      "sequence"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q32",
+    "question": "The label of a herbarium sheet does not carry information on:",
+    "options": [
+      "Date of collection",
+      "Name of collector",
+      "Local names",
+      "Height of the plant"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Herbarium labels typically do not record the height of the plant.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic aids",
+      "herbarium"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q33",
+    "question": "Which of the following is a correct match?",
+    "options": [
+      "Family - Anacardiaceae",
+      "Order - Primata",
+      "Class - Insecta",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Anacardiaceae is a family, Primata is an order, and Insecta is a class. All are correct matches.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic hierarchy",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q34",
+    "question": "In the name Mangifera indica Linn., 'Linn.' indicates:",
+    "options": [
+      "The species was first described by Linnaeus",
+      "The variety of Mango",
+      "The place where it was found",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "'Linn.' indicates that the species was first described by Linnaeus.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "nomenclature",
+      "author citation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q35",
+    "question": "Which of the following is not a correct statement about the botanical garden?",
+    "options": [
+      "They are used for ex-situ conservation",
+      "They provide living plant material for research",
+      "They are used for growing plants for commercial purposes only",
+      "They help in identification of plants"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Botanical gardens are not primarily for commercial purposes; they are for conservation, research, and education.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic aids",
+      "botanical garden"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q36",
+    "question": "The process of grouping organisms into convenient categories based on some easily observable characters is called:",
+    "options": [
+      "Identification",
+      "Classification",
+      "Nomenclature",
+      "Taxonomy"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Classification is the process of grouping organisms into categories based on observable characters.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "classification",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q37",
+    "question": "Which of the following taxonomic aids is used for identification of plants and animals based on similarities and dissimilarities?",
+    "options": [
+      "Flora",
+      "Keys",
+      "Monograph",
+      "Catalogues"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Keys are used for identification based on similarities and dissimilarities.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic aids",
+      "key"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q38",
+    "question": "The scientific name of Human is:",
+    "options": [
+      "Homo sapiens",
+      "Homo erectus",
+      "Homo habilis",
+      "Hominidae"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Homo sapiens is the scientific name of Human.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "scientific names",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q39",
+    "question": "Which of the following is a defining feature of living organisms?",
+    "options": [
+      "Self-consciousness",
+      "Consciousness",
+      "Growth",
+      "Reproduction"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Consciousness (response to stimuli) is a defining feature of all living organisms. Self-consciousness is unique to humans.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "characteristics of life",
+      "consciousness"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q40",
+    "question": "Flora contains:",
+    "options": [
+      "Actual account of habitat and distribution of plants of a given area",
+      "Information on any one taxon",
+      "Alphabetical arrangement of species",
+      "Preserved specimens"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Flora contains the actual account of habitat and distribution of plants of a given area.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic aids",
+      "flora"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q41",
+    "question": "Which of the following statements regarding the response of living organisms to external stimuli is correct?",
+    "options": [
+      "The external environmental stimuli can be physical, chemical or biological.",
+      "All organisms, from the prokaryotes to the most complex eukaryotes can sense and respond to environmental cues.",
+      "Consciousness and response to external stimuli is the defining property of living organisms.",
+      "All of the above."
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "All living organisms, from simple prokaryotes to complex eukaryotes, have the ability to sense and respond to environmental stimuli, which can be physical, chemical, or biological.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "characteristics of life",
+      "consciousness"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q42",
+    "question": "Read the following statements and select the correct option.\nStatement 1: Reproduction cannot be an all-inclusive defining characteristic of living organisms.\nStatement 2: No non-living object is capable of reproducing or replicating by itself.",
+    "options": [
+      "Both statements 1 and 2 are correct and statement 2 is the correct explanation of statement 1.",
+      "Both statements 1 and 2 are correct but statement 2 is not the correct explanation of statement 1.",
+      "Statement 1 is correct and statement 2 is incorrect.",
+      "Both statements 1 and 2 are incorrect."
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Both statements are correct. Reproduction is not defining because some living organisms are sterile. Non-living things cannot reproduce. However, statement 2 doesn't explain why reproduction isn't defining for living things (the exception of sterile organisms is the reason).",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "characteristics of life",
+      "reproduction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q43",
+    "question": "Which of the following is the correct representation of the scientific name of the housefly?",
+    "options": [
+      "Musca domestica",
+      "Musca Domestica",
+      "musca domestica",
+      "Musca domestica Linn."
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The correct scientific name is Musca domestica (Genus capitalized, species lowercase, italicized). 'Linn.' is author citation, but usually the name itself is asked.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "scientific names",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q44",
+    "question": "Which of the following combinations is correct for Wheat?",
+    "options": [
+      "Genus: Triticum, Family: Poaceae, Order: Poales, Class: Dicotyledonae",
+      "Genus: Triticum, Family: Poaceae, Order: Poales, Class: Monocotyledonae",
+      "Genus: Triticum, Family: Anacardiaceae, Order: Poales, Class: Monocotyledonae",
+      "Genus: Triticum, Family: Poaceae, Order: Sapindales, Class: Monocotyledonae"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Wheat (Triticum aestivum) belongs to Family Poaceae, Order Poales, and Class Monocotyledonae.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic hierarchy",
+      "wheat"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q45",
+    "question": "Match the following columns and select the correct option.\nColumn I (Taxonomic Aid) | Column II (Feature)\nA. Herbarium | 1. Living plants for reference\nB. Botanical Garden | 2. Preserved specimens in jars\nC. Museum | 3. Dried and pressed plant specimens\nD. Zoological Park | 4. Wild animals under human care",
+    "options": [
+      "A-3, B-1, C-2, D-4",
+      "A-3, B-1, C-4, D-2",
+      "A-1, B-3, C-2, D-4",
+      "A-3, B-2, C-1, D-4"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Herbarium: Dried specimens (3); Botanical Garden: Living plants (1); Museum: Preserved specimens (2); Zoological Park: Wild animals (4).",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic aids",
+      "matching"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q46",
+    "question": "As we go from species to kingdom in a taxonomic hierarchy, the number of common characteristics:",
+    "options": [
+      "Will decrease",
+      "Will increase",
+      "Remain same",
+      "May increase or decrease"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "As we move up the hierarchy from species to kingdom, the organisms become more diverse, so the number of common characteristics decreases.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic hierarchy",
+      "characteristics"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q47",
+    "question": "Which of the following statements is incorrect regarding the rules of nomenclature?",
+    "options": [
+      "Biological names are generally in Latin and written in italics.",
+      "The first word in a biological name represents the genus while the second component denotes the specific epithet.",
+      "Both the words in a biological name, when handwritten, are separately underlined, or printed in italics to indicate their Latin origin.",
+      "The specific epithet starts with a capital letter while the generic name starts with a small letter."
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "The generic name starts with a capital letter, and the specific epithet starts with a small letter.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "nomenclature",
+      "rules"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q48",
+    "question": "Select the correct statement from the following.",
+    "options": [
+      "Photoperiod does not affect reproduction in plants.",
+      "Binomial nomenclature system was given by R.H. Whittaker.",
+      "In unicellular organisms, reproduction is synonymous with growth.",
+      "The practical purpose of classification is to facilitate the identification of unknown organisms."
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "In unicellular organisms (like Amoeba, bacteria), cell division leads to increase in number of individuals, so growth and reproduction are mutually inclusive events.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "characteristics of life",
+      "reproduction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q49",
+    "question": "Which of the following 'suffixes' used for units of classification in plants indicates a taxonomic category of 'Family'?",
+    "options": [
+      "-ales",
+      "-onae",
+      "-aceae",
+      "-ae"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "The suffix '-aceae' indicates the taxonomic category of Family in plants (e.g., Solanaceae).",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "nomenclature",
+      "suffixes"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q50",
+    "question": "Consider the following two statements:\nI. The definition of biological species was given by Ernst Mayr.\nII. Photoperiod affects reproduction in plants.\nChoose the correct option:",
+    "options": [
+      "Statement I is correct and II is incorrect",
+      "Statement I is incorrect and II is correct",
+      "Both statements are correct",
+      "Both statements are incorrect"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Ernst Mayr gave the biological species concept. Photoperiod affects reproduction in seasonal breeders (plants). Both are correct.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "scientists",
+      "photoperiod"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q51",
+    "question": "Which one of the following animals is correctly matched with its particular taxonomic category?",
+    "options": [
+      "Tiger - tigris, species",
+      "Cuttlefish - mollusca, class",
+      "Humans - primata, family",
+      "Housefly - Musca, order"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Tiger is Panthera tigris, where tigris is the species. Mollusca is a phylum, Primata is an order, Musca is a genus.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic hierarchy",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q52",
+    "question": "Identify the correct sequence of taxonomic categories for Mango (Mangifera indica).",
+    "options": [
+      "Sapindales -> Anacardiaceae -> Dicotyledonae -> Angiospermae",
+      "Anacardiaceae -> Sapindales -> Dicotyledonae -> Angiospermae",
+      "Dicotyledonae -> Sapindales -> Anacardiaceae -> Angiospermae",
+      "Angiospermae -> Dicotyledonae -> Anacardiaceae -> Sapindales"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Correct sequence (Family -> Order -> Class -> Division): Anacardiaceae -> Sapindales -> Dicotyledonae -> Angiospermae.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic hierarchy",
+      "mango"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q53",
+    "question": "Which of the following is an incorrect statement?",
+    "options": [
+      "A multicellular organism grows by cell division.",
+      "In animals, growth by cell division occurs continuously.",
+      "In plants, growth by cell division occurs continuously.",
+      "Cell division occurs in certain tissues to replace lost cells."
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "In animals, growth is seen only up to a certain age, not continuously.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "growth",
+      "animals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q54",
+    "question": "In which of the following, does the growth occur by increase in mass from outside?",
+    "options": [
+      "Mountains",
+      "Boulders",
+      "Sand mounds",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Non-living objects like mountains, boulders, and sand mounds grow by accumulation of material on the surface (accretion).",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "growth",
+      "non-living"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q55",
+    "question": "Which of the following organisms does not reproduce?",
+    "options": [
+      "Mule",
+      "Worker bee",
+      "Infertile human couples",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Mules, sterile worker bees, and infertile human couples are living but do not reproduce.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "reproduction",
+      "exceptions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q56",
+    "question": "The number of species that are known and described range between:",
+    "options": [
+      "1.7 to 1.8 million",
+      "1.7 to 1.8 billion",
+      "1.2 to 1.3 million",
+      "1.2 to 1.3 billion"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The number of species known and described ranges between 1.7-1.8 million.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "biodiversity",
+      "data"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q57",
+    "question": "Which of the following is not a correct match?",
+    "options": [
+      "Panthera leo - Lion",
+      "Panthera pardus - Leopard",
+      "Panthera tigris - Tiger",
+      "Solanum tuberosum - Brinjal"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Solanum tuberosum is Potato. Brinjal is Solanum melongena.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "scientific names",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q58",
+    "question": "Families are characterized on the basis of:",
+    "options": [
+      "Vegetative characters only",
+      "Reproductive characters only",
+      "Both vegetative and reproductive characters",
+      "None of the above"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Families are characterized on the basis of both vegetative and reproductive features of plant species.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic hierarchy",
+      "family"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q59",
+    "question": "Which of the following is a correct statement regarding 'Key'?",
+    "options": [
+      "Key is a taxonomic aid used for identification of plants and animals.",
+      "The keys are based on the contrasting characters generally in a pair called couplet.",
+      "Each statement in the key is called a lead.",
+      "All of the above."
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "All statements regarding the taxonomic key are correct.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic aids",
+      "key"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q60",
+    "question": "Which of the following taxonomic aids provides information for the identification of names of species found in an area?",
+    "options": [
+      "Monograph",
+      "Manual",
+      "Flora",
+      "Periodical"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Manuals are useful in providing information for identification of names of species found in an area.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic aids",
+      "manuals"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q61",
+    "question": "The scientific name of the Leopard is:",
+    "options": [
+      "Panthera leo",
+      "Panthera tigris",
+      "Panthera pardus",
+      "Felis catus"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Panthera pardus is the scientific name of the Leopard.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "scientific names",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q62",
+    "question": "Which of the following genera belongs to the family Solanaceae?",
+    "options": [
+      "Solanum",
+      "Petunia",
+      "Datura",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Solanum, Petunia, and Datura are all genera belonging to the family Solanaceae.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic hierarchy",
+      "family"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q63",
+    "question": "The order Polymoniales is based on:",
+    "options": [
+      "Floral characters",
+      "Vegetative characters",
+      "Root characters",
+      "Stem characters"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The order Polymoniales is based mainly on floral characters.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic hierarchy",
+      "order"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q64",
+    "question": "Which of the following is the correct classification of Man?",
+    "options": [
+      "Phylum: Chordata, Class: Mammalia, Order: Primata, Family: Hominidae",
+      "Phylum: Chordata, Class: Mammalia, Order: Carnivora, Family: Hominidae",
+      "Phylum: Chordata, Class: Mammalia, Order: Primata, Family: Muscidae",
+      "Phylum: Arthropoda, Class: Insecta, Order: Diptera, Family: Hominidae"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Man belongs to Phylum Chordata, Class Mammalia, Order Primata, and Family Hominidae.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic hierarchy",
+      "human"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q65",
+    "question": "In the taxonomic hierarchy, which of the following categories includes all the others?",
+    "options": [
+      "Order",
+      "Class",
+      "Phylum",
+      "Family"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Phylum is the highest category among the options and includes Classes, Orders, and Families.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic hierarchy",
+      "concept"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q66",
+    "question": "Which of the following statements is true?",
+    "options": [
+      "Properties of tissues are present in the constituent cells.",
+      "Properties of cellular organelles are present in the molecular constituents of the organelles.",
+      "Properties of tissues arise as a result of interactions among the constituent cells.",
+      "Properties of cellular organelles arise as a result of interactions among the tissues."
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Properties of tissues are not present in the constituent cells but arise as a result of interactions among the constituent cells.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "characteristics of life",
+      "organization"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q67",
+    "question": "The taxonomic unit 'Phylum' in the classification of animals is equivalent to which hierarchical level in the classification of plants?",
+    "options": [
+      "Class",
+      "Order",
+      "Division",
+      "Family"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Phylum in animals is equivalent to Division in plants.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic hierarchy",
+      "comparison"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q68",
+    "question": "Which of the following is a correct match of the column?",
+    "options": [
+      "Family - Muscidae, Order - Diptera, Class - Insecta, Phylum - Arthropoda",
+      "Family - Muscidae, Order - Dicotyledonae, Class - Insecta, Phylum - Arthropoda",
+      "Family - Hominidae, Order - Diptera, Class - Mammalia, Phylum - Chordata",
+      "Family - Poaceae, Order - Poales, Class - Insecta, Phylum - Angiospermae"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The first option correctly classifies the Housefly (Musca domestica).",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic hierarchy",
+      "housefly"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q69",
+    "question": "Living organisms are:",
+    "options": [
+      "Self-replicating",
+      "Evolving",
+      "Self-regulating interactive systems",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Living organisms are self-replicating, evolving, and self-regulating interactive systems capable of responding to external stimuli.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "characteristics of life",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q70",
+    "question": "The most obvious and technically complicated feature of all living organisms is:",
+    "options": [
+      "Growth",
+      "Reproduction",
+      "Metabolism",
+      "Consciousness"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "The most obvious and technically complicated feature is the ability to sense their surroundings or environment and respond to these environmental stimuli (Consciousness).",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "characteristics of life",
+      "consciousness"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q71",
+    "question": "Which of the following is not a correct statement?",
+    "options": [
+      "Herbarium is a storehouse of collected plant specimens that are dried, pressed and preserved on sheets.",
+      "Botanical gardens have collections of living plants for reference.",
+      "Museums have collections of preserved plant and animal specimens for study and reference.",
+      "Key is a taxonomic aid used for identification of plants and animals based on the similarities only."
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Keys are based on similarities and dissimilarities, not just similarities.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic aids",
+      "key"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q72",
+    "question": "Which of the following is a correct statement?",
+    "options": [
+      "The scientific name of the tiger is Panthera pardus.",
+      "The scientific name of the lion is Panthera tigris.",
+      "The scientific name of the potato is Solanum melongena.",
+      "The scientific name of the brinjal is Solanum melongena."
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Solanum melongena is Brinjal. Tiger is P. tigris, Lion is P. leo, Potato is S. tuberosum.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "scientific names",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q73",
+    "question": "In which of the following organisms, reproduction is synonymous with growth?",
+    "options": [
+      "Amoeba",
+      "Bacteria",
+      "Unicellular algae",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "In unicellular organisms like Amoeba, Bacteria, and unicellular algae, reproduction (increase in number) is synonymous with growth (increase in mass/number).",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "reproduction",
+      "growth"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q74",
+    "question": "Which of the following is correct regarding the universal rules of nomenclature?",
+    "options": [
+      "Biological names are generally in Greek.",
+      "The first word denotes the specific epithet.",
+      "The first word starts with a capital letter.",
+      "The second word starts with a capital letter."
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "The first word (Genus) starts with a capital letter. Biological names are generally in Latin.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "nomenclature",
+      "rules"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q75",
+    "question": "Which of the following is a correct sequence?",
+    "options": [
+      "Kingdom -> Phylum -> Class -> Order -> Family -> Genus -> Species",
+      "Kingdom -> Phylum -> Order -> Class -> Family -> Genus -> Species",
+      "Kingdom -> Class -> Phylum -> Order -> Family -> Genus -> Species",
+      "Kingdom -> Phylum -> Class -> Family -> Order -> Genus -> Species"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The correct hierarchical sequence is Kingdom -> Phylum -> Class -> Order -> Family -> Genus -> Species.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic hierarchy",
+      "sequence"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q76",
+    "question": "Which of the following is not a correct statement?",
+    "options": [
+      "Metabolism is a defining feature of all living organisms.",
+      "Metabolism is the sum total of all chemical reactions occurring in our body.",
+      "Metabolic reactions cannot be demonstrated outside the body in cell-free systems.",
+      "An isolated metabolic reaction outside the body is neither living nor non-living."
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Metabolic reactions CAN be demonstrated outside the body in cell-free systems (in vitro).",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "metabolism",
+      "concept"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q77",
+    "question": "The keys are based on the contrasting characters generally in a pair called:",
+    "options": [
+      "Lead",
+      "Couplet",
+      "Taxon",
+      "Flora"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "The pair of contrasting characters in a key is called a couplet.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic aids",
+      "key"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q78",
+    "question": "Which of the following is a correct statement?",
+    "options": [
+      "Growth and reproduction are mutually exclusive events in majority of higher animals and plants.",
+      "Growth and reproduction are mutually inclusive events in majority of higher animals and plants.",
+      "Growth and reproduction are mutually exclusive events in unicellular organisms.",
+      "None of the above."
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "In higher animals and plants, growth and reproduction are mutually exclusive events.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "growth",
+      "reproduction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q79",
+    "question": "Which of the following is a correct statement?",
+    "options": [
+      "The scientific name of the dog is Canis lupus familiaris.",
+      "The scientific name of the cat is Felis catus.",
+      "Both A and B.",
+      "None of the above."
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Both scientific names are correct.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "scientific names",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q80",
+    "question": "Which of the following is a correct statement?",
+    "options": [
+      "Systematics takes into account evolutionary relationships between organisms.",
+      "Taxonomy does not take into account evolutionary relationships.",
+      "Both A and B.",
+      "None of the above."
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Systematics includes taxonomy and phylogeny (evolutionary relationships). Taxonomy primarily deals with classification rules.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "systematics",
+      "taxonomy"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q81",
+    "question": "Which of the following is a correct statement?",
+    "options": [
+      "Genera are aggregates of closely related species.",
+      "Families are aggregates of closely related genera.",
+      "Orders are aggregates of closely related families.",
+      "All of the above."
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "All statements correctly describe the aggregation of taxonomic categories.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic hierarchy",
+      "definitions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q82",
+    "question": "Which of the following is a correct statement?",
+    "options": [
+      "Classes are aggregates of closely related orders.",
+      "Phyla are aggregates of closely related classes.",
+      "Kingdoms are aggregates of closely related phyla.",
+      "All of the above."
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "All statements correctly describe the aggregation of higher taxonomic categories.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic hierarchy",
+      "definitions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q83",
+    "question": "Which of the following is a correct statement?",
+    "options": [
+      "Herbarium sheets are arranged according to a universally accepted system of classification.",
+      "Herbarium sheets are arranged alphabetically.",
+      "Herbarium sheets are arranged randomly.",
+      "None of the above."
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Herbarium sheets are arranged according to a universally accepted system of classification (e.g., Bentham and Hooker).",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic aids",
+      "herbarium"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q84",
+    "question": "Which of the following is a correct statement?",
+    "options": [
+      "Botanical gardens are ex-situ conservation strategies.",
+      "Zoological parks are ex-situ conservation strategies.",
+      "Both A and B.",
+      "None of the above."
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Both botanical gardens and zoological parks are examples of ex-situ conservation (conservation outside natural habitat).",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "conservation",
+      "ex-situ"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q85",
+    "question": "Which of the following is a correct statement?",
+    "options": [
+      "Museums are generally set up in educational institutes.",
+      "Museums have collections of skeletons of animals too.",
+      "Insects are preserved in insect boxes after collecting, killing and pinning.",
+      "All of the above."
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "All statements regarding museums are correct.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic aids",
+      "museum"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q86",
+    "question": "Which of the following is a correct statement?",
+    "options": [
+      "Zoological parks provide conditions similar to natural habitats.",
+      "Zoological parks enable us to learn about food habits and behavior of animals.",
+      "Both A and B.",
+      "None of the above."
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Zoological parks aim to replicate natural habitats and allow study of animal behavior.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic aids",
+      "zoological park"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q87",
+    "question": "Which of the following is a correct statement?",
+    "options": [
+      "Key is analytical in nature.",
+      "Separate taxonomic keys are required for each taxonomic category.",
+      "Both A and B.",
+      "None of the above."
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Keys are analytical and separate keys are needed for different categories (family, genus, species).",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic aids",
+      "key"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q88",
+    "question": "Which of the following is a correct statement?",
+    "options": [
+      "Flora, Manuals, Monographs and Catalogues are some other means of recording descriptions.",
+      "They also help in correct identification.",
+      "Both A and B.",
+      "None of the above."
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Flora, Manuals, Monographs, and Catalogues are recorded descriptions that aid in identification.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic aids",
+      "literature"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q89",
+    "question": "Which of the following is a correct statement?",
+    "options": [
+      "The word systematics is derived from the Latin word 'systema'.",
+      "Systema means systematic arrangement of organisms.",
+      "Linnaeus used Systema Naturae as the title of his publication.",
+      "All of the above."
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "All statements about systematics and Linnaeus are correct.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "systematics",
+      "history"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q90",
+    "question": "Which of the following is a correct statement?",
+    "options": [
+      "The number of species known and described is 1.7-1.8 million.",
+      "This refers to biodiversity.",
+      "Both A and B.",
+      "None of the above."
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "The range 1.7-1.8 million refers to the known biodiversity.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "biodiversity",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q91",
+    "question": "Read the following statements regarding biological museums:\n(i) Biological museums are generally set up in educational institutes such as schools and colleges.\n(ii) Museums have collections of preserved plant and animal specimens for study and reference.\n(iii) Specimens are preserved in the containers or jars in preservative solutions.\n(iv) Insects are preserved in insect boxes after collecting, killing and pinning.\n(v) Larger animals like birds and mammals are usually stuffed and preserved.\n(vi) Skeletons of animals are not allowed to be kept in museums.\nWhich of the above statements is/are incorrect?",
+    "options": [
+      "(ii) and (iii)",
+      "(i) and (vi)",
+      "(vi) only",
+      "(v) only"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Museums often have collections of skeletons of animals too. Statement (vi) is incorrect.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic aids",
+      "museum"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q92",
+    "question": "Which of the following statements is correct regarding the rules of nomenclature?\n1. The first word in a biological name represents the genus.\n2. The first word denoting the genus starts with a small letter.\n3. Both the words in a biological name, when handwritten, are separately underlined.\n4. Biological names are generally in Greek and written in italics.",
+    "options": [
+      "1 and 2",
+      "1 and 3",
+      "2 and 4",
+      "3 and 4"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Statement 2 is incorrect (Genus starts with capital). Statement 4 is incorrect (Latin, not Greek). 1 and 3 are correct.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "nomenclature",
+      "rules"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q93",
+    "question": "Match Column-I with Column-II and select the correct option from the codes given below.\nColumn-I           Column-II\nA. Family          1. Tuberosum\nB. Kingdom         2. Polymoniales\nC. Order           3. Solanum\nD. Species         4. Plantae\nE. Genus           5. Solanaceae",
+    "options": [
+      "A-5, B-4, C-2, D-1, E-3",
+      "A-4, B-3, C-5, D-2, E-1",
+      "A-4, B-3, C-5, D-1, E-2",
+      "A-4, B-3, C-2, D-5, E-1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Family: Solanaceae (5); Kingdom: Plantae (4); Order: Polymoniales (2); Species: Tuberosum (1); Genus: Solanum (3).",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic hierarchy",
+      "matching"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q94",
+    "question": "Consider the following statements:\nI. In unicellular organisms, reproduction and growth are synonymous.\nII. A multicellular organism grows by cell division.\nIII. In animals, growth is seen up to a certain age.\nIV. Non-living objects also grow if we take increase in body mass as a criterion for growth.\nWhich of the above statements are correct?",
+    "options": [
+      "I, II and III",
+      "II, III and IV",
+      "I and IV",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "All statements are correct. Non-living objects grow by accretion (external addition of mass).",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "characteristics of life",
+      "growth"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q95",
+    "question": "Select the correct statement regarding the specific epithet.",
+    "options": [
+      "It is the first word in the biological name.",
+      "It can be shared by organisms of different genera.",
+      "It is always written with a capital letter.",
+      "It denotes the family of the organism."
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Specific epithet is the second word, starts with small letter. The same specific epithet can be used in different genera (e.g., *Mangifera indica* and *Azadirachta indica*).",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "nomenclature",
+      "concept"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q96",
+    "question": "Which of the following is the correct hierarchical sequence for the classification of a plant?",
+    "options": [
+      "Kingdom -> Phylum -> Class -> Order -> Family -> Genus -> Species",
+      "Kingdom -> Division -> Class -> Order -> Family -> Genus -> Species",
+      "Kingdom -> Division -> Order -> Class -> Family -> Genus -> Species",
+      "Kingdom -> Phylum -> Order -> Class -> Family -> Genus -> Species"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "For plants, 'Division' is used instead of 'Phylum'. The correct order is Kingdom -> Division -> Class -> Order -> Family -> Genus -> Species.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic hierarchy",
+      "plants"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q97",
+    "question": "Assertion (A): Consciousness is a defining property of living organisms.\nReason (R): Human being is the only organism who is aware of himself, i.e., has self-consciousness.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Both are true. All living organisms have consciousness (response to stimuli). Humans additionally have self-consciousness. R does not explain why consciousness is a defining property for ALL organisms.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "characteristics of life",
+      "assertion-reason"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q98",
+    "question": "Which of the following statements is incorrect?",
+    "options": [
+      "The scientific name for humans is Homo sapiens.",
+      "Organisms that can freely interbreed and produce fertile offspring belong to the same species.",
+      "Taxonomy is the study of diversity of organisms and their evolutionary relationships.",
+      "Systematics is the study of diversity of organisms and their evolutionary relationships."
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Taxonomy is the study of identification, nomenclature, and classification. Systematics includes taxonomy AND evolutionary relationships (phylogeny).",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomy",
+      "systematics"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q99",
+    "question": "In the taxonomic hierarchy, as we move from species to kingdom, the number of common characteristics ______ and the difficulty of determining the relationship to other taxa at the same level ______.",
+    "options": [
+      "decreases, decreases",
+      "increases, increases",
+      "decreases, increases",
+      "increases, decreases"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Common characteristics decrease. Difficulty of determining relationships increases because the organisms become more diverse.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic hierarchy",
+      "concept"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q100",
+    "question": "Which of the following is not a correct match?",
+    "options": [
+      "Herbarium - Dried, pressed and preserved plant specimens",
+      "Botanical Garden - Living plants for reference",
+      "Museum - Preserved plant and animal specimens",
+      "Key - A list of all species found in an area with brief description"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Key is an analytical aid for identification based on contrasting characters. A list of species with brief description is more like a Catalogue or Flora.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic aids",
+      "key"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q101",
+    "question": "Assertion (A): Metabolism is a defining feature of all living organisms without exception.\nReason (R): Metabolic reactions can be demonstrated outside the body in cell-free systems.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Both statements are true. However, the fact that reactions can be done in vitro (R) does not explain why metabolism is a defining feature of living organisms (A).",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "metabolism",
+      "assertion-reason"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q102",
+    "question": "Match the following:\nColumn I | Column II\n1. Man | a. Poaceae\n2. Housefly | b. Anacardiaceae\n3. Mango | c. Hominidae\n4. Wheat | d. Muscidae",
+    "options": [
+      "1-c, 2-d, 3-b, 4-a",
+      "1-c, 2-d, 3-a, 4-b",
+      "1-d, 2-c, 3-b, 4-a",
+      "1-d, 2-c, 3-a, 4-b"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Man-Hominidae, Housefly-Muscidae, Mango-Anacardiaceae, Wheat-Poaceae.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic hierarchy",
+      "matching"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q103",
+    "question": "Which of the following statements is true regarding the 'Order' Polymoniales?",
+    "options": [
+      "It includes families like Convolvulaceae and Solanaceae.",
+      "It is based mainly on vegetative characters.",
+      "It includes families like Felidae and Canidae.",
+      "It is a category used for animals."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Polymoniales is a plant order based mainly on floral characters and includes families like Convolvulaceae and Solanaceae.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic hierarchy",
+      "order"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q104",
+    "question": "Assertion (A): Systematics is the study of the diversity of organisms and their comparative and evolutionary relationships.\nReason (R): Systematics includes taxonomy and phylogeny.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Systematics is indeed the study of diversity and relationships (A), and this is because it encompasses both taxonomy (classification) and phylogeny (evolutionary history) (R).",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "systematics",
+      "assertion-reason"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q105",
+    "question": "Select the incorrect statement.",
+    "options": [
+      "Lower the taxon, more are the characteristics that the members within the taxon share.",
+      "Order is the assemblage of families which exhibit a few similar characters.",
+      "Convolvulaceae and Solanaceae are included in the order Polymoniales mainly based on the floral characters.",
+      "Primata, Carnivora and Insecta are placed in the same Class Mammalia."
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Insecta is a Class itself, not an Order under Mammalia. Primata and Carnivora are orders under Mammalia.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic hierarchy",
+      "concept"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q106",
+    "question": "Which of the following is not a correct statement regarding the 'Species'?",
+    "options": [
+      "It is the lowest category in the taxonomic hierarchy.",
+      "It is a group of individual organisms with fundamental similarities.",
+      "One species can be distinguished from other closely related species based on distinct morphological differences.",
+      "Panthera tigris and Panthera leo are the same species."
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Panthera tigris (Tiger) and Panthera leo (Lion) are different species.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic hierarchy",
+      "species"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q107",
+    "question": "Assertion (A): Dead organisms does not grow.\nReason (R): Growth is a characteristic of living systems.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Dead organisms do not grow (A is true). Growth is a characteristic of living systems (R is true). However, non-living things can also grow (accretion), so R is not the complete explanation for why dead things don't grow (they lack the metabolic processes for intrinsic growth).",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "characteristics of life",
+      "assertion-reason"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q108",
+    "question": "Which of the following covers the largest number of organisms?",
+    "options": [
+      "Genus",
+      "Family",
+      "Phylum",
+      "Class"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Phylum is the highest category among the options, so it covers the largest number of organisms.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic hierarchy",
+      "concept"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q109",
+    "question": "In a taxonomic hierarchy, the number of common characters will increase as we go from:",
+    "options": [
+      "Class to Order",
+      "Species to Kingdom",
+      "Genus to Species",
+      "Kingdom to Species"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Common characters increase as we go down the hierarchy from Kingdom to Species.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic hierarchy",
+      "concept"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q110",
+    "question": "Which of the following statements is correct?",
+    "options": [
+      "Only living organisms grow.",
+      "Plants grow only up to a certain age.",
+      "The growth in living organisms is from inside.",
+      "All of the above."
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Non-living things can grow (accretion). Plants grow continuously. Intrinsic growth (from inside) is unique to living organisms.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "characteristics of life",
+      "growth"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q111",
+    "question": "Assertion (A): There is no suffix for Genus, Species and Kingdom.\nReason (R): Suffixes are used for only intermediate categories.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "There are standard suffixes for Family (-aceae), Order (-ales), Class (-phyceae/opsida), Division (-phyta). Genus, Species, and Kingdom do not have standard suffixes.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "nomenclature",
+      "suffixes"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q112",
+    "question": "Which of the following is the correct scientific name of the 'National Animal of India'?",
+    "options": [
+      "Panthera leo",
+      "Panthera tigris",
+      "Elephas maximus",
+      "Pavo cristatus"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "The National Animal of India is the Tiger (Panthera tigris).",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "scientific names",
+      "general knowledge"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q113",
+    "question": "Which of the following is correct about the 'Key'?",
+    "options": [
+      "It is a taxonomic aid.",
+      "It is based on contrasting characters.",
+      "It is analytical in nature.",
+      "All of the above."
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "All statements describe the taxonomic key correctly.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic aids",
+      "key"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q114",
+    "question": "Assertion (A): Reproduction cannot be an all-inclusive defining characteristic of living organisms.\nReason (R): Many living organisms do not reproduce (e.g., mules, sterile worker bees).",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Reproduction is not defining because of the exceptions mentioned in R.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "characteristics of life",
+      "assertion-reason"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q115",
+    "question": "Which of the following is a correct statement?",
+    "options": [
+      "The scientific name of the mango is Mangifera indica.",
+      "The scientific name of the potato is Solanum tuberosum.",
+      "The scientific name of the lion is Panthera leo.",
+      "All of the above."
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "All scientific names are correct.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "scientific names",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q116",
+    "question": "Which of the following is a correct statement?",
+    "options": [
+      "Taxonomy is the branch of science that deals with classification.",
+      "Systematics is the branch of science that deals with classification and evolutionary relationships.",
+      "Both A and B.",
+      "None of the above."
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Both definitions are correct.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomy",
+      "systematics"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q117",
+    "question": "Which of the following is a correct statement?",
+    "options": [
+      "The order Primata includes monkeys, gorillas and gibbons.",
+      "The order Carnivora includes tiger, cat and dog.",
+      "Both A and B.",
+      "None of the above."
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Both statements about orders Primata and Carnivora are correct.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic hierarchy",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q118",
+    "question": "Which of the following is a correct statement?",
+    "options": [
+      "The class Mammalia includes orders Primata and Carnivora.",
+      "The class Dicotyledonae includes orders Polymoniales and Sapindales.",
+      "Both A and B.",
+      "None of the above."
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Both statements about Classes Mammalia and Dicotyledonae are correct.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic hierarchy",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q119",
+    "question": "Which of the following is a correct statement?",
+    "options": [
+      "The phylum Chordata includes classes Amphibia, Reptilia, Aves and Mammalia.",
+      "The division Angiospermae includes classes Dicotyledonae and Monocotyledonae.",
+      "Both A and B.",
+      "None of the above."
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Both statements about Phylum Chordata and Division Angiospermae are correct.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic hierarchy",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_living_world_q120",
+    "question": "Which of the following is a correct statement?",
+    "options": [
+      "The kingdom Animalia includes all heterotrophic multicellular eukaryotic animals.",
+      "The kingdom Plantae includes all eukaryotic chlorophyll-containing organisms.",
+      "Both A and B.",
+      "None of the above."
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Both statements about Kingdoms Animalia and Plantae are correct.",
+    "subject": "Botany",
+    "chapter": "The Living World",
+    "tags": [
+      "taxonomic hierarchy",
+      "kingdom"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "the_living_world",
+    "subjectId": "botany"
+  }
+]

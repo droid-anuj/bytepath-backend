@@ -1,0 +1,2882 @@
+[
+  {
+    "id": "botany_ecosystem_q1",
+    "question": "The term 'Ecosystem' was coined by:",
+    "options": [
+      "A.G. Tansley",
+      "E.P. Odum",
+      "R. Mishra",
+      "E. Haeckel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The term 'Ecosystem' was coined by Sir A.G. Tansley in 1935.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "ecosystem",
+      "history"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q2",
+    "question": "Which of the following is an abiotic component of an ecosystem?",
+    "options": [
+      "Bacteria",
+      "Fungi",
+      "Humus",
+      "Plants"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Humus is a non-living (abiotic) organic component. Bacteria, Fungi, and Plants are biotic components.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "ecosystem",
+      "components"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q3",
+    "question": "Vertical distribution of different species occupying different levels is called:",
+    "options": [
+      "Stratification",
+      "Zonation",
+      "Succession",
+      "Fragmentation"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Vertical distribution of different species occupying different levels is called stratification.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "ecosystem",
+      "structure"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q4",
+    "question": "Which of the following is a functional unit of nature?",
+    "options": [
+      "Ecosystem",
+      "Population",
+      "Species",
+      "Genus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "An ecosystem is a functional unit of nature where living organisms interact among themselves and also with the surrounding physical environment.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "ecosystem",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q5",
+    "question": "Primary production is defined as the amount of biomass or organic matter produced per unit area over a time period by plants during:",
+    "options": [
+      "Photosynthesis",
+      "Respiration",
+      "Decomposition",
+      "Transpiration"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Primary production is the amount of biomass produced by plants during photosynthesis.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "productivity",
+      "primary production"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q6",
+    "question": "The rate of biomass production is called:",
+    "options": [
+      "Productivity",
+      "Decomposition",
+      "Stratification",
+      "Succession"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The rate of biomass production is called productivity.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "productivity",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q7",
+    "question": "Gross Primary Productivity (GPP) minus Respiration loss (R) is:",
+    "options": [
+      "Net Primary Productivity (NPP)",
+      "Secondary Productivity",
+      "Net Community Productivity",
+      "Gross Secondary Productivity"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "GPP - R = NPP.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "productivity",
+      "formula"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q8",
+    "question": "Secondary productivity is defined as the rate of formation of new organic matter by:",
+    "options": [
+      "Consumers",
+      "Producers",
+      "Decomposers",
+      "Parasites"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Secondary productivity is the rate of formation of new organic matter by consumers.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "productivity",
+      "secondary productivity"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q9",
+    "question": "Which of the following ecosystems has the highest annual net primary productivity?",
+    "options": [
+      "Tropical rain forest",
+      "Temperate deciduous forest",
+      "Desert",
+      "Tundra"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Tropical rain forests have the highest annual net primary productivity.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "productivity",
+      "comparison"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q10",
+    "question": "Decomposers are also known as:",
+    "options": [
+      "Saprotrophs",
+      "Autotrophs",
+      "Heterotrophs",
+      "Phagotrophs"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Decomposers break down dead organic matter and are known as saprotrophs.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "decomposition",
+      "decomposers"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q11",
+    "question": "The process of breaking down complex organic matter into inorganic substances like carbon dioxide, water and nutrients is called:",
+    "options": [
+      "Decomposition",
+      "Photosynthesis",
+      "Respiration",
+      "Transpiration"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "This process is called decomposition.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "decomposition",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q12",
+    "question": "Detritivores (e.g., earthworm) break down detritus into smaller particles. This process is called:",
+    "options": [
+      "Fragmentation",
+      "Leaching",
+      "Catabolism",
+      "Humification"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Breaking down of detritus into smaller particles by detritivores is called fragmentation.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "decomposition",
+      "steps"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q13",
+    "question": "By the process of leaching, water-soluble inorganic nutrients go down into the soil horizon and get precipitated as:",
+    "options": [
+      "Unavailable salts",
+      "Available salts",
+      "Humus",
+      "Detritus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "They get precipitated as unavailable salts.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "decomposition",
+      "steps"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q14",
+    "question": "Bacterial and fungal enzymes degrade detritus into simpler inorganic substances. This process is called:",
+    "options": [
+      "Catabolism",
+      "Anabolism",
+      "Fragmentation",
+      "Leaching"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Enzymatic degradation of detritus is called catabolism.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "decomposition",
+      "steps"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q15",
+    "question": "Humification leads to accumulation of a dark coloured amorphous substance called:",
+    "options": [
+      "Humus",
+      "Litter",
+      "Detritus",
+      "Mineral"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Humification leads to accumulation of humus.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "decomposition",
+      "humification"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q16",
+    "question": "Humus is highly resistant to microbial action and undergoes decomposition at an extremely:",
+    "options": [
+      "Slow rate",
+      "Fast rate",
+      "Moderate rate",
+      "Variable rate"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Humus decomposes at an extremely slow rate.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "decomposition",
+      "humus"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q17",
+    "question": "Decomposition is largely an:",
+    "options": [
+      "Oxygen-requiring process",
+      "Anaerobic process",
+      "Endothermic process",
+      "Exothermic process"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Decomposition is largely an oxygen-requiring process (aerobic).",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "decomposition",
+      "factors"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q18",
+    "question": "Decomposition rate is slower if detritus is rich in:",
+    "options": [
+      "Lignin and chitin",
+      "Nitrogen and sugars",
+      "Proteins and carbohydrates",
+      "Fats and oils"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Decomposition is slower if detritus is rich in lignin and chitin.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "decomposition",
+      "factors"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q19",
+    "question": "Decomposition rate is quicker if detritus is rich in:",
+    "options": [
+      "Nitrogen and water-soluble substances like sugars",
+      "Lignin and chitin",
+      "Cellulose and pectin",
+      "Fats and waxes"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Decomposition is quicker if detritus is rich in nitrogen and water-soluble substances like sugars.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "decomposition",
+      "factors"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q20",
+    "question": "Which of the following climatic factors regulate decomposition?",
+    "options": [
+      "Temperature and soil moisture",
+      "Light and wind",
+      "Rainfall and humidity",
+      "Pressure and altitude"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Temperature and soil moisture are the most important climatic factors that regulate decomposition.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "decomposition",
+      "factors"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q21",
+    "question": "Of the incident solar radiation, less than 50 per cent of it is:",
+    "options": [
+      "Photosynthetically Active Radiation (PAR)",
+      "Ultraviolet radiation",
+      "Infrared radiation",
+      "Visible light"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Less than 50 per cent of the incident solar radiation is Photosynthetically Active Radiation (PAR).",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "energy flow",
+      "par"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q22",
+    "question": "Plants capture only _____ of the PAR.",
+    "options": [
+      "2-10 per cent",
+      "10-20 per cent",
+      "50-60 per cent",
+      "1-2 per cent"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Plants capture only 2-10 per cent of the PAR.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "energy flow",
+      "par"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q23",
+    "question": "Energy flow in an ecosystem is:",
+    "options": [
+      "Unidirectional",
+      "Bidirectional",
+      "Multidirectional",
+      "Cyclic"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Energy flow in an ecosystem is always unidirectional, from the sun to producers and then to consumers.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "energy flow",
+      "direction"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q24",
+    "question": "Organisms occupy a specific place in the food chain that is known as their:",
+    "options": [
+      "Trophic level",
+      "Habitat",
+      "Niche",
+      "Biome"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The specific place in the food chain is called the trophic level.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "energy flow",
+      "trophic level"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q25",
+    "question": "Producers belong to the:",
+    "options": [
+      "First trophic level",
+      "Second trophic level",
+      "Third trophic level",
+      "Fourth trophic level"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Producers belong to the first trophic level.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "energy flow",
+      "trophic level"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q26",
+    "question": "Herbivores (primary consumers) belong to the:",
+    "options": [
+      "Second trophic level",
+      "First trophic level",
+      "Third trophic level",
+      "Fourth trophic level"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Herbivores belong to the second trophic level.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "energy flow",
+      "trophic level"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q27",
+    "question": "Carnivores (secondary consumers) belong to the:",
+    "options": [
+      "Third trophic level",
+      "Second trophic level",
+      "First trophic level",
+      "Fourth trophic level"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Carnivores belong to the third trophic level.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "energy flow",
+      "trophic level"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q28",
+    "question": "The amount of energy transferred from one trophic level to the next is approximately:",
+    "options": [
+      "10 per cent",
+      "1 per cent",
+      "50 per cent",
+      "90 per cent"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "According to the 10 per cent law, only 10 per cent of energy is transferred to the next trophic level.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "energy flow",
+      "10 percent law"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q29",
+    "question": "The mass of living material at a particular time at each trophic level is called:",
+    "options": [
+      "Standing crop",
+      "Standing state",
+      "Biomass",
+      "Productivity"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The mass of living material at a particular time is called the standing crop.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "energy flow",
+      "standing crop"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q30",
+    "question": "In a grazing food chain, the first trophic level is always occupied by:",
+    "options": [
+      "Producers",
+      "Herbivores",
+      "Carnivores",
+      "Decomposers"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "In a grazing food chain, the first trophic level is always occupied by producers.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "food chain",
+      "grazing"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q31",
+    "question": "The detritus food chain (DFC) begins with:",
+    "options": [
+      "Dead organic matter",
+      "Living plants",
+      "Herbivores",
+      "Carnivores"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The detritus food chain begins with dead organic matter.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "food chain",
+      "detritus"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q32",
+    "question": "An ecological pyramid represents the relationship between organisms at different trophic levels in terms of:",
+    "options": [
+      "Number, biomass or energy",
+      "Only number",
+      "Only biomass",
+      "Only energy"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Ecological pyramids represent number, biomass or energy.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "ecological pyramids",
+      "types"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q33",
+    "question": "The pyramid of energy is always:",
+    "options": [
+      "Upright",
+      "Inverted",
+      "Spindle shaped",
+      "Variable"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The pyramid of energy is always upright because energy is lost as heat at each step.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "ecological pyramids",
+      "energy"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q34",
+    "question": "The pyramid of biomass in sea is generally:",
+    "options": [
+      "Inverted",
+      "Upright",
+      "Spindle shaped",
+      "Rectangular"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The pyramid of biomass in sea is generally inverted because the biomass of fishes far exceeds that of phytoplankton.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "ecological pyramids",
+      "biomass"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q35",
+    "question": "Ecological succession is the gradual and fairly predictable change in the:",
+    "options": [
+      "Species composition of a given area",
+      "Physical environment",
+      "Climate",
+      "Soil type"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Ecological succession is the change in species composition of a given area.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "succession",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q36",
+    "question": "The species that invade a bare area are called:",
+    "options": [
+      "Pioneer species",
+      "Climax community",
+      "Seral community",
+      "Secondary community"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The species that invade a bare area are called pioneer species.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "succession",
+      "pioneer"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q37",
+    "question": "In primary succession on rocks, the pioneer species are usually:",
+    "options": [
+      "Lichens",
+      "Mosses",
+      "Herbs",
+      "Shrubs"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Lichens are usually the pioneer species on rocks.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "succession",
+      "xerarch"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q38",
+    "question": "The final community that is in near equilibrium with the environment is called:",
+    "options": [
+      "Climax community",
+      "Pioneer community",
+      "Seral community",
+      "Transitional community"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The final community is called the climax community.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "succession",
+      "climax"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q39",
+    "question": "Secondary succession begins in areas where:",
+    "options": [
+      "Natural biotic communities have been destroyed",
+      "No living organisms ever existed",
+      "Bare rock is present",
+      "New lava has cooled"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Secondary succession begins in areas where natural biotic communities have been destroyed.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "succession",
+      "secondary"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q40",
+    "question": "The movement of nutrient elements through the various components of an ecosystem is called:",
+    "options": [
+      "Nutrient cycling",
+      "Energy flow",
+      "Succession",
+      "Stratification"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "This movement is called nutrient cycling or biogeochemical cycling.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "nutrient cycling",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q41",
+    "question": "Which of the following statements about 'Stratification' is correct?",
+    "options": [
+      "It is the vertical distribution of different species occupying different levels.",
+      "It is the horizontal distribution of species.",
+      "It is the seasonal change in species composition.",
+      "It is the migration of species."
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Stratification is the vertical distribution of different species occupying different levels. For example, trees occupy top vertical strata, shrubs the second and herbs and grasses occupy the bottom layers.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "ecosystem",
+      "structure"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q42",
+    "question": "The four important functional aspects of an ecosystem are:",
+    "options": [
+      "Productivity, Decomposition, Energy flow and Nutrient cycling",
+      "Productivity, Stratification, Energy flow and Nutrient cycling",
+      "Productivity, Decomposition, Succession and Nutrient cycling",
+      "Productivity, Decomposition, Energy flow and Stratification"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The four functional aspects are Productivity, Decomposition, Energy flow and Nutrient cycling.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "ecosystem",
+      "functions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q43",
+    "question": "In a pond ecosystem, the autotrophic components include:",
+    "options": [
+      "Phytoplankton, some algae and floating, submerged and marginal plants",
+      "Zooplankton and free swimming forms",
+      "Fungi, bacteria and flagellates",
+      "Bottom dwelling animals"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Autotrophic components include phytoplankton, some algae and floating, submerged and marginal plants.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "ecosystem",
+      "pond"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q44",
+    "question": "Gross Primary Productivity (GPP) is:",
+    "options": [
+      "The rate of production of organic matter during photosynthesis",
+      "The biomass available for consumers",
+      "The rate of formation of new organic matter by consumers",
+      "The total biomass of an ecosystem"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "GPP is the rate of production of organic matter during photosynthesis.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "productivity",
+      "gpp"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q45",
+    "question": "Net Primary Productivity (NPP) is the available biomass for the consumption of:",
+    "options": [
+      "Heterotrophs (herbivores and decomposers)",
+      "Autotrophs",
+      "Carnivores only",
+      "Decomposers only"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "NPP is the available biomass for the consumption of heterotrophs (herbivores and decomposers).",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "productivity",
+      "npp"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q46",
+    "question": "The annual net primary productivity of the whole biosphere is approximately:",
+    "options": [
+      "170 billion tons (dry weight)",
+      "55 billion tons (dry weight)",
+      "115 billion tons (dry weight)",
+      "200 billion tons (dry weight)"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The annual net primary productivity of the whole biosphere is approximately 170 billion tons (dry weight) of organic matter.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "productivity",
+      "biosphere"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q47",
+    "question": "Despite occupying about 70 per cent of the surface, the productivity of the oceans is only:",
+    "options": [
+      "55 billion tons",
+      "115 billion tons",
+      "170 billion tons",
+      "10 billion tons"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The productivity of the oceans is only 55 billion tons.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "productivity",
+      "oceans"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q48",
+    "question": "Which of the following is NOT a step in the process of decomposition?",
+    "options": [
+      "Stratification",
+      "Fragmentation",
+      "Leaching",
+      "Catabolism"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Stratification is a structural aspect of an ecosystem, not a step in decomposition. The steps are fragmentation, leaching, catabolism, humification and mineralization.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "decomposition",
+      "steps"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q49",
+    "question": "Earthworms are called 'farmer's friends' because:",
+    "options": [
+      "They help in breakdown of complex organic matter and loosening of soil",
+      "They kill pests",
+      "They fix nitrogen",
+      "They produce seeds"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "They help in breakdown of complex organic matter (fragmentation) and loosening of soil.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "decomposition",
+      "detritivores"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q50",
+    "question": "Mineralization is the process of:",
+    "options": [
+      "Release of inorganic nutrients from humus",
+      "Formation of humus",
+      "Breakdown of detritus into smaller particles",
+      "Precipitation of salts"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Mineralization is the release of inorganic nutrients from humus by microbial action.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "decomposition",
+      "mineralization"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q51",
+    "question": "Decomposition is inhibited by:",
+    "options": [
+      "Low temperature and anaerobiosis",
+      "High temperature and moisture",
+      "High nitrogen content",
+      "High sugar content"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Low temperature and anaerobiosis inhibit decomposition and cause build up of organic materials.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "decomposition",
+      "factors"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q52",
+    "question": "The sun is the source of energy for all ecosystems on Earth except:",
+    "options": [
+      "Deep sea hydro-thermal ecosystem",
+      "Tropical rain forest",
+      "Desert ecosystem",
+      "Tundra ecosystem"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "For deep sea hydro-thermal ecosystem, the sun is not the source of energy.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "energy flow",
+      "source"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q53",
+    "question": "Photosynthetically Active Radiation (PAR) is in the range of:",
+    "options": [
+      "400-700 nm",
+      "100-400 nm",
+      "700-1000 nm",
+      "200-800 nm"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "PAR is in the range of 400-700 nm.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "energy flow",
+      "par"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q54",
+    "question": "In a terrestrial ecosystem, major producers are:",
+    "options": [
+      "Herbaceous and woody plants",
+      "Phytoplankton",
+      "Algae",
+      "Lichens"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Herbaceous and woody plants are the major producers in terrestrial ecosystems.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "energy flow",
+      "producers"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q55",
+    "question": "In an aquatic ecosystem, major producers are:",
+    "options": [
+      "Phytoplankton, algae and higher plants",
+      "Zooplankton",
+      "Small fishes",
+      "Fungi"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Phytoplankton, algae and higher plants are the major producers in aquatic ecosystems.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "energy flow",
+      "producers"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q56",
+    "question": "A food chain involves:",
+    "options": [
+      "Transfer of energy from producers to consumers",
+      "Transfer of energy from consumers to producers",
+      "Recycling of nutrients only",
+      "Production of biomass only"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "A food chain involves the transfer of energy from producers to consumers.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "food chain",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q57",
+    "question": "In a grazing food chain (GFC), energy flow is:",
+    "options": [
+      "Sun -> Producer -> Herbivore -> Carnivore",
+      "Producer -> Carnivore -> Herbivore",
+      "Detritus -> Decomposer -> Carnivore",
+      "Sun -> Herbivore -> Producer"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The correct sequence is Sun -> Producer -> Herbivore -> Carnivore.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "food chain",
+      "grazing"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q58",
+    "question": "The Detritus Food Chain (DFC) is connected with the Grazing Food Chain (GFC) because:",
+    "options": [
+      "Some organisms of DFC are prey to GFC animals",
+      "DFC organisms eat GFC organisms",
+      "GFC organisms are decomposers",
+      "They are not connected"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Some of the organisms of DFC are prey to the GFC animals.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "food chain",
+      "connection"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q59",
+    "question": "In an aquatic ecosystem, the major conduit for energy flow is:",
+    "options": [
+      "Grazing Food Chain (GFC)",
+      "Detritus Food Chain (DFC)",
+      "Parasitic Food Chain",
+      "Saprophytic Food Chain"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "In an aquatic ecosystem, GFC is the major conduit for energy flow.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "energy flow",
+      "aquatic"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q60",
+    "question": "In a terrestrial ecosystem, a much larger fraction of energy flows through:",
+    "options": [
+      "Detritus Food Chain (DFC)",
+      "Grazing Food Chain (GFC)",
+      "Parasitic Food Chain",
+      "Auxiliary Food Chain"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "In a terrestrial ecosystem, a much larger fraction of energy flows through the detritus food chain than through the GFC.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "energy flow",
+      "terrestrial"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q61",
+    "question": "A food web is:",
+    "options": [
+      "A network of interconnected food chains",
+      "A single straight food chain",
+      "A pyramid of numbers",
+      "A community of decomposers"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Natural interconnections of food chains make it a food web.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "food web",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q62",
+    "question": "The 10 per cent law was proposed by:",
+    "options": [
+      "Lindeman",
+      "Tansley",
+      "Odum",
+      "Elton"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The 10 per cent law was proposed by Lindeman.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "energy flow",
+      "10 percent law"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q63",
+    "question": "The number of trophic levels in a grazing food chain is restricted because:",
+    "options": [
+      "Only 10% of energy is transferred to each subsequent level",
+      "There is not enough food",
+      "Predators are few",
+      "Producers are limited"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The number of trophic levels is restricted as the transfer of energy follows 10 per cent law and very little energy remains after 3-4 levels.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "energy flow",
+      "limitations"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q64",
+    "question": "In a grassland ecosystem, the pyramid of number is:",
+    "options": [
+      "Upright",
+      "Inverted",
+      "Spindle shaped",
+      "Irregular"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "In a grassland ecosystem, producers are numerous, followed by herbivores and carnivores, so it is upright.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "ecological pyramids",
+      "number"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q65",
+    "question": "The pyramid of biomass in a lake is:",
+    "options": [
+      "Inverted",
+      "Upright",
+      "Spindle shaped",
+      "Rectangular"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "It is inverted because the biomass of phytoplankton (producers) is less than that of zooplankton and fishes (consumers).",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "ecological pyramids",
+      "biomass"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q66",
+    "question": "Which of the following is NOT a limitation of ecological pyramids?",
+    "options": [
+      "They take into account the same species belonging to two or more trophic levels",
+      "They assume a simple food chain",
+      "They do not accommodate a food web",
+      "Saprophytes are not given any place"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Ecological pyramids do NOT take into account the same species belonging to two or more trophic levels. This is a limitation.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "ecological pyramids",
+      "limitations"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q67",
+    "question": "Ecological succession starting on a bare rock is called:",
+    "options": [
+      "Xerarch succession",
+      "Hydrarch succession",
+      "Mesarch succession",
+      "Halosere"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Succession on bare rock (dry area) is called Xerarch succession.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "succession",
+      "xerarch"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q68",
+    "question": "Ecological succession starting in water is called:",
+    "options": [
+      "Hydrarch succession",
+      "Xerarch succession",
+      "Lithosere",
+      "Psammosere"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Succession in water is called Hydrarch succession.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "succession",
+      "hydrarch"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q69",
+    "question": "Both hydrarch and xerarch successions lead to:",
+    "options": [
+      "Mesic conditions",
+      "Xeric conditions",
+      "Hydric conditions",
+      "Extreme conditions"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Both successions lead to medium water conditions (mesic) - neither too dry (xeric) nor too wet (hydric).",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "succession",
+      "climax"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q70",
+    "question": "In xerarch succession, the correct sequence of stages is:",
+    "options": [
+      "Lichens -> Bryophytes -> Herbs -> Shrubs -> Forest",
+      "Bryophytes -> Lichens -> Herbs -> Shrubs -> Forest",
+      "Lichens -> Herbs -> Bryophytes -> Shrubs -> Forest",
+      "Herbs -> Shrubs -> Lichens -> Bryophytes -> Forest"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The correct sequence is Lichens -> Bryophytes -> Herbs -> Shrubs -> Forest.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "succession",
+      "xerarch"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q71",
+    "question": "In hydrarch succession, the correct sequence of stages is:",
+    "options": [
+      "Phytoplankton -> Submerged plant -> Submerged free floating -> Reed swamp -> Marsh-meadow -> Scrub -> Forest",
+      "Phytoplankton -> Reed swamp -> Submerged plant -> Scrub -> Forest",
+      "Submerged plant -> Phytoplankton -> Reed swamp -> Marsh-meadow -> Forest",
+      "Phytoplankton -> Submerged free floating -> Submerged plant -> Reed swamp -> Forest"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The correct sequence is Phytoplankton -> Submerged plant stage -> Submerged free floating plant stage -> Reed-swamp stage -> Marsh-meadow stage -> Scrub stage -> Forest.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "succession",
+      "hydrarch"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q72",
+    "question": "Which of the following is a gaseous nutrient cycle?",
+    "options": [
+      "Carbon cycle",
+      "Phosphorus cycle",
+      "Sulphur cycle",
+      "Calcium cycle"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Carbon and Nitrogen cycles are gaseous nutrient cycles.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "nutrient cycling",
+      "carbon"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q73",
+    "question": "Which of the following is a sedimentary nutrient cycle?",
+    "options": [
+      "Phosphorus cycle",
+      "Nitrogen cycle",
+      "Carbon cycle",
+      "Oxygen cycle"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Phosphorus and Sulphur cycles are sedimentary nutrient cycles.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "nutrient cycling",
+      "phosphorus"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q74",
+    "question": "The reservoir for the gaseous type of nutrient cycle is:",
+    "options": [
+      "Atmosphere",
+      "Earth's crust",
+      "Ocean",
+      "Organisms"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The reservoir for gaseous nutrient cycles (e.g., nitrogen, carbon) exists in the atmosphere.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "nutrient cycling",
+      "reservoir"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q75",
+    "question": "The reservoir for the sedimentary type of nutrient cycle is:",
+    "options": [
+      "Earth's crust",
+      "Atmosphere",
+      "Ocean",
+      "Organisms"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The reservoir for sedimentary nutrient cycles (e.g., sulphur, phosphorus) is located in Earth's crust.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "nutrient cycling",
+      "reservoir"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q76",
+    "question": "About 71 per cent of global carbon is found in:",
+    "options": [
+      "Dissolved in oceans",
+      "Atmosphere",
+      "Fossil fuels",
+      "Living organisms"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "71 per cent of carbon is found dissolved in oceans.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "nutrient cycling",
+      "carbon"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q77",
+    "question": "Carbon constitutes _____ of dry weight of organisms.",
+    "options": [
+      "49 per cent",
+      "71 per cent",
+      "10 per cent",
+      "90 per cent"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Carbon constitutes 49 per cent of dry weight of organisms.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "nutrient cycling",
+      "carbon"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q78",
+    "question": "Phosphorus is a major constituent of:",
+    "options": [
+      "Biological membranes, nucleic acids and cellular energy transfer systems",
+      "Proteins and carbohydrates",
+      "Fats and oils",
+      "Vitamins and hormones"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Phosphorus is a major constituent of biological membranes, nucleic acids and cellular energy transfer systems.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "nutrient cycling",
+      "phosphorus"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q79",
+    "question": "The natural reservoir of phosphorus is:",
+    "options": [
+      "Rock",
+      "Atmosphere",
+      "Ocean",
+      "Plants"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The natural reservoir of phosphorus is rock, which contains phosphorus in the form of phosphates.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "nutrient cycling",
+      "phosphorus"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q80",
+    "question": "Which of the following is a difference between Carbon and Phosphorus cycle?",
+    "options": [
+      "Atmospheric inputs of phosphorus through rainfall are much smaller than carbon inputs",
+      "Gaseous exchange of phosphorus between organism and environment is negligible",
+      "Both A and B",
+      "None of the above"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Both statements are correct differences.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "nutrient cycling",
+      "comparison"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q81",
+    "question": "Ecosystem services include:",
+    "options": [
+      "Purification of air and water",
+      "Mitigation of droughts and floods",
+      "Cycling of nutrients",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Ecosystem services include all the listed benefits.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "ecosystem services",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q82",
+    "question": "Robert Costanza and his colleagues have put an average price tag of _____ on nature's life-support services.",
+    "options": [
+      "US $ 33 trillion a year",
+      "US $ 18 trillion a year",
+      "US $ 50 trillion a year",
+      "US $ 100 trillion a year"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "They have put an average price tag of US $ 33 trillion a year.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "ecosystem services",
+      "value"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q83",
+    "question": "Out of the total cost of various ecosystem services, the soil formation accounts for about:",
+    "options": [
+      "50 per cent",
+      "10 per cent",
+      "6 per cent",
+      "20 per cent"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Soil formation accounts for about 50 per cent.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "ecosystem services",
+      "value"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q84",
+    "question": "The cost of nutrient cycling and recreation accounts for less than _____ each of ecosystem services.",
+    "options": [
+      "10 per cent",
+      "50 per cent",
+      "6 per cent",
+      "20 per cent"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "They account for less than 10 per cent each.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "ecosystem services",
+      "value"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q85",
+    "question": "The cost of climate regulation and habitat for wildlife is about _____ each.",
+    "options": [
+      "6 per cent",
+      "10 per cent",
+      "50 per cent",
+      "20 per cent"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "They account for about 6 per cent each.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "ecosystem services",
+      "value"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q86",
+    "question": "Which of the following is an example of a man-made ecosystem?",
+    "options": [
+      "Crop field",
+      "Forest",
+      "Desert",
+      "Ocean"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Crop fields and aquariums are man-made ecosystems.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "ecosystem",
+      "types"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q87",
+    "question": "In a food chain, the maximum energy is stored in:",
+    "options": [
+      "Producers",
+      "Primary consumers",
+      "Secondary consumers",
+      "Decomposers"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Producers have the maximum energy as they are at the base of the food chain.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "energy flow",
+      "producers"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q88",
+    "question": "Which of the following is an inverted pyramid?",
+    "options": [
+      "Pyramid of biomass in sea",
+      "Pyramid of energy",
+      "Pyramid of number in grassland",
+      "Pyramid of biomass in forest"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Pyramid of biomass in sea is inverted.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "ecological pyramids",
+      "inverted"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q89",
+    "question": "The entire sequence of communities that successively change in a given area are called:",
+    "options": [
+      "Sere",
+      "Seral stages",
+      "Pioneer community",
+      "Climax community"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The entire sequence is called sere.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "succession",
+      "sere"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q90",
+    "question": "Which of the following is NOT a producer?",
+    "options": [
+      "Agaricus",
+      "Spirogyra",
+      "Volvox",
+      "Nostoc"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Agaricus is a fungus (saprotroph/decomposer), not a producer.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "ecosystem",
+      "components"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q91",
+    "question": "Which of the following statements is incorrect regarding the phosphorus cycle?",
+    "options": [
+      "The natural reservoir of phosphorus is rock.",
+      "Herbivores and other animals obtain phosphorus from plants.",
+      "Atmospheric inputs of phosphorus through rainfall are much larger than carbon inputs.",
+      "Waste products and the dead organisms are decomposed by phosphate-solubilising bacteria releasing phosphorus."
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Atmospheric inputs of phosphorus through rainfall are much smaller than carbon inputs, not larger.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "nutrient cycling",
+      "phosphorus"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q92",
+    "question": "Assertion (A): The pyramid of energy is always upright.\nReason (R): When energy flows from a particular trophic level to the next trophic level, some energy is always lost as heat at each step.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "The pyramid of energy is always upright because of the 10% law and energy loss as heat at each transfer.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "ecological pyramids",
+      "energy"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q93",
+    "question": "Match the following:\n1. Pioneer species on rock - A. Phytoplankton\n2. Pioneer species in water - B. Lichens\n3. Climax community - C. Forest\n4. Seral stage - D. Reed-swamp",
+    "options": [
+      "1-B, 2-A, 3-C, 4-D",
+      "1-A, 2-B, 3-C, 4-D",
+      "1-B, 2-A, 3-D, 4-C",
+      "1-C, 2-D, 3-A, 4-B"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "1-B (Lichens), 2-A (Phytoplankton), 3-C (Forest), 4-D (Reed-swamp is a seral stage).",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "succession",
+      "matching"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q94",
+    "question": "Which of the following is true for the 'Standing State'?",
+    "options": [
+      "It is the amount of nutrients, such as carbon, nitrogen, phosphorus, calcium, etc., present in the soil at any given time.",
+      "It is the mass of living material at a particular time at each trophic level.",
+      "It is the rate of biomass production.",
+      "It is the total energy content of an ecosystem."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Standing state refers to the amount of nutrients present in the soil at any given time. Standing crop refers to biomass.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "nutrient cycling",
+      "standing state"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q95",
+    "question": "In a grazing food chain, if the producer has 10,000 J of energy, how much energy will be available to the secondary consumer?",
+    "options": [
+      "100 J",
+      "1000 J",
+      "10 J",
+      "1 J"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Producer (10,000 J) -> Primary Consumer (1000 J) -> Secondary Consumer (100 J). (10% law).",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "energy flow",
+      "calculation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q96",
+    "question": "The rate of decomposition of detritus is fastest when:",
+    "options": [
+      "Temperature is warm (>25\u00b0C) and soil is moist.",
+      "Temperature is low (<10\u00b0C) and soil is moist.",
+      "Temperature is warm and soil is dry.",
+      "Temperature is low and soil is dry."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Warm and moist environment favours decomposition.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "decomposition",
+      "factors"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q97",
+    "question": "Which of the following ecological pyramids can be inverted?",
+    "options": [
+      "Pyramid of number and Pyramid of biomass",
+      "Pyramid of energy and Pyramid of biomass",
+      "Pyramid of energy only",
+      "Pyramid of number only"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Pyramid of number (e.g., tree ecosystem) and Pyramid of biomass (e.g., aquatic ecosystem) can be inverted. Pyramid of energy is always upright.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "ecological pyramids",
+      "inverted"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q98",
+    "question": "Secondary succession is faster than primary succession because:",
+    "options": [
+      "Some soil or sediment is already present.",
+      "Water is always available.",
+      "Seeds are always present.",
+      "Climate is more favorable."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Secondary succession is faster because some soil or sediment is already present, unlike primary succession where soil has to be formed.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "succession",
+      "secondary"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q99",
+    "question": "In the carbon cycle, carbon is returned to the atmosphere as CO2 by:",
+    "options": [
+      "Respiration of producers and consumers, and decomposition.",
+      "Photosynthesis only.",
+      "Sedimentation only.",
+      "None of the above."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Carbon is returned to the atmosphere through respiration (of producers and consumers) and decomposition.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "nutrient cycling",
+      "carbon"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q100",
+    "question": "Which of the following is NOT a function of the ecosystem?",
+    "options": [
+      "Species speciation",
+      "Productivity",
+      "Decomposition",
+      "Energy flow"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Species speciation is an evolutionary process, not a functional aspect of an ecosystem in the ecological sense (like productivity, decomposition, etc.).",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "ecosystem",
+      "functions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q101",
+    "question": "Identify the correct sequence of decomposition steps:",
+    "options": [
+      "Fragmentation -> Leaching -> Catabolism -> Humification -> Mineralization",
+      "Leaching -> Fragmentation -> Catabolism -> Humification -> Mineralization",
+      "Catabolism -> Fragmentation -> Leaching -> Mineralization -> Humification",
+      "Humification -> Mineralization -> Fragmentation -> Leaching -> Catabolism"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "The correct sequence is Fragmentation -> Leaching -> Catabolism -> Humification -> Mineralization.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "decomposition",
+      "steps"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q102",
+    "question": "The pyramid of number in a tree ecosystem where a single tree supports many birds, which support many parasites, is:",
+    "options": [
+      "Inverted",
+      "Upright",
+      "Spindle shaped",
+      "Urn shaped"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "It is inverted (or sometimes described as spindle-shaped depending on hyperparasites, but generally inverted relative to the single producer).",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "ecological pyramids",
+      "number"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q103",
+    "question": "Which of the following statements about NPP is correct?",
+    "options": [
+      "NPP = GPP - R",
+      "GPP = NPP - R",
+      "NPP = GPP + R",
+      "R = GPP + NPP"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Net Primary Productivity (NPP) is Gross Primary Productivity (GPP) minus Respiration loss (R).",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "productivity",
+      "formula"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q104",
+    "question": "The climax community in a hydrarch succession is a:",
+    "options": [
+      "Forest",
+      "Grassland",
+      "Desert",
+      "Marsh"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "The climax community in both hydrarch and xerarch succession is a forest (mesic condition).",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "succession",
+      "climax"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q105",
+    "question": "Which of the following is NOT a reason for the low productivity of oceans?",
+    "options": [
+      "High salinity",
+      "Lack of light in deeper parts",
+      "Lack of nutrients like nitrogen",
+      "Lack of water"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Lack of water is not a reason (oceans are water). The limiting factors are light and nutrients (nitrogen/iron).",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "productivity",
+      "oceans"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q106",
+    "question": "In the phosphorus cycle, the major pathway for phosphorus to enter the food chain is through:",
+    "options": [
+      "Root absorption by plants",
+      "Direct absorption by animals",
+      "Atmospheric deposition",
+      "Photosynthesis"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Plants absorb phosphate from the soil through their roots.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "nutrient cycling",
+      "phosphorus"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q107",
+    "question": "Which of the following organisms are known as the 'breakdown' complex organic matter?",
+    "options": [
+      "Decomposers",
+      "Producers",
+      "Herbivores",
+      "Carnivores"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Decomposers break down complex organic matter.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "decomposition",
+      "decomposers"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q108",
+    "question": "The amount of biomass or organic matter produced per unit area over a time period by plants during photosynthesis is called:",
+    "options": [
+      "Primary production",
+      "Secondary production",
+      "Tertiary production",
+      "Decomposition"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "This is the definition of primary production.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "productivity",
+      "primary production"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q109",
+    "question": "Which of the following is correct about the '10 per cent law'?",
+    "options": [
+      "Only 10% of the energy is transferred to each trophic level from the lower trophic level.",
+      "10% of energy is lost as heat at each step.",
+      "10% of energy is used for respiration.",
+      "90% of energy is transferred to the next level."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Only 10% of the energy is transferred to each trophic level from the lower trophic level.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "energy flow",
+      "10 percent law"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q110",
+    "question": "The base of each pyramid represents the:",
+    "options": [
+      "Producers or the first trophic level",
+      "Primary consumers",
+      "Top consumers",
+      "Decomposers"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "The base of each pyramid represents the producers or the first trophic level.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "ecological pyramids",
+      "structure"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q111",
+    "question": "Which of the following is NOT an ecosystem service?",
+    "options": [
+      "Ozone depletion",
+      "Soil formation",
+      "Nutrient cycling",
+      "Pollination"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Ozone depletion is an environmental issue, not an ecosystem service.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "ecosystem services",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q112",
+    "question": "The gradual and fairly predictable change in the species composition of a given area is called:",
+    "options": [
+      "Ecological succession",
+      "Evolution",
+      "Adaptation",
+      "Speciation"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "This is the definition of ecological succession.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "succession",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q113",
+    "question": "Which of the following is a characteristic of a climax community?",
+    "options": [
+      "It is in near equilibrium with the environment.",
+      "It changes rapidly.",
+      "It is the first community to inhabit an area.",
+      "It has low species diversity."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "A climax community is in near equilibrium with the environment and remains stable.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "succession",
+      "climax"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q114",
+    "question": "In the equation GPP - R = NPP, R represents:",
+    "options": [
+      "Respiration losses",
+      "Radiant energy",
+      "Rate of photosynthesis",
+      "Reproductive potential"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "R represents respiration losses.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "productivity",
+      "formula"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q115",
+    "question": "Which of the following is the most important climatic factor that regulates decomposition?",
+    "options": [
+      "Temperature",
+      "Light",
+      "Wind",
+      "Soil pH"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Temperature (along with soil moisture) is the most important climatic factor.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "decomposition",
+      "factors"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q116",
+    "question": "The process by which water-soluble inorganic nutrients go down into the soil horizon and get precipitated as unavailable salts is called:",
+    "options": [
+      "Leaching",
+      "Catabolism",
+      "Humification",
+      "Mineralization"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "This process is called leaching.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "decomposition",
+      "steps"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q117",
+    "question": "Which of the following is true about the carbon cycle?",
+    "options": [
+      "Atmosphere contains about 1% of total global carbon.",
+      "Ocean contains about 71% of total global carbon.",
+      "Fossil fuels contain about 50% of total global carbon.",
+      "Living organisms contain about 90% of total global carbon."
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Ocean contains about 71% of total global carbon.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "nutrient cycling",
+      "carbon"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q118",
+    "question": "The price tag on nature's life-support services was put by:",
+    "options": [
+      "Robert Costanza",
+      "E.P. Odum",
+      "A.G. Tansley",
+      "R. Mishra"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Robert Costanza and his colleagues put the price tag.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "ecosystem services",
+      "value"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q119",
+    "question": "Which of the following is correct regarding the limitations of ecological pyramids?",
+    "options": [
+      "It does not take into account the same species belonging to two or more trophic levels.",
+      "It assumes a simple food chain, something that almost never exists in nature.",
+      "It does not accommodate a food web.",
+      "All of the above."
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "All the listed points are limitations of ecological pyramids.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "ecological pyramids",
+      "limitations"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_ecosystem_q120",
+    "question": "The breakdown of detritus into smaller particles by earthworm is a process called:",
+    "options": [
+      "Fragmentation",
+      "Humification",
+      "Catabolism",
+      "Leaching"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "This process is called fragmentation.",
+    "subject": "Botany",
+    "chapter": "Ecosystem",
+    "tags": [
+      "decomposition",
+      "steps"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "ecosystem",
+    "subjectId": "botany"
+  }
+]

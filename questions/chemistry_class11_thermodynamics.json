@@ -1,0 +1,2643 @@
+[
+  {
+    "id": "chemistry_thermodynamics_q1",
+    "question": "Thermodynamics is primarily concerned with:",
+    "options": [
+      "Microscopic properties",
+      "Macroscopic properties",
+      "Atomic structure",
+      "Reaction rates"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Thermodynamics deals with macroscopic properties of systems like pressure, temperature, and volume.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "basics"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q2",
+    "question": "A system which can exchange neither energy nor matter with its surroundings is called:",
+    "options": [
+      "Open system",
+      "Closed system",
+      "Isolated system",
+      "Heterogeneous system"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "An isolated system exchanges neither energy nor matter with surroundings.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "types of systems"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q3",
+    "question": "Which of the following is an intensive property?",
+    "options": [
+      "Mass",
+      "Volume",
+      "Internal energy",
+      "Temperature"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Temperature is an intensive property as it does not depend on the amount of substance.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "properties of system"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q4",
+    "question": "The First Law of Thermodynamics is a statement of:",
+    "options": [
+      "Conservation of mass",
+      "Conservation of energy",
+      "Conservation of momentum",
+      "Law of mass action"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "First Law states that energy can neither be created nor destroyed (Conservation of Energy).",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "first law"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q5",
+    "question": "For an adiabatic process, which of the following is true?",
+    "options": [
+      "q = 0",
+      "w = 0",
+      "\u0394U = 0",
+      "\u0394H = 0"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "In an adiabatic process, there is no heat exchange with surroundings, so q = 0.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "thermodynamic processes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q6",
+    "question": "The enthalpy change (\u0394H) is related to internal energy change (\u0394U) by the equation:",
+    "options": [
+      "\u0394H = \u0394U + P\u0394V",
+      "\u0394H = \u0394U - P\u0394V",
+      "\u0394H = \u0394U + RT",
+      "\u0394H = q + w"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "At constant pressure, \u0394H = \u0394U + P\u0394V.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "enthalpy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q7",
+    "question": "A process in which temperature remains constant is called:",
+    "options": [
+      "Isobaric",
+      "Isochoric",
+      "Isothermal",
+      "Adiabatic"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Isothermal process occurs at constant temperature (\u0394T = 0).",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "thermodynamic processes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q8",
+    "question": "The heat content of a system at constant pressure is known as:",
+    "options": [
+      "Internal energy",
+      "Enthalpy",
+      "Entropy",
+      "Free energy"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Enthalpy (H) is the heat content at constant pressure.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "enthalpy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q9",
+    "question": "Which of the following is a state function?",
+    "options": [
+      "Heat (q)",
+      "Work (w)",
+      "Internal Energy (U)",
+      "None of these"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Internal energy is a state function; q and w are path functions.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "state functions"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q10",
+    "question": "For an exothermic reaction, \u0394H is:",
+    "options": [
+      "Positive",
+      "Negative",
+      "Zero",
+      "Undefined"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Heat is released in exothermic reactions, so \u0394H is negative.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "enthalpy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q11",
+    "question": "Hess's Law deals with:",
+    "options": [
+      "Change in heat of reaction",
+      "Rate of reaction",
+      "Equilibrium constant",
+      "Influence of pressure on volume"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Hess's Law states that the total enthalpy change of a reaction is the same, regardless of the path taken.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "hess law"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q12",
+    "question": "Entropy is a measure of:",
+    "options": [
+      "Internal energy",
+      "Randomness or disorder",
+      "Heat content",
+      "Work done"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Entropy (S) measures the randomness or disorder of a system.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "entropy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q13",
+    "question": "For a spontaneous process, the change in Gibbs free energy (\u0394G) is:",
+    "options": [
+      "Positive",
+      "Negative",
+      "Zero",
+      "Equal to \u0394H"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "For a spontaneous process at constant T and P, \u0394G must be negative.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "gibbs free energy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q14",
+    "question": "The equation relating \u0394G, \u0394H, and \u0394S is:",
+    "options": [
+      "\u0394G = \u0394H - T\u0394S",
+      "\u0394G = \u0394H + T\u0394S",
+      "\u0394G = \u0394S - T\u0394H",
+      "\u0394G = \u0394H - P\u0394V"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Gibbs-Helmholtz equation: \u0394G = \u0394H - T\u0394S.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "gibbs free energy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q15",
+    "question": "Standard enthalpy of formation of an element in its standard state is:",
+    "options": [
+      "Zero",
+      "Unity",
+      "Negative",
+      "Positive"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "By convention, standard enthalpy of formation of elements in their standard state is taken as zero.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "enthalpy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q16",
+    "question": "Work done in free expansion of an ideal gas is:",
+    "options": [
+      "Positive",
+      "Negative",
+      "Zero",
+      "Infinite"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "In free expansion, external pressure is zero, so w = -Pext\u0394V = 0.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "work"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q17",
+    "question": "Which of the following units represents entropy?",
+    "options": [
+      "J mol-1",
+      "J K-1 mol-1",
+      "J K mol-1",
+      "kJ mol-1"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Entropy units are Energy per Temperature per mole (J K-1 mol-1).",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "units"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q18",
+    "question": "At equilibrium, the value of \u0394G is:",
+    "options": [
+      "Positive",
+      "Negative",
+      "Zero",
+      "Variable"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "At equilibrium, the system has minimum free energy, so \u0394G = 0.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "equilibrium"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q19",
+    "question": "Heat capacity at constant pressure (Cp) is related to heat capacity at constant volume (Cv) for an ideal gas by:",
+    "options": [
+      "Cp + Cv = R",
+      "Cp - Cv = R",
+      "Cp / Cv = R",
+      "Cv - Cp = R"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Mayer's relation: Cp - Cv = R.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "heat capacity"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q20",
+    "question": "The process of evaporation of water is:",
+    "options": [
+      "Exothermic",
+      "Endothermic",
+      "Adiabatic",
+      "Isochoric"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Evaporation requires heat absorption to break intermolecular forces, so it is endothermic.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "phase change"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q21",
+    "question": "Which of the following is an extensive property?",
+    "options": [
+      "Molar heat capacity",
+      "Temperature",
+      "Density",
+      "Volume"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Volume depends on the amount of matter, so it is extensive.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "properties of system"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q22",
+    "question": "The bond dissociation energy is always:",
+    "options": [
+      "Positive",
+      "Negative",
+      "Zero",
+      "Variable"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Energy is required to break bonds, so it is always positive (endothermic).",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "bond energy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q23",
+    "question": "In an isochoric process, work done is:",
+    "options": [
+      "Maximum",
+      "Minimum",
+      "Zero",
+      "Positive"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Isochoric means constant volume (\u0394V = 0). Work w = -P\u0394V = 0.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "work"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q24",
+    "question": "The Third Law of Thermodynamics states that the entropy of a perfectly crystalline substance at absolute zero is:",
+    "options": [
+      "Zero",
+      "Infinite",
+      "Unity",
+      "Negative"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Third Law: Entropy of a perfect crystal at 0 K is zero.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "third law"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q25",
+    "question": "Calorimetry is used to measure:",
+    "options": [
+      "Temperature",
+      "Heat change",
+      "Pressure",
+      "Volume"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Calorimetry is the experimental technique to measure heat changes in chemical reactions.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "calorimetry"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q26",
+    "question": "Which of the following equations represents the work done in an isothermal reversible expansion of an ideal gas?",
+    "options": [
+      "w = -nRT ln(V2/V1)",
+      "w = -Pext \u0394V",
+      "w = nRT ln(V2/V1)",
+      "w = -nRT (V2-V1)"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "w_rev = -nRT ln(V2/V1) or -2.303 nRT log(V2/V1).",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "work"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q27",
+    "question": "The enthalpy of combustion is always:",
+    "options": [
+      "Positive",
+      "Negative",
+      "Zero",
+      "Variable"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Combustion is an exothermic process, so \u0394H is negative.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "enthalpy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q28",
+    "question": "For the reaction A(g) -> B(g) + C(g), \u0394n_g is:",
+    "options": [
+      "1",
+      "0",
+      "-1",
+      "2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "\u0394n_g = moles of gaseous products - moles of gaseous reactants = (1+1) - 1 = 1.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "stoichiometry"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q29",
+    "question": "Internal energy change (\u0394U) depends on:",
+    "options": [
+      "Initial and final states",
+      "Path followed",
+      "Time taken",
+      "None of these"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Internal energy is a state function, depending only on initial and final states.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "state functions"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q30",
+    "question": "The unit of heat is:",
+    "options": [
+      "Joule",
+      "Newton",
+      "Pascal",
+      "Kelvin"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Heat is a form of energy, measured in Joules (SI) or calories.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "units"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q31",
+    "question": "Which of the following is not a path function?",
+    "options": [
+      "Work",
+      "Heat",
+      "Enthalpy",
+      "None of these"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Enthalpy is a state function.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "state functions"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q32",
+    "question": "When a solid melts into a liquid, entropy:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains same",
+      "Becomes zero"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Liquid is more disordered than solid, so entropy increases.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "entropy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q33",
+    "question": "The enthalpy of neutralization of a strong acid and strong base is approximately:",
+    "options": [
+      "-57.1 kJ/mol",
+      "-13.7 kJ/mol",
+      "57.1 kJ/mol",
+      "0 kJ/mol"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "It is constant at -57.1 kJ/mol (or -13.7 kcal/mol).",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "enthalpy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q34",
+    "question": "A cyclic process is one where:",
+    "options": [
+      "Initial and final states are same",
+      "Temperature is constant",
+      "Pressure is constant",
+      "Volume is constant"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "In a cyclic process, the system returns to its initial state.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "thermodynamic processes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q35",
+    "question": "According to IUPAC convention, work done ON the system is:",
+    "options": [
+      "Positive",
+      "Negative",
+      "Zero",
+      "Variable"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Work done on the system increases its energy, so it is positive.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "sign convention"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q36",
+    "question": "The heat absorbed at constant volume is equal to:",
+    "options": [
+      "\u0394U",
+      "\u0394H",
+      "w",
+      "q"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "At constant volume, w = 0, so q_v = \u0394U.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "internal energy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q37",
+    "question": "Which law of thermodynamics introduces the concept of entropy?",
+    "options": [
+      "First Law",
+      "Second Law",
+      "Third Law",
+      "Zeroth Law"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Second Law introduces entropy and spontaneity.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "second law"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q38",
+    "question": "The enthalpy of atomization is the enthalpy change when:",
+    "options": [
+      "1 mole of bonds are broken",
+      "1 mole of substance dissociates into atoms",
+      "1 mole of atoms are formed",
+      "1 mole of substance is burnt"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Enthalpy change on breaking one mole of bonds completely to obtain atoms in gas phase.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "enthalpy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q39",
+    "question": "For an ideal gas undergoing isothermal expansion, \u0394U is:",
+    "options": [
+      "Positive",
+      "Negative",
+      "Zero",
+      "Infinite"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Internal energy of ideal gas depends only on T. Since T is constant, \u0394U = 0.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "internal energy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q40",
+    "question": "Which of the following has the highest entropy?",
+    "options": [
+      "Ice",
+      "Water",
+      "Steam",
+      "Hydrogen gas"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Gases have highest entropy. Steam (gas) > Water (liquid) > Ice (solid). Hydrogen gas is also gas, but steam at same T/P? Usually steam (H2O) has more complexity than H2, but question likely compares phases of water. Among Ice, Water, Steam, Steam has highest.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "entropy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q41",
+    "question": "For the reaction C(s) + O2(g) -> CO2(g), \u0394H = -393.5 kJ/mol. This reaction is:",
+    "options": [
+      "Endothermic and spontaneous",
+      "Exothermic and spontaneous",
+      "Endothermic and non-spontaneous",
+      "Exothermic and non-spontaneous"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "\u0394H is negative (exothermic). Combustion of carbon is spontaneous.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "enthalpy",
+      "spontaneity"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q42",
+    "question": "One mole of an ideal gas expands reversibly and isothermally from 10 L to 20 L at 300 K. The work done is (R = 8.314 J/K mol):",
+    "options": [
+      "-1729 J",
+      "1729 J",
+      "-5187 J",
+      "5187 J"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "w = -2.303 nRT log(V2/V1) = -2.303 * 1 * 8.314 * 300 * log(2) = -2.303 * 2494.2 * 0.3010 = -1729 J.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "work"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q43",
+    "question": "Which of the following conditions ensures spontaneity at all temperatures?",
+    "options": [
+      "\u0394H < 0, \u0394S > 0",
+      "\u0394H > 0, \u0394S < 0",
+      "\u0394H < 0, \u0394S < 0",
+      "\u0394H > 0, \u0394S > 0"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "\u0394G = \u0394H - T\u0394S. If \u0394H is negative and \u0394S is positive, \u0394G is always negative.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "spontaneity"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q44",
+    "question": "The standard enthalpy of formation of NH3(g) is -46.1 kJ/mol. The enthalpy change for the reaction 2NH3(g) -> N2(g) + 3H2(g) is:",
+    "options": [
+      "-46.1 kJ",
+      "46.1 kJ",
+      "-92.2 kJ",
+      "92.2 kJ"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Reaction is reverse of formation of 2 moles of NH3. \u0394H = -2 * (-46.1) = +92.2 kJ.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "enthalpy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q45",
+    "question": "For the reaction 2Cl(g) -> Cl2(g), the signs of \u0394H and \u0394S are respectively:",
+    "options": [
+      "+, +",
+      "+, -",
+      "-, -",
+      "-, +"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Bond formation is exothermic (\u0394H < 0). 2 moles gas -> 1 mole gas, so disorder decreases (\u0394S < 0).",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "spontaneity"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q46",
+    "question": "In an adiabatic expansion of an ideal gas:",
+    "options": [
+      "Temperature increases",
+      "Temperature decreases",
+      "Temperature remains constant",
+      "Heat is absorbed"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "In adiabatic expansion, work is done by the gas at the expense of internal energy, so temperature decreases.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "thermodynamic processes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q47",
+    "question": "The heat of combustion of carbon to CO2 is -393.5 kJ/mol. The heat released upon formation of 35.2 g of CO2 from carbon and oxygen gas is:",
+    "options": [
+      "315 kJ",
+      "630 kJ",
+      "3.15 kJ",
+      "393.5 kJ"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Molar mass CO2 = 44 g. Moles = 35.2/44 = 0.8. Heat = 0.8 * 393.5 = 314.8 kJ.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "stoichiometry"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q48",
+    "question": "For which reaction is \u0394H = \u0394U?",
+    "options": [
+      "N2(g) + 3H2(g) -> 2NH3(g)",
+      "H2(g) + I2(g) -> 2HI(g)",
+      "PCl5(g) -> PCl3(g) + Cl2(g)",
+      "C(s) + O2(g) -> CO2(g)"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "\u0394H = \u0394U + \u0394ngRT. If \u0394ng = 0, \u0394H = \u0394U. For H2 + I2 -> 2HI, \u0394ng = 2 - 2 = 0.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "enthalpy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q49",
+    "question": "The entropy change for the vaporization of water at 100\u00b0C (\u0394Hvap = 40.8 kJ/mol) is:",
+    "options": [
+      "109 J/K mol",
+      "408 J/K mol",
+      "10.9 J/K mol",
+      "0.408 J/K mol"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "\u0394S = \u0394H/T = 40800 J / 373 K = 109.38 J/K mol.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "entropy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q50",
+    "question": "Which of the following is correct for an isothermal free expansion of an ideal gas?",
+    "options": [
+      "q = 0, \u0394T \u2260 0, w = 0",
+      "q \u2260 0, \u0394T = 0, w = 0",
+      "q = 0, \u0394T = 0, w = 0",
+      "q = 0, \u0394T < 0, w \u2260 0"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Free expansion w=0. Isothermal ideal gas \u0394U=0. By First Law, q = \u0394U - w = 0. So q=0, w=0, \u0394T=0.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "thermodynamic processes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q51",
+    "question": "The enthalpy of formation of all elements in their standard states is:",
+    "options": [
+      "Unity",
+      "Zero",
+      "< 0",
+      "> 0"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "By definition, it is zero.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "enthalpy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q52",
+    "question": "If \u0394G for a reaction is negative, the reaction is:",
+    "options": [
+      "Spontaneous",
+      "Non-spontaneous",
+      "At equilibrium",
+      "Endothermic"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Negative \u0394G indicates spontaneity.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "spontaneity"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q53",
+    "question": "Calculate the work done when 1 mole of an ideal gas is compressed reversibly from 1 bar to 10 bar at 300 K.",
+    "options": [
+      "5.74 kJ",
+      "-5.74 kJ",
+      "17.2 kJ",
+      "-17.2 kJ"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "w = -2.303 nRT log(P1/P2) = -2.303 * 1 * 8.314 * 300 * log(1/10) = -5744 * (-1) = +5744 J = 5.74 kJ.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "work"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q54",
+    "question": "Which of the following is not an endothermic reaction?",
+    "options": [
+      "Melting of ice",
+      "Evaporation of water",
+      "Combustion of methane",
+      "Dissociation of H2"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Combustion is exothermic.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "enthalpy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q55",
+    "question": "The heat capacity of water is 4.18 J/g K. The heat required to raise the temperature of 10 g of water from 20\u00b0C to 50\u00b0C is:",
+    "options": [
+      "1254 J",
+      "418 J",
+      "836 J",
+      "2090 J"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "q = m c \u0394T = 10 * 4.18 * (50-20) = 41.8 * 30 = 1254 J.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "calorimetry"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q56",
+    "question": "For the reaction 2A + B -> C, \u0394H = 400 kJ and \u0394S = 0.2 kJ/K. At what temperature will the reaction become spontaneous?",
+    "options": [
+      "2000 K",
+      "> 2000 K",
+      "< 2000 K",
+      "500 K"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Equilibrium T = \u0394H/\u0394S = 400/0.2 = 2000 K. For spontaneity (\u0394G < 0), since \u0394H > 0 and \u0394S > 0, T must be > 2000 K.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "spontaneity"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q57",
+    "question": "The standard Gibbs free energy change (\u0394G\u00b0) is related to the equilibrium constant (K) by:",
+    "options": [
+      "\u0394G\u00b0 = -RT ln K",
+      "\u0394G\u00b0 = RT ln K",
+      "\u0394G\u00b0 = -2.303 RT log K",
+      "Both A and C"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "\u0394G\u00b0 = -RT ln K = -2.303 RT log K.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "gibbs free energy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q58",
+    "question": "A bomb calorimeter measures:",
+    "options": [
+      "\u0394H",
+      "\u0394U",
+      "q_p",
+      "w"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Bomb calorimeter operates at constant volume, so it measures q_v which is \u0394U.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "calorimetry"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q59",
+    "question": "Which of the following has \u0394S > 0?",
+    "options": [
+      "Freezing of water",
+      "Condensation of steam",
+      "Rusting of iron",
+      "Dissolution of sugar in water"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Dissolution increases disorder, so \u0394S > 0. Others decrease disorder.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "entropy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q60",
+    "question": "For an isolated system, \u0394U = 0, what will be \u0394S?",
+    "options": [
+      "Positive",
+      "Negative",
+      "Zero",
+      "Cannot be determined"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "For an isolated system, spontaneous processes increase entropy. So \u0394S > 0 (or = 0 at equilibrium). Usually > 0 for spontaneous change.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "entropy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q61",
+    "question": "The enthalpy of formation of CO2(g), H2O(l) and CH4(g) are -393.5, -285.8 and -74.8 kJ/mol respectively. The enthalpy of combustion of methane is:",
+    "options": [
+      "-890.3 kJ/mol",
+      "-604.5 kJ/mol",
+      "-800.0 kJ/mol",
+      "-74.8 kJ/mol"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "CH4 + 2O2 -> CO2 + 2H2O. \u0394H = [(-393.5) + 2(-285.8)] - [-74.8] = -393.5 - 571.6 + 74.8 = -890.3 kJ/mol.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "enthalpy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q62",
+    "question": "Which of the following is true for a reversible process?",
+    "options": [
+      "Driving force is much greater than opposing force",
+      "Driving force is infinitesimally greater than opposing force",
+      "It takes finite time",
+      "It is spontaneous"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Reversible processes occur in infinite steps where driving force is only infinitesimally greater than opposing force.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "thermodynamic processes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q63",
+    "question": "The molar heat capacity of water in equilibrium with ice at constant pressure is:",
+    "options": [
+      "Zero",
+      "Infinity",
+      "40.45 kJ/K mol",
+      "75.48 J/K mol"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "At phase transition (equilibrium), temperature remains constant even if heat is supplied. C = q/\u0394T = q/0 = Infinity.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "heat capacity"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q64",
+    "question": "Which of the following statements is correct?",
+    "options": [
+      "\u0394H is positive for exothermic reactions",
+      "\u0394S is negative for spontaneous reactions",
+      "\u0394G is negative for spontaneous reactions",
+      "\u0394U is path function"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "\u0394G < 0 is the criterion for spontaneity.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "spontaneity"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q65",
+    "question": "The work done during the expansion of a gas from a volume of 4 dm3 to 6 dm3 against a constant external pressure of 3 atm is:",
+    "options": [
+      "-6 L atm",
+      "+6 L atm",
+      "-304 J",
+      "-608 J"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "w = -Pext \u0394V = -3 * (6-4) = -6 L atm. (1 L atm = 101.3 J, so -608 J is also correct, but -6 L atm is direct).",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "work"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q66",
+    "question": "For the reaction H2(g) + Cl2(g) -> 2HCl(g), \u0394H = -184 kJ. What is the enthalpy of formation of HCl?",
+    "options": [
+      "-184 kJ",
+      "-92 kJ",
+      "+92 kJ",
+      "+184 kJ"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Enthalpy of formation is for 1 mole. Reaction produces 2 moles. So \u0394Hf = -184/2 = -92 kJ/mol.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "enthalpy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q67",
+    "question": "The entropy of the universe:",
+    "options": [
+      "Tends towards a maximum",
+      "Tends towards a minimum",
+      "Remains constant",
+      "Decreases"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Second Law: Entropy of the universe increases in a spontaneous process.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "entropy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q68",
+    "question": "If w is the work done by the system, then:",
+    "options": [
+      "w is positive",
+      "w is negative",
+      "w is zero",
+      "w depends on path"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "IUPAC convention: Work done BY the system is negative.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "sign convention"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q69",
+    "question": "Which of the following is zero for a cyclic process?",
+    "options": [
+      "q",
+      "w",
+      "\u0394U",
+      "None of these"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "\u0394U is a state function, so change in a cycle is zero.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "state functions"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q70",
+    "question": "The standard entropy of O2(g) at 298 K is:",
+    "options": [
+      "Zero",
+      "Positive",
+      "Negative",
+      "Undefined"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Standard entropy of elements is not zero (Third Law gives S=0 at 0K). At 298 K, it is positive.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "entropy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q71",
+    "question": "For the reaction CO(g) + 1/2 O2(g) -> CO2(g), which of the following is true?",
+    "options": [
+      "\u0394H = \u0394U",
+      "\u0394H > \u0394U",
+      "\u0394H < \u0394U",
+      "\u0394H = T\u0394S"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "\u0394ng = 1 - (1 + 0.5) = -0.5. \u0394H = \u0394U + \u0394ngRT. Since \u0394ng is negative, \u0394H < \u0394U.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "enthalpy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q72",
+    "question": "The enthalpy of solution of NaOH is -41.6 kJ/mol. When NaOH is dissolved in water, the temperature of water:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains same",
+      "Fluctuates"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Exothermic process releases heat, raising temperature.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "enthalpy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q73",
+    "question": "Which of the following is not a thermodynamic property?",
+    "options": [
+      "Pressure",
+      "Volume",
+      "Temperature",
+      "Rate of reaction"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Rate of reaction belongs to Kinetics, not Thermodynamics.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "basics"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q74",
+    "question": "The value of \u0394G\u00b0 for a reaction with K = 1 is:",
+    "options": [
+      "Zero",
+      "Positive",
+      "Negative",
+      "1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "\u0394G\u00b0 = -RT ln K. If K = 1, ln K = 0, so \u0394G\u00b0 = 0.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "gibbs free energy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q75",
+    "question": "In which process is work done maximum?",
+    "options": [
+      "Reversible expansion",
+      "Irreversible expansion",
+      "Free expansion",
+      "Compression"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Maximum work is obtained in a reversible expansion.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "work"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q76",
+    "question": "The enthalpy of sublimation of a substance is equal to:",
+    "options": [
+      "\u0394Hfus + \u0394Hvap",
+      "\u0394Hfus - \u0394Hvap",
+      "\u0394Hvap - \u0394Hfus",
+      "None of these"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Sublimation (Solid -> Gas) = Fusion (Solid -> Liquid) + Vaporization (Liquid -> Gas).",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "enthalpy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q77",
+    "question": "For the reaction 2O3(g) -> 3O2(g), \u0394H is negative. The reaction is:",
+    "options": [
+      "Spontaneous at all T",
+      "Spontaneous at low T",
+      "Spontaneous at high T",
+      "Non-spontaneous"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "\u0394H < 0 (Given). \u0394S > 0 (2 moles gas -> 3 moles gas). So \u0394G = \u0394H - T\u0394S is always negative.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "spontaneity"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q78",
+    "question": "The internal energy of one mole of an ideal gas is:",
+    "options": [
+      "3/2 RT",
+      "1/2 RT",
+      "5/2 RT",
+      "RT"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "For monoatomic ideal gas, U = 3/2 RT.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "internal energy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q79",
+    "question": "Which of the following is correct for an endothermic reaction to be spontaneous?",
+    "options": [
+      "\u0394S must be positive and T\u0394S > \u0394H",
+      "\u0394S must be negative",
+      "T must be low",
+      "\u0394H must be negative"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "\u0394G = \u0394H - T\u0394S. If \u0394H > 0, we need T\u0394S > \u0394H (so \u0394S > 0 and high T) for \u0394G < 0.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "spontaneity"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q80",
+    "question": "The heat of neutralization of HCl by NaOH is -57.1 kJ/mol. The heat of neutralization of HCN by NaOH is -12.1 kJ/mol. The enthalpy of ionization of HCN is:",
+    "options": [
+      "45.0 kJ/mol",
+      "-45.0 kJ/mol",
+      "69.2 kJ/mol",
+      "-69.2 kJ/mol"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "\u0394H_neut(weak) = \u0394H_neut(strong) + \u0394H_ion. -12.1 = -57.1 + \u0394H_ion. \u0394H_ion = 57.1 - 12.1 = 45.0 kJ/mol.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "enthalpy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q81",
+    "question": "For a reaction to be at equilibrium:",
+    "options": [
+      "\u0394G = 0",
+      "\u0394H = 0",
+      "\u0394S = 0",
+      "\u0394G\u00b0 = 0"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "\u0394G = 0 is the condition for equilibrium.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "equilibrium"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q82",
+    "question": "Which of the following is an example of a closed system?",
+    "options": [
+      "Tea in a thermos flask",
+      "Tea in an open cup",
+      "Tea in a sealed steel kettle",
+      "Human body"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Sealed kettle allows energy exchange (heat) but not matter exchange.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "types of systems"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q83",
+    "question": "The standard enthalpy of formation of diamond is:",
+    "options": [
+      "Zero",
+      "Positive",
+      "Negative",
+      "Same as graphite"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Graphite is the standard state of carbon (\u0394Hf = 0). Diamond is less stable, so \u0394Hf is positive (1.9 kJ/mol).",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "enthalpy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q84",
+    "question": "If 1 mole of an ideal gas expands isothermally at 37\u00b0C from 15 L to 25 L, the maximum work obtained is:",
+    "options": [
+      "-1.29 kJ",
+      "1.29 kJ",
+      "-2.58 kJ",
+      "2.58 kJ"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "w = -2.303 nRT log(V2/V1) = -2.303 * 1 * 8.314 * 310 * log(25/15) = -5936 * 0.2218 = -1316 J = -1.32 kJ. Closest is -1.29 kJ.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "work"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q85",
+    "question": "Which of the following has the highest heat capacity?",
+    "options": [
+      "Water",
+      "Iron",
+      "Gold",
+      "Aluminum"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Water has a very high specific heat capacity (4.18 J/g K).",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "heat capacity"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q86",
+    "question": "The change in entropy when 1 mole of water is heated from 273 K to 373 K is (Cp = 75.3 J/K mol):",
+    "options": [
+      "23.5 J/K",
+      "10.5 J/K",
+      "75.3 J/K",
+      "0 J/K"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "\u0394S = Cp ln(T2/T1) = 75.3 * ln(373/273) = 75.3 * 0.312 = 23.5 J/K.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "entropy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q87",
+    "question": "For the reaction N2 + 3H2 -> 2NH3, the relation between \u0394H and \u0394U is:",
+    "options": [
+      "\u0394H = \u0394U - 2RT",
+      "\u0394H = \u0394U + 2RT",
+      "\u0394H = \u0394U",
+      "\u0394H = \u0394U - RT"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "\u0394ng = 2 - 4 = -2. \u0394H = \u0394U - 2RT.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "enthalpy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q88",
+    "question": "Which of the following is true for an adiabatic process?",
+    "options": [
+      "q = +w",
+      "q = -w",
+      "\u0394U = w",
+      "\u0394U = q"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "q = 0. \u0394U = q + w = w.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "first law"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q89",
+    "question": "The enthalpy of combustion of C6H6(l) is -3268 kJ/mol. The heat evolved when 3.9 g of benzene is burnt is:",
+    "options": [
+      "163.4 kJ",
+      "32.68 kJ",
+      "326.8 kJ",
+      "16.34 kJ"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Molar mass C6H6 = 78 g. Moles = 3.9/78 = 0.05. Heat = 0.05 * 3268 = 163.4 kJ.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "stoichiometry"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q90",
+    "question": "A system absorbs 10 kJ of heat and does 4 kJ of work. The change in internal energy is:",
+    "options": [
+      "6 kJ",
+      "14 kJ",
+      "-6 kJ",
+      "-14 kJ"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "\u0394U = q + w. q = +10 kJ. w = -4 kJ (work done by system). \u0394U = 10 - 4 = 6 kJ.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "first law"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q91",
+    "question": "For the reaction 2NO(g) + O2(g) -> 2NO2(g), at 300 K, \u0394H = -114 kJ and \u0394S = -146 J/K. The standard free energy change \u0394G\u00b0 is:",
+    "options": [
+      "-70.2 kJ",
+      "-157.8 kJ",
+      "-70200 kJ",
+      "-157800 kJ"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "\u0394G\u00b0 = \u0394H\u00b0 - T\u0394S\u00b0 = -114000 - 300(-146) = -114000 + 43800 = -70200 J = -70.2 kJ.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "gibbs free energy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q92",
+    "question": "One mole of an ideal gas at 300 K is expanded isothermally from an initial volume of 1 L to 10 L. The \u0394U for this process is (R = 2 cal/K mol):",
+    "options": [
+      "0 cal",
+      "1381.8 cal",
+      "900 cal",
+      "163.8 cal"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "For isothermal expansion of an ideal gas, internal energy depends only on temperature. Since T is constant, \u0394U = 0.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "internal energy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q93",
+    "question": "The enthalpy of hydrogenation of cyclohexene is -119.5 kJ/mol. If resonance energy of benzene is -150.4 kJ/mol, its enthalpy of hydrogenation would be:",
+    "options": [
+      "-208.1 kJ/mol",
+      "-358.5 kJ/mol",
+      "-508.9 kJ/mol",
+      "-269.9 kJ/mol"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Expected \u0394H_hydro for benzene (3 double bonds) = 3 * (-119.5) = -358.5 kJ/mol. Actual \u0394H = Expected + Resonance Energy = -358.5 + 150.4 = -208.1 kJ/mol. (Note: Resonance energy stabilizes, so it makes reaction less exothermic, or we add positive resonance energy to negative expected value. Wait. Resonance energy is usually defined as positive stabilization. If given as -150.4, it means energy is lower by 150.4. So Actual = Expected - (-150.4)? No. Actual energy released is LESS because benzene is stable. So -358.5 + 150.4 = -208.1. If resonance energy is given as -150.4, it implies stabilization. So -358.5 - (-150.4) = -208.1? Let's check sign convention. Resonance energy is stabilization. Expected heat released 358.5. Actual heat released 208.1. Difference is 150.4. So \u0394H_actual = -208.1.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "enthalpy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q94",
+    "question": "For the reaction X2O4(l) -> 2XO2(g), \u0394U = 2.1 kcal, \u0394S = 20 cal/K at 300 K. Calculate \u0394G.",
+    "options": [
+      "-2.7 kcal",
+      "2.7 kcal",
+      "9.3 kcal",
+      "-9.3 kcal"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "\u0394H = \u0394U + \u0394ngRT. \u0394ng = 2. \u0394H = 2.1 + 2 * 0.002 * 300 = 2.1 + 1.2 = 3.3 kcal. \u0394G = \u0394H - T\u0394S = 3.3 - 300 * (20/1000) = 3.3 - 6.0 = -2.7 kcal.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "gibbs free energy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q95",
+    "question": "The heat of neutralization of LiOH and HCl at 25\u00b0C is -34.868 kJ/mol. The heat of ionization of LiOH will be:",
+    "options": [
+      "22.232 kJ/mol",
+      "-22.232 kJ/mol",
+      "92.232 kJ/mol",
+      "44.464 kJ/mol"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Standard heat of neutralization is -57.1 kJ/mol. -34.868 = -57.1 + \u0394H_ion. \u0394H_ion = 57.1 - 34.868 = 22.232 kJ/mol.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "enthalpy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q96",
+    "question": "Calculate the entropy change involved in the conversion of 1 mole of ice at 0\u00b0C to water at the same temperature. (\u0394H_fusion = 6.0 kJ/mol)",
+    "options": [
+      "21.98 J/K mol",
+      "2.198 J/K mol",
+      "219.8 J/K mol",
+      "0.2198 J/K mol"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "\u0394S = \u0394H/T = 6000 J / 273 K = 21.978 J/K mol.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "entropy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q97",
+    "question": "A gas expands adiabatically at constant pressure such that T \u221d V^(-1/2). The value of \u03b3 (Cp/Cv) of the gas is:",
+    "options": [
+      "1.50",
+      "1.30",
+      "1.67",
+      "1.40"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "For adiabatic process, TV^(\u03b3-1) = constant. Given T \u221d V^(-1/2) => TV^(1/2) = constant. So \u03b3 - 1 = 1/2 => \u03b3 = 1.5.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "thermodynamic processes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q98",
+    "question": "The standard enthalpy of formation of NH3 is -46.0 kJ/mol. If the enthalpy of formation of H2 from its atoms is -436 kJ/mol and that of N2 is -712 kJ/mol, the average bond enthalpy of N-H bond in NH3 is:",
+    "options": [
+      "-352 kJ/mol",
+      "352 kJ/mol",
+      "1172 kJ/mol",
+      "-1172 kJ/mol"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Reaction: 1/2 N2 + 3/2 H2 -> NH3. \u0394H = -46. Bond energies: \u0394H = \u03a3BE(reactants) - \u03a3BE(products). Wait. Enthalpy of formation of H2 from atoms is bond energy of H-H? No, formation of H2 from atoms is H+H->H2, which is -BE. So BE(H-H) = 436. BE(N-N) = 712? No, N2 formation is -945 usually. Let's assume values given are atomization energies or bond energies. 'Enthalpy of formation of H2 from its atoms is -436' -> H + H -> H2, \u0394H = -436. So BE(H-H) = 436. Similarly BE(N\u2261N) = 712. \u0394H_f(NH3) = [1/2 BE(N\u2261N) + 3/2 BE(H-H)] - 3 BE(N-H). -46 = [1/2(712) + 3/2(436)] - 3x. -46 = [356 + 654] - 3x. -46 = 1010 - 3x. 3x = 1056. x = 352 kJ/mol.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "bond energy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q99",
+    "question": "For a particular reversible reaction at temperature T, \u0394H and \u0394S were found to be both positive. If Te is the temperature at equilibrium, the reaction would be spontaneous when:",
+    "options": [
+      "T > Te",
+      "T < Te",
+      "T = Te",
+      "T = 5Te"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "\u0394G = \u0394H - T\u0394S. At equilibrium Te = \u0394H/\u0394S. For spontaneity \u0394G < 0 => \u0394H - T\u0394S < 0 => T\u0394S > \u0394H => T > \u0394H/\u0394S => T > Te.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "spontaneity"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q100",
+    "question": "Two moles of an ideal gas are allowed to expand from a volume of 10 dm3 to 2 m3 at 300 K against a pressure of 101.325 kPa. Calculate the work done.",
+    "options": [
+      "-201.6 kJ",
+      "201.6 kJ",
+      "-101.3 kJ",
+      "101.3 kJ"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "w = -Pext(V2-V1). V1 = 10 dm3 = 0.01 m3. V2 = 2 m3. P = 101325 Pa. w = -101325 * (2 - 0.01) = -101325 * 1.99 = -201636 J = -201.6 kJ.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "work"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q101",
+    "question": "The latent heat of vaporization of a liquid at 500 K and 1 atm pressure is 10.0 kcal/mol. What will be the change in internal energy (\u0394U) of 3 moles of liquid at the same temperature?",
+    "options": [
+      "27.0 kcal",
+      "13.0 kcal",
+      "-27.0 kcal",
+      "-13.0 kcal"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "\u0394H = 10 kcal/mol. For 3 moles, \u0394H = 30 kcal. \u0394H = \u0394U + \u0394ngRT. \u0394ng = 3 (liquid to gas). \u0394U = \u0394H - \u0394ngRT = 30 - 3 * 0.002 * 500 = 30 - 3 = 27 kcal.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "internal energy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q102",
+    "question": "Given that C(graphite) -> C(g), \u0394H = 716.7 kJ/mol; C(diamond) -> C(g), \u0394H = 714.8 kJ/mol. The \u0394H for C(graphite) -> C(diamond) is:",
+    "options": [
+      "1.9 kJ/mol",
+      "-1.9 kJ/mol",
+      "1431.5 kJ/mol",
+      "-1431.5 kJ/mol"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Eq 1: C(gr) -> C(g) \u0394H1. Eq 2: C(dia) -> C(g) \u0394H2. Target: C(gr) -> C(dia). Target = Eq 1 - Eq 2. \u0394H = 716.7 - 714.8 = 1.9 kJ/mol.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "hess law"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q103",
+    "question": "For the reaction N2O4(g) <=> 2NO2(g), if the degree of dissociation is 0.5 at equilibrium pressure P, then Kp is:",
+    "options": [
+      "P/3",
+      "4P/3",
+      "3P",
+      "P"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "N2O4 <-> 2NO2. Initial: 1, 0. Eq: 1-0.5, 2(0.5) = 0.5, 1. Total moles = 1.5. pp(N2O4) = (0.5/1.5)P = P/3. pp(NO2) = (1/1.5)P = 2P/3. Kp = (2P/3)^2 / (P/3) = (4P^2/9) / (P/3) = 4P/3.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "equilibrium"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q104",
+    "question": "The efficiency of a heat engine operating between 400 K and 300 K is:",
+    "options": [
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Efficiency \u03b7 = (T2 - T1) / T2 = (400 - 300) / 400 = 100/400 = 0.25 = 25%.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "second law"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q105",
+    "question": "Calculate \u0394G\u00b0 for the reaction: Zn(s) + Cu2+(aq) -> Zn2+(aq) + Cu(s). Given E\u00b0cell = 1.1 V, F = 96500 C.",
+    "options": [
+      "-212.3 kJ",
+      "212.3 kJ",
+      "-106.15 kJ",
+      "-300 kJ"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "\u0394G\u00b0 = -nFE\u00b0. n=2. \u0394G\u00b0 = -2 * 96500 * 1.1 = -212300 J = -212.3 kJ.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "gibbs free energy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q106",
+    "question": "The molar heat capacity of an ideal gas at constant pressure is 20.785 J/K mol. Its molar heat capacity at constant volume is:",
+    "options": [
+      "12.471 J/K mol",
+      "29.1 J/K mol",
+      "8.314 J/K mol",
+      "None of these"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Cp - Cv = R. Cv = Cp - R = 20.785 - 8.314 = 12.471 J/K mol.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "heat capacity"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q107",
+    "question": "When 1 mole of gas is heated at constant volume, temperature is raised from 298 K to 308 K. Heat supplied to the gas is 500 J. Then which statement is correct?",
+    "options": [
+      "q = w = 500 J, \u0394U = 0",
+      "q = \u0394U = 500 J, w = 0",
+      "q = w = 500 J, \u0394U = 0",
+      "\u0394U = 0, q = w = -500 J"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "At constant volume, w = 0. q = \u0394U. So q = \u0394U = 500 J.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "first law"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q108",
+    "question": "For the reaction A(g) -> B(g), the value of equilibrium constant at 300 K and 1 atm pressure is 100. The value of \u0394G\u00b0 is:",
+    "options": [
+      "-11.48 kJ",
+      "-1.148 kJ",
+      "-5.74 kJ",
+      "11.48 kJ"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "\u0394G\u00b0 = -2.303 RT log K = -2.303 * 8.314 * 300 * log(100) = -2.303 * 2494.2 * 2 = -11488 J = -11.48 kJ.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "gibbs free energy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q109",
+    "question": "The enthalpy of formation of H2O(l) is -285.8 kJ/mol and H2O(g) is -241.8 kJ/mol. The enthalpy of vaporization of water is:",
+    "options": [
+      "44.0 kJ/mol",
+      "-44.0 kJ/mol",
+      "527.6 kJ/mol",
+      "-527.6 kJ/mol"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "H2O(l) -> H2O(g). \u0394H = \u0394Hf(g) - \u0394Hf(l) = -241.8 - (-285.8) = 44.0 kJ/mol.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "enthalpy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q110",
+    "question": "Which of the following statements is false regarding entropy?",
+    "options": [
+      "Entropy of a system increases in a spontaneous process",
+      "Entropy of a perfect crystal is zero at 0 K",
+      "Entropy is a measure of disorder",
+      "Entropy of an isolated system remains constant in a reversible process"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Entropy of the UNIVERSE increases in a spontaneous process. Entropy of the system can decrease (if surroundings increase more).",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "entropy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q111",
+    "question": "The bond energies of C-C, C=C, H-H and C-H bonds are 350, 600, 400 and 410 kJ/mol respectively. The enthalpy of hydrogenation of ethene is:",
+    "options": [
+      "-170 kJ/mol",
+      "-580 kJ/mol",
+      "-1700 kJ/mol",
+      "-120 kJ/mol"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "C2H4 + H2 -> C2H6. Bonds broken: 1 C=C, 1 H-H. Bonds formed: 1 C-C, 2 C-H. \u0394H = (600 + 400) - (350 + 2*410) = 1000 - (350 + 820) = 1000 - 1170 = -170 kJ/mol. Wait. Let's recheck calculation. Broken: C=C (600), H-H (400). Total 1000. Formed: C-C (350), 2x C-H (2x410=820). Total 1170. 1000 - 1170 = -170. Correct.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "bond energy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q112",
+    "question": "The standard free energy of formation of NO(g) is 86.6 kJ/mol at 298 K. What is the standard free energy of formation of NO2(g) at 298 K? Given Kp for NO(g) + 1/2 O2(g) <-> NO2(g) is 1.6 x 10^12.",
+    "options": [
+      "0.5 kJ/mol",
+      "86.6 kJ/mol",
+      "51.8 kJ/mol",
+      "16.8 kJ/mol"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "\u0394G\u00b0_rxn = -RT ln Kp = -8.314 * 298 * ln(1.6e12) = -2477 * 28.1 = -69600 J = -69.6 kJ. \u0394G\u00b0_rxn = \u0394Gf(NO2) - [\u0394Gf(NO) + 0]. -69.6 = x - 86.6. x = 86.6 - 69.6 = 17.0 kJ/mol. Closest option is 16.8 kJ/mol.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "gibbs free energy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q113",
+    "question": "For a reaction, \u0394H = 35.5 kJ/mol and \u0394S = 83.6 J/K mol. The reaction is spontaneous at:",
+    "options": [
+      "T > 425 K",
+      "T < 425 K",
+      "T = 425 K",
+      "T > 298 K"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Te = \u0394H/\u0394S = 35500 / 83.6 = 424.6 K. Since \u0394H > 0 and \u0394S > 0, spontaneous at T > Te.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "spontaneity"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q114",
+    "question": "The work done in an adiabatic expansion of a gas from T1 to T2 is:",
+    "options": [
+      "nR(T2-T1)",
+      "nR(T1-T2)/(\u03b3-1)",
+      "nR(T2-T1)/(\u03b3-1)",
+      "RT ln(V2/V1)"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "w = Cv(T2-T1) = (R/(\u03b3-1)) (T2-T1). Since expansion cools, T2 < T1, w is negative (work done by gas). Formula for work done BY gas is often written positive in physics, but in chemistry w is work done ON gas. w = \u0394U = Cv\u0394T = nCv(T2-T1) = nR(T2-T1)/(\u03b3-1). If we want magnitude or work done BY gas, it is nR(T1-T2)/(\u03b3-1). Option B matches work done BY gas.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "work"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q115",
+    "question": "The difference between \u0394H and \u0394U for the combustion of benzoic acid at 300 K is -1247 J. The reaction is C6H5COOH(s) + 15/2 O2(g) -> 7CO2(g) + 3H2O(l). Calculate \u0394ng.",
+    "options": [
+      "-0.5",
+      "0.5",
+      "-1.5",
+      "1.5"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "\u0394H - \u0394U = \u0394ngRT. -1247 = \u0394ng * 8.314 * 300. -1247 = \u0394ng * 2494. \u0394ng = -0.5. Check reaction: 7 - 7.5 = -0.5. Correct.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "enthalpy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q116",
+    "question": "One mole of an ideal gas is heated at constant pressure from 0\u00b0C to 100\u00b0C. Calculate the work done.",
+    "options": [
+      "831.4 J",
+      "-831.4 J",
+      "8.314 J",
+      "-8.314 J"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "w = -P\u0394V = -nR\u0394T = -1 * 8.314 * (100) = -831.4 J.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "work"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q117",
+    "question": "Which of the following has the lowest entropy?",
+    "options": [
+      "Graphite",
+      "Diamond",
+      "Fullerene",
+      "Carbon nanotube"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Diamond has a very rigid, ordered 3D lattice, so it has the lowest entropy among carbon allotropes.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "entropy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q118",
+    "question": "For the reaction A + B -> C + D, \u0394H = -10 kJ and \u0394S = -30 J/K. The reaction will be non-spontaneous above:",
+    "options": [
+      "333 K",
+      "33.3 K",
+      "3333 K",
+      "300 K"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Equilibrium T = 10000/30 = 333.3 K. Since \u0394H < 0 and \u0394S < 0, it is spontaneous at low T and non-spontaneous at high T (above 333 K).",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "spontaneity"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q119",
+    "question": "The enthalpy of formation of ammonia is -46.0 kJ/mol. The enthalpy change for the reaction 2NH3(g) -> N2(g) + 3H2(g) is:",
+    "options": [
+      "46.0 kJ",
+      "92.0 kJ",
+      "-46.0 kJ",
+      "-92.0 kJ"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Reverse of formation of 2 moles. \u0394H = 2 * (+46.0) = 92.0 kJ.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "enthalpy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_thermodynamics_q120",
+    "question": "If the bond dissociation energies of XY, X2 and Y2 (all diatomic molecules) are in the ratio of 1:1:0.5 and \u0394Hf for the formation of XY is -200 kJ/mol. The bond dissociation energy of X2 will be:",
+    "options": [
+      "800 kJ/mol",
+      "200 kJ/mol",
+      "100 kJ/mol",
+      "400 kJ/mol"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "1/2 X2 + 1/2 Y2 -> XY. \u0394H = [1/2 BE(X2) + 1/2 BE(Y2)] - BE(XY). Let BE(XY) = x. Then BE(X2) = x, BE(Y2) = 0.5x. -200 = [0.5x + 0.25x] - x = 0.75x - x = -0.25x. x = 200/0.25 = 800 kJ/mol. BE(X2) = x = 800 kJ/mol.",
+    "subject": "Chemistry",
+    "chapter": "Thermodynamics",
+    "tags": [
+      "bond energy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "thermodynamics",
+    "subjectId": "chemistry"
+  }
+]

@@ -1,0 +1,2882 @@
+[
+  {
+    "id": "botany_transport_in_plants_q1",
+    "question": "Which of the following is NOT a means of transport in plants?",
+    "options": [
+      "Diffusion",
+      "Facilitated Diffusion",
+      "Active Transport",
+      "Digestion"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Digestion is a metabolic process, not a transport mechanism.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "transport",
+      "means of transport"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q2",
+    "question": "Movement of molecules from a region of higher concentration to lower concentration without energy expenditure is called:",
+    "options": [
+      "Active Transport",
+      "Diffusion",
+      "Translocation",
+      "Imbibition"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Diffusion is the passive movement of molecules along the concentration gradient.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "transport",
+      "diffusion"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q3",
+    "question": "Facilitated diffusion requires:",
+    "options": [
+      "ATP energy",
+      "Special membrane proteins",
+      "Uphill transport",
+      "None of the above"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Facilitated diffusion requires special membrane proteins to move substances across the membrane but does not use ATP.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "transport",
+      "facilitated diffusion"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q4",
+    "question": "Active transport is characterized by:",
+    "options": [
+      "Uphill transport",
+      "Requirement of ATP",
+      "Highly selective nature",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Active transport moves molecules against a concentration gradient (uphill), requires ATP, and is highly selective.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "transport",
+      "active transport"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q5",
+    "question": "Water potential is denoted by the Greek symbol:",
+    "options": [
+      "Psi",
+      "Phi",
+      "Theta",
+      "Alpha"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Water potential is denoted by Psi (\u03a8).",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "water potential",
+      "symbol"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q6",
+    "question": "The water potential of pure water at standard temperature and pressure is:",
+    "options": [
+      "Zero",
+      "One",
+      "Negative",
+      "Positive"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "By convention, the water potential of pure water at standard temperatures, which is not under any pressure, is taken to be zero.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "water potential",
+      "pure water"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q7",
+    "question": "If some solute is dissolved in pure water, its water potential:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains same",
+      "Becomes positive"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Adding solute lowers the water potential (makes it negative).",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "water potential",
+      "solute potential"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q8",
+    "question": "Osmosis is the diffusion of water across a:",
+    "options": [
+      "Permeable membrane",
+      "Semi-permeable membrane",
+      "Impermeable membrane",
+      "Cell wall"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Osmosis is the term used to refer specifically to the diffusion of water across a differentially- or semi-permeable membrane.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "osmosis",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q9",
+    "question": "A cell placed in a hypertonic solution will:",
+    "options": [
+      "Swell",
+      "Shrink (Plasmolyse)",
+      "Burst",
+      "Remain same"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "In a hypertonic solution, water moves out of the cell, causing it to shrink or plasmolyse.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "osmosis",
+      "plasmolysis"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q10",
+    "question": "A cell placed in a hypotonic solution will:",
+    "options": [
+      "Swell (become turgid)",
+      "Shrink",
+      "Plasmolyse",
+      "Die"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "In a hypotonic solution, water moves into the cell, making it turgid.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "osmosis",
+      "turgidity"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q11",
+    "question": "The pressure exerted by the protoplast against the cell wall is called:",
+    "options": [
+      "Turgor pressure",
+      "Wall pressure",
+      "Osmotic pressure",
+      "Diffusion pressure"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The pressure built up against the wall due to swelling is called turgor pressure.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "plant water relations",
+      "pressure"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q12",
+    "question": "Imbibition is a type of:",
+    "options": [
+      "Diffusion",
+      "Active transport",
+      "Osmosis",
+      "Transpiration"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Imbibition is a special type of diffusion when water is absorbed by solids - colloids - causing them to increase in volume.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "imbibition",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q13",
+    "question": "Long distance transport of substances within a plant cannot be by diffusion alone because:",
+    "options": [
+      "Diffusion is a slow process",
+      "Diffusion is fast",
+      "Diffusion requires energy",
+      "Diffusion is active"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Diffusion is a slow process and accounts for only short distance movement.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "transport",
+      "long distance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q14",
+    "question": "Transport of water and minerals in xylem is:",
+    "options": [
+      "Unidirectional",
+      "Multidirectional",
+      "Bidirectional",
+      "Circular"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Transport in xylem (of water and minerals) is essentially unidirectional, from roots to the stems.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "transport",
+      "xylem"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q15",
+    "question": "Transport of organic and mineral nutrients in phloem is:",
+    "options": [
+      "Multidirectional",
+      "Unidirectional",
+      "Only upwards",
+      "Only downwards"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Organic and mineral nutrients undergo multidirectional transport.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "transport",
+      "phloem"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q16",
+    "question": "The pathway of water movement through cell walls and intercellular spaces is called:",
+    "options": [
+      "Apoplast pathway",
+      "Symplast pathway",
+      "Transmembrane pathway",
+      "Vacuolar pathway"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The apoplast is the system of adjacent cell walls that is continuous throughout the plant.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "water movement",
+      "apoplast"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q17",
+    "question": "The pathway of water movement through the cytoplasm and plasmodesmata is called:",
+    "options": [
+      "Symplast pathway",
+      "Apoplast pathway",
+      "Wall pathway",
+      "External pathway"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The symplastic system is the system of interconnected protoplasts.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "water movement",
+      "symplast"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q18",
+    "question": "Casparian strips are found in:",
+    "options": [
+      "Endodermis",
+      "Epidermis",
+      "Cortex",
+      "Pericycle"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The inner boundary of the cortex, the endodermis, is impervious to water because of a band of suberised matrix called the Casparian strip.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "anatomy",
+      "root"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q19",
+    "question": "Mycorrhiza is a symbiotic association between:",
+    "options": [
+      "Fungus and root system",
+      "Algae and root system",
+      "Bacteria and root system",
+      "Virus and root system"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Mycorrhiza is a symbiotic association of a fungus with a root system.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "symbiosis",
+      "mycorrhiza"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q20",
+    "question": "Root pressure is responsible for:",
+    "options": [
+      "Guttation",
+      "Transpiration",
+      "Photosynthesis",
+      "Respiration"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Effects of root pressure is observable at night and early morning when evaporation is low, and excess water collects in the form of droplets around special openings of veins near the tip of grass blades (Guttation).",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "root pressure",
+      "guttation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q21",
+    "question": "Transpiration is the evaporative loss of water by plants through:",
+    "options": [
+      "Stomata",
+      "Roots",
+      "Xylem",
+      "Phloem"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Transpiration is the evaporative loss of water by plants. It occurs mainly through stomata.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "transpiration",
+      "stomata"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q22",
+    "question": "Opening and closing of stomata is controlled by:",
+    "options": [
+      "Guard cells",
+      "Epidermal cells",
+      "Mesophyll cells",
+      "Root hair"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The immediate cause of the opening or closing of stomata is a change in the turgidity of the guard cells.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "stomata",
+      "regulation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q23",
+    "question": "Which metal ion plays a crucial role in opening and closing of stomata?",
+    "options": [
+      "Potassium (K+)",
+      "Sodium (Na+)",
+      "Calcium (Ca2+)",
+      "Magnesium (Mg2+)"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Accumulation of K+ ions in guard cells leads to stomatal opening.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "stomata",
+      "nutrients"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q24",
+    "question": "Transpiration pull theory explains:",
+    "options": [
+      "Ascent of sap",
+      "Translocation of food",
+      "Absorption of minerals",
+      "Root pressure"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The cohesion-tension-transpiration pull model explains the ascent of water (sap) in tall trees.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "transpiration",
+      "ascent of sap"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q25",
+    "question": "Cohesion refers to:",
+    "options": [
+      "Mutual attraction between water molecules",
+      "Attraction of water molecules to polar surfaces",
+      "Surface tension",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Cohesion is the mutual attraction between water molecules.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "water properties",
+      "cohesion"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q26",
+    "question": "Adhesion refers to:",
+    "options": [
+      "Attraction of water molecules to polar surfaces",
+      "Mutual attraction between water molecules",
+      "Surface tension",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Adhesion is the attraction of water molecules to polar surfaces (such as the surface of tracheary elements).",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "water properties",
+      "adhesion"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q27",
+    "question": "Food is transported in plants through:",
+    "options": [
+      "Phloem",
+      "Xylem",
+      "Cortex",
+      "Pith"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Food, primarily sucrose, is transported by the vascular tissue phloem.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "transport",
+      "phloem"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q28",
+    "question": "The accepted mechanism used for the translocation of sugars is:",
+    "options": [
+      "Pressure flow hypothesis",
+      "Transpiration pull",
+      "Root pressure",
+      "Imbibition"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The accepted mechanism used for the translocation of sugars from source to sink is called the Pressure Flow Hypothesis.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "translocation",
+      "hypothesis"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q29",
+    "question": "In the pressure flow hypothesis, the source is usually:",
+    "options": [
+      "Leaves",
+      "Roots",
+      "Stem",
+      "Flowers"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The source is understood to be that part of the plant which synthesises the food, i.e., the leaf.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "translocation",
+      "source-sink"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q30",
+    "question": "Girdling experiment demonstrates that:",
+    "options": [
+      "Phloem transports food",
+      "Xylem transports water",
+      "Roots absorb water",
+      "Leaves transpire"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Girdling experiments were used to identify the tissues through which food is transported (phloem).",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "experiments",
+      "translocation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q31",
+    "question": "Porins are proteins that form huge pores in the:",
+    "options": [
+      "Outer membrane of plastids, mitochondria and some bacteria",
+      "Inner membrane of mitochondria",
+      "Cell wall",
+      "Tonoplast"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Porins are proteins that form huge pores in the outer membranes of the plastids, mitochondria and some bacteria.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "transport",
+      "proteins"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q32",
+    "question": "Water channels are made up of how many different types of aquaporins?",
+    "options": [
+      "8",
+      "4",
+      "6",
+      "10"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Water channels are made up of eight different types of aquaporins.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "transport",
+      "aquaporins"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q33",
+    "question": "In antiport, molecules move:",
+    "options": [
+      "In opposite directions",
+      "In same direction",
+      "Independently",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "In antiport, molecules move in opposite directions.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "transport",
+      "types"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q34",
+    "question": "In symport, molecules move:",
+    "options": [
+      "In same direction",
+      "In opposite directions",
+      "Independently",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "In symport, both molecules cross the membrane in the same direction.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "transport",
+      "types"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q35",
+    "question": "Solute potential is always:",
+    "options": [
+      "Negative",
+      "Positive",
+      "Zero",
+      "Variable"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Solute potential is always negative.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "water potential",
+      "solute potential"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q36",
+    "question": "Pressure potential is usually:",
+    "options": [
+      "Positive",
+      "Negative",
+      "Zero",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Pressure potential is usually positive, though in plants negative potential or tension in the water column in the xylem plays a major role in water transport up a stem.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "water potential",
+      "pressure potential"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q37",
+    "question": "The net direction and rate of osmosis depends on:",
+    "options": [
+      "Pressure gradient and concentration gradient",
+      "Only pressure gradient",
+      "Only concentration gradient",
+      "Temperature"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The net direction and rate of osmosis depends on both the pressure gradient and concentration gradient.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "osmosis",
+      "factors"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q38",
+    "question": "The space between the cell wall and the shrunken protoplast in a plasmolysed cell is occupied by:",
+    "options": [
+      "Hypertonic solution",
+      "Hypotonic solution",
+      "Air",
+      "Water"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The external solution occupies the space between the cell wall and the shrunken protoplast.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "plasmolysis",
+      "concept"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q39",
+    "question": "Mass flow is the movement of substances:",
+    "options": [
+      "En masse from one point to another",
+      "Independently",
+      "By diffusion only",
+      "By active transport only"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Mass flow is the movement of substances in bulk or en masse from one point to another as a result of pressure differences.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "transport",
+      "mass flow"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q40",
+    "question": "The bulk movement of substances through the conducting or vascular tissues of plants is called:",
+    "options": [
+      "Translocation",
+      "Transpiration",
+      "Transcription",
+      "Translation"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The bulk movement of substances through the conducting or vascular tissues of plants is called translocation.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "translocation",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q41",
+    "question": "Which of the following statements regarding diffusion is incorrect?",
+    "options": [
+      "Movement is passive",
+      "Molecules move in a random fashion",
+      "It is a slow process",
+      "It depends on a living system"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Diffusion is not dependent on a living system.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "transport",
+      "diffusion"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q42",
+    "question": "The rate of diffusion is affected by:",
+    "options": [
+      "Concentration gradient",
+      "Permeability of membrane",
+      "Temperature and Pressure",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Diffusion rates are affected by the gradient of concentration, the permeability of the membrane separating them, temperature and pressure.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "transport",
+      "diffusion"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q43",
+    "question": "In facilitated diffusion, what limits the transport rate?",
+    "options": [
+      "Availability of ATP",
+      "Saturation of transport proteins",
+      "Temperature",
+      "Pressure"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Transport rate reaches a maximum when all of the protein transporters are being used (saturation).",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "transport",
+      "facilitated diffusion"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q44",
+    "question": "Which of the following is common to both facilitated diffusion and active transport?",
+    "options": [
+      "Requirement of ATP",
+      "Uphill transport",
+      "Highly selective nature",
+      "Transport saturation"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Both are highly selective, liable to saturation, respond to inhibitors and are under hormonal regulation. (Note: Saturation is also common, but selectivity is a key feature often compared).",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "transport",
+      "comparison"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q45",
+    "question": "Water potential (\u03a8w) is determined by:",
+    "options": [
+      "Solute potential (\u03a8s) only",
+      "Pressure potential (\u03a8p) only",
+      "\u03a8s + \u03a8p",
+      "\u03a8s - \u03a8p"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "\u03a8w = \u03a8s + \u03a8p.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "water potential",
+      "formula"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q46",
+    "question": "For a solution at atmospheric pressure:",
+    "options": [
+      "\u03a8w = \u03a8s",
+      "\u03a8w = \u03a8p",
+      "\u03a8w = 0",
+      "\u03a8s = 0"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "For a solution at atmospheric pressure, water potential is equal to solute potential.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "water potential",
+      "concept"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q47",
+    "question": "Plasmolysis occurs when water moves:",
+    "options": [
+      "Out of the cell",
+      "Into the cell",
+      "Equally in and out",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Plasmolysis occurs when water moves out of the cell and the cell membrane of a plant cell shrinks away from its cell wall.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "plasmolysis",
+      "concept"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q48",
+    "question": "When a cell is flaccid:",
+    "options": [
+      "Water flows into the cell",
+      "Water flows out of the cell",
+      "There is no net flow of water",
+      "Turgor pressure is maximum"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "When the cell is in an isotonic solution, there is no net flow of water towards inside or outside. The cell is said to be flaccid.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "osmosis",
+      "flaccid"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q49",
+    "question": "The classical experiment to demonstrate imbibition is:",
+    "options": [
+      "Absorption of water by seeds",
+      "Opening of stomata",
+      "Ascent of sap",
+      "Guttation"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The classical examples of imbibition are absorption of water by seeds and dry wood.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "imbibition",
+      "example"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q50",
+    "question": "Which of the following is NOT a factor affecting imbibition?",
+    "options": [
+      "Water potential gradient",
+      "Affinity between absorbant and liquid",
+      "Temperature",
+      "Presence of light"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Water potential gradient and affinity are essential. Light does not directly affect imbibition.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "imbibition",
+      "factors"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q51",
+    "question": "Mass flow hypothesis proposes that substances move due to:",
+    "options": [
+      "Pressure differences",
+      "Concentration differences",
+      "Electrical gradient",
+      "Temperature gradient"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Mass flow is the movement of substances in bulk as a result of pressure differences between two points.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "mass flow",
+      "concept"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q52",
+    "question": "The greatest contribution of root pressure is:",
+    "options": [
+      "Pushing water to great heights",
+      "Re-establishing continuous chains of water molecules in xylem",
+      "Transporting food",
+      "Opening stomata"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Root pressure provides a gentle push in the overall process of water transport. Its greatest contribution may be to re-establish the continuous chains of water molecules in the xylem which often break under the enormous tensions created by transpiration.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "root pressure",
+      "significance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q53",
+    "question": "Which of the following is NOT a physical property of water helping in ascent of sap?",
+    "options": [
+      "Cohesion",
+      "Adhesion",
+      "Surface Tension",
+      "Viscosity"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Cohesion, adhesion and surface tension are the key physical properties.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "ascent of sap",
+      "properties"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q54",
+    "question": "Tensile strength of water refers to:",
+    "options": [
+      "Ability to resist a pulling force",
+      "Ability to rise in thin tubes",
+      "Mutual attraction",
+      "Attraction to surfaces"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Tensile strength is the ability to resist a pulling force.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "water properties",
+      "tensile strength"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q55",
+    "question": "Capillarity refers to:",
+    "options": [
+      "Ability to rise in thin tubes",
+      "Ability to resist pulling force",
+      "Mutual attraction",
+      "Attraction to surfaces"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Capillarity is the ability to rise in thin tubes.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "water properties",
+      "capillarity"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q56",
+    "question": "In photosynthesis, water is used:",
+    "options": [
+      "Less than 1%",
+      "About 10%",
+      "About 50%",
+      "100%"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Less than 1 per cent of the water reaching the leaves is used in photosynthesis and plant growth.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "transpiration",
+      "water usage"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q57",
+    "question": "The orientation of microfibrils in the cell wall of guard cells is:",
+    "options": [
+      "Radial",
+      "Longitudinal",
+      "Transverse",
+      "Random"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Cellulose microfibrils are oriented radially rather than longitudinally making it easier for the stoma to open.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "stomata",
+      "structure"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q58",
+    "question": "Which wall of the guard cell is thick and elastic?",
+    "options": [
+      "Inner wall",
+      "Outer wall",
+      "Lateral wall",
+      "None"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The inner wall of each guard cell, towards the pore or stomatal aperture, is thick and elastic.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "stomata",
+      "structure"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q59",
+    "question": "Transpiration is affected by:",
+    "options": [
+      "Temperature, Light, Humidity, Wind speed",
+      "Soil pH only",
+      "Root pressure only",
+      "Leaf color"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "External factors affecting transpiration are temperature, light, humidity, wind speed.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "transpiration",
+      "factors"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q60",
+    "question": "C4 plants are more efficient than C3 plants in terms of:",
+    "options": [
+      "Water use efficiency",
+      "Nutrient uptake",
+      "Respiration",
+      "Reproduction"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "C4 plants are twice as efficient as C3 plants in terms of fixing carbon (making sugar) but lose only half as much water.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "transpiration",
+      "C3 vs C4"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q61",
+    "question": "Uptake of ions by roots is:",
+    "options": [
+      "Both active and passive",
+      "Only active",
+      "Only passive",
+      "By osmosis"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Most minerals enter the root by active absorption, but some ions also move into the epidermal cells passively.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "mineral uptake",
+      "mechanism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q62",
+    "question": "Transport proteins of endodermal cells are control points because:",
+    "options": [
+      "They adjust the quantity and types of solutes reaching the xylem",
+      "They generate ATP",
+      "They store water",
+      "They perform photosynthesis"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Transport proteins of endodermal cells are control points, where a plant adjusts the quantity and types of solutes that reach the xylem.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "mineral uptake",
+      "control points"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q63",
+    "question": "Chief sinks for mineral elements are:",
+    "options": [
+      "Growing regions (apical and lateral meristems), young leaves, developing flowers, fruits and seeds",
+      "Old leaves",
+      "Roots",
+      "Bark"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The chief sinks for the mineral elements are the growing regions of the plant, such as the apical and lateral meristems, young leaves, developing flowers, fruits and seeds, and the storage organs.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "mineral transport",
+      "sinks"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q64",
+    "question": "Elements most readily mobilized are:",
+    "options": [
+      "Phosphorus, Sulphur, Nitrogen, Potassium",
+      "Calcium",
+      "Iron",
+      "Boron"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Elements most readily mobilised are phosphorus, sulphur, nitrogen and potassium.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "mineral transport",
+      "mobilization"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q65",
+    "question": "Which element is not remobilized?",
+    "options": [
+      "Calcium",
+      "Nitrogen",
+      "Potassium",
+      "Phosphorus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Elements that are structural components like calcium are not remobilised.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "mineral transport",
+      "remobilization"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q66",
+    "question": "Xylem transports:",
+    "options": [
+      "Water, mineral salts, some organic nitrogen and hormones",
+      "Only water",
+      "Only minerals",
+      "Only organic food"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Xylem transports water, mineral salts, some organic nitrogen and hormones.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "transport",
+      "xylem"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q67",
+    "question": "Phloem sap consists mainly of:",
+    "options": [
+      "Water and sucrose",
+      "Water and minerals",
+      "Water and starch",
+      "Water and glucose"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Phloem sap is mainly water and sucrose, but other sugars, hormones and amino acids are also transported.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "transport",
+      "phloem sap"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q68",
+    "question": "Loading of sucrose into phloem is:",
+    "options": [
+      "Active process",
+      "Passive process",
+      "By diffusion",
+      "By osmosis"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The process of loading at the source produces a hypertonic condition in the phloem. It is an active process.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "translocation",
+      "loading"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q69",
+    "question": "Unloading of sucrose at the sink is:",
+    "options": [
+      "Active process",
+      "Passive process",
+      "By diffusion",
+      "By osmosis"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Sucrose is moved out of the phloem sap by active transport.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "translocation",
+      "unloading"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q70",
+    "question": "As sugars are removed from phloem at the sink, the osmotic pressure:",
+    "options": [
+      "Decreases",
+      "Increases",
+      "Remains same",
+      "Becomes zero"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "As sugars are removed, the osmotic pressure decreases and water moves out of the phloem.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "translocation",
+      "mechanism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q71",
+    "question": "Which of the following plants would show the highest rate of transpiration?",
+    "options": [
+      "C3 plant in high light",
+      "CAM plant at night",
+      "C4 plant in high light",
+      "C3 plant in low light"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "C3 plants are less water efficient than C4 and CAM plants. High light increases transpiration.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "transpiration",
+      "comparison"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q72",
+    "question": "The immediate cause of opening of stomata is:",
+    "options": [
+      "Increase in turgidity of guard cells",
+      "Decrease in turgidity of guard cells",
+      "Increase in turgidity of subsidiary cells",
+      "Decrease in turgidity of subsidiary cells"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Increase in turgidity of guard cells causes the thin outer walls to bulge out and force the inner walls into a crescent shape.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "stomata",
+      "mechanism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q73",
+    "question": "Symplastic movement may be aided by:",
+    "options": [
+      "Cytoplasmic streaming",
+      "Transpiration pull",
+      "Root pressure",
+      "Diffusion"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Symplastic movement may be aided by cytoplasmic streaming (e.g., in Hydrilla leaf).",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "transport",
+      "symplast"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q74",
+    "question": "Most of the water flow in the roots occurs via the:",
+    "options": [
+      "Apoplast",
+      "Symplast",
+      "Vacuolar pathway",
+      "Transmembrane pathway"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Most of the water flow in the roots occurs via the apoplast since the cortical cells are loosely packed.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "water movement",
+      "root"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q75",
+    "question": "Pinus seeds cannot germinate and establish without the presence of:",
+    "options": [
+      "Mycorrhizae",
+      "Bacteria",
+      "Algae",
+      "Light"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Pinus seeds have an obligate association with the mycorrhizae.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "symbiosis",
+      "example"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q76",
+    "question": "Which of the following is an example of a sink becoming a source?",
+    "options": [
+      "Sugar stored in roots moving to buds in early spring",
+      "Leaves moving sugar to roots",
+      "Fruits receiving sugar",
+      "Seeds storing sugar"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Sugar stored in roots may be mobilised to become a source of food for the early spring buds (which act as sink).",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "translocation",
+      "source-sink"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q77",
+    "question": "The direction of movement in the phloem can be:",
+    "options": [
+      "Bidirectional",
+      "Unidirectional",
+      "Only upwards",
+      "Only downwards"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Since the source-sink relationship is variable, the direction of movement in the phloem can be upwards or downwards, i.e., bi-directional.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "transport",
+      "phloem"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q78",
+    "question": "Simple diffusion differs from facilitated diffusion in that simple diffusion:",
+    "options": [
+      "Does not require a carrier protein",
+      "Requires ATP",
+      "Moves against concentration gradient",
+      "Is highly selective"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Simple diffusion does not require special membrane proteins.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "transport",
+      "comparison"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q79",
+    "question": "If a pressure greater than atmospheric pressure is applied to pure water or a solution, its water potential:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains same",
+      "Becomes negative"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "If a pressure greater than atmospheric pressure is applied, water potential increases.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "water potential",
+      "pressure"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q80",
+    "question": "The process of plasmolysis is usually:",
+    "options": [
+      "Reversible",
+      "Irreversible",
+      "Permanent",
+      "Fatal"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The process of plasmolysis is usually reversible.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "plasmolysis",
+      "nature"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q81",
+    "question": "Which of the following occupies the space between the cell wall and the shrunken protoplast in a plasmolysed cell?",
+    "options": [
+      "Hypertonic solution",
+      "Hypotonic solution",
+      "Isotonic solution",
+      "Pure water"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The external hypertonic solution occupies the space.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "plasmolysis",
+      "concept"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q82",
+    "question": "Water potential of a cell is affected by:",
+    "options": [
+      "Solute potential and pressure potential",
+      "Only solute potential",
+      "Only pressure potential",
+      "Only matric potential"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Water potential is the sum of solute potential and pressure potential.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "water potential",
+      "factors"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q83",
+    "question": "The movement of water through the root layers is ultimately:",
+    "options": [
+      "Symplastic in the endodermis",
+      "Apoplastic in the endodermis",
+      "Transmembrane in the cortex",
+      "Vacuolar in the epidermis"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Because of the Casparian strip, water molecules are unable to penetrate the layer, so they are directed to wall regions that are not suberised, into the cells proper through the membranes (symplastic).",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "water movement",
+      "root"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q84",
+    "question": "Which of the following is NOT a function of transpiration?",
+    "options": [
+      "Creates transpiration pull",
+      "Supplies water for photosynthesis",
+      "Transports minerals",
+      "Increases leaf temperature"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Transpiration cools leaf surfaces (evaporative cooling), it does not increase temperature.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "transpiration",
+      "functions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q85",
+    "question": "The evolution of the C4 photosynthetic system is probably one of the strategies for:",
+    "options": [
+      "Maximising CO2 availability while minimising water loss",
+      "Maximising water loss",
+      "Minimising CO2 uptake",
+      "Maximising respiration"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "C4 plants evolved to maximize CO2 availability while minimizing water loss.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "photosynthesis",
+      "C4 plants"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q86",
+    "question": "Why is transport of mineral ions into the root active?",
+    "options": [
+      "Minerals are charged particles and concentration in soil is usually lower than in root",
+      "Minerals are neutral",
+      "Concentration in soil is higher",
+      "Minerals move by diffusion"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Minerals are present in the soil as charged particles (ions) which cannot move across cell membranes and the concentration of minerals in the soil is usually lower than the concentration of minerals in the root.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "mineral uptake",
+      "reasoning"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q87",
+    "question": "The energy for active transport of ions comes from:",
+    "options": [
+      "ATP",
+      "Sunlight",
+      "Heat",
+      "Water potential"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Active uptake of ions is partly responsible for the water potential gradient in roots, and therefore for the uptake of water by osmosis. It uses energy in the form of ATP.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "mineral uptake",
+      "energy"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q88",
+    "question": "Sucrose moves into the companion cells and then into the living phloem sieve tube cells by:",
+    "options": [
+      "Active transport",
+      "Passive transport",
+      "Diffusion",
+      "Osmosis"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Sucrose moves into the companion cells and then into the living phloem sieve tube cells by active transport.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "translocation",
+      "loading"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q89",
+    "question": "Water moves from the xylem to the phloem by:",
+    "options": [
+      "Osmosis",
+      "Active transport",
+      "Diffusion",
+      "Imbibition"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Water moves into the phloem by osmosis due to the hypertonic condition created by sucrose loading.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "translocation",
+      "water movement"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q90",
+    "question": "The pressure flow hypothesis explains the transport of:",
+    "options": [
+      "Organic solutes",
+      "Water",
+      "Minerals",
+      "Gases"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The pressure flow hypothesis explains the translocation of sugars (organic solutes).",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "translocation",
+      "hypothesis"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q91",
+    "question": "Assertion (A): Long distance transport of substances within a plant cannot be by diffusion alone.\nReason (R): Diffusion is a slow process.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Diffusion is too slow for long distances (e.g., 2.5s for 50\u00b5m). This necessitates mass flow.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "transport",
+      "assertion-reason"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q92",
+    "question": "Match the following:\nColumn I | Column II\nA. Isotonic | 1. External solution is more concentrated\nB. Hypotonic | 2. External solution is less concentrated\nC. Hypertonic | 3. External solution balances osmotic pressure\nD. Plasmolysis | 4. Shrinkage of protoplast",
+    "options": [
+      "A-3, B-2, C-1, D-4",
+      "A-1, B-2, C-3, D-4",
+      "A-3, B-1, C-2, D-4",
+      "A-2, B-3, C-1, D-4"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Isotonic-Balanced; Hypotonic-Less concentrated (dilute); Hypertonic-More concentrated; Plasmolysis-Shrinkage.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "osmosis",
+      "matching"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q93",
+    "question": "Assertion (A): The inner boundary of the cortex, the endodermis, is impervious to water.\nReason (R): It has a band of suberised matrix called the Casparian strip.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "The Casparian strip is made of suberin, which is water-impermeable, making the endodermis impervious.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "anatomy",
+      "assertion-reason"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q94",
+    "question": "Which of the following statements is correct regarding the Mass Flow Hypothesis?",
+    "options": [
+      "Loading of sucrose at the source is active, unloading at the sink is active.",
+      "Loading is passive, unloading is active.",
+      "Loading is active, unloading is passive.",
+      "Both are passive."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Both loading at the source and unloading at the sink are active processes requiring energy.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "translocation",
+      "mechanism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q95",
+    "question": "Assertion (A): Water potential of pure water is zero.\nReason (R): Solute potential is always negative.",
+    "options": [
+      "Both A and R are true but R is not the correct explanation of A.",
+      "Both A and R are true and R is the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Both statements are true facts. However, R does not explain why pure water is zero (which is a convention/reference state).",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "water potential",
+      "assertion-reason"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q96",
+    "question": "If a plant cell has \u03a8s = -10 bars and \u03a8p = 5 bars, its water potential (\u03a8w) will be:",
+    "options": [
+      "-5 bars",
+      "-15 bars",
+      "5 bars",
+      "10 bars"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "\u03a8w = \u03a8s + \u03a8p = -10 + 5 = -5 bars.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "water potential",
+      "calculation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q97",
+    "question": "Assertion (A): Transpiration is a necessary evil.\nReason (R): It causes water loss but helps in absorption and transport.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "It is 'evil' because of water loss (danger of wilting), but 'necessary' for transport and cooling.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "transpiration",
+      "assertion-reason"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q98",
+    "question": "Which of the following is the correct sequence of water movement in the root?",
+    "options": [
+      "Soil -> Root hair -> Cortex -> Endodermis -> Pericycle -> Protoxylem -> Metaxylem",
+      "Soil -> Root hair -> Endodermis -> Cortex -> Pericycle -> Protoxylem -> Metaxylem",
+      "Soil -> Root hair -> Cortex -> Pericycle -> Endodermis -> Protoxylem -> Metaxylem",
+      "Soil -> Root hair -> Cortex -> Endodermis -> Pericycle -> Metaxylem -> Protoxylem"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "This is the correct anatomical sequence from outside to inside.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "water movement",
+      "sequence"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q99",
+    "question": "Assertion (A): Xylem transport is unidirectional.\nReason (R): Roots absorb water and minerals which are transported to the stem and leaves.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "The source (roots) and sink (leaves) relationship for water is fixed, hence unidirectional.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "transport",
+      "assertion-reason"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q100",
+    "question": "Assertion (A): Phloem transport is bidirectional.\nReason (R): The source and sink relationship is variable.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Since source and sink can reverse (e.g., roots becoming source in spring), transport can be up or down.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "transport",
+      "assertion-reason"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q101",
+    "question": "Identify the incorrect statement regarding the pressure flow hypothesis.",
+    "options": [
+      "Loading of sucrose produces a hypotonic condition in the phloem.",
+      "Water moves into the sieve tube by osmosis.",
+      "Osmotic pressure builds up the phloem sap.",
+      "Phloem sap moves to areas of lower pressure."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Loading of sucrose produces a HYPERTONIC (high solute) condition, not hypotonic.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "translocation",
+      "mechanism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q102",
+    "question": "Assertion (A): C4 plants lose only half as much water as a C3 plant for the same amount of CO2 fixed.\nReason (R): C4 plants have evolved a mechanism to concentrate CO2 at the site of Rubisco.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Concentrating CO2 allows stomata to remain less open or open for shorter periods, conserving water while maintaining high photosynthesis.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "photosynthesis",
+      "assertion-reason"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q103",
+    "question": "Match the transport proteins with their function:\nA. Uniporters | 1. Transport two molecules in opposite directions\nB. Symporters | 2. Transport a single molecule\nC. Antiporters | 3. Transport two molecules in same direction\nD. Pumps | 4. Use energy for uphill transport",
+    "options": [
+      "A-2, B-3, C-1, D-4",
+      "A-1, B-2, C-3, D-4",
+      "A-2, B-1, C-3, D-4",
+      "A-3, B-2, C-1, D-4"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Uniporter-Single; Symporter-Same direction; Antiporter-Opposite direction; Pumps-Active transport.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "transport",
+      "matching"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q104",
+    "question": "Assertion (A): Most minerals must enter the root by active absorption.\nReason (R): Minerals are present in the soil as charged particles which cannot move across cell membranes and their concentration in soil is usually lower than in the root.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "The charge and concentration gradient necessitate active transport.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "mineral uptake",
+      "assertion-reason"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q105",
+    "question": "Which of the following contributes most to water transport in tall trees?",
+    "options": [
+      "Cohesion-tension-transpiration pull",
+      "Root pressure",
+      "Capillarity",
+      "Imbibition"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Transpiration pull is the main driving force for water transport in tall trees.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "transport",
+      "mechanism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q106",
+    "question": "Assertion (A): The opening of stomata is aided by the radial orientation of cellulose microfibrils.\nReason (R): Cellulose microfibrils are oriented longitudinally in the guard cells.",
+    "options": [
+      "A is true but R is false.",
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Microfibrils are oriented radially, NOT longitudinally. A is true, R is false.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "stomata",
+      "assertion-reason"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q107",
+    "question": "Assertion (A): Pumps are proteins that use energy to carry substances across the cell membrane.\nReason (R): These pumps can transport substances from a low concentration to a high concentration.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "R defines the 'uphill' transport characteristic of pumps mentioned in A.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "transport",
+      "assertion-reason"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q108",
+    "question": "If a cell A with DPD = 5 bars is connected to cell B with DPD = 2 bars, the movement of water will be:",
+    "options": [
+      "From B to A",
+      "From A to B",
+      "No movement",
+      "Unpredictable"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Water moves from lower DPD (Diffusion Pressure Deficit) to higher DPD. 2 -> 5.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "water movement",
+      "DPD"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q109",
+    "question": "Assertion (A): Endodermis has the ability to actively transport ions in one direction only.\nReason (R): It has a layer of suberin.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "The suberin layer prevents backflow, ensuring unidirectional transport.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "mineral uptake",
+      "assertion-reason"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q110",
+    "question": "Which of the following equations is correct?",
+    "options": [
+      "DPD = OP - TP",
+      "DPD = OP + TP",
+      "DPD = TP - OP",
+      "DPD = WP - TP"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Diffusion Pressure Deficit (DPD) = Osmotic Pressure (OP) - Turgor Pressure (TP).",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "water relations",
+      "formula"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q111",
+    "question": "Assertion (A): Water potential is the kinetic energy of water molecules.\nReason (R): Greater the concentration of water in a system, greater is its kinetic energy or 'water potential'.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Water potential is a measure of the free energy/kinetic energy of water molecules.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "water potential",
+      "assertion-reason"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q112",
+    "question": "In a fully turgid cell:",
+    "options": [
+      "DPD = 0",
+      "OP = 0",
+      "TP = 0",
+      "WP = 0"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "In a fully turgid cell, OP = TP, so DPD = OP - TP = 0.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "water relations",
+      "calculation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q113",
+    "question": "Assertion (A): Facilitated diffusion is very specific.\nReason (R): It allows cell to select substances for uptake.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Specificity arises from the proteins, allowing selection.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "transport",
+      "assertion-reason"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q114",
+    "question": "Which of the following is NOT a criterion for essentiality of an element?",
+    "options": [
+      "The element must be directly involved in the metabolism of the plant.",
+      "The requirement of the element must be specific and not replaceable by another element.",
+      "In the absence of the element the plant should not be able to complete its life cycle.",
+      "The element must be present in the soil in large quantities."
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Abundance in soil is not a criterion for essentiality.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "mineral nutrition",
+      "criteria"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q115",
+    "question": "Assertion (A): The chief sinks for the mineral elements are the growing regions of the plant.\nReason (R): Minerals are exported from older dying leaves to younger leaves.",
+    "options": [
+      "Both A and R are true but R is not the correct explanation of A.",
+      "Both A and R are true and R is the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Both are true. R explains one source of minerals for the sinks, but A is a general statement about where minerals go. R supports A but isn't the sole explanation (soil is the main source).",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "mineral transport",
+      "assertion-reason"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q116",
+    "question": "Assertion (A): Guttation is the result of root pressure.\nReason (R): Guttation occurs when evaporation is low.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Both are true. R describes the condition, A describes the cause. R is not the explanation of A.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "root pressure",
+      "assertion-reason"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q117",
+    "question": "Assertion (A): Water is transient in plants.\nReason (R): Less than 1 per cent of the water reaching the leaves is used in photosynthesis and plant growth.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Since most water is lost (R), it is transient (A).",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "transpiration",
+      "assertion-reason"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q118",
+    "question": "The hydrostatic pressure developed in the root system due to active absorption of ions is called:",
+    "options": [
+      "Root pressure",
+      "Turgor pressure",
+      "Osmotic pressure",
+      "Wall pressure"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Active absorption increases solute concentration, causing water to enter and creating positive hydrostatic pressure (root pressure).",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "root pressure",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q119",
+    "question": "Assertion (A): Capillarity is aided by the small diameter of the tracheary elements.\nReason (R): Capillarity is the ability to rise in thin tubes.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "The definition (R) explains why small diameter (A) aids the process.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "water properties",
+      "assertion-reason"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_transport_in_plants_q120",
+    "question": "Assertion (A): The symplastic system is the system of interconnected protoplasts.\nReason (R): Neighbouring cells are connected through cytoplasmic strands that extend through plasmodesmata.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "R explains the structural basis of the symplastic system described in A.",
+    "subject": "Botany",
+    "chapter": "Transport in Plants",
+    "tags": [
+      "anatomy",
+      "assertion-reason"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "transport_in_plants",
+    "subjectId": "botany"
+  }
+]

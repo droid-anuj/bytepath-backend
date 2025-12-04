@@ -1,0 +1,2670 @@
+[
+  {
+    "id": "chemistry_structure_of_atom_q1",
+    "question": "The number of protons, neutrons and electrons in 71Lu175 are respectively:",
+    "options": [
+      "71, 104, 71",
+      "175, 104, 71",
+      "71, 71, 104",
+      "175, 71, 71"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Protons = Atomic Number = 71. Electrons = Protons = 71. Neutrons = Mass Number - Protons = 175 - 71 = 104.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "atomic structure",
+      "subatomic particles"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q2",
+    "question": "Which of the following series of transitions in the spectrum of hydrogen atom falls in the visible region?",
+    "options": [
+      "Lyman series",
+      "Balmer series",
+      "Paschen series",
+      "Brackett series"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Balmer series corresponds to transitions to n=2, which falls in the visible region.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "hydrogen spectrum"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q3",
+    "question": "The orbital angular momentum of a p-electron is given as:",
+    "options": [
+      "h/2\u03c0",
+      "\u221a3 h/2\u03c0",
+      "\u221a2 h/2\u03c0",
+      "0"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Orbital angular momentum L = \u221a(l(l+1)) h/2\u03c0. For p-electron, l=1. L = \u221a(1(2)) h/2\u03c0 = \u221a2 h/2\u03c0.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "quantum numbers"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q4",
+    "question": "Which of the following sets of quantum numbers is not possible?",
+    "options": [
+      "n=3, l=2, m=0, s=+1/2",
+      "n=2, l=2, m=1, s=-1/2",
+      "n=4, l=3, m=-2, s=+1/2",
+      "n=1, l=0, m=0, s=-1/2"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "For n=2, l can be 0 or 1. l cannot be equal to n. So l=2 is not possible.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "quantum numbers"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q5",
+    "question": "The maximum number of electrons in a subshell with l = 3 is:",
+    "options": [
+      "14",
+      "10",
+      "6",
+      "2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Max electrons = 2(2l+1). For l=3 (f-subshell), 2(6+1) = 14.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "electronic configuration"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q6",
+    "question": "Which of the following is isoelectronic with Ne?",
+    "options": [
+      "O2-",
+      "F",
+      "Mg",
+      "Na"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Ne has 10 electrons. O (8) + 2e- = 10 electrons. O2- is isoelectronic.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "isoelectronic species"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q7",
+    "question": "The energy of a photon is given by:",
+    "options": [
+      "E = h\u03bb",
+      "E = hc/\u03bb",
+      "E = h/\u03bd",
+      "E = \u03bb/c"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "E = h\u03bd = hc/\u03bb.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "photoelectric effect",
+      "formulas"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q8",
+    "question": "Rutherford's alpha-particle scattering experiment led to the discovery of:",
+    "options": [
+      "Electron",
+      "Proton",
+      "Nucleus",
+      "Neutron"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Rutherford's experiment discovered the atomic nucleus.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "atomic models"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q9",
+    "question": "The splitting of spectral lines in a magnetic field is called:",
+    "options": [
+      "Zeeman effect",
+      "Stark effect",
+      "Photoelectric effect",
+      "Compton effect"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Zeeman effect is the splitting of spectral lines in a magnetic field. (Stark effect is in electric field).",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "atomic spectra"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q10",
+    "question": "The uncertainty principle was proposed by:",
+    "options": [
+      "Einstein",
+      "Heisenberg",
+      "Schrodinger",
+      "De Broglie"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Heisenberg's Uncertainty Principle.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "quantum mechanics"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q11",
+    "question": "Which orbital has a dumbbell shape?",
+    "options": [
+      "s",
+      "p",
+      "d",
+      "f"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "p-orbitals are dumbbell shaped. s is spherical.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "orbitals"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q12",
+    "question": "The electronic configuration of Chromium (Z=24) is:",
+    "options": [
+      "[Ar] 3d4 4s2",
+      "[Ar] 3d5 4s1",
+      "[Ar] 3d6 4s0",
+      "[Ar] 3d5 4s2"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Chromium has an exceptional configuration [Ar] 3d5 4s1 due to stability of half-filled d-subshell.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "electronic configuration"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q13",
+    "question": "The number of radial nodes in a 3p orbital is:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Radial nodes = n - l - 1. For 3p: 3 - 1 - 1 = 1.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "orbitals",
+      "nodes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q14",
+    "question": "Which quantum number defines the orientation of the orbital in space?",
+    "options": [
+      "Principal quantum number",
+      "Azimuthal quantum number",
+      "Magnetic quantum number",
+      "Spin quantum number"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Magnetic quantum number (m) describes the orientation.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "quantum numbers"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q15",
+    "question": "The value of Planck's constant is:",
+    "options": [
+      "6.626 x 10^-34 J s",
+      "3.0 x 10^8 m/s",
+      "1.6 x 10^-19 C",
+      "9.1 x 10^-31 kg"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "h = 6.626 x 10^-34 J s.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "constants"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q16",
+    "question": "The de Broglie wavelength is given by:",
+    "options": [
+      "\u03bb = h/mv",
+      "\u03bb = mv/h",
+      "\u03bb = hm/v",
+      "\u03bb = m/hv"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "\u03bb = h/p = h/mv.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "dual nature",
+      "formulas"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q17",
+    "question": "Which rule states that pairing of electrons in orbitals of the same subshell does not take place until each orbital is singly occupied?",
+    "options": [
+      "Aufbau Principle",
+      "Pauli Exclusion Principle",
+      "Hund's Rule",
+      "Heisenberg Principle"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Hund's Rule of Maximum Multiplicity.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "electronic configuration",
+      "rules"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q18",
+    "question": "The mass of an electron is approximately:",
+    "options": [
+      "1/1837 of proton mass",
+      "Same as proton mass",
+      "1837 times proton mass",
+      "Negligible"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Electron mass is approx 1/1837 u (or 1/1840).",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "subatomic particles"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q19",
+    "question": "Which of the following transitions in Hydrogen atom emits photon of highest frequency?",
+    "options": [
+      "n=2 to n=1",
+      "n=1 to n=2",
+      "n=2 to n=6",
+      "n=6 to n=2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Emission means higher to lower n. n=2 to n=1 (Lyman) has larger energy gap than n=6 to n=2 (Balmer). Higher energy = higher frequency.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "hydrogen spectrum"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q20",
+    "question": "Total number of orbitals in a shell with principal quantum number n is:",
+    "options": [
+      "n",
+      "2n",
+      "n^2",
+      "2n^2"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Number of orbitals in shell n is n^2. Max electrons is 2n^2.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "quantum numbers"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q21",
+    "question": "The shape of s-orbital is:",
+    "options": [
+      "Spherical",
+      "Dumbbell",
+      "Double Dumbbell",
+      "Complex"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "s-orbital is spherically symmetrical.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "orbitals"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q22",
+    "question": "Which of the following has the highest energy?",
+    "options": [
+      "3d",
+      "4s",
+      "3p",
+      "4p"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "n+l rule: 3d(3+2=5), 4s(4+0=4), 3p(3+1=4), 4p(4+1=5). 3d and 4p have n+l=5. Higher n has higher energy. So 4p > 3d.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "orbitals",
+      "energy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q23",
+    "question": "The number of unpaired electrons in Nitrogen (Z=7) is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "0"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "N: 1s2 2s2 2p3. According to Hund's rule, 2p3 has 3 unpaired electrons.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "electronic configuration"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q24",
+    "question": "Bohr's model is applicable to:",
+    "options": [
+      "He atom",
+      "Li+ ion",
+      "H atom",
+      "Be atom"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Bohr's model is applicable only to single-electron species like H, He+, Li2+.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "atomic models"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q25",
+    "question": "The principal quantum number 'n' describes:",
+    "options": [
+      "Shape of orbital",
+      "Orientation of orbital",
+      "Spin of electron",
+      "Size and energy of orbital"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "n determines the size and energy of the orbital.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "quantum numbers"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q26",
+    "question": "Which of the following is not an electromagnetic wave?",
+    "options": [
+      "X-rays",
+      "Gamma rays",
+      "Sound waves",
+      "Radio waves"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Sound waves require a medium and are mechanical waves, not EM waves.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "electromagnetic radiation"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q27",
+    "question": "The number of neutrons in Deuterium is:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Deuterium is 1H2. 1 proton, 1 neutron.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "isotopes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q28",
+    "question": "Which of the following pairs represents isobars?",
+    "options": [
+      "1H1 and 1H2",
+      "6C12 and 6C14",
+      "18Ar40 and 20Ca40",
+      "17Cl35 and 17Cl37"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Isobars have same mass number but different atomic number. Ar-40 and Ca-40.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "isobars"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q29",
+    "question": "The maximum number of electrons that can be accommodated in the M shell is:",
+    "options": [
+      "2",
+      "8",
+      "18",
+      "32"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "M shell corresponds to n=3. Max electrons = 2n^2 = 2(3)^2 = 18.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "electronic configuration"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q30",
+    "question": "Cathode rays are streams of:",
+    "options": [
+      "Electrons",
+      "Protons",
+      "Neutrons",
+      "Positrons"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Cathode rays are streams of negatively charged particles called electrons.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "discovery of electron"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q31",
+    "question": "The value of Rydberg constant is approximately:",
+    "options": [
+      "109677 cm^-1",
+      "109677 m^-1",
+      "6.626 x 10^-34 J s",
+      "3 x 10^8 m/s"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "R = 109677 cm^-1.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "constants"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q32",
+    "question": "Which of the following has the configuration 1s2 2s2 2p6 3s2 3p6?",
+    "options": [
+      "Ne",
+      "Ar",
+      "Kr",
+      "Xe"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Total electrons = 2+2+6+2+6 = 18. Atomic number 18 is Argon (Ar).",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "electronic configuration"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q33",
+    "question": "The azimuthal quantum number l for a d-orbital is:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "s=0, p=1, d=2, f=3.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "quantum numbers"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q34",
+    "question": "Which color of visible light has the longest wavelength?",
+    "options": [
+      "Violet",
+      "Blue",
+      "Green",
+      "Red"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Red has the longest wavelength (approx 700 nm) in the visible spectrum.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "electromagnetic radiation"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q35",
+    "question": "The number of electrons in the valence shell of Chlorine is:",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Chlorine (Group 17) has 7 valence electrons (3s2 3p5).",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "electronic configuration"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q36",
+    "question": "Which of the following ions is not isoelectronic with Ar?",
+    "options": [
+      "K+",
+      "Ca2+",
+      "Cl-",
+      "Na+"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Ar has 18e. K+(18), Ca2+(18), Cl-(18). Na+ has 10e (isoelectronic with Ne).",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "isoelectronic species"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q37",
+    "question": "The radius of the first Bohr orbit of hydrogen atom is:",
+    "options": [
+      "0.529 \u00c5",
+      "1.0 \u00c5",
+      "0.0529 \u00c5",
+      "5.29 \u00c5"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "a0 = 0.529 \u00c5 (or 52.9 pm).",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "bohr model"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q38",
+    "question": "Which of the following orbitals does not exist?",
+    "options": [
+      "1p",
+      "2s",
+      "3d",
+      "4f"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "For n=1, l can only be 0 (s). So 1p (l=1) does not exist.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "orbitals"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q39",
+    "question": "The charge on a neutron is:",
+    "options": [
+      "+1",
+      "-1",
+      "0",
+      "+2"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Neutron is electrically neutral.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "subatomic particles"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q40",
+    "question": "Nodal planes in a p-orbital are:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "p-orbital has 1 nodal plane passing through the nucleus.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "orbitals",
+      "nodes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q41",
+    "question": "Calculate the wavelength of a photon having energy 3.03 x 10^-19 J.",
+    "options": [
+      "656 nm",
+      "400 nm",
+      "500 nm",
+      "600 nm"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "\u03bb = hc/E = (6.626x10^-34 * 3x10^8) / 3.03x10^-19 = 1.9878x10^-25 / 3.03x10^-19 = 6.56 x 10^-7 m = 656 nm.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "photoelectric effect",
+      "formulas"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q42",
+    "question": "The number of radial nodes for 3s orbital is:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Radial nodes = n - l - 1. For 3s: 3 - 0 - 1 = 2.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "orbitals",
+      "nodes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q43",
+    "question": "Which of the following sets of quantum numbers represents the highest energy of an atom?",
+    "options": [
+      "n=3, l=0, m=0, s=+1/2",
+      "n=3, l=1, m=1, s=+1/2",
+      "n=3, l=2, m=1, s=+1/2",
+      "n=4, l=0, m=0, s=+1/2"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Energy depends on n+l. A: 3+0=3. B: 3+1=4. C: 3+2=5. D: 4+0=4. Highest is C (3d).",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "quantum numbers",
+      "energy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q44",
+    "question": "The radius of the second Bohr orbit for hydrogen atom is:",
+    "options": [
+      "0.529 \u00c5",
+      "2.12 \u00c5",
+      "1.06 \u00c5",
+      "4.76 \u00c5"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "rn = n^2 * a0. For n=2, r2 = 4 * 0.529 = 2.116 \u00c5.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "bohr model"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q45",
+    "question": "If the uncertainty in position and momentum are equal, then uncertainty in velocity is:",
+    "options": [
+      "\u221a(h/\u03c0)",
+      "1/2m * \u221a(h/\u03c0)",
+      "1/2 * \u221a(h/\u03c0)",
+      "\u221a(h/2\u03c0)"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "dx = dp. dx*dp >= h/4\u03c0. dp^2 >= h/4\u03c0. dp >= \u221a(h/4\u03c0) = 1/2 \u221a(h/\u03c0). m*dv >= 1/2 \u221a(h/\u03c0). dv >= 1/2m \u221a(h/\u03c0).",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "heisenberg uncertainty"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q46",
+    "question": "The ratio of the energy of a photon of 2000 \u00c5 wavelength radiation to that of 4000 \u00c5 radiation is:",
+    "options": [
+      "1/4",
+      "4",
+      "1/2",
+      "2"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "E is inversely proportional to \u03bb. E1/E2 = \u03bb2/\u03bb1 = 4000/2000 = 2.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "electromagnetic radiation"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q47",
+    "question": "Which of the following electronic configurations is correct for Copper (Cu)?",
+    "options": [
+      "[Ar] 3d9 4s2",
+      "[Ar] 3d10 4s1",
+      "[Ar] 3d10 4s2",
+      "[Ar] 3d8 4s2"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Copper (Z=29) has exceptional configuration [Ar] 3d10 4s1 due to fully filled d-subshell stability.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "electronic configuration"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q48",
+    "question": "The orbital angular momentum of an electron in 2s orbital is:",
+    "options": [
+      "+1/2 h/2\u03c0",
+      "0",
+      "h/2\u03c0",
+      "\u221a2 h/2\u03c0"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "For s-orbital, l=0. Orbital angular momentum = \u221a(l(l+1)) h/2\u03c0 = 0.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "quantum numbers"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q49",
+    "question": "The maximum number of electrons in an atom with quantum numbers n=3, l=1 is:",
+    "options": [
+      "2",
+      "6",
+      "10",
+      "14"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "n=3, l=1 corresponds to 3p subshell. Max electrons in p subshell is 6.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "quantum numbers"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q50",
+    "question": "The wavelength of a tennis ball of mass 60 g moving with a velocity of 10 m/s is approximately:",
+    "options": [
+      "10^-33 m",
+      "10^-31 m",
+      "10^-16 m",
+      "10^-25 m"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "\u03bb = h/mv = 6.6x10^-34 / (0.06 * 10) = 6.6x10^-34 / 0.6 = 1.1 x 10^-33 m.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "de broglie"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q51",
+    "question": "Which of the following transitions will have minimum wavelength?",
+    "options": [
+      "n=4 to n=1",
+      "n=2 to n=1",
+      "n=3 to n=1",
+      "n=5 to n=1"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Minimum wavelength means maximum energy. Energy difference is max for n=5 to n=1 (among options).",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "hydrogen spectrum"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q52",
+    "question": "The number of spherical nodes in 3p orbital is:",
+    "options": [
+      "1",
+      "0",
+      "2",
+      "3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Spherical (radial) nodes = n - l - 1. For 3p: 3 - 1 - 1 = 1.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "orbitals",
+      "nodes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q53",
+    "question": "The magnetic moment of a divalent ion in aqueous solution with atomic number 25 is:",
+    "options": [
+      "5.9 BM",
+      "2.8 BM",
+      "4.9 BM",
+      "3.9 BM"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Z=25 (Mn). Mn2+ is [Ar] 3d5. 5 unpaired electrons. \u03bc = \u221a(n(n+2)) = \u221a(5(7)) = \u221a35 \u2248 5.9 BM.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "magnetic moment"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q54",
+    "question": "The energy of electron in the nth Bohr orbit of hydrogen atom is:",
+    "options": [
+      "-13.6/n^2 eV",
+      "-13.6/n eV",
+      "-13.6 n^2 eV",
+      "-13.6 n eV"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "En = -13.6/n^2 eV.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "bohr model"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q55",
+    "question": "How many electrons can be accommodated in the subshell with n=3 and l=1?",
+    "options": [
+      "2",
+      "6",
+      "10",
+      "14"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "n=3, l=1 is 3p subshell. It has 3 orbitals, so max 6 electrons.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "quantum numbers"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q56",
+    "question": "Which of the following is paramagnetic?",
+    "options": [
+      "Zn2+",
+      "Cu+",
+      "Sc3+",
+      "Fe3+"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Paramagnetic means unpaired electrons. Zn2+(3d10), Cu+(3d10), Sc3+(3d0) are diamagnetic. Fe3+(3d5) has 5 unpaired electrons.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "magnetic properties"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q57",
+    "question": "The total number of nodes in 3d orbital is:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Total nodes = n - 1. For 3d (n=3), nodes = 2. (Radial=0, Angular=2).",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "orbitals",
+      "nodes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q58",
+    "question": "Calculate the frequency of light emitted when an electron drops from n=3 to n=1 in a hydrogen atom.",
+    "options": [
+      "2.92 x 10^15 Hz",
+      "3.2 x 10^15 Hz",
+      "1.5 x 10^14 Hz",
+      "4.5 x 10^14 Hz"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "E = 13.6 (1/1^2 - 1/3^2) eV = 13.6 (8/9) eV = 12.09 eV. \u03bd = E/h = (12.09 * 1.6x10^-19) / 6.6x10^-34 = 2.92 x 10^15 Hz.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "bohr model",
+      "formulas"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q59",
+    "question": "The correct set of four quantum numbers for the valence electron of Rubidium (Z=37) is:",
+    "options": [
+      "5, 0, 0, +1/2",
+      "5, 1, 0, +1/2",
+      "5, 1, 1, +1/2",
+      "6, 0, 0, +1/2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Rb is in Group 1, Period 5. Valence shell is 5s1. n=5, l=0, m=0, s=+1/2.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "quantum numbers"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q60",
+    "question": "Which of the following expressions represents the wavenumber?",
+    "options": [
+      "\u03bd = c/\u03bb",
+      "\u03bd_bar = 1/\u03bb",
+      "\u03bd_bar = \u03bb/c",
+      "\u03bd = h/E"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Wavenumber (\u03bd_bar) is defined as reciprocal of wavelength (1/\u03bb).",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "formulas"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q61",
+    "question": "The ionization enthalpy of hydrogen atom is 1.312 x 10^6 J/mol. The energy required to excite the electron in the atom from n=1 to n=2 is:",
+    "options": [
+      "8.51 x 10^5 J/mol",
+      "6.56 x 10^5 J/mol",
+      "9.84 x 10^5 J/mol",
+      "7.56 x 10^5 J/mol"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "E1 = -1.312x10^6. E2 = E1/4 = -0.328x10^6. Delta E = E2 - E1 = 0.984 x 10^6 J/mol.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "bohr model",
+      "energy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q62",
+    "question": "The number of d-electrons in Fe2+ (Z=26) is not equal to the number of electrons in which one of the following?",
+    "options": [
+      "d-electrons in Fe",
+      "p-electrons in Ne",
+      "s-electrons in Mg",
+      "p-electrons in Cl"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Fe2+ is 3d6 (6 d-electrons). Fe is 3d6 4s2 (6 d-electrons). Ne is 1s2 2s2 2p6 (6 p-electrons). Mg is 1s2 2s2 2p6 3s2 (6 s-electrons). Cl is 1s2 2s2 2p6 3s2 3p5 (11 p-electrons). So D is different.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "electronic configuration"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q63",
+    "question": "The ratio of radii of the first three Bohr orbits is:",
+    "options": [
+      "1 : 2 : 3",
+      "1 : 4 : 9",
+      "1 : 8 : 27",
+      "1 : 3 : 5"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "r is proportional to n^2. 1^2 : 2^2 : 3^2 = 1 : 4 : 9.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "bohr model"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q64",
+    "question": "Which of the following has the largest de Broglie wavelength provided all have equal velocity?",
+    "options": [
+      "Electron",
+      "Proton",
+      "Neutron",
+      "Alpha particle"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "\u03bb = h/mv. For same v, \u03bb is inversely proportional to mass. Electron has smallest mass, so largest wavelength.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "de broglie"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q65",
+    "question": "The maximum number of electrons in a subshell is given by the expression:",
+    "options": [
+      "4l + 2",
+      "4l - 2",
+      "2l + 1",
+      "2n^2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "2(2l+1) = 4l + 2.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "quantum numbers"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q66",
+    "question": "Which of the following statements is incorrect?",
+    "options": [
+      "s-orbital is spherical",
+      "p-orbital is dumbbell shaped",
+      "d-orbital is double dumbbell shaped",
+      "f-orbital is spherical"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "f-orbitals have complex shapes (diffused), not spherical.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "orbitals"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q67",
+    "question": "The energy of an electron in the first Bohr orbit of H atom is -13.6 eV. The possible energy value(s) of the excited state(s) for electrons in Bohr orbits of hydrogen is(are):",
+    "options": [
+      "-3.4 eV",
+      "-4.2 eV",
+      "-6.8 eV",
+      "+13.6 eV"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "E2 = -13.6/4 = -3.4 eV.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "bohr model"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q68",
+    "question": "Which of the following sets of quantum numbers is possible?",
+    "options": [
+      "n=3, l=3, m=-3, s=+1/2",
+      "n=2, l=1, m=2, s=-1/2",
+      "n=1, l=0, m=0, s=+1/2",
+      "n=3, l=2, m=-3, s=+1/2"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "A: l=n not possible. B: m > l not possible. D: m < -l not possible. C is possible.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "quantum numbers"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q69",
+    "question": "The number of waves made by a Bohr electron in one complete revolution in its 3rd orbit is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Number of waves = n. For 3rd orbit, it is 3.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "bohr model"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q70",
+    "question": "Which of the following elements has the electronic configuration [Ar] 3d10 4s2 4p3?",
+    "options": [
+      "As",
+      "Sb",
+      "Ge",
+      "Se"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Ar(18) + 10 + 2 + 3 = 33. Atomic number 33 is Arsenic (As).",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "electronic configuration"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q71",
+    "question": "The threshold frequency for a metal is 7.0 x 10^14 Hz. Calculate the kinetic energy of an electron emitted when radiation of frequency 1.0 x 10^15 Hz hits the metal.",
+    "options": [
+      "1.98 x 10^-19 J",
+      "2.0 x 10^-19 J",
+      "3.0 x 10^-19 J",
+      "4.0 x 10^-19 J"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "KE = h(\u03bd - \u03bd0) = 6.626x10^-34 (10x10^14 - 7x10^14) = 6.626x10^-34 * 3x10^14 = 1.988 x 10^-19 J.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "photoelectric effect"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q72",
+    "question": "The orbital diagram in which the Aufbau principle is violated is:",
+    "options": [
+      "2s filled before 1s",
+      "2p filled before 2s",
+      "2s filled, then 2p singly",
+      "1s filled, then 2s"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Aufbau principle states orbitals fill in increasing order of energy. 2s < 2p. Filling 2p before 2s violates it.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "electronic configuration",
+      "rules"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q73",
+    "question": "The ratio of the difference in energy between the first and second Bohr orbit to that between the second and third Bohr orbit is:",
+    "options": [
+      "1/2",
+      "1/3",
+      "27/5",
+      "5/27"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "E2-E1 = 13.6(1-1/4) = 10.2. E3-E2 = 13.6(1/4-1/9) = 13.6(5/36) = 1.89. Ratio = 10.2 / 1.89 = 5.4 = 27/5.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "bohr model"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q74",
+    "question": "Which of the following species has the same number of electrons in the outermost and penultimate shells?",
+    "options": [
+      "Al3+",
+      "Ca2+",
+      "F-",
+      "Mg2+"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Ca2+ (18e): 2, 8, 8. Outermost 8, Penultimate 8. Same.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "electronic configuration"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q75",
+    "question": "The angular momentum of an electron in a Bohr orbit is given by:",
+    "options": [
+      "mvr = nh/2\u03c0",
+      "mvr = n^2h/2\u03c0",
+      "mvr = nh/\u03c0",
+      "mvr = h/2\u03c0"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Bohr's quantization condition: mvr = nh/2\u03c0.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "bohr model"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q76",
+    "question": "The number of unpaired electrons in Cr3+ is:",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Cr is [Ar] 3d5 4s1. Cr3+ removes 1 from s and 2 from d -> [Ar] 3d3. 3 unpaired electrons.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "electronic configuration"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q77",
+    "question": "The maximum number of electrons with spin value +1/2 in the orbital with azimuthal quantum number l=2 and n=3 is:",
+    "options": [
+      "5",
+      "10",
+      "2",
+      "1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "l=2 is d-subshell. Max 10 electrons. 5 have +1/2 spin and 5 have -1/2 spin.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "quantum numbers"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q78",
+    "question": "The wavelength of the first line of Lyman series for hydrogen atom is equal to that of the second line of Balmer series for a hydrogen-like ion. The atomic number Z of the ion is:",
+    "options": [
+      "4",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Lyman 1st: 1/\u03bb = R(1 - 1/4) = 3R/4. Balmer 2nd (4->2): 1/\u03bb = R Z^2 (1/4 - 1/16) = R Z^2 (3/16). 3R/4 = 3R Z^2 / 16. 1/4 = Z^2/16. Z^2 = 4. Z = 2 (He+).",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "hydrogen spectrum",
+      "rydberg formula"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q79",
+    "question": "Which of the following is correct for the energy of 2s orbital?",
+    "options": [
+      "H > Li > Na > K",
+      "H < Li < Na < K",
+      "H = Li = Na = K",
+      "H > Li > K > Na"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "As Z increases, the nucleus holds the electrons more tightly, lowering the energy (more negative). So E(H) > E(Li) > E(Na). Wait, energy is negative. -13.6 vs -large. So H is highest energy (least negative). K is lowest energy (most negative). So H > Li > Na > K. Correct option is A.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "periodic trends",
+      "energy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q80",
+    "question": "The number of angular nodes in 4d orbital is:",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Angular nodes = l. For d-orbital, l=2.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "orbitals",
+      "nodes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q81",
+    "question": "If the velocity of the electron in Bohr's first orbit is 2.19 x 10^6 m/s, calculate the de Broglie wavelength associated with it.",
+    "options": [
+      "3.32 \u00c5",
+      "10 \u00c5",
+      "1.5 \u00c5",
+      "0.33 \u00c5"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "\u03bb = h/mv = 6.626x10^-34 / (9.1x10^-31 * 2.19x10^6) = 3.32 x 10^-10 m = 3.32 \u00c5.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "de broglie"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q82",
+    "question": "The correct order of increasing energy of atomic orbitals is:",
+    "options": [
+      "5p < 4f < 6s < 5d",
+      "5p < 6s < 4f < 5d",
+      "5p < 5d < 4f < 6s",
+      "5p < 4f < 5d < 6s"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "n+l rule: 5p(6), 6s(6), 4f(7), 5d(7). Order: 5p < 6s < 4f < 5d.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "electronic configuration",
+      "energy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q83",
+    "question": "Which of the following sets of quantum numbers is not allowed?",
+    "options": [
+      "n=3, l=2, m=-2, s=+1/2",
+      "n=4, l=0, m=0, s=-1/2",
+      "n=2, l=2, m=-1, s=-1/2",
+      "n=5, l=3, m=0, s=+1/2"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "For n=2, l can be 0, 1. l cannot be 2.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "quantum numbers"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q84",
+    "question": "The orbital with n=3 and l=2 is:",
+    "options": [
+      "3s",
+      "3p",
+      "3d",
+      "3f"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "l=2 corresponds to d. So 3d.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "quantum numbers"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q85",
+    "question": "The total spin resulting from a d7 configuration is:",
+    "options": [
+      "1",
+      "2",
+      "5/2",
+      "3/2"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "d7: 5 up, 2 down. Net unpaired = 3. Total spin = 3 * 1/2 = 3/2.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "electronic configuration",
+      "spin"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q86",
+    "question": "The number of electrons with (n+l) >= 4 in a chromium atom (Z=24) is:",
+    "options": [
+      "11",
+      "12",
+      "10",
+      "9"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Cr: 1s2(1) 2s2(2) 2p6(3) 3s2(3) 3p6(4) 3d5(5) 4s1(4). n+l values in brackets. >=4: 3p(6), 3d(5), 4s(1). Total = 6+5+1 = 12.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "electronic configuration"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q87",
+    "question": "Which of the following has the maximum number of unpaired electrons?",
+    "options": [
+      "Mg2+",
+      "Ti3+",
+      "V3+",
+      "Fe2+"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Mg2+(0), Ti3+(d1, 1), V3+(d2, 2), Fe2+(d6, 4). Fe2+ has 4 unpaired.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "electronic configuration"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q88",
+    "question": "The ionization energy of He+ is 19.6 x 10^-18 J/atom. The energy of the first stationary state (n=1) of Li2+ is:",
+    "options": [
+      "-4.41 x 10^-17 J/atom",
+      "-8.82 x 10^-17 J/atom",
+      "-2.2 x 10^-15 J/atom",
+      "-4.41 x 10^-18 J/atom"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "E is proportional to Z^2. E(He+) = k * 2^2 = 4k. E(Li2+) = k * 3^2 = 9k. E(Li2+) = (9/4) * E(He+). IE is positive, Energy is negative. E(He+) = -19.6e-18. E(Li2+) = 2.25 * -19.6e-18 = -44.1e-18 = -4.41 x 10^-17 J.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "bohr model"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q89",
+    "question": "The number of photons of light having wavelength 4000 \u00c5 necessary to provide 1 J of energy is approximately:",
+    "options": [
+      "2 x 10^18",
+      "1 x 10^18",
+      "2 x 10^16",
+      "1 x 10^16"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "E = hc/\u03bb = 6.6e-34 * 3e8 / 4e-7 = 4.95 x 10^-19 J. n = Total E / E_photon = 1 / 4.95e-19 = 2.02 x 10^18.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "photoelectric effect"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q90",
+    "question": "The maximum number of electrons in a p-orbital with n=6 and m=0 is:",
+    "options": [
+      "2",
+      "6",
+      "10",
+      "14"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Specific orbital (m=0) holds max 2 electrons.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "quantum numbers"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q91",
+    "question": "The uncertainty in position of an electron (mass = 9.1 x 10^-31 kg) moving with a velocity 300 m/s accurate up to 0.001% will be:",
+    "options": [
+      "1.92 x 10^-2 m",
+      "5.76 x 10^-2 m",
+      "3.84 x 10^-2 m",
+      "1.92 x 10^-3 m"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "dv = 300 * 0.00001 = 0.003 m/s. dx = h / (4\u03c0 m dv) = 6.626e-34 / (4 * 3.14 * 9.1e-31 * 0.003) = 6.626e-34 / 3.43e-32 = 0.0193 m = 1.93 x 10^-2 m.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "heisenberg uncertainty"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q92",
+    "question": "The work function for a metal is 4 eV. To emit a photoelectron of zero velocity from the surface of the metal, the wavelength of incident light should be:",
+    "options": [
+      "2700 \u00c5",
+      "1700 \u00c5",
+      "5900 \u00c5",
+      "3100 \u00c5"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "E = Work Function = 4 eV. \u03bb = 12400 / E(eV) = 12400 / 4 = 3100 \u00c5.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "photoelectric effect"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q93",
+    "question": "The ratio of the frequency corresponding to the third line in Lyman series of hydrogen atomic spectrum to that of the first line in Balmer series of Li2+ spectrum is:",
+    "options": [
+      "4:5",
+      "5:4",
+      "4:3",
+      "3:4"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Lyman 3rd (4->1): \u03bd1 = R(1 - 1/16) = 15R/16. Balmer 1st Li2+ (3->2): \u03bd2 = R * 3^2 * (1/4 - 1/9) = 9R * (5/36) = 5R/4. Ratio = (15R/16) / (5R/4) = (15/16) * (4/5) = 3/4. Wait, option D is 3:4. Let me recheck. Lyman 3rd line is n=4 to n=1. Correct. Balmer 1st line is n=3 to n=2. Correct. Li2+ Z=3. Correct. Ratio = 3/4. Correct option D.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "hydrogen spectrum",
+      "rydberg formula"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q94",
+    "question": "If the radius of the first Bohr orbit is x, then de Broglie wavelength of electron in 3rd orbit is nearly:",
+    "options": [
+      "2\u03c0x",
+      "6\u03c0x",
+      "9x",
+      "x/3"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "2\u03c0r = n\u03bb. r3 = n^2 x = 9x. 2\u03c0(9x) = 3\u03bb. \u03bb = 18\u03c0x / 3 = 6\u03c0x.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "bohr model",
+      "de broglie"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q95",
+    "question": "The ionization energy of hydrogen atom is 13.6 eV. The energy required to excite the electron in a He+ ion from the first to the second orbit is:",
+    "options": [
+      "40.8 eV",
+      "54.4 eV",
+      "10.2 eV",
+      "13.6 eV"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "E(He+) = Z^2 * E(H) = 4 * E(H). Delta E(H, 1->2) = 10.2 eV. Delta E(He+, 1->2) = 4 * 10.2 = 40.8 eV.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "bohr model"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q96",
+    "question": "Consider the ground state of Cr atom (Z=24). The number of electrons with the azimuthal quantum numbers l=1 and l=2 are, respectively:",
+    "options": [
+      "12 and 4",
+      "12 and 5",
+      "16 and 5",
+      "16 and 4"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Cr: 1s2 2s2 2p6 3s2 3p6 3d5 4s1. l=1 (p): 2p6 + 3p6 = 12 electrons. l=2 (d): 3d5 = 5 electrons.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "electronic configuration"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q97",
+    "question": "The wave number of the first line of Balmer series of hydrogen is 15200 cm^-1. The wave number of the first Balmer line of Li2+ ion is:",
+    "options": [
+      "15200 cm^-1",
+      "60800 cm^-1",
+      "136800 cm^-1",
+      "30400 cm^-1"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "\u03bd_bar is proportional to Z^2. For Li2+, Z=3. \u03bd_bar(Li2+) = 3^2 * \u03bd_bar(H) = 9 * 15200 = 136800 cm^-1.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "rydberg formula"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q98",
+    "question": "Calculate the velocity of an electron placed in the third orbit of the hydrogen atom. Also calculate the number of revolutions per second that this electron makes around the nucleus.",
+    "options": [
+      "7.28 x 10^5 m/s, 2.43 x 10^14 rps",
+      "2.18 x 10^6 m/s, 6.57 x 10^15 rps",
+      "7.28 x 10^5 m/s, 8.2 x 10^14 rps",
+      "1.09 x 10^6 m/s, 1.2 x 10^14 rps"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "v = 2.18x10^6 / n = 2.18x10^6 / 3 = 7.27 x 10^5 m/s. r = 0.529 n^2 = 0.529 * 9 = 4.761 \u00c5 = 4.761 x 10^-10 m. f = v / 2\u03c0r = 7.27e5 / (2 * 3.14 * 4.76e-10) = 2.43 x 10^14 Hz.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "bohr model"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q99",
+    "question": "What is the maximum number of electrons that can be associated with the following set of quantum numbers: n=3, l=1 and m=-1?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "10"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "This specifies a single orbital (3p, m=-1). Max electrons = 2.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "quantum numbers"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q100",
+    "question": "The shortest wavelength of He atom in Balmer series is x, then longest wavelength in the Paschen series of Li2+ is:",
+    "options": [
+      "36x/5",
+      "16x/7",
+      "36x/7",
+      "5x/9"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "He (Z=2). Balmer shortest (infinity->2): 1/x = R * 4 * (1/4) = R. So x = 1/R. Li2+ (Z=3). Paschen longest (4->3): 1/\u03bb = R * 9 * (1/9 - 1/16) = 9R * (7/144) = 7R/16. \u03bb = 16/7R = 16x/7. Wait, let me recheck. He atom? Bohr model applies to He+. Assuming He+. Balmer shortest: 1/x = R*4*(1/4) = R. Correct. Paschen longest Li2+ (4->3): 1/\u03bb = R*9*(1/9 - 1/16) = 9R(7/144) = 7R/16. \u03bb = 16/7R = 16x/7. Correct option B.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "rydberg formula"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q101",
+    "question": "The kinetic energy of an electron in the second Bohr orbit of a hydrogen atom is (a0 is Bohr radius):",
+    "options": [
+      "h^2 / (4\u03c0^2 m a0^2)",
+      "h^2 / (16\u03c0^2 m a0^2)",
+      "h^2 / (32\u03c0^2 m a0^2)",
+      "h^2 / (64\u03c0^2 m a0^2)"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "KE = 1/2 mv^2. mvr = nh/2\u03c0. v = nh/2\u03c0mr. r = n^2 a0. v = nh / (2\u03c0m n^2 a0) = h / (2\u03c0m n a0). KE = 1/2 m (h / 2\u03c0m n a0)^2 = h^2 / (8\u03c0^2 m n^2 a0^2). For n=2: KE = h^2 / (8\u03c0^2 m * 4 * a0^2) = h^2 / (32\u03c0^2 m a0^2).",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "bohr model",
+      "derivation"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q102",
+    "question": "A stream of electrons from a heated filament was passed between two charged plates kept at a potential difference V esu. If e and m are charge and mass of an electron, respectively, then the value of h/\u03bb (where \u03bb is wavelength associated with electron wave) is given by:",
+    "options": [
+      "2meV",
+      "\u221a(2meV)",
+      "\u221a(meV)",
+      "meV"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "KE = eV. p = \u221a(2mKE) = \u221a(2meV). \u03bb = h/p. h/\u03bb = p = \u221a(2meV).",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "de broglie",
+      "physics"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q103",
+    "question": "The electrons identified by quantum numbers n and l: (A) n=4, l=1 (B) n=4, l=0 (C) n=3, l=2 (D) n=3, l=1. Place them in order of increasing energy.",
+    "options": [
+      "D < B < C < A",
+      "B < D < A < C",
+      "A < C < B < D",
+      "C < A < B < D"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "n+l values: A(5), B(4), C(5), D(4). Order: D(4, n=3) < B(4, n=4) < C(5, n=3) < A(5, n=4). D < B < C < A.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "quantum numbers",
+      "energy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q104",
+    "question": "The number of radial nodes in 3s and 2p orbitals are respectively:",
+    "options": [
+      "2 and 0",
+      "0 and 2",
+      "1 and 2",
+      "2 and 1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "3s: 3-0-1 = 2. 2p: 2-1-1 = 0.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "orbitals",
+      "nodes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q105",
+    "question": "If the kinetic energy of an electron is increased by 4 times, the de Broglie wavelength of the electron will become:",
+    "options": [
+      "Half",
+      "Double",
+      "Four times",
+      "One fourth"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "\u03bb is proportional to 1/\u221aKE. If KE becomes 4KE, \u03bb becomes 1/\u221a4 = 1/2.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "de broglie"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q106",
+    "question": "The ratio of the difference in energy between the first and second Bohr orbit to that between the second and third Bohr orbit is:",
+    "options": [
+      "1/2",
+      "1/3",
+      "27/5",
+      "5/27"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Repeated question concept but good for hard. 10.2 / 1.89 = 5.4 = 27/5.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "bohr model"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q107",
+    "question": "Which of the following transitions involves maximum amount of energy?",
+    "options": [
+      "M^- -> M(g)",
+      "M^-(g) -> M(g) + e-",
+      "M(g) -> M+(g) + e-",
+      "M+(g) -> M2+(g) + e-"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Successive ionization energies increase. IE2 > IE1. Removing electron from positive ion is hardest.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "ionization energy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q108",
+    "question": "The wavelength of radiation emitted when in a hydrogen atom electron falls from infinity to stationary state 1 would be (R = 1.097 x 10^7 m^-1):",
+    "options": [
+      "91 nm",
+      "192 nm",
+      "406 nm",
+      "9.1 x 10^-8 nm"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "1/\u03bb = R(1/1^2 - 0). \u03bb = 1/R = 1/1.097e7 = 0.911 x 10^-7 m = 91.1 nm.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "hydrogen spectrum"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q109",
+    "question": "Consider the following sets of quantum numbers. Which one is not possible?",
+    "options": [
+      "3, 0, 0, +1/2",
+      "2, 2, 1, +1/2",
+      "4, 3, -2, -1/2",
+      "1, 0, 0, -1/2"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "n=2, l=2 not possible.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "quantum numbers"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q110",
+    "question": "The orbital angular momentum of an electron in a d-orbital is:",
+    "options": [
+      "\u221a6 h/2\u03c0",
+      "\u221a2 h/2\u03c0",
+      "2 h/2\u03c0",
+      "0"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "l=2. L = \u221a(2(3)) h/2\u03c0 = \u221a6 h/2\u03c0.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "quantum numbers"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q111",
+    "question": "In a multi-electron atom, which of the following orbitals described by the three quantum numbers will have the same energy in the absence of magnetic and electric fields? (A) n=1, l=0, m=0 (B) n=2, l=0, m=0 (C) n=2, l=1, m=1 (D) n=3, l=2, m=1 (E) n=3, l=2, m=0",
+    "options": [
+      "D and E",
+      "B and C",
+      "C and D",
+      "A and B"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Orbitals in the same subshell (same n, same l) are degenerate. D (3,2) and E (3,2) are in 3d subshell.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "quantum numbers",
+      "degeneracy"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q112",
+    "question": "The value of Planck's constant is 6.63 x 10^-34 J s. The speed of light is 3 x 10^17 nm/s. Which value is closest to the wavelength in nanometers of a quantum of light with frequency of 6 x 10^15 s^-1?",
+    "options": [
+      "50",
+      "75",
+      "10",
+      "25"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "\u03bb = c/\u03bd = 3x10^17 / 6x10^15 = 0.5 x 100 = 50 nm.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "formulas"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q113",
+    "question": "What is the maximum number of electrons that can be associated with a principal quantum number n=3?",
+    "options": [
+      "18",
+      "32",
+      "10",
+      "8"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "2n^2 = 2(9) = 18.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "quantum numbers"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q114",
+    "question": "The electron in the hydrogen atom undergoes transition from higher orbitals to orbital of radius 211.6 pm. This transition is associated with:",
+    "options": [
+      "Lyman series",
+      "Balmer series",
+      "Paschen series",
+      "Brackett series"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "r = 52.9 n^2. 211.6 = 52.9 n^2. n^2 = 4. n=2. Transition to n=2 is Balmer series.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "hydrogen spectrum"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q115",
+    "question": "Which of the following ions has the maximum magnetic moment?",
+    "options": [
+      "Mn2+",
+      "Fe2+",
+      "Ti2+",
+      "Cr2+"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Mn2+ (d5, 5 unpaired). Fe2+ (d6, 4 unpaired). Ti2+ (d2, 2 unpaired). Cr2+ (d4, 4 unpaired). Max is 5.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "magnetic moment"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q116",
+    "question": "The energy of the second Bohr orbit of the hydrogen atom is -328 kJ/mol. The energy of the fourth Bohr orbit would be:",
+    "options": [
+      "-82 kJ/mol",
+      "-1312 kJ/mol",
+      "-164 kJ/mol",
+      "-41 kJ/mol"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "E4 = E2 * (2^2 / 4^2) = E2 * 4/16 = E2/4. -328/4 = -82 kJ/mol.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "bohr model"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q117",
+    "question": "The number of spherical nodes in a 4s orbital is:",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "n-l-1 = 4-0-1 = 3.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "orbitals",
+      "nodes"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q118",
+    "question": "The correct order of energy difference between adjacent energy levels in H atom is:",
+    "options": [
+      "E2-E1 > E3-E2 > E4-E3",
+      "E2-E1 < E3-E2 < E4-E3",
+      "E2-E1 = E3-E2 = E4-E3",
+      "E2-E1 > E4-E3 > E3-E2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Energy levels get closer as n increases. Gap decreases.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "bohr model"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q119",
+    "question": "Which of the following is not permissible arrangement of electrons in an atom?",
+    "options": [
+      "n=3, l=2, m=-2, s=-1/2",
+      "n=4, l=0, m=0, s=-1/2",
+      "n=3, l=2, m=-3, s=-1/2",
+      "n=5, l=3, m=0, s=+1/2"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "m cannot be less than -l. For l=2, m cannot be -3.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "quantum numbers"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  },
+  {
+    "id": "chemistry_structure_of_atom_q120",
+    "question": "A 0.66 kg ball is moving with a speed of 100 m/s. The associated wavelength will be (h = 6.6 x 10^-34 J s):",
+    "options": [
+      "6.6 x 10^-32 m",
+      "6.6 x 10^-34 m",
+      "1.0 x 10^-35 m",
+      "1.0 x 10^-32 m"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "\u03bb = 6.6e-34 / (0.66 * 100) = 6.6e-34 / 66 = 1.0 x 10^-35 m.",
+    "subject": "Chemistry",
+    "chapter": "Structure of Atom",
+    "tags": [
+      "de broglie"
+    ],
+    "imageUrls": [],
+    "isPYQ": false,
+    "chapterId": "structure_of_atom",
+    "subjectId": "chemistry"
+  }
+]

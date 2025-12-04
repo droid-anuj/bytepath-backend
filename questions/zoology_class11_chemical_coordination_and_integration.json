@@ -1,0 +1,2882 @@
+[
+  {
+    "id": "zoology_chemical_coordination_q1",
+    "question": "Endocrine glands are also known as:",
+    "options": [
+      "Ductless glands",
+      "Acidic glands",
+      "Alkaline glands",
+      "Exocrine glands"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Endocrine glands lack ducts and release hormones directly into the blood.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Endocrine Glands",
+      "Basics"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q2",
+    "question": "Hormones are:",
+    "options": [
+      "Nutrient chemicals",
+      "Non-nutrient chemicals",
+      "Enzymes",
+      "Vitamins"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Hormones are non-nutrient chemicals which act as intercellular messengers.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Hormones",
+      "Definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q3",
+    "question": "Which gland is called the 'master gland'?",
+    "options": [
+      "Thyroid",
+      "Pituitary",
+      "Adrenal",
+      "Pancreas"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Pituitary gland is often called the master gland.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Pituitary Gland",
+      "Basics"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q4",
+    "question": "The hypothalamus is the basal part of:",
+    "options": [
+      "Forebrain",
+      "Midbrain",
+      "Hindbrain",
+      "Spinal cord"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Hypothalamus is the basal part of the diencephalon (forebrain).",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Hypothalamus",
+      "Location"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q5",
+    "question": "Somatostatin from the hypothalamus:",
+    "options": [
+      "Stimulates growth hormone release",
+      "Inhibits growth hormone release",
+      "Stimulates prolactin release",
+      "Inhibits prolactin release"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Somatostatin inhibits the release of growth hormone.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Hypothalamus",
+      "Hormones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q6",
+    "question": "The pituitary gland is located in a bony cavity called:",
+    "options": [
+      "Sella tursica",
+      "Foramen magnum",
+      "Acetabulum",
+      "Glenoid cavity"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Located in Sella tursica of sphenoid bone.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Pituitary Gland",
+      "Location"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q7",
+    "question": "Neurohypophysis is also known as:",
+    "options": [
+      "Anterior pituitary",
+      "Posterior pituitary",
+      "Pars distalis",
+      "Pars intermedia"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Neurohypophysis is the posterior pituitary.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Pituitary Gland",
+      "Structure"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q8",
+    "question": "Over-secretion of GH stimulates abnormal growth leading to:",
+    "options": [
+      "Dwarfism",
+      "Gigantism",
+      "Cretinism",
+      "Goitre"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Over-secretion leads to Gigantism.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Pituitary Gland",
+      "Disorders"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q9",
+    "question": "Low secretion of GH in children leads to:",
+    "options": [
+      "Gigantism",
+      "Acromegaly",
+      "Pituitary dwarfism",
+      "Diabetes"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Leads to stunted growth or pituitary dwarfism.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Pituitary Gland",
+      "Disorders"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q10",
+    "question": "Prolactin regulates the:",
+    "options": [
+      "Growth of mammary glands and formation of milk",
+      "Growth of bones",
+      "Metabolism of carbohydrates",
+      "Water balance"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Regulates mammary gland growth and milk formation.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Pituitary Gland",
+      "Hormones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q11",
+    "question": "ACTH stimulates the synthesis and secretion of:",
+    "options": [
+      "Thyroid hormones",
+      "Glucocorticoids",
+      "Androgens",
+      "Insulin"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "ACTH stimulates adrenal cortex to secrete glucocorticoids.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Pituitary Gland",
+      "Hormones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q12",
+    "question": "In males, LH stimulates the synthesis and secretion of:",
+    "options": [
+      "Estrogens",
+      "Androgens",
+      "Progesterone",
+      "Relaxin"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "LH stimulates Leydig cells to secrete Androgens.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Pituitary Gland",
+      "Hormones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q13",
+    "question": "In females, LH induces:",
+    "options": [
+      "Ovulation",
+      "Menstruation",
+      "Parturition",
+      "Lactation"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "LH induces ovulation of Graafian follicles.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Pituitary Gland",
+      "Hormones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q14",
+    "question": "Oxytocin acts mainly on:",
+    "options": [
+      "Liver",
+      "Kidney",
+      "Smooth muscles",
+      "Heart"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Acts on smooth muscles (e.g., uterus) and stimulates contraction.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Pituitary Gland",
+      "Hormones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q15",
+    "question": "Vasopressin is also called:",
+    "options": [
+      "Antidiuretic hormone (ADH)",
+      "Growth hormone",
+      "Thyroid stimulating hormone",
+      "Luteinizing hormone"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Vasopressin is also called ADH.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Pituitary Gland",
+      "Hormones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q16",
+    "question": "The pineal gland secretes a hormone called:",
+    "options": [
+      "Melanin",
+      "Melatonin",
+      "Thyroxine",
+      "Insulin"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Pineal gland secretes Melatonin.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Pineal Gland",
+      "Hormones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q17",
+    "question": "Melatonin plays a very important role in:",
+    "options": [
+      "Regulation of 24-hour (diurnal) rhythm of body",
+      "Metabolism of calcium",
+      "Growth of bones",
+      "Digestion of proteins"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Regulates diurnal rhythm (sleep-wake cycle).",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Pineal Gland",
+      "Functions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q18",
+    "question": "The thyroid gland is composed of:",
+    "options": [
+      "Follicles and stromal tissues",
+      "Acini and islets",
+      "Cortex and medulla",
+      "Neurons and glial cells"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Composed of follicles and stromal tissues.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Thyroid Gland",
+      "Structure"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q19",
+    "question": "Which element is essential for the normal rate of hormone synthesis in the thyroid?",
+    "options": [
+      "Calcium",
+      "Iron",
+      "Iodine",
+      "Potassium"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Iodine is essential for thyroid hormone synthesis.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Thyroid Gland",
+      "Basics"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q20",
+    "question": "Deficiency of iodine in diet results in:",
+    "options": [
+      "Diabetes",
+      "Goitre",
+      "Acromegaly",
+      "Addison's disease"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Results in Goitre (enlargement of thyroid).",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Thyroid Gland",
+      "Disorders"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q21",
+    "question": "Hypothyroidism during pregnancy causes defective development of the growing baby leading to:",
+    "options": [
+      "Cretinism",
+      "Gigantism",
+      "Dwarfism",
+      "Diabetes insipidus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Causes Cretinism (stunted growth and mental retardation).",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Thyroid Gland",
+      "Disorders"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q22",
+    "question": "Exopthalmic goitre is a form of:",
+    "options": [
+      "Hyperthyroidism",
+      "Hypothyroidism",
+      "Hyperparathyroidism",
+      "Hypoparathyroidism"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "It is a form of Hyperthyroidism (Graves' disease).",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Thyroid Gland",
+      "Disorders"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q23",
+    "question": "Thyrocalcitonin (TCT) regulates:",
+    "options": [
+      "Blood glucose levels",
+      "Blood calcium levels",
+      "Blood sodium levels",
+      "Blood pressure"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Regulates blood calcium levels (lowers it).",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Thyroid Gland",
+      "Hormones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q24",
+    "question": "How many parathyroid glands are present in humans?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "4 parathyroid glands on the back side of thyroid.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Parathyroid Gland",
+      "Structure"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q25",
+    "question": "Parathyroid hormone (PTH) increases:",
+    "options": [
+      "Ca2+ levels in blood",
+      "K+ levels in blood",
+      "Na+ levels in blood",
+      "Glucose levels in blood"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "PTH is a hypercalcemic hormone (increases blood Ca2+).",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Parathyroid Gland",
+      "Functions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q26",
+    "question": "The thymus gland plays a major role in:",
+    "options": [
+      "Digestion",
+      "Respiration",
+      "Immunity",
+      "Excretion"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Plays a major role in the development of the immune system.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Thymus",
+      "Functions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q27",
+    "question": "Thymosins play a major role in the differentiation of:",
+    "options": [
+      "T-lymphocytes",
+      "B-lymphocytes",
+      "RBCs",
+      "Platelets"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Differentiation of T-lymphocytes (CMI).",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Thymus",
+      "Functions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q28",
+    "question": "The adrenal medulla secretes:",
+    "options": [
+      "Adrenaline and Noradrenaline",
+      "Cortisol and Corticosterone",
+      "Aldosterone and Androgens",
+      "Insulin and Glucagon"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Secretes Adrenaline (Epinephrine) and Noradrenaline (Norepinephrine).",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Adrenal Gland",
+      "Hormones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q29",
+    "question": "Adrenaline and Noradrenaline are commonly called:",
+    "options": [
+      "Catecholamines",
+      "Steroids",
+      "Peptides",
+      "Iodothyronines"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "They are called Catecholamines.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Adrenal Gland",
+      "Hormones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q30",
+    "question": "Which hormones are known as hormones of Fight or Flight?",
+    "options": [
+      "Adrenaline and Noradrenaline",
+      "Insulin and Glucagon",
+      "Estrogen and Progesterone",
+      "Thyroxine and Triiodothyronine"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Adrenaline and Noradrenaline.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Adrenal Gland",
+      "Functions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q31",
+    "question": "The main glucocorticoid in humans is:",
+    "options": [
+      "Cortisol",
+      "Aldosterone",
+      "Androgen",
+      "Adrenaline"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Cortisol is the main glucocorticoid.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Adrenal Gland",
+      "Hormones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q32",
+    "question": "Aldosterone acts mainly at the:",
+    "options": [
+      "Renal tubules",
+      "Liver",
+      "Pancreas",
+      "Spleen"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Acts at renal tubules to reabsorb Na+ and water.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Adrenal Gland",
+      "Functions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q33",
+    "question": "The pancreas is a:",
+    "options": [
+      "Composite gland",
+      "Simple gland",
+      "Exocrine gland only",
+      "Endocrine gland only"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Composite (heterocrine) gland - both exocrine and endocrine.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Pancreas",
+      "Structure"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q34",
+    "question": "Alpha cells of Islets of Langerhans secrete:",
+    "options": [
+      "Insulin",
+      "Glucagon",
+      "Somatostatin",
+      "Pancreatic polypeptide"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Alpha cells secrete Glucagon.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Pancreas",
+      "Hormones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q35",
+    "question": "Beta cells of Islets of Langerhans secrete:",
+    "options": [
+      "Insulin",
+      "Glucagon",
+      "Somatostatin",
+      "Pancreatic polypeptide"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Beta cells secrete Insulin.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Pancreas",
+      "Hormones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q36",
+    "question": "Glucagon is a:",
+    "options": [
+      "Hyperglycemic hormone",
+      "Hypoglycemic hormone",
+      "Hypercalcemic hormone",
+      "Hypocalcemic hormone"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Increases blood glucose (Hyperglycemic).",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Pancreas",
+      "Functions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q37",
+    "question": "Insulin is a:",
+    "options": [
+      "Hyperglycemic hormone",
+      "Hypoglycemic hormone",
+      "Hypercalcemic hormone",
+      "Hypocalcemic hormone"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Decreases blood glucose (Hypoglycemic).",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Pancreas",
+      "Functions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q38",
+    "question": "Prolonged hyperglycemia leads to a complex disorder called:",
+    "options": [
+      "Diabetes mellitus",
+      "Diabetes insipidus",
+      "Goitre",
+      "Addison's disease"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Diabetes mellitus.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Pancreas",
+      "Disorders"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q39",
+    "question": "Leydig cells produce a group of hormones called:",
+    "options": [
+      "Androgens",
+      "Estrogens",
+      "Corticoids",
+      "Catecholamines"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Leydig cells produce Androgens (mainly Testosterone).",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Testis",
+      "Hormones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q40",
+    "question": "The atrial wall of our heart secretes a peptide hormone called:",
+    "options": [
+      "ANF",
+      "CCK",
+      "GIP",
+      "Erythropoietin"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Atrial Natriuretic Factor (ANF).",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Heart",
+      "Hormones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q41",
+    "question": "Which of the following is an amino acid derivative hormone?",
+    "options": [
+      "Epinephrine",
+      "Estrogen",
+      "Insulin",
+      "Cortisol"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Epinephrine is a derivative of Tyrosine (amino acid).",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Hormones",
+      "Classification"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q42",
+    "question": "Which of the following is a steroid hormone?",
+    "options": [
+      "Cortisol",
+      "Insulin",
+      "Glucagon",
+      "Thyroxine"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Cortisol is a steroid hormone.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Hormones",
+      "Classification"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q43",
+    "question": "Which of the following is a peptide hormone?",
+    "options": [
+      "Insulin",
+      "Testosterone",
+      "Estradiol",
+      "Epinephrine"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Insulin is a peptide hormone.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Hormones",
+      "Classification"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q44",
+    "question": "Receptors for protein hormones are located:",
+    "options": [
+      "On the cell membrane",
+      "Inside the nucleus",
+      "In the cytoplasm",
+      "On the mitochondria"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Protein hormones cannot enter the cell, so receptors are on the membrane.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Hormone Action",
+      "Mechanism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q45",
+    "question": "Receptors for steroid hormones are located:",
+    "options": [
+      "Intracellularly",
+      "On the cell membrane",
+      "In the blood plasma",
+      "On the ribosomes"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Steroid hormones are lipid soluble and have intracellular receptors.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Hormone Action",
+      "Mechanism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q46",
+    "question": "Which of the following acts as a second messenger?",
+    "options": [
+      "cAMP",
+      "Ca++",
+      "IP3",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "cAMP, Ca++, and IP3 are all second messengers.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Hormone Action",
+      "Mechanism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q47",
+    "question": "Which hormone interacts with the genome to regulate gene expression?",
+    "options": [
+      "Estrogen",
+      "Insulin",
+      "Glucagon",
+      "FSH"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Estrogen (steroid) interacts with intracellular receptors and the genome.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Hormone Action",
+      "Mechanism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q48",
+    "question": "The hormone that stimulates the secretion of HCl and pepsinogen in the stomach is:",
+    "options": [
+      "Gastrin",
+      "Secretin",
+      "CCK",
+      "GIP"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Gastrin stimulates gastric glands.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "GI Tract",
+      "Hormones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q49",
+    "question": "Secretin acts on the exocrine pancreas and stimulates the secretion of:",
+    "options": [
+      "Water and bicarbonate ions",
+      "Pancreatic enzymes",
+      "Insulin",
+      "Glucagon"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Secretin stimulates water and bicarbonate secretion.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "GI Tract",
+      "Hormones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q50",
+    "question": "CCK acts on:",
+    "options": [
+      "Pancreas and Gall bladder",
+      "Liver and Stomach",
+      "Kidney and Adrenal",
+      "Intestine only"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "CCK acts on both pancreas and gall bladder.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "GI Tract",
+      "Hormones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q51",
+    "question": "GIP (Gastric Inhibitory Peptide):",
+    "options": [
+      "Inhibits gastric secretion and motility",
+      "Stimulates gastric secretion",
+      "Stimulates pancreatic secretion",
+      "Inhibits pancreatic secretion"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "GIP inhibits gastric secretion and motility.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "GI Tract",
+      "Hormones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q52",
+    "question": "Erythropoietin stimulates:",
+    "options": [
+      "Erythropoiesis (RBC formation)",
+      "Leucopoiesis (WBC formation)",
+      "Thrombopoiesis (Platelet formation)",
+      "Hemolysis"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Stimulates RBC formation.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Kidney",
+      "Hormones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q53",
+    "question": "Erythropoietin is produced by:",
+    "options": [
+      "Juxtaglomerular cells of kidney",
+      "Alpha cells of pancreas",
+      "Beta cells of pancreas",
+      "Leydig cells of testis"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Produced by JGA cells of kidney.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Kidney",
+      "Hormones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q54",
+    "question": "Which hormone is responsible for the development of secondary sexual characters in females?",
+    "options": [
+      "Estrogen",
+      "Progesterone",
+      "LH",
+      "FSH"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Estrogen regulates secondary sexual characters.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Ovary",
+      "Hormones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q55",
+    "question": "Which hormone supports pregnancy?",
+    "options": [
+      "Progesterone",
+      "Estrogen",
+      "Testosterone",
+      "Aldosterone"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Progesterone supports pregnancy.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Ovary",
+      "Hormones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q56",
+    "question": "Corpus luteum secretes mainly:",
+    "options": [
+      "Progesterone",
+      "Estrogen",
+      "LH",
+      "FSH"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Corpus luteum secretes mainly Progesterone.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Ovary",
+      "Hormones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q57",
+    "question": "The hormone that regulates the 24-hour rhythm of our body is:",
+    "options": [
+      "Melatonin",
+      "Thyroxine",
+      "Adrenaline",
+      "Cortisol"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Melatonin regulates diurnal rhythm.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Pineal Gland",
+      "Functions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q58",
+    "question": "T4 is also known as:",
+    "options": [
+      "Thyroxine",
+      "Triiodothyronine",
+      "Thyrocalcitonin",
+      "TSH"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Tetraiodothyronine or Thyroxine (T4).",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Thyroid Gland",
+      "Hormones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q59",
+    "question": "Which of the following is not a function of thyroid hormones?",
+    "options": [
+      "Regulation of BMR",
+      "Support of RBC formation",
+      "Regulation of blood calcium levels (TCT)",
+      "Regulation of circadian rhythm"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Circadian rhythm is regulated by Melatonin.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Thyroid Gland",
+      "Functions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q60",
+    "question": "PTH stimulates:",
+    "options": [
+      "Bone resorption",
+      "Bone deposition",
+      "Excretion of Ca2+ by kidneys",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Stimulates bone resorption (dissolution/demineralisation).",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Parathyroid Gland",
+      "Functions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q61",
+    "question": "The adrenal cortex can be divided into three layers. The outer layer is:",
+    "options": [
+      "Zona glomerulosa",
+      "Zona fasciculata",
+      "Zona reticularis",
+      "Adrenal medulla"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Outer layer is Zona glomerulosa.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Adrenal Gland",
+      "Structure"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q62",
+    "question": "The middle layer of the adrenal cortex is:",
+    "options": [
+      "Zona fasciculata",
+      "Zona glomerulosa",
+      "Zona reticularis",
+      "Capsule"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Middle layer is Zona fasciculata.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Adrenal Gland",
+      "Structure"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q63",
+    "question": "Mineralocorticoids are secreted by:",
+    "options": [
+      "Zona glomerulosa",
+      "Zona fasciculata",
+      "Zona reticularis",
+      "Adrenal medulla"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Zona glomerulosa secretes mineralocorticoids (Aldosterone).",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Adrenal Gland",
+      "Hormones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q64",
+    "question": "Glucocorticoids are secreted mainly by:",
+    "options": [
+      "Zona fasciculata",
+      "Zona glomerulosa",
+      "Zona reticularis",
+      "Adrenal medulla"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Zona fasciculata secretes glucocorticoids.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Adrenal Gland",
+      "Hormones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q65",
+    "question": "Cortisol is involved in:",
+    "options": [
+      "Anti-inflammatory reactions",
+      "Suppression of immune response",
+      "RBC production",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Cortisol does all of these.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Adrenal Gland",
+      "Functions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q66",
+    "question": "Addison's disease is caused by:",
+    "options": [
+      "Underproduction of hormones by adrenal cortex",
+      "Overproduction of hormones by adrenal cortex",
+      "Underproduction of thyroid hormones",
+      "Overproduction of thyroid hormones"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Caused by underproduction of adrenal cortex hormones.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Adrenal Gland",
+      "Disorders"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q67",
+    "question": "Insulin acts mainly on:",
+    "options": [
+      "Hepatocytes and Adipocytes",
+      "Hepatocytes only",
+      "Adipocytes only",
+      "Renal tubules"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Acts on Hepatocytes (liver cells) and Adipocytes (fat cells).",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Pancreas",
+      "Functions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q68",
+    "question": "Glucagon acts mainly on:",
+    "options": [
+      "Liver cells (Hepatocytes)",
+      "Adipocytes",
+      "Muscle cells",
+      "Pancreatic cells"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Acts mainly on liver cells to stimulate glycogenolysis.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Pancreas",
+      "Functions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q69",
+    "question": "Diabetic patients are successfully treated with:",
+    "options": [
+      "Insulin therapy",
+      "Glucagon therapy",
+      "Antibiotics",
+      "Chemotherapy"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Treated with Insulin.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Pancreas",
+      "Disorders"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q70",
+    "question": "The formation of ketone bodies is a characteristic of:",
+    "options": [
+      "Diabetes mellitus",
+      "Diabetes insipidus",
+      "Nephritis",
+      "Jaundice"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Ketone bodies are formed in Diabetes mellitus.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Pancreas",
+      "Disorders"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q71",
+    "question": "Androgens act on the:",
+    "options": [
+      "Central neural system",
+      "Peripheral neural system",
+      "Autonomic neural system",
+      "None of the above"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Act on CNS to influence male sexual behaviour (libido).",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Testis",
+      "Functions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q72",
+    "question": "Which hormone produces anabolic (synthetic) effects on protein and carbohydrate metabolism?",
+    "options": [
+      "Androgens",
+      "Glucagon",
+      "Cortisol",
+      "Adrenaline"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Androgens have anabolic effects.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Testis",
+      "Functions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q73",
+    "question": "Estrogens are synthesised and secreted mainly by:",
+    "options": [
+      "Growing ovarian follicles",
+      "Corpus luteum",
+      "Adrenal cortex",
+      "Pituitary"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Secreted by growing ovarian follicles.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Ovary",
+      "Hormones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q74",
+    "question": "Which hormone acts on the mammary glands and stimulates the formation of alveoli?",
+    "options": [
+      "Progesterone",
+      "Estrogen",
+      "Testosterone",
+      "LH"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Progesterone stimulates alveoli formation.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Ovary",
+      "Functions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q75",
+    "question": "ANF causes:",
+    "options": [
+      "Dilation of blood vessels",
+      "Constriction of blood vessels",
+      "Increase in blood pressure",
+      "Retention of sodium"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Causes vasodilation and reduces blood pressure.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Heart",
+      "Functions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q76",
+    "question": "Which of the following is not a peptide hormone?",
+    "options": [
+      "Cortisol",
+      "Insulin",
+      "Glucagon",
+      "Pituitary hormones"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Cortisol is a steroid.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Hormones",
+      "Classification"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q77",
+    "question": "Iodothyronines are derivatives of:",
+    "options": [
+      "Tyrosine",
+      "Tryptophan",
+      "Phenylalanine",
+      "Glycine"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Thyroid hormones are iodinated derivatives of Tyrosine.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Hormones",
+      "Classification"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q78",
+    "question": "Hormones which interact with membrane-bound receptors normally:",
+    "options": [
+      "Do not enter the target cell",
+      "Enter the target cell",
+      "Interact with the genome directly",
+      "Are steroid hormones"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "They do not enter the cell; they generate second messengers.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Hormone Action",
+      "Mechanism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q79",
+    "question": "Which of the following hormones is not secreted by the anterior pituitary?",
+    "options": [
+      "GH",
+      "Prolactin",
+      "Oxytocin",
+      "TSH"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Oxytocin is released by the posterior pituitary (synthesized by hypothalamus).",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Pituitary Gland",
+      "Hormones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q80",
+    "question": "MSH acts on:",
+    "options": [
+      "Melanocytes",
+      "Hepatocytes",
+      "Adipocytes",
+      "Osteocytes"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Acts on Melanocytes (melanin containing cells).",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Pituitary Gland",
+      "Hormones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q81",
+    "question": "Which hormone stimulates vigorous contraction of uterus at the time of child birth?",
+    "options": [
+      "Oxytocin",
+      "Relaxin",
+      "Progesterone",
+      "Prolactin"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Oxytocin stimulates uterine contraction.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Pituitary Gland",
+      "Functions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q82",
+    "question": "Vasopressin acts mainly at the kidney and stimulates resorption of:",
+    "options": [
+      "Water and electrolytes",
+      "Glucose and amino acids",
+      "Urea and uric acid",
+      "Proteins and fats"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Resorption of water and electrolytes.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Pituitary Gland",
+      "Functions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q83",
+    "question": "Diabetes insipidus is caused by:",
+    "options": [
+      "Deficiency of ADH",
+      "Deficiency of Insulin",
+      "Excess of ADH",
+      "Excess of Insulin"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Caused by deficiency of ADH (Vasopressin).",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Pituitary Gland",
+      "Disorders"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q84",
+    "question": "The two lobes of the thyroid gland are interconnected with a thin flap of connective tissue called:",
+    "options": [
+      "Isthmus",
+      "Corpus callosum",
+      "Fascia",
+      "Ligament"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Isthmus connects the thyroid lobes.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Thyroid Gland",
+      "Structure"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q85",
+    "question": "Graves' disease is associated with:",
+    "options": [
+      "Hyperthyroidism",
+      "Hypothyroidism",
+      "Hyperparathyroidism",
+      "Hypoparathyroidism"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Graves' disease is a form of Hyperthyroidism.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Thyroid Gland",
+      "Disorders"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q86",
+    "question": "The thymus is located:",
+    "options": [
+      "Between lungs behind sternum on the ventral side of aorta",
+      "In the brain",
+      "In the abdomen",
+      "In the neck"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Location of thymus.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Thymus",
+      "Location"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q87",
+    "question": "The thymus is degenerated in:",
+    "options": [
+      "Old individuals",
+      "Children",
+      "Infants",
+      "Adolescents"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Degenerates in old individuals.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Thymus",
+      "Basics"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q88",
+    "question": "Catecholamines stimulate:",
+    "options": [
+      "Breakdown of glycogen",
+      "Synthesis of glycogen",
+      "Synthesis of fats",
+      "Synthesis of proteins"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Stimulate glycogenolysis (breakdown of glycogen) to increase blood glucose.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Adrenal Gland",
+      "Functions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q89",
+    "question": "Cortisol stimulates:",
+    "options": [
+      "Gluconeogenesis",
+      "Glycogenesis",
+      "Protein synthesis",
+      "Lipogenesis"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Stimulates Gluconeogenesis (formation of glucose from non-carbohydrates).",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Adrenal Gland",
+      "Functions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q90",
+    "question": "Which of the following hormones is not involved in carbohydrate metabolism?",
+    "options": [
+      "Insulin",
+      "Glucagon",
+      "Cortisol",
+      "Vasopressin"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Vasopressin regulates water balance.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Metabolism",
+      "Hormones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q91",
+    "question": "Select the incorrect statement regarding the mechanism of hormone action.",
+    "options": [
+      "Hormones produce their effects on target tissues by binding to specific proteins called hormone receptors.",
+      "Binding of a hormone to its receptor leads to the formation of a hormone-receptor complex.",
+      "Hormone receptors are located only on the cell membrane of the target cells.",
+      "Each receptor is specific to one hormone only."
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Receptors can be membrane-bound (for peptide hormones) or intracellular (for steroid hormones).",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Hormone Action",
+      "Mechanism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q92",
+    "question": "Which of the following sets of hormones are lipid soluble?",
+    "options": [
+      "Insulin, Glucagon, Oxytocin",
+      "Cortisol, Testosterone, Estradiol",
+      "Epinephrine, Norepinephrine, Melatonin",
+      "TSH, FSH, LH"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Steroid hormones (Cortisol, Testosterone, Estradiol) are lipid soluble.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Hormones",
+      "Classification"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q93",
+    "question": "A patient complains of constant thirst, excessive urination and low blood pressure. His doctor finds that his blood glucose is normal. The patient is most likely suffering from:",
+    "options": [
+      "Diabetes mellitus",
+      "Diabetes insipidus",
+      "Acromegaly",
+      "Addison's disease"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Symptoms of Diabetes insipidus (ADH deficiency), distinguished from Diabetes mellitus by normal blood glucose.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Pituitary Gland",
+      "Disorders"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q94",
+    "question": "Which of the following is an example of a positive feedback mechanism?",
+    "options": [
+      "Regulation of blood glucose by Insulin",
+      "Regulation of TSH secretion by Thyroxine",
+      "Oxytocin release during childbirth",
+      "Regulation of body temperature"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Oxytocin release during labor is a classic positive feedback loop.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Hormone Action",
+      "Mechanism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q95",
+    "question": "Identify the correct statement about the adrenal medulla.",
+    "options": [
+      "It secretes mineralocorticoids.",
+      "Its hormones are essential for life.",
+      "It is stimulated by the sympathetic nervous system.",
+      "It secretes hormones that lower blood glucose."
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Adrenal medulla is stimulated by the sympathetic nervous system during stress.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Adrenal Gland",
+      "Functions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q96",
+    "question": "Which of the following hormones is not a glycoprotein?",
+    "options": [
+      "FSH",
+      "LH",
+      "TSH",
+      "GH"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "GH is a protein hormone, but not a glycoprotein. FSH, LH, TSH are glycoproteins.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Hormones",
+      "Classification"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q97",
+    "question": "A person having problems with calcium and phosphorus metabolism in his body. Which glands may not be functioning properly?",
+    "options": [
+      "Parotid and Pancreas",
+      "Thyroid and Parathyroid",
+      "Adrenal cortex and Pineal",
+      "Thymus and Pituitary"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Thyroid (TCT) and Parathyroid (PTH) regulate calcium and phosphorus.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Coordination",
+      "Metabolism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q98",
+    "question": "Which of the following statements is correct regarding the action of steroid hormones?",
+    "options": [
+      "They bind to membrane receptors and generate cAMP.",
+      "They enter the cell and bind to intracellular receptors to form a complex that interacts with the genome.",
+      "They are water soluble and circulate freely in the blood.",
+      "They require a second messenger to produce their effect."
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Steroid hormones mechanism of action.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Hormone Action",
+      "Mechanism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q99",
+    "question": "Which of the following is an incorrect match?",
+    "options": [
+      "Glucagon - Beta cells (source)",
+      "Somatostatin - Delta cells (source)",
+      "Corpus luteum - Progesterone (secretion)",
+      "Leydig cells - Testosterone (secretion)"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Glucagon is secreted by Alpha cells, not Beta cells.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Pancreas",
+      "Structure"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q100",
+    "question": "The blood calcium level is lowered by the deficiency of:",
+    "options": [
+      "Parathormone",
+      "Thyroxine",
+      "Calcitonin",
+      "Both Calcitonin and Parathormone"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Deficiency of PTH (hypercalcemic hormone) leads to low blood calcium (hypocalcemia).",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Parathyroid Gland",
+      "Disorders"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q101",
+    "question": "Which one of the following pairs of hormones are the examples of those that can easily pass through the cell membrane of the target cell and bind to a receptor inside it?",
+    "options": [
+      "Insulin, Glucagon",
+      "Thyroxine, Insulin",
+      "Somatostatin, Oxytocin",
+      "Cortisol, Testosterone"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Steroid hormones (Cortisol, Testosterone) are lipid soluble.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Hormone Action",
+      "Mechanism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q102",
+    "question": "The Leydig cells as found in the human body are the secretory source of:",
+    "options": [
+      "Progesterone",
+      "Intestinal mucus",
+      "Glucagon",
+      "Androgens"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Leydig cells secrete Androgens.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Testis",
+      "Hormones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q103",
+    "question": "Which one of the following is not a secondary messenger in hormone action?",
+    "options": [
+      "cAMP",
+      "cGMP",
+      "Calcium",
+      "Sodium"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Sodium is not typically a second messenger in hormone action.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Hormone Action",
+      "Mechanism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q104",
+    "question": "A chemical signal that has both endocrine and neural roles is:",
+    "options": [
+      "Epinephrine",
+      "Cortisol",
+      "Melatonin",
+      "Calcitonin"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Epinephrine is both a hormone (adrenal medulla) and a neurotransmitter.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Hormones",
+      "Classification"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q105",
+    "question": "Which of the following hormones is modified amino acid?",
+    "options": [
+      "Epinephrine",
+      "Progesterone",
+      "Prostaglandin",
+      "Estrogen"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Epinephrine is a modified amino acid (Tyrosine).",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Hormones",
+      "Classification"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q106",
+    "question": "Which of the following is an accumulation and release centre of neurohormones?",
+    "options": [
+      "Anterior pituitary lobe",
+      "Posterior pituitary lobe",
+      "Intermediate lobe of the pituitary",
+      "Hypothalamus"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Posterior pituitary stores and releases neurohormones from hypothalamus.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Pituitary Gland",
+      "Structure"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q107",
+    "question": "Which hormone causes dilation of blood vessels, increased oxygen consumption and glucogenesis?",
+    "options": [
+      "Glucagon",
+      "ACTH",
+      "Insulin",
+      "Adrenaline"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Adrenaline causes these effects (Fight or Flight).",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Adrenal Gland",
+      "Functions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q108",
+    "question": "Sertoli cells are regulated by the pituitary hormone known as:",
+    "options": [
+      "LH",
+      "FSH",
+      "GH",
+      "Prolactin"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "FSH acts on Sertoli cells to stimulate spermiogenesis.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Testis",
+      "Hormones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q109",
+    "question": "A temporary endocrine gland in the human body is:",
+    "options": [
+      "Corpus cardiacum",
+      "Corpus luteum",
+      "Corpus allatum",
+      "Pineal gland"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Corpus luteum is a temporary endocrine gland formed after ovulation.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Ovary",
+      "Structure"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q110",
+    "question": "GnRH, a hypothalamic hormone, needed in reproduction, acts on:",
+    "options": [
+      "Anterior pituitary gland and stimulates secretion of LH and FSH",
+      "Posterior pituitary gland and stimulates secretion of Oxytocin and FSH",
+      "Posterior pituitary gland and stimulates secretion of LH and Relaxin",
+      "Anterior pituitary gland and stimulates secretion of LH and Oxytocin"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "GnRH stimulates Anterior Pituitary to release Gonadotropins (LH and FSH).",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Hypothalamus",
+      "Hormones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q111",
+    "question": "Hypersecretion of Growth Hormone in adults does not cause further increase in height, because:",
+    "options": [
+      "Epiphyseal plates close after adolescence",
+      "Bones loose their sensitivity to Growth Hormone in adults",
+      "Muscle fibres do not grow in size after birth",
+      "Growth Hormone becomes inactive in adults"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Epiphyseal plates (growth plates) close after adolescence, preventing longitudinal bone growth.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Pituitary Gland",
+      "Disorders"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q112",
+    "question": "Which of the following is an amino acid derived hormone?",
+    "options": [
+      "Epinephrine",
+      "Ecdysone",
+      "Estradiol",
+      "Estriol"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Epinephrine is derived from Tyrosine.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Hormones",
+      "Classification"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q113",
+    "question": "The 24 hour (diurnal) rhythm of our body such as the sleep-wake cycle is regulated by the hormone:",
+    "options": [
+      "Calcitonin",
+      "Prolactin",
+      "Adrenaline",
+      "Melatonin"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Melatonin regulates diurnal rhythm.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Pineal Gland",
+      "Functions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q114",
+    "question": "Injury to adrenal cortex is not likely to affect the secretion of which one of the following?",
+    "options": [
+      "Aldosterone",
+      "Both Androstenedione and Dehydroepiandrosterone",
+      "Adrenaline",
+      "Cortisol"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Adrenaline is secreted by Adrenal Medulla, not Cortex.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Adrenal Gland",
+      "Structure"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q115",
+    "question": "Which one of the following pairs is incorrectly matched?",
+    "options": [
+      "Glucagon - Beta cells (source)",
+      "Somatostatin - Delta cells (source)",
+      "Corpus luteum - Relaxin (secretion)",
+      "Insulin - Diabetes mellitus (disease)"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Glucagon is from Alpha cells.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Pancreas",
+      "Structure"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q116",
+    "question": "Toxic agents present in food which interfere with thyroxine synthesis lead to the development of:",
+    "options": [
+      "Toxic goitre",
+      "Cretinism",
+      "Simple goitre",
+      "Thyrotoxicosis"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "Simple goitre (enlargement due to iodine deficiency or interference with synthesis).",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Thyroid Gland",
+      "Disorders"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q117",
+    "question": "Select the correct statement about hormones and their actions.",
+    "options": [
+      "Parathyroid hormone increases K+ absorption of the body.",
+      "Insulin and Glucagon helps to maintain blood sugar levels.",
+      "Old people have weak immunity due to increased activity of thymus.",
+      "Osteoporosis in women occurs due to increased levels of estrogens."
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Insulin and Glucagon are antagonistic and maintain blood sugar.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Hormones",
+      "Functions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q118",
+    "question": "Which of the following represents the action of insulin?",
+    "options": [
+      "Increases blood glucose level by stimulating glucagon production.",
+      "Decreases blood glucose levels by forming glycogen.",
+      "Increases blood glucose levels by promoting cellular uptake of glucose.",
+      "Increases blood glucose levels by hydrolysis of glycogen."
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Decreases blood glucose by promoting glycogenesis.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Pancreas",
+      "Functions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q119",
+    "question": "A person is having problems with calcium and phosphorus metabolism in his body. Which glands may not be functioning properly?",
+    "options": [
+      "Parotid and Pancreas",
+      "Thyroid and Parathyroid",
+      "Adrenal cortex and Pineal",
+      "Thymus and Pituitary"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Thyroid (TCT) and Parathyroid (PTH).",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Coordination",
+      "Metabolism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  },
+  {
+    "id": "zoology_chemical_coordination_q120",
+    "question": "Which of the following is an example of a negative feedback loop?",
+    "options": [
+      "Constriction of skin blood vessels and contraction of skeletal muscles when it is too cold.",
+      "Secretion of tears after falling of sand particles into the eye.",
+      "Salivation of mouth at the sight of delicious food.",
+      "Secretion of sweat glands and constriction of skin blood vessels when it is too hot."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Thermoregulation is a negative feedback loop.",
+    "subject": "Zoology",
+    "chapter": "Chemical Coordination and Integration",
+    "tags": [
+      "Coordination",
+      "Homeostasis"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "chemical_coordination_and_integration",
+    "subjectId": "zoology"
+  }
+]

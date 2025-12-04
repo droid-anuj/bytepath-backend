@@ -1,0 +1,2882 @@
+[
+  {
+    "id": "botany_strategies_enhancement_q1",
+    "question": "Which of the following is NOT a major component of animal husbandry?",
+    "options": [
+      "Fisheries",
+      "Poultry farming",
+      "Apiculture",
+      "Mining"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Mining is not related to animal husbandry. Animal husbandry deals with the care and breeding of livestock like buffaloes, cows, pigs, horses, cattle, sheep, camels, goats, etc.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "animal husbandry",
+      "components"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q2",
+    "question": "The management of animals for milk and its products for human consumption is called:",
+    "options": [
+      "Poultry farm management",
+      "Dairy farm management",
+      "Apiculture",
+      "Pisciculture"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Dairying is the management of animals for milk and its products for human consumption.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "dairy farming",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q3",
+    "question": "Poultry is the class of domesticated birds used for food or for their:",
+    "options": [
+      "Feathers",
+      "Eggs",
+      "Beaks",
+      "Bones"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Poultry is the class of domesticated birds used for food or for their eggs.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "poultry farming",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q4",
+    "question": "Which of the following is a viral disease of poultry?",
+    "options": [
+      "Bird flu",
+      "Anthrax",
+      "Cholera",
+      "Typhoid"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Bird flu is a viral disease affecting poultry.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "poultry diseases",
+      "virus"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q5",
+    "question": "A group of animals related by descent and similar in most characters like general appearance, features, size, configuration, etc., are said to belong to a:",
+    "options": [
+      "Species",
+      "Genus",
+      "Breed",
+      "Variety"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "This is the definition of a breed.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "animal breeding",
+      "breed"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q6",
+    "question": "Inbreeding refers to the mating of:",
+    "options": [
+      "More closely related individuals within the same breed for 4-6 generations",
+      "Unrelated individuals of the same breed",
+      "Individuals of different breeds",
+      "Individuals of different species"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Inbreeding refers to the mating of more closely related individuals within the same breed for 4-6 generations.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "animal breeding",
+      "inbreeding"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q7",
+    "question": "Continued inbreeding leads to:",
+    "options": [
+      "Inbreeding vigor",
+      "Inbreeding depression",
+      "Hybrid vigor",
+      "Heterosis"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Continued inbreeding, especially close inbreeding, usually reduces fertility and even productivity. This is called inbreeding depression.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "animal breeding",
+      "inbreeding depression"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q8",
+    "question": "Outcrossing is the practice of mating of animals:",
+    "options": [
+      "Within the same breed, but having no common ancestors on either side of their pedigree up to 4-6 generations",
+      "Of different breeds",
+      "Of different species",
+      "Closely related individuals"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "This is the practice of mating of animals within the same breed, but having no common ancestors on either side of their pedigree up to 4-6 generations.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "animal breeding",
+      "outcrossing"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q9",
+    "question": "Hisardale is a new breed of sheep developed in Punjab by crossing:",
+    "options": [
+      "Bikaneri ewes and Marino rams",
+      "Marino ewes and Bikaneri rams",
+      "Bikaneri ewes and Bikaneri rams",
+      "Marino ewes and Marino rams"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Hisardale is a new breed of sheep developed in Punjab by crossing Bikaneri ewes and Marino rams.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "animal breeding",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q10",
+    "question": "Mule is a result of:",
+    "options": [
+      "Inbreeding",
+      "Outcrossing",
+      "Cross-breeding",
+      "Interspecific hybridisation"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Mule is a result of interspecific hybridisation (male donkey and female horse).",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "animal breeding",
+      "interspecific hybridisation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q11",
+    "question": "MOET stands for:",
+    "options": [
+      "Multiple Ovulation Embryo Transfer Technology",
+      "Multiple Ovulation Egg Transfer Technology",
+      "Multiple Ovary Embryo Transfer Technology",
+      "Multiple Ovary Egg Transfer Technology"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "MOET stands for Multiple Ovulation Embryo Transfer Technology.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "animal breeding",
+      "moet"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q12",
+    "question": "In MOET, the cow is administered hormones with FSH-like activity to induce:",
+    "options": [
+      "Follicular maturation and super ovulation",
+      "Single ovulation",
+      "Menstruation",
+      "Lactation"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Hormones with FSH-like activity are administered to induce follicular maturation and super ovulation.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "animal breeding",
+      "moet"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q13",
+    "question": "Apiculture is the maintenance of hives of:",
+    "options": [
+      "Honeybees",
+      "Silkworms",
+      "Lac insects",
+      "Fish"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Apiculture is the maintenance of hives of honeybees for the production of honey.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "apiculture",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q14",
+    "question": "The most common species of honeybee reared in India is:",
+    "options": [
+      "Apis indica",
+      "Apis dorsata",
+      "Apis florea",
+      "Apis mellifera"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The most common species is Apis indica.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "apiculture",
+      "species"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q15",
+    "question": "Beeswax is used in the preparation of:",
+    "options": [
+      "Cosmetics and polishes",
+      "Food",
+      "Fertilizers",
+      "Pesticides"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Beeswax finds many uses in industry, such as in the preparation of cosmetics and polishes of various kinds.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "apiculture",
+      "products"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q16",
+    "question": "Which of the following is a freshwater fish?",
+    "options": [
+      "Catla",
+      "Hilsa",
+      "Sardines",
+      "Mackerel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Catla, Rohu and Common carp are freshwater fishes. Hilsa, Sardines, Mackerel and Pomfrets are marine fishes.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "fisheries",
+      "freshwater"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q17",
+    "question": "Which of the following is a marine fish?",
+    "options": [
+      "Hilsa",
+      "Catla",
+      "Rohu",
+      "Common carp"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Hilsa, Sardines, Mackerel and Pomfrets are some of the marine fishes that are eaten.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "fisheries",
+      "marine"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q18",
+    "question": "Blue Revolution is related to:",
+    "options": [
+      "Fish production",
+      "Milk production",
+      "Crop production",
+      "Oilseed production"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Blue Revolution is related to the increase in fish production.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "revolutions",
+      "blue revolution"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q19",
+    "question": "Green Revolution is related to:",
+    "options": [
+      "Crop production",
+      "Fish production",
+      "Milk production",
+      "Meat production"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Green Revolution was dependent to a large extent on plant breeding techniques for development of high-yielding and disease resistant varieties in wheat, rice, maize, etc.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "revolutions",
+      "green revolution"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q20",
+    "question": "Plant breeding is the purposeful manipulation of plant species in order to create desired plant types that are:",
+    "options": [
+      "Better suited for cultivation, give better yields and are disease resistant",
+      "Wild and low yielding",
+      "Susceptible to diseases",
+      "Difficult to cultivate"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Plant breeding is the purposeful manipulation of plant species in order to create desired plant types that are better suited for cultivation, give better yields and are disease resistant.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "plant breeding",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q21",
+    "question": "The entire collection (of plants/seeds) having all the diverse alleles for all genes in a given crop is called:",
+    "options": [
+      "Germplasm collection",
+      "Gene library",
+      "Genome",
+      "Herbarium"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "This is called germplasm collection.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "plant breeding",
+      "germplasm"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q22",
+    "question": "Which of the following is a semi-dwarf variety of wheat?",
+    "options": [
+      "Sonalika",
+      "Jaya",
+      "Ratna",
+      "IR-8"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Sonalika and Kalyan Sona are high yielding and disease resistant varieties of wheat.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "plant breeding",
+      "wheat"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q23",
+    "question": "Jaya and Ratna are varieties of:",
+    "options": [
+      "Rice",
+      "Wheat",
+      "Maize",
+      "Sugarcane"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Jaya and Ratna are semi-dwarf varieties of rice developed in India.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "plant breeding",
+      "rice"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q24",
+    "question": "Saccharum barberi was originally grown in:",
+    "options": [
+      "North India",
+      "South India",
+      "East India",
+      "West India"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Saccharum barberi was originally grown in north India, but had poor sugar content and yield.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "plant breeding",
+      "sugarcane"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q25",
+    "question": "Saccharum officinarum is a tropical cane grown in:",
+    "options": [
+      "South India",
+      "North India",
+      "East India",
+      "West India"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Tropical canes grown in south India Saccharum officinarum had thicker stems and higher sugar content.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "plant breeding",
+      "sugarcane"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q26",
+    "question": "Brown rust of wheat is caused by:",
+    "options": [
+      "Fungi",
+      "Bacteria",
+      "Virus",
+      "Nematode"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Brown rust of wheat is a fungal disease.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "plant diseases",
+      "fungi"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q27",
+    "question": "Black rot of crucifers is caused by:",
+    "options": [
+      "Bacteria",
+      "Fungi",
+      "Virus",
+      "Nematode"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Black rot of crucifers is a bacterial disease.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "plant diseases",
+      "bacteria"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q28",
+    "question": "Tobacco mosaic is caused by:",
+    "options": [
+      "Virus",
+      "Bacteria",
+      "Fungi",
+      "Nematode"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Tobacco mosaic is a viral disease.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "plant diseases",
+      "virus"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q29",
+    "question": "Himgiri is a variety of:",
+    "options": [
+      "Wheat",
+      "Rice",
+      "Maize",
+      "Chilli"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Himgiri is a variety of wheat resistant to leaf and stripe rust, hill bunt.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "plant breeding",
+      "varieties"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q30",
+    "question": "Pusa Swarnim (Karan rai) is a variety of:",
+    "options": [
+      "Brassica",
+      "Cauliflower",
+      "Cowpea",
+      "Chilli"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Pusa Swarnim is a variety of Brassica resistant to white rust.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "plant breeding",
+      "varieties"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q31",
+    "question": "Pusa Shubhra is a variety of:",
+    "options": [
+      "Cauliflower",
+      "Brassica",
+      "Cowpea",
+      "Chilli"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Pusa Shubhra is a variety of Cauliflower resistant to black rot and curl blight black rot.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "plant breeding",
+      "varieties"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q32",
+    "question": "Pusa Komal is a variety of:",
+    "options": [
+      "Cowpea",
+      "Brassica",
+      "Cauliflower",
+      "Chilli"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Pusa Komal is a variety of Cowpea resistant to bacterial blight.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "plant breeding",
+      "varieties"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q33",
+    "question": "Pusa Sadabahar is a variety of:",
+    "options": [
+      "Chilli",
+      "Cowpea",
+      "Brassica",
+      "Cauliflower"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Pusa Sadabahar is a variety of Chilli resistant to chilly mosaic virus, tobacco mosaic virus and leaf curl.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "plant breeding",
+      "varieties"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q34",
+    "question": "Mutation is the process by which genetic variations are created through changes in the:",
+    "options": [
+      "Base sequence within genes",
+      "Protein structure",
+      "Cell wall structure",
+      "Cytoplasm composition"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Mutation is the process by which genetic variations are created through changes in the base sequence within genes.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "mutation",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q35",
+    "question": "In mung bean, resistance to yellow mosaic virus and powdery mildew were induced by:",
+    "options": [
+      "Mutations",
+      "Hybridisation",
+      "Selection",
+      "Introduction"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "In mung bean, resistance to yellow mosaic virus and powdery mildew were induced by mutations.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "mutation breeding",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q36",
+    "question": "Biofortification is breeding crops with higher levels of:",
+    "options": [
+      "Vitamins and minerals",
+      "Carbohydrates",
+      "Fats",
+      "Water"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Biofortification is breeding crops with higher levels of vitamins and minerals, or higher protein and healthier fats.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "biofortification",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q37",
+    "question": "Single Cell Protein (SCP) refers to:",
+    "options": [
+      "Protein rich biomass from microbes",
+      "Protein from a single cell of an animal",
+      "Protein from a single cell of a plant",
+      "Protein from a virus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Single Cell Protein (SCP) is one of the alternate sources of proteins for animal and human nutrition (from microbes like Spirulina).",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "single cell protein",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q38",
+    "question": "Spirulina is a:",
+    "options": [
+      "Blue-green alga",
+      "Fungus",
+      "Protozoan",
+      "Virus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Spirulina is a blue-green alga (cyanobacteria) used as SCP.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "single cell protein",
+      "example"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q39",
+    "question": "Tissue culture is the technique of regenerating a whole plant from:",
+    "options": [
+      "Any part of a plant (explant)",
+      "Seeds only",
+      "Roots only",
+      "Leaves only"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Tissue culture is the technique of regenerating a whole plant from any part of a plant taken out and grown in a test tube.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "tissue culture",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q40",
+    "question": "Totipotency is the capacity to:",
+    "options": [
+      "Generate a whole plant from any cell/explant",
+      "Generate roots only",
+      "Generate shoots only",
+      "Generate flowers only"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The capacity to generate a whole plant from any cell/explant is called totipotency.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "tissue culture",
+      "totipotency"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q41",
+    "question": "Which of the following is an improved breed of cattle?",
+    "options": [
+      "Jersey",
+      "Leghorn",
+      "Minorca",
+      "Rhode Island Red"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Jersey is an improved breed of cattle. Leghorn, Minorca, and Rhode Island Red are breeds of chicken.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "animal breeding",
+      "cattle"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q42",
+    "question": "Which of the following is NOT an objective of animal breeding?",
+    "options": [
+      "Increasing the yield of animals",
+      "Improving the desirable qualities of the produce",
+      "Decreasing the resistance to diseases",
+      "Increasing the productive life"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Animal breeding aims to increase resistance to diseases, not decrease it.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "animal breeding",
+      "objectives"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q43",
+    "question": "Homozygous purelines in cattle can be obtained by:",
+    "options": [
+      "Mating of unrelated individuals of same breed",
+      "Mating of individuals of different breeds",
+      "Mating of related individuals of same breed",
+      "Mating of individuals of different species"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Inbreeding (mating of related individuals of same breed) increases homozygosity and is used to develop purelines.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "animal breeding",
+      "inbreeding"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q44",
+    "question": "Inbreeding depression can be overcome by:",
+    "options": [
+      "Selected mating with unrelated superior animals of the same breed",
+      "Selected mating with related superior animals of the same breed",
+      "Selected mating with animals of different species",
+      "Continued inbreeding"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Selected mating with unrelated superior animals of the same breed (outcrossing) helps to overcome inbreeding depression.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "animal breeding",
+      "inbreeding depression"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q45",
+    "question": "Which method of breeding is best for animals that are below average in productivity in milk production?",
+    "options": [
+      "Inbreeding",
+      "Outcrossing",
+      "Cross-breeding",
+      "Interspecific hybridisation"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Outcrossing is the best breeding method for animals that are below average in productivity in milk production, growth rate in beef cattle, etc.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "animal breeding",
+      "outcrossing"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q46",
+    "question": "Which of the following is used to produce a new breed with desirable qualities of two different breeds?",
+    "options": [
+      "Outcrossing",
+      "Cross-breeding",
+      "Interspecific hybridisation",
+      "Inbreeding"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Cross-breeding allows the desirable qualities of two different breeds to be combined.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "animal breeding",
+      "cross-breeding"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q47",
+    "question": "Controlled breeding experiments are carried out using:",
+    "options": [
+      "Natural mating",
+      "Artificial insemination",
+      "Both A and B",
+      "Cloning"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Controlled breeding experiments are carried out using artificial insemination.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "animal breeding",
+      "artificial insemination"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q48",
+    "question": "In MOET, the fertilized eggs at 8-32 cells stages are recovered:",
+    "options": [
+      "Surgically and transferred to surrogate mothers",
+      "Non-surgically and transferred to surrogate mothers",
+      "Surgically and transferred to genetic mother",
+      "Non-surgically and transferred to genetic mother"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "The fertilized eggs at 8-32 cells stages, are recovered non-surgically and transferred to surrogate mothers.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "animal breeding",
+      "moet"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q49",
+    "question": "The most common species of honey bee is Apis indica. The hives can be kept in:",
+    "options": [
+      "Courtyards",
+      "Verandahs of the house",
+      "Roof of the house",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Beehives can be kept in one's courtyard, on the verandah of the house or even on the roof.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "apiculture",
+      "location"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q50",
+    "question": "Keeping beehives in crop fields during flowering period:",
+    "options": [
+      "Increases pollination efficiency",
+      "Improves the yield of crop",
+      "Improves the yield of honey",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "It increases pollination efficiency and improves the yield-beneficial both from the point of view of crop yield and honey yield.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "apiculture",
+      "benefits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q51",
+    "question": "Which of the following crops are pollinated by honeybees?",
+    "options": [
+      "Sunflower, Brassica, Apple, Pear",
+      "Wheat, Rice, Maize",
+      "Sugarcane, Bamboo",
+      "Grasses"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Honeybees are the pollinators of many of our crop species such as sunflower, Brassica, apple and pear.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "apiculture",
+      "pollination"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q52",
+    "question": "Aquaculture involves production of:",
+    "options": [
+      "Fish only",
+      "Aquatic plants and animals",
+      "Marine fish only",
+      "Freshwater fish only"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Aquaculture involves production of useful aquatic plants and animals (both freshwater and marine). Pisciculture is specifically for fish.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "fisheries",
+      "aquaculture"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q53",
+    "question": "Which of the following is NOT a step in plant breeding?",
+    "options": [
+      "Collection of variability",
+      "Evaluation and selection of parents",
+      "Cross hybridisation among the selected parents",
+      "Introduction of antigens"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Introduction of antigens is not a step in plant breeding.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "plant breeding",
+      "steps"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q54",
+    "question": "The root of any breeding programme is:",
+    "options": [
+      "Genetic variability",
+      "Selection",
+      "Hybridisation",
+      "Testing"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Genetic variability is the root of any breeding programme.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "plant breeding",
+      "variability"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q55",
+    "question": "Agriculture accounts for approximately _____ of India's GDP and employs nearly _____ of the population.",
+    "options": [
+      "33%, 62%",
+      "62%, 33%",
+      "50%, 50%",
+      "25%, 75%"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Agriculture accounts for approximately 33 per cent of India's GDP and employs nearly 62 per cent of the population.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "agriculture",
+      "statistics"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q56",
+    "question": "During the period 1960 to 2000, wheat production increased from 11 million tonnes to:",
+    "options": [
+      "75 million tonnes",
+      "35 million tonnes",
+      "89.5 million tonnes",
+      "50 million tonnes"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Wheat production increased from 11 million tonnes to 75 million tonnes.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "green revolution",
+      "statistics"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q57",
+    "question": "During the period 1960 to 2000, rice production increased from 35 million tonnes to:",
+    "options": [
+      "89.5 million tonnes",
+      "75 million tonnes",
+      "100 million tonnes",
+      "50 million tonnes"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Rice production increased from 35 million tonnes to 89.5 million tonnes.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "green revolution",
+      "statistics"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q58",
+    "question": "Nobel laureate Norman E. Borlaug developed semi-dwarf varieties of:",
+    "options": [
+      "Wheat",
+      "Rice",
+      "Maize",
+      "Sugarcane"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Norman E. Borlaug, at International Centre for Wheat and Maize Improvement in Mexico, developed semi-dwarf wheat.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "green revolution",
+      "scientists"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q59",
+    "question": "Semi-dwarf rice varieties were derived from:",
+    "options": [
+      "IR-8 and Taichung Native-1",
+      "Sonalika and Kalyan Sona",
+      "Jaya and Ratna",
+      "Atlas 66 and Himgiri"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Semi-dwarf rice varieties were derived from IR-8 (developed at IRRI, Philippines) and Taichung Native-1 (from Taiwan).",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "plant breeding",
+      "rice"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q60",
+    "question": "Which of the following is a fungal disease of sugarcane?",
+    "options": [
+      "Red rot",
+      "Black rot",
+      "Brown rust",
+      "Late blight"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Red rot of sugarcane is a fungal disease.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "plant diseases",
+      "fungi"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q61",
+    "question": "Late blight of potato is caused by:",
+    "options": [
+      "Fungi",
+      "Bacteria",
+      "Virus",
+      "Nematode"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Late blight of potato is a fungal disease.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "plant diseases",
+      "fungi"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q62",
+    "question": "Turnip mosaic is caused by:",
+    "options": [
+      "Virus",
+      "Bacteria",
+      "Fungi",
+      "Nematode"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Turnip mosaic is a viral disease.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "plant diseases",
+      "virus"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q63",
+    "question": "Which of the following is NOT a method to induce mutation?",
+    "options": [
+      "Use of Gamma radiations",
+      "Use of chemicals",
+      "Use of infrared radiations",
+      "Use of X-rays"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Infrared radiations are not ionizing and typically do not induce mutations. Gamma rays and X-rays are commonly used.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "mutation",
+      "methods"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q64",
+    "question": "Parbhani kranti is a variety of:",
+    "options": [
+      "Bhindi (Okra)",
+      "Chilli",
+      "Flat bean",
+      "Brassica"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Parbhani kranti is a variety of Bhindi (Abelmoschus esculentus) resistant to yellow mosaic virus.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "plant breeding",
+      "varieties"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q65",
+    "question": "Resistance to yellow mosaic virus in Bhindi was transferred from a wild species and resulted in a new variety called:",
+    "options": [
+      "Parbhani Kranti",
+      "Pusa Sawani",
+      "Pusa A-4",
+      "Pusa Komal"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Resistance to yellow mosaic virus in bhindi (Abelmoschus esculentus) was transferred from a wild species and resulted in a new variety of A. esculentus called Parbhani kranti.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "plant breeding",
+      "resistance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q66",
+    "question": "Hairy leaves in many plants are associated with resistance to:",
+    "options": [
+      "Insect pests",
+      "Fungal diseases",
+      "Bacterial diseases",
+      "Viral diseases"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Hairy leaves in several plants are associated with resistance to insect pests, e.g, resistance to jassids in cotton and cereal leaf beetle in wheat.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "pest resistance",
+      "morphology"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q67",
+    "question": "High aspartic acid, low nitrogen and sugar content in maize leads to resistance to:",
+    "options": [
+      "Maize stem borers",
+      "Aphids",
+      "Jassids",
+      "Fruit borer"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "High aspartic acid, low nitrogen and sugar content in maize leads to resistance to maize stem borers.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "pest resistance",
+      "biochemical"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q68",
+    "question": "Pusa Gaurav is a variety of Brassica resistant to:",
+    "options": [
+      "Aphids",
+      "Jassids",
+      "Fruit borer",
+      "Shoot borer"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Pusa Gaurav is a variety of Brassica resistant to Aphids.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "plant breeding",
+      "pest resistance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q69",
+    "question": "Pusa Sem 2 and Pusa Sem 3 are varieties of Flat bean resistant to:",
+    "options": [
+      "Jassids, aphids and fruit borer",
+      "Shoot and Fruit borer",
+      "Stem borer",
+      "White rust"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Pusa Sem 2 and Pusa Sem 3 are varieties of Flat bean resistant to Jassids, aphids and fruit borer.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "plant breeding",
+      "pest resistance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q70",
+    "question": "Pusa Sawani and Pusa A-4 are varieties of Okra resistant to:",
+    "options": [
+      "Shoot and Fruit borer",
+      "Aphids",
+      "Jassids",
+      "Stem borer"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Pusa Sawani and Pusa A-4 are varieties of Okra (Bhindi) resistant to Shoot and Fruit borer.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "plant breeding",
+      "pest resistance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q71",
+    "question": "Atlas 66 is a variety of:",
+    "options": [
+      "Wheat",
+      "Rice",
+      "Maize",
+      "Spinach"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Atlas 66 is a variety of wheat having high protein content.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "biofortification",
+      "wheat"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q72",
+    "question": "Iron-fortified rice has over _____ times as much iron as in common varieties.",
+    "options": [
+      "5",
+      "2",
+      "10",
+      "3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "It has over 5 times as much iron as in common varieties.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "biofortification",
+      "rice"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q73",
+    "question": "IARI stands for:",
+    "options": [
+      "Indian Agricultural Research Institute",
+      "International Agricultural Research Institute",
+      "Indian Agronomy Research Institute",
+      "International Agronomy Research Institute"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "IARI stands for Indian Agricultural Research Institute, New Delhi.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "institutions",
+      "abbreviation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q74",
+    "question": "Methylophilus methylotrophus is a bacterium used for production of:",
+    "options": [
+      "Single Cell Protein",
+      "Antibiotics",
+      "Biogas",
+      "Ethanol"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "250g of Methylophilus methylotrophus can produce 25 tonnes of protein.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "single cell protein",
+      "bacteria"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q75",
+    "question": "Micro-propagation is:",
+    "options": [
+      "Producing thousands of plants through tissue culture",
+      "Producing plants through seeds",
+      "Producing plants through grafting",
+      "Producing plants through layering"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Micro-propagation is the method of producing thousands of plants through tissue culture.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "tissue culture",
+      "micro-propagation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q76",
+    "question": "Somaclones are:",
+    "options": [
+      "Genetically identical plants produced by tissue culture",
+      "Genetically different plants produced by tissue culture",
+      "Plants produced by sexual reproduction",
+      "Plants produced by mutation"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Each of these plants will be genetically identical to the original plant from which they were grown, i.e., they are somaclones.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "tissue culture",
+      "somaclones"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q77",
+    "question": "Somatic hybridization involves fusion of:",
+    "options": [
+      "Protoplasts of two different varieties/species",
+      "Gametes of two different varieties/species",
+      "Cells of same variety",
+      "Nuclei of same variety"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Isolated protoplasts from two different varieties of plants... can be fused to get hybrid protoplasts... this process is called somatic hybridisation.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "tissue culture",
+      "somatic hybridization"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q78",
+    "question": "Pomato is a somatic hybrid of:",
+    "options": [
+      "Potato and Tomato",
+      "Potato and Brinjal",
+      "Tomato and Brinjal",
+      "Potato and Onion"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Pomato is a somatic hybrid of Potato and Tomato.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "tissue culture",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q79",
+    "question": "To obtain virus-free plants from a virus-infected plant, which part is used as an explant?",
+    "options": [
+      "Meristem (Apical and Axillary)",
+      "Leaf",
+      "Root",
+      "Stem"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The meristem (apical and axillary) is free of virus.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "tissue culture",
+      "virus-free"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q80",
+    "question": "Which of the following plants have been successfully cultured from meristems?",
+    "options": [
+      "Banana, Sugarcane, Potato",
+      "Wheat, Rice, Maize",
+      "Mango, Apple, Pear",
+      "Neem, Tulsi, Rose"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Scientists have succeeded in culturing meristems of banana, sugarcane, potato, etc.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "tissue culture",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q81",
+    "question": "Inbreeding increases:",
+    "options": [
+      "Homozygosity",
+      "Heterozygosity",
+      "Variation",
+      "Mutation"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Inbreeding increases homozygosity.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "animal breeding",
+      "inbreeding"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q82",
+    "question": "The best breeding method for animals that are below average in milk production in cattle is:",
+    "options": [
+      "Outcrossing",
+      "Cross-breeding",
+      "Interspecific hybridisation",
+      "Inbreeding"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Outcrossing is the best breeding method for animals that are below average in productivity.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "animal breeding",
+      "outcrossing"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q83",
+    "question": "Which of the following is an example of interspecific hybridisation?",
+    "options": [
+      "Mule",
+      "Hisardale",
+      "Jersey",
+      "Leghorn"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Mule is an example of interspecific hybridisation.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "animal breeding",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q84",
+    "question": "Which of the following is not a fresh water fish?",
+    "options": [
+      "Mackerel",
+      "Catla",
+      "Rohu",
+      "Common carp"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Mackerel is a marine fish.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "fisheries",
+      "marine"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q85",
+    "question": "Which of the following is not a marine fish?",
+    "options": [
+      "Rohu",
+      "Hilsa",
+      "Sardines",
+      "Pomfrets"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Rohu is a freshwater fish.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "fisheries",
+      "freshwater"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q86",
+    "question": "The contribution of agriculture to India's GDP is approximately:",
+    "options": [
+      "33%",
+      "62%",
+      "20%",
+      "50%"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "It is approximately 33%.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "agriculture",
+      "statistics"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q87",
+    "question": "Which of the following is a high yielding variety of wheat?",
+    "options": [
+      "Sonalika",
+      "Jaya",
+      "Ratna",
+      "IR-8"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Sonalika is a high yielding variety of wheat.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "plant breeding",
+      "wheat"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q88",
+    "question": "Which of the following is a high yielding variety of rice?",
+    "options": [
+      "Ratna",
+      "Sonalika",
+      "Kalyan Sona",
+      "Himgiri"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Ratna is a high yielding variety of rice.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "plant breeding",
+      "rice"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q89",
+    "question": "Lysine and Tryptophan rich varieties of _____ were developed in India.",
+    "options": [
+      "Maize",
+      "Wheat",
+      "Rice",
+      "Barley"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Maize hybrids with twice the amount of amino acids, lysine and tryptophan, were developed.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "biofortification",
+      "maize"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q90",
+    "question": "Protoplast fusion requires:",
+    "options": [
+      "PEG (Polyethylene glycol)",
+      "Agar",
+      "Auxin",
+      "Cytokinin"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Protoplasts can be fused using PEG (Polyethylene glycol).",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "tissue culture",
+      "somatic hybridization"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q91",
+    "question": "Which of the following statements is incorrect regarding inbreeding?",
+    "options": [
+      "Inbreeding increases homozygosity.",
+      "Inbreeding is essential to evolve a pureline.",
+      "Inbreeding helps in accumulation of superior genes and elimination of less desirable genes.",
+      "Inbreeding increases the productivity of inbred population indefinitely."
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Continued inbreeding usually reduces fertility and even productivity (inbreeding depression). It does not increase productivity indefinitely.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "animal breeding",
+      "inbreeding"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q92",
+    "question": "In MOET technology, the fertilized eggs are transferred to surrogate mothers at:",
+    "options": [
+      "2-cell stage",
+      "4-cell stage",
+      "8-32 cell stage",
+      "Blastocyst stage"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "The fertilized eggs at 8-32 cells stages, are recovered non-surgically and transferred to surrogate mothers.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "animal breeding",
+      "moet"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q93",
+    "question": "Select the correct statement regarding 'Interspecific Hybridisation':",
+    "options": [
+      "Mating of animals within the same breed without common ancestors.",
+      "Male and female animals of two different related species are mated.",
+      "Superior males of one breed are mated with superior females of another breed.",
+      "Mating of closely related individuals within the same breed."
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Interspecific hybridisation involves mating of male and female animals of two different related species (e.g., Mule).",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "animal breeding",
+      "interspecific hybridisation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q94",
+    "question": "Which of the following is correct about 'Saccharum barberi' and 'Saccharum officinarum'?",
+    "options": [
+      "S. barberi was grown in South India and had high sugar content.",
+      "S. officinarum was grown in North India and had poor sugar content.",
+      "S. barberi had thinner stems and lower sugar content, while S. officinarum had thicker stems and higher sugar content.",
+      "S. officinarum could grow well in North India originally."
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "explanation": "S. barberi (North India) had poor sugar/yield. S. officinarum (South India) had thick stems/high sugar but didn't grow well in North India. They were crossed.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "plant breeding",
+      "sugarcane"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q95",
+    "question": "Match the following crop varieties with their resistance:\n1. Pusa Swarnim (Brassica) - A. Bacterial blight\n2. Pusa Shubhra (Cauliflower) - B. White rust\n3. Pusa Komal (Cowpea) - C. Black rot",
+    "options": [
+      "1-B, 2-C, 3-A",
+      "1-A, 2-B, 3-C",
+      "1-C, 2-A, 3-B",
+      "1-B, 2-A, 3-C"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Pusa Swarnim - White rust; Pusa Shubhra - Black rot; Pusa Komal - Bacterial blight.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "plant breeding",
+      "disease resistance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q96",
+    "question": "Which of the following combinations is correct for pest resistance?",
+    "options": [
+      "Pusa Gaurav (Brassica) - Aphids",
+      "Pusa Sem 2 (Flat bean) - Shoot borer",
+      "Pusa Sawani (Okra) - Jassids",
+      "Pusa A-4 (Okra) - Aphids"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Pusa Gaurav is resistant to Aphids. Pusa Sem 2 is resistant to Jassids/Aphids/Fruit borer. Pusa Sawani/A-4 are resistant to Shoot and Fruit borer.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "plant breeding",
+      "pest resistance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q97",
+    "question": "The entire collection of plants/seeds having all the diverse alleles for all genes in a given crop is called germplasm collection. Why is it important?",
+    "options": [
+      "It is the root of any breeding program.",
+      "It allows selection of parents with desirable combinations.",
+      "It preserves genetic variability.",
+      "All of the above."
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Germplasm collection is crucial for all the listed reasons.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "plant breeding",
+      "germplasm"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q98",
+    "question": "In tissue culture, the capacity to generate a whole plant from any cell/explant is called totipotency. This was first demonstrated by:",
+    "options": [
+      "Steward",
+      "Haberlandt",
+      "Skoog and Miller",
+      "Guha and Maheshwari"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "F.C. Steward demonstrated totipotency in carrot root cells.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "tissue culture",
+      "history"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q99",
+    "question": "Somatic hybrids are produced by fusion of protoplasts. Which enzyme is used to digest the cell wall?",
+    "options": [
+      "Cellulase and Pectinase",
+      "Amylase and Lipase",
+      "Protease and Nuclease",
+      "Ligase and Polymerase"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "The cell wall is digested by Cellulase and Pectinase to isolate protoplasts.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "tissue culture",
+      "protoplast"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q100",
+    "question": "Which of the following is NOT a benefit of micro-propagation?",
+    "options": [
+      "Rapid multiplication of plants",
+      "Production of genetically identical plants (somaclones)",
+      "Production of virus-free plants from infected stock",
+      "Introduction of new genetic variations"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Micro-propagation produces clones (somaclones), so it does not introduce new genetic variations (unless somaclonal variation occurs, but that's not the primary benefit/goal).",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "tissue culture",
+      "micro-propagation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q101",
+    "question": "Biofortification involves breeding crops with improved nutritional quality. Which of the following is NOT a parameter for improvement?",
+    "options": [
+      "Protein content and quality",
+      "Oil content and quality",
+      "Vitamin content",
+      "Water content"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Biofortification targets protein, oil, vitamin, and micronutrient content, not water content.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "biofortification",
+      "objectives"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q102",
+    "question": "Which of the following is true about 'Atlas 66'?",
+    "options": [
+      "It is a wheat variety with high protein content.",
+      "It is a rice variety with high iron content.",
+      "It is a maize variety with high lysine content.",
+      "It is a spinach variety with high vitamin A."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Atlas 66 is a wheat variety with high protein content, used as a donor for improving cultivated wheat.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "biofortification",
+      "wheat"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q103",
+    "question": "Identify the incorrect statement about Single Cell Protein (SCP):",
+    "options": [
+      "It reduces environmental pollution.",
+      "It is produced from unicellular organisms only.",
+      "Spirulina can be grown on waste water.",
+      "Methylophilus methylotrophus has high rate of biomass production."
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "SCP can be produced from unicellular (bacteria, yeast, algae) AND multicellular organisms (like filamentous fungi/mushrooms). Although the name says 'Single Cell', it refers to the microbial biomass.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "single cell protein",
+      "facts"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q104",
+    "question": "In plant breeding, 'Evaluation and selection of parents' is followed by:",
+    "options": [
+      "Collection of variability",
+      "Cross hybridisation among the selected parents",
+      "Selection and testing of superior recombinants",
+      "Testing, release and commercialisation"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "The order is: Collection -> Evaluation/Selection of parents -> Cross hybridisation -> Selection of recombinants -> Testing/Release.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "plant breeding",
+      "steps"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q105",
+    "question": "Which of the following is an example of a crop variety resistant to 'Hill bunt'?",
+    "options": [
+      "Himgiri (Wheat)",
+      "Pusa Swarnim (Brassica)",
+      "Pusa Shubhra (Cauliflower)",
+      "Pusa Komal (Cowpea)"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Himgiri (Wheat) is resistant to Hill bunt and Leaf and stripe rust.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "plant breeding",
+      "disease resistance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q106",
+    "question": "The 'Pomato' did not have all the desired combinations of characteristics for commercial utilization. It was produced by:",
+    "options": [
+      "Sexual hybridization",
+      "Somatic hybridization",
+      "Mutation breeding",
+      "Biofortification"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Pomato was produced by somatic hybridization (protoplast fusion).",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "tissue culture",
+      "somatic hybridization"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q107",
+    "question": "Which of the following is correct regarding the 'Green Revolution' in India?",
+    "options": [
+      "It occurred in the 1960s.",
+      "It was dependent on plant breeding techniques.",
+      "It led to a dramatic increase in food production.",
+      "All of the above."
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "All statements are correct regarding the Green Revolution.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "green revolution",
+      "history"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q108",
+    "question": "Resistance to 'Yellow Mosaic Virus' in Mung bean was induced by:",
+    "options": [
+      "Mutation breeding",
+      "Conventional breeding",
+      "Somatic hybridization",
+      "Tissue culture"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "It was induced by mutation breeding.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "mutation breeding",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q109",
+    "question": "Which of the following is NOT a step in Multiple Ovulation Embryo Transfer (MOET)?",
+    "options": [
+      "Cow is administered FSH-like hormone.",
+      "Cow produces 6-8 eggs instead of one.",
+      "Cow is mated with an elite bull or artificially inseminated.",
+      "Embryos are transferred surgically at 8-32 cell stage."
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Embryos are transferred NON-surgically.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "animal breeding",
+      "moet"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q110",
+    "question": "Which of the following is a marine fish having high economic value?",
+    "options": [
+      "Pomfrets",
+      "Catla",
+      "Rohu",
+      "Mrigal"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Pomfrets are marine fishes. Catla, Rohu, Mrigal are freshwater fishes.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "fisheries",
+      "marine"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q111",
+    "question": "In maize, resistance to stem borers is associated with:",
+    "options": [
+      "High aspartic acid, low nitrogen and sugar content",
+      "Low aspartic acid, high nitrogen and sugar content",
+      "Solid stem",
+      "Nectarless flowers"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "High aspartic acid, low nitrogen and sugar content.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "pest resistance",
+      "biochemical"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q112",
+    "question": "Smooth leaved and nectar-less cotton varieties do not attract:",
+    "options": [
+      "Bollworms",
+      "Aphids",
+      "Jassids",
+      "Stem borers"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "They do not attract bollworms.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "pest resistance",
+      "morphology"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q113",
+    "question": "Which of the following is a variety of Chilli resistant to 'Chilli mosaic virus'?",
+    "options": [
+      "Pusa Sadabahar",
+      "Pusa Komal",
+      "Pusa Swarnim",
+      "Pusa Shubhra"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Pusa Sadabahar is resistant to Chilli mosaic virus.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "plant breeding",
+      "disease resistance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q114",
+    "question": "The capacity of a cell to regenerate into a whole plant is called totipotency. The nutrient medium for tissue culture must contain:",
+    "options": [
+      "Carbon source (sucrose), inorganic salts, vitamins, amino acids, and growth regulators",
+      "Only Carbon source",
+      "Only Growth regulators",
+      "Only Inorganic salts"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "The medium must contain a carbon source (sucrose), inorganic salts, vitamins, amino acids, and growth regulators like auxins and cytokinins.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "tissue culture",
+      "medium"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q115",
+    "question": "Which of the following is correct about 'Pusa Sem 3'?",
+    "options": [
+      "It is a variety of Flat bean resistant to Jassids and Aphids.",
+      "It is a variety of Okra resistant to Shoot borer.",
+      "It is a variety of Brassica resistant to Aphids.",
+      "It is a variety of Cowpea resistant to Bacterial blight."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Pusa Sem 3 is a variety of Flat bean resistant to Jassids, Aphids and Fruit borer.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "plant breeding",
+      "pest resistance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q116",
+    "question": "Which of the following is NOT true for 'Apiculture'?",
+    "options": [
+      "It is labor intensive.",
+      "It requires knowledge of the nature and habits of bees.",
+      "It provides additional income.",
+      "It helps in pollination of crops."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Apiculture is NOT labor intensive.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "apiculture",
+      "facts"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q117",
+    "question": "The 'Blue Revolution' is to 'Fish' as 'White Revolution' is to:",
+    "options": [
+      "Milk",
+      "Rice",
+      "Cotton",
+      "Eggs"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "White Revolution is related to Milk (Operation Flood).",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "revolutions",
+      "analogy"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q118",
+    "question": "Which of the following is a viral disease of plants?",
+    "options": [
+      "Tobacco mosaic",
+      "Black rot of crucifers",
+      "Brown rust of wheat",
+      "Red rot of sugarcane"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Tobacco mosaic is viral. Black rot is bacterial. Brown rust and Red rot are fungal.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "plant diseases",
+      "virus"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q119",
+    "question": "In 2000, maize hybrids that had twice the amount of the amino acids, lysine and tryptophan, compared to existing maize hybrids were developed. This is an example of:",
+    "options": [
+      "Biofortification",
+      "Mutation breeding",
+      "Tissue culture",
+      "Somatic hybridization"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "This is an example of biofortification (improving nutritional quality).",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "biofortification",
+      "maize"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_strategies_enhancement_q120",
+    "question": "Which of the following statements about 'Hisardale' is correct?",
+    "options": [
+      "It is a new breed of sheep developed in Punjab.",
+      "It is a cross between Bikaneri ewes and Marino rams.",
+      "It is an example of cross-breeding.",
+      "All of the above."
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "All statements are correct.",
+    "subject": "Botany",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "tags": [
+      "animal breeding",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "strategies_for_enhancement_in_food_production",
+    "subjectId": "botany"
+  }
+]

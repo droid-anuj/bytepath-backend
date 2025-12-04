@@ -1,0 +1,2882 @@
+[
+  {
+    "id": "botany_principles_inheritance_q1",
+    "question": "Genetics is the branch of biology which deals with:",
+    "options": [
+      "Inheritance",
+      "Variation",
+      "Both Inheritance and Variation",
+      "Evolution"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "explanation": "Genetics deals with the inheritance, as well as the variation of characters from parents to offspring.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "genetics",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q2",
+    "question": "Inheritance is the process by which characters are passed on from:",
+    "options": [
+      "Parent to progeny",
+      "Progeny to parent",
+      "Male to female",
+      "Female to male"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Inheritance is the process by which characters are passed on from parent to progeny.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "inheritance",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q3",
+    "question": "Variation is the degree by which progeny differ from:",
+    "options": [
+      "Their parents",
+      "Their siblings",
+      "Their species",
+      "Their genus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Variation is the degree by which progeny differ from their parents.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "variation",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q4",
+    "question": "Gregor Mendel conducted hybridisation experiments on:",
+    "options": [
+      "Garden peas",
+      "Sweet peas",
+      "Chickpeas",
+      "Pigeon peas"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Gregor Mendel, conducted hybridisation experiments on garden peas for seven years.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "mendel",
+      "experiments"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q5",
+    "question": "For how many years did Mendel conduct his experiments?",
+    "options": [
+      "5 years",
+      "7 years",
+      "10 years",
+      "14 years"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Mendel conducted hybridisation experiments on garden peas for seven years (1856-1863).",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "mendel",
+      "experiments"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q6",
+    "question": "How many true-breeding pea plant varieties did Mendel select?",
+    "options": [
+      "7",
+      "14",
+      "21",
+      "28"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "Mendel selected 14 true-breeding pea plant varieties, as pairs which were similar except for one character with contrasting traits.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "mendel",
+      "experiments"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q7",
+    "question": "Which of the following is a dominant trait in pea plants?",
+    "options": [
+      "Dwarf stem height",
+      "White flower color",
+      "Yellow pod color",
+      "Round seed shape"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Round seed shape is dominant over wrinkled. Dwarf, White flower, and Yellow pod are recessive traits (Green pod is dominant).",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "mendel",
+      "traits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q8",
+    "question": "Which of the following is a recessive trait in pea plants?",
+    "options": [
+      "Violet flower color",
+      "Axial flower position",
+      "Green pod color",
+      "Wrinkled seed shape"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "Wrinkled seed shape is recessive. Violet flower, Axial flower, and Green pod are dominant traits.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "mendel",
+      "traits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q9",
+    "question": "The F1 generation in a monohybrid cross between tall and dwarf plants resembles:",
+    "options": [
+      "Only the tall parent",
+      "Only the dwarf parent",
+      "Both parents",
+      "Neither parent"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "He found that the F1 always resembled either one of the parents, and that the trait of the other parent was not seen in them.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "monohybrid cross",
+      "f1 generation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q10",
+    "question": "In the F2 generation of a monohybrid cross, the phenotypic ratio is:",
+    "options": [
+      "1:2:1",
+      "3:1",
+      "9:3:3:1",
+      "1:1"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "The phenotypic ratio in F2 generation of a monohybrid cross is 3:1 (Dominant:Recessive).",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "monohybrid cross",
+      "ratio"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q11",
+    "question": "The genotypic ratio in the F2 generation of a monohybrid cross is:",
+    "options": [
+      "3:1",
+      "1:2:1",
+      "9:3:3:1",
+      "1:1"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "The genotypic ratio is 1:2:1 (TT:Tt:tt).",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "monohybrid cross",
+      "ratio"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q12",
+    "question": "Genes which code for a pair of contrasting traits are known as:",
+    "options": [
+      "Alleles",
+      "Factors",
+      "Chromosomes",
+      "Gametes"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Genes which code for a pair of contrasting traits are known as alleles, i.e., they are slightly different forms of the same gene.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "alleles",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q13",
+    "question": "An organism having two identical alleles of a gene is called:",
+    "options": [
+      "Heterozygous",
+      "Homozygous",
+      "Hemizygous",
+      "Hybrid"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "If the alleles are identical (e.g., TT or tt), the organism is homozygous.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "genotype",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q14",
+    "question": "An organism having two different alleles of a gene is called:",
+    "options": [
+      "Homozygous",
+      "Heterozygous",
+      "Recessive",
+      "Dominant"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "If the alleles are different (e.g., Tt), the organism is heterozygous.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "genotype",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q15",
+    "question": "A test cross is used to determine:",
+    "options": [
+      "The phenotype of the plant",
+      "The genotype of the plant",
+      "The number of chromosomes",
+      "The age of the plant"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "A test cross is used to determine the genotype of the plant at F2 (or any dominant phenotype).",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "test cross",
+      "application"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q16",
+    "question": "In a test cross, the F1 hybrid is crossed with:",
+    "options": [
+      "Dominant parent",
+      "Recessive parent",
+      "Another F1 hybrid",
+      "Any plant"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "In a typical test cross an organism (pea plants here) showing a dominant phenotype (and whose genotype is to be determined) is crossed with the recessive parent.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "test cross",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q17",
+    "question": "The Law of Dominance states that:",
+    "options": [
+      "Characters are controlled by discrete units called factors.",
+      "Factors occur in pairs.",
+      "In a dissimilar pair of factors one member of the pair dominates the other.",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "The Law of Dominance states all three points.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "mendel's laws",
+      "dominance"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q18",
+    "question": "The Law of Segregation is based on the fact that:",
+    "options": [
+      "Alleles do not show any blending and both characters are recovered in F2.",
+      "Alleles blend in F1.",
+      "Only one character is recovered in F2.",
+      "Characters are always linked."
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "This law is based on the fact that the alleles do not show any blending and that both the characters are recovered as such in the F2 generation.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "mendel's laws",
+      "segregation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q19",
+    "question": "Incomplete dominance is seen in:",
+    "options": [
+      "Snapdragon (Antirrhinum sp.)",
+      "Garden pea",
+      "Human blood groups",
+      "Drosophila"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The inheritance of flower colour in the dog flower (snapdragon or Antirrhinum sp.) is a good example of incomplete dominance.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "incomplete dominance",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q20",
+    "question": "In incomplete dominance, the F1 phenotype is:",
+    "options": [
+      "Intermediate between the two parents",
+      "Resembles the dominant parent",
+      "Resembles the recessive parent",
+      "Resembles both parents"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "In incomplete dominance, the F1 had a phenotype that did not resemble either of the two parents and was in between the two.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "incomplete dominance",
+      "phenotype"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q21",
+    "question": "Co-dominance is seen in:",
+    "options": [
+      "ABO blood grouping in humans",
+      "Flower color in Snapdragon",
+      "Seed shape in Pea",
+      "Pod color in Pea"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "A good example is different types of red blood cells that determine ABO blood grouping in human beings.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "co-dominance",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q22",
+    "question": "In co-dominance, the F1 progeny:",
+    "options": [
+      "Resembles both parents",
+      "Resembles dominant parent",
+      "Is intermediate",
+      "Resembles recessive parent"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "In co-dominance the F1 generation resembles both parents.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "co-dominance",
+      "phenotype"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q23",
+    "question": "ABO blood groups are controlled by the gene:",
+    "options": [
+      "I",
+      "A",
+      "B",
+      "O"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "ABO blood groups are controlled by the gene I.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "blood groups",
+      "genetics"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q24",
+    "question": "How many alleles does the gene I have?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "One"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "explanation": "The gene (I) has three alleles IA, IB and i.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "blood groups",
+      "alleles"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q25",
+    "question": "The phenotypic ratio of a dihybrid cross is:",
+    "options": [
+      "9:3:3:1",
+      "1:2:1",
+      "3:1",
+      "1:1:1:1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The phenotypic ratio of a dihybrid cross is 9:3:3:1.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "dihybrid cross",
+      "ratio"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q26",
+    "question": "The Law of Independent Assortment applies to:",
+    "options": [
+      "Dihybrid cross",
+      "Monohybrid cross",
+      "Test cross",
+      "Back cross"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The Law of Independent Assortment is based on observations of dihybrid crosses.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "mendel's laws",
+      "independent assortment"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q27",
+    "question": "Chromosomal Theory of Inheritance was proposed by:",
+    "options": [
+      "Sutton and Boveri",
+      "Morgan",
+      "Mendel",
+      "Watson and Crick"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Sutton and Boveri noted that the behaviour of chromosomes was parallel to the behaviour of genes... and proposed the chromosomal theory of inheritance.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "chromosomal theory",
+      "scientists"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q28",
+    "question": "Experimental verification of the chromosomal theory of inheritance was given by:",
+    "options": [
+      "T.H. Morgan",
+      "Sutton",
+      "Boveri",
+      "Mendel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Experimental verification of the chromosomal theory of inheritance by Thomas Hunt Morgan and his colleagues.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "chromosomal theory",
+      "scientists"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q29",
+    "question": "Morgan worked with:",
+    "options": [
+      "Drosophila melanogaster",
+      "Pisum sativum",
+      "Antirrhinum",
+      "Neurospora"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Morgan worked with the tiny fruit flies, Drosophila melanogaster.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "morgan",
+      "organism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q30",
+    "question": "Linkage refers to:",
+    "options": [
+      "Physical association of genes on a chromosome",
+      "Separation of genes during gamete formation",
+      "Independent assortment of genes",
+      "Mutation of genes"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Morgan attributed this due to the physical association or linkage of the two genes and coined the term linkage.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "linkage",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q31",
+    "question": "Recombination refers to:",
+    "options": [
+      "Generation of non-parental gene combinations",
+      "Physical association of genes",
+      "Mutation",
+      "Segregation"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Recombination describes the generation of non-parental gene combinations.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "recombination",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q32",
+    "question": "Henking (1891) discovered a specific nuclear structure which he named:",
+    "options": [
+      "X body",
+      "Y body",
+      "Barr body",
+      "Nucleolus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Henking named this structure as the X body.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "sex determination",
+      "history"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q33",
+    "question": "The sex determination mechanism in humans is:",
+    "options": [
+      "XX-XY type",
+      "XX-XO type",
+      "ZZ-ZW type",
+      "Haplo-diploid type"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "In humans, the sex determination mechanism is XX-XY type.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "sex determination",
+      "humans"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q34",
+    "question": "In humans, females have:",
+    "options": [
+      "Two X chromosomes",
+      "One X and one Y chromosome",
+      "One X chromosome",
+      "Two Y chromosomes"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Females have a pair of X chromosomes.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "sex determination",
+      "humans"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q35",
+    "question": "In humans, males have:",
+    "options": [
+      "One X and one Y chromosome",
+      "Two X chromosomes",
+      "One X chromosome",
+      "Two Y chromosomes"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Males have one X and one Y chromosome.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "sex determination",
+      "humans"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q36",
+    "question": "Which of the following causes sickle-cell anaemia?",
+    "options": [
+      "Substitution of Glutamic acid by Valine",
+      "Substitution of Valine by Glutamic acid",
+      "Deletion of Glutamic acid",
+      "Insertion of Valine"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The defect is caused by the substitution of Glutamic acid (Glu) by Valine (Val) at the sixth position of the beta globin chain.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "genetic disorders",
+      "sickle-cell anaemia"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q37",
+    "question": "Down's syndrome is caused by:",
+    "options": [
+      "Trisomy of chromosome 21",
+      "Monosomy of chromosome 21",
+      "Trisomy of chromosome 18",
+      "Nullisomy of chromosome 21"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The cause of this genetic disorder is the presence of an additional copy of the chromosome number 21 (trisomy of 21).",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "chromosomal disorders",
+      "down's syndrome"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q38",
+    "question": "Klinefelter's syndrome is characterized by the karyotype:",
+    "options": [
+      "47, XXY",
+      "45, XO",
+      "47, XYY",
+      "47, XXX"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "This genetic disorder is also caused due to the presence of an additional copy of X-chromosome resulting into a karyotype of 47, XXY.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "chromosomal disorders",
+      "klinefelter's syndrome"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q39",
+    "question": "Turner's syndrome is characterized by the karyotype:",
+    "options": [
+      "45, XO",
+      "47, XXY",
+      "47, XXX",
+      "46, XY"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Such a disorder is caused due to the absence of one of the X chromosomes, i.e., 45 with X0.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "chromosomal disorders",
+      "turner's syndrome"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q40",
+    "question": "Mutation is a phenomenon which results in alteration of:",
+    "options": [
+      "DNA sequences",
+      "Protein sequences",
+      "RNA sequences",
+      "Carbohydrate sequences"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Mutation is a phenomenon which results in alteration of DNA sequences and consequently results in changes in the genotype and the phenotype of an organism.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "mutation",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q41",
+    "question": "Which of the following characters was NOT selected by Mendel in his experiments?",
+    "options": [
+      "Plant height",
+      "Flower color",
+      "Pod length",
+      "Seed shape"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Mendel selected Pod shape (Inflated/Constricted) and Pod color (Green/Yellow), but not Pod length.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "mendel",
+      "traits"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q42",
+    "question": "In a cross between a tall pea plant (TT) and a dwarf pea plant (tt), what will be the genotype of the F1 generation?",
+    "options": [
+      "TT",
+      "Tt",
+      "tt",
+      "TT and tt"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "The F1 generation will be heterozygous (Tt).",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "monohybrid cross",
+      "genotype"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q43",
+    "question": "When F1 individuals (Tt) are self-pollinated, what percentage of the F2 progeny will be dwarf?",
+    "options": [
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "In F2 generation, 25% are TT, 50% are Tt, and 25% are tt (dwarf).",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "monohybrid cross",
+      "ratio"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q44",
+    "question": "Which of the following crosses will produce a 1:1 phenotypic ratio in the progeny?",
+    "options": [
+      "TT x tt",
+      "Tt x Tt",
+      "Tt x tt",
+      "TT x Tt"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "A cross between a heterozygote (Tt) and a recessive homozygote (tt) is a test cross and produces a 1:1 ratio.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "test cross",
+      "ratio"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q45",
+    "question": "In Snapdragon, a cross between a red-flowered plant (RR) and a white-flowered plant (rr) yields pink-flowered plants (Rr) in F1. This is an example of:",
+    "options": [
+      "Complete dominance",
+      "Incomplete dominance",
+      "Co-dominance",
+      "Epistasis"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "This is a classic example of incomplete dominance where the heterozygote shows an intermediate phenotype.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "incomplete dominance",
+      "example"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q46",
+    "question": "What is the phenotypic ratio in the F2 generation of a cross showing incomplete dominance?",
+    "options": [
+      "3:1",
+      "1:2:1",
+      "9:3:3:1",
+      "1:1"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "In incomplete dominance, the phenotypic ratio is same as genotypic ratio, i.e., 1:2:1 (Red:Pink:White).",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "incomplete dominance",
+      "ratio"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q47",
+    "question": "A person with blood group AB has which of the following genotypes?",
+    "options": [
+      "IAIA",
+      "IBIB",
+      "IAIB",
+      "ii"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Blood group AB has the genotype IAIB.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "blood groups",
+      "genotype"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q48",
+    "question": "Multiple alleles are present:",
+    "options": [
+      "At different loci on the same chromosome",
+      "At the same locus of the chromosome",
+      "On non-homologous chromosomes",
+      "On different chromosomes"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "Multiple alleles can be found only when population studies are made... they are present at the same locus of the chromosome.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "multiple alleles",
+      "location"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q49",
+    "question": "Starch synthesis in pea seeds is controlled by a single gene. This gene has two alleles (B and b). Starch grains produced by BB are large, bb are small, and Bb are intermediate. This shows:",
+    "options": [
+      "Dominance",
+      "Incomplete dominance",
+      "Co-dominance",
+      "Multiple allelism"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "The heterozygote (Bb) produces intermediate size starch grains, showing incomplete dominance.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "incomplete dominance",
+      "example"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q50",
+    "question": "How many different types of gametes will be produced by a plant with genotype AaBb?",
+    "options": [
+      "2",
+      "4",
+      "8",
+      "16"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "The number of gametes is 2^n, where n is the number of heterozygous pairs. Here n=2, so 2^2 = 4 (AB, Ab, aB, ab).",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "gametes",
+      "calculation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q51",
+    "question": "In a dihybrid cross between RRYY (Round Yellow) and rryy (Wrinkled Green), what is the ratio of Round Yellow seeds in F2 generation?",
+    "options": [
+      "9/16",
+      "3/16",
+      "1/16",
+      "1/2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "In a standard dihybrid cross, 9/16 are Round Yellow (R_Y_).",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "dihybrid cross",
+      "ratio"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q52",
+    "question": "Which of the following statements is NOT a feature of the Chromosomal Theory of Inheritance?",
+    "options": [
+      "Chromosomes occur in pairs.",
+      "Genes occur in pairs.",
+      "Chromosomes segregate during gamete formation.",
+      "Genes on the same chromosome always assort independently."
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "Genes on the same chromosome are linked and do not always assort independently (unless crossing over occurs).",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "chromosomal theory",
+      "features"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q53",
+    "question": "In Drosophila, the genes for white eye and yellow body are very tightly linked and showed only _____ recombination.",
+    "options": [
+      "1.3%",
+      "37.2%",
+      "50%",
+      "0%"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The genes white (w) and yellow (y) were very tightly linked and showed only 1.3 per cent recombination.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "linkage",
+      "drosophila"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q54",
+    "question": "In Drosophila, the genes for white eye and miniature wing showed _____ recombination.",
+    "options": [
+      "1.3%",
+      "37.2%",
+      "50%",
+      "100%"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "explanation": "The genes white (w) and miniature wing (m) showed 37.2 per cent recombination.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "linkage",
+      "drosophila"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q55",
+    "question": "Who used the frequency of recombination between gene pairs on the same chromosome as a measure of the distance between genes and mapped their position on the chromosome?",
+    "options": [
+      "Alfred Sturtevant",
+      "T.H. Morgan",
+      "Sutton",
+      "Boveri"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Alfred Sturtevant used the frequency of recombination... as a measure of the distance between genes.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "gene mapping",
+      "history"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q56",
+    "question": "Polygenic inheritance is controlled by:",
+    "options": [
+      "One gene",
+      "Two genes",
+      "Three or more genes",
+      "No genes"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "explanation": "Traits are generally controlled by three or more genes and are thus called polygenic traits.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "polygenic inheritance",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q57",
+    "question": "Human skin color is an example of:",
+    "options": [
+      "Polygenic inheritance",
+      "Pleiotropy",
+      "Co-dominance",
+      "Multiple allelism"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Classic example of polygenic inheritance is human skin colour.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "polygenic inheritance",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q58",
+    "question": "Pleiotropy refers to:",
+    "options": [
+      "A single gene exhibiting multiple phenotypic expression",
+      "Multiple genes controlling a single character",
+      "A single gene controlling a single character",
+      "Two genes controlling two characters"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "A single gene can exhibit multiple phenotypic expression. Such a gene is called a pleiotropic gene.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "pleiotropy",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q59",
+    "question": "Phenylketonuria is an example of:",
+    "options": [
+      "Pleiotropy",
+      "Polygenic inheritance",
+      "Co-dominance",
+      "Incomplete dominance"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The disease phenylketonuria... is an example of pleiotropy.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "pleiotropy",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q60",
+    "question": "In the XO type of sex determination, males have:",
+    "options": [
+      "Only one X chromosome",
+      "One X and one Y chromosome",
+      "Two X chromosomes",
+      "Two Y chromosomes"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Males have only one X-chromosome besides the autosomes.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "sex determination",
+      "insects"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q61",
+    "question": "Which of the following organisms shows ZZ-ZW type of sex determination?",
+    "options": [
+      "Birds",
+      "Humans",
+      "Grasshopper",
+      "Drosophila"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "In birds, the female has a pair of dissimilar chromosomes ZW and male has two similar Z-chromosomes.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "sex determination",
+      "birds"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q62",
+    "question": "In birds, the female is:",
+    "options": [
+      "Heterogametic (ZW)",
+      "Homogametic (ZZ)",
+      "Heterogametic (XY)",
+      "Homogametic (XX)"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "In birds, the females are heterogametic (ZW).",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "sex determination",
+      "birds"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q63",
+    "question": "Sex determination in Honey bee is based on:",
+    "options": [
+      "The number of sets of chromosomes",
+      "X and Y chromosomes",
+      "Z and W chromosomes",
+      "Temperature"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The sex determination in honey bee is based on the number of sets of chromosomes an individual receives (haplo-diploid).",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "sex determination",
+      "honey bee"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q64",
+    "question": "Male honey bees (drones) are:",
+    "options": [
+      "Haploid",
+      "Diploid",
+      "Triploid",
+      "Tetraploid"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "An unfertilised egg develops as a male (drone) by means of parthenogenesis. This means that the males have half the number of chromosomes (haploid).",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "sex determination",
+      "honey bee"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q65",
+    "question": "Pedigree analysis is used to study:",
+    "options": [
+      "Inheritance of specific traits in a family",
+      "Evolution of species",
+      "Structure of chromosomes",
+      "Protein synthesis"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The study of the family history about inheritance of a particular trait provides an alternative... called pedigree analysis.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "pedigree analysis",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q66",
+    "question": "In pedigree analysis, a square represents:",
+    "options": [
+      "Male",
+      "Female",
+      "Sex unspecified",
+      "Affected individual"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "In pedigree analysis, a square represents a male.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "pedigree analysis",
+      "symbols"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q67",
+    "question": "Haemophilia is a:",
+    "options": [
+      "Sex-linked recessive disease",
+      "Autosomal recessive disease",
+      "Autosomal dominant disease",
+      "Sex-linked dominant disease"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Haemophilia is a sex-linked recessive disease.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "genetic disorders",
+      "haemophilia"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q68",
+    "question": "Sickle-cell anaemia is an:",
+    "options": [
+      "Autosomal recessive trait",
+      "Sex-linked recessive trait",
+      "Autosomal dominant trait",
+      "Sex-linked dominant trait"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "This is an autosome linked recessive trait that can be transmitted from parents to the offspring when both the partners are carrier for the gene.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "genetic disorders",
+      "sickle-cell anaemia"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q69",
+    "question": "Phenylketonuria is caused by the lack of an enzyme that converts:",
+    "options": [
+      "Phenylalanine to Tyrosine",
+      "Tyrosine to Phenylalanine",
+      "Phenylalanine to Valine",
+      "Tyrosine to Valine"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The affected individual lacks an enzyme that converts the amino acid phenylalanine into tyrosine.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "genetic disorders",
+      "phenylketonuria"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q70",
+    "question": "Thalassemia is an:",
+    "options": [
+      "Autosomal recessive blood disease",
+      "Sex-linked recessive blood disease",
+      "Autosomal dominant blood disease",
+      "Sex-linked dominant blood disease"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Thalassemia is also an autosome-linked recessive blood disease.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "genetic disorders",
+      "thalassemia"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q71",
+    "question": "Alpha Thalassemia is controlled by genes on chromosome:",
+    "options": [
+      "16",
+      "11",
+      "21",
+      "X"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Alpha Thalassemia is controlled by two closely linked genes HBA1 and HBA2 on chromosome 16.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "genetic disorders",
+      "thalassemia"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q72",
+    "question": "Beta Thalassemia is controlled by a single gene on chromosome:",
+    "options": [
+      "11",
+      "16",
+      "21",
+      "X"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Beta Thalassemia is controlled by a single gene HBB on chromosome 11.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "genetic disorders",
+      "thalassemia"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q73",
+    "question": "Aneuploidy is:",
+    "options": [
+      "Gain or loss of a chromosome(s)",
+      "Increase in a whole set of chromosomes",
+      "Mutation in a single gene",
+      "Exchange of chromosome segments"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Failure of segregation of chromatids during cell division cycle results in the gain or loss of a chromosome(s), called aneuploidy.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "chromosomal disorders",
+      "aneuploidy"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q74",
+    "question": "Polyploidy is:",
+    "options": [
+      "Increase in a whole set of chromosomes",
+      "Gain or loss of a single chromosome",
+      "Mutation in a gene",
+      "Common in animals"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Failure of cytokinesis after telophase stage of cell division results in an increase in a whole set of chromosomes in an organism and, this phenomenon is known as polyploidy.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "chromosomal disorders",
+      "polyploidy"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q75",
+    "question": "Which of the following is a symptom of Down's syndrome?",
+    "options": [
+      "Short statured with small round head",
+      "Furrowed tongue and partially open mouth",
+      "Palm is broad with characteristic palm crease",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "The affected individual is short statured with small round head, furrowed tongue and partially open mouth. Palm is broad with characteristic palm crease.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "chromosomal disorders",
+      "down's syndrome"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q76",
+    "question": "Individuals with Klinefelter's syndrome are:",
+    "options": [
+      "Sterile males",
+      "Fertile males",
+      "Sterile females",
+      "Fertile females"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Such an individual has overall masculine development... however, the feminine development... is also expressed. Such individuals are sterile.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "chromosomal disorders",
+      "klinefelter's syndrome"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q77",
+    "question": "Females with Turner's syndrome are:",
+    "options": [
+      "Sterile with rudimentary ovaries",
+      "Fertile with normal ovaries",
+      "Sterile with normal ovaries",
+      "Fertile with rudimentary ovaries"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Such females are sterile as ovaries are rudimentary besides other features including lack of other secondary sexual characters.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "chromosomal disorders",
+      "turner's syndrome"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q78",
+    "question": "Point mutation is a change in:",
+    "options": [
+      "A single base pair of DNA",
+      "A whole segment of DNA",
+      "A whole chromosome",
+      "Number of chromosomes"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Mutation arising due to change in a single base pair of DNA is known as point mutation.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "mutation",
+      "types"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q79",
+    "question": "Frameshift mutation is caused by:",
+    "options": [
+      "Insertion or deletion of base pairs",
+      "Substitution of base pairs",
+      "Inversion of base pairs",
+      "Duplication of chromosomes"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Deletions and insertions of base pairs of DNA, causes frameshift mutations.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "mutation",
+      "types"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q80",
+    "question": "Which of the following is a mutagen?",
+    "options": [
+      "UV radiation",
+      "Water",
+      "Oxygen",
+      "Glucose"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "There are many chemical and physical factors that induce mutations. These are referred to as mutagens. UV radiations can cause mutations.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "mutation",
+      "mutagens"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q81",
+    "question": "Colour blindness is a:",
+    "options": [
+      "Sex-linked recessive disorder",
+      "Autosomal recessive disorder",
+      "Sex-linked dominant disorder",
+      "Autosomal dominant disorder"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "It is a sex-linked recessive disorder due to defect in either red or green cone of eye.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "genetic disorders",
+      "colour blindness"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q82",
+    "question": "What is the probability of a son being colour blind if the mother is a carrier and the father is normal?",
+    "options": [
+      "50%",
+      "25%",
+      "100%",
+      "0%"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Carrier mother (XXc) x Normal father (XY). Sons: XY (normal), XcY (colour blind). So 50% chance for sons.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "genetic disorders",
+      "calculation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q83",
+    "question": "Queen Victoria was a carrier of:",
+    "options": [
+      "Haemophilia",
+      "Sickle-cell anaemia",
+      "Colour blindness",
+      "Thalassemia"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The family pedigree of Queen Victoria shows a number of haemophilic descendents as she was a carrier of the disease.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "genetic disorders",
+      "haemophilia"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q84",
+    "question": "Myotonic dystrophy is an example of:",
+    "options": [
+      "Autosomal dominant trait",
+      "Autosomal recessive trait",
+      "Sex-linked dominant trait",
+      "Sex-linked recessive trait"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Myotonic dystrophy is an autosomal dominant trait.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "genetic disorders",
+      "examples"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q85",
+    "question": "The gene for Sickle-cell anaemia is:",
+    "options": [
+      "HbS",
+      "HbA",
+      "HbO",
+      "HbC"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The mutant haemoglobin molecule undergoes polymerisation... The disease is controlled by a single pair of allele, HbA and HbS.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "genetic disorders",
+      "sickle-cell anaemia"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q86",
+    "question": "Carriers of Sickle-cell anaemia (HbAHbS) are resistant to:",
+    "options": [
+      "Malaria",
+      "Typhoid",
+      "Cholera",
+      "Dengue"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Heterozygotes (HbAHbS) are resistant to malaria.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "genetic disorders",
+      "sickle-cell anaemia"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q87",
+    "question": "The distance between genes is measured in:",
+    "options": [
+      "Map units / Centimorgans",
+      "Millimeters",
+      "Micrometers",
+      "Nanometers"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The distance between genes is measured in map units or centimorgans (cM).",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "gene mapping",
+      "units"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q88",
+    "question": "Which of the following is true for a true-breeding line?",
+    "options": [
+      "It undergoes continuous self-pollination and shows stable trait inheritance.",
+      "It is produced by cross-pollination.",
+      "It shows variation in every generation.",
+      "It is always heterozygous."
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "A true-breeding line is one that, having undergone continuous self-pollination, shows the stable trait inheritance and expression for several generations.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "mendel",
+      "definitions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q89",
+    "question": "The production of gametes by the parents, formation of zygotes, the F1 and F2 plants, can be understood from a diagram called:",
+    "options": [
+      "Punnett Square",
+      "Pedigree Chart",
+      "Pie Chart",
+      "Bar Graph"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "It can be understood from a diagram called Punnett Square.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "genetics",
+      "tools"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q90",
+    "question": "Punnett Square was developed by:",
+    "options": [
+      "Reginald C. Punnett",
+      "Gregor Mendel",
+      "T.H. Morgan",
+      "Watson and Crick"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "It was developed by a British geneticist, Reginald C. Punnett.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "genetics",
+      "history"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q91",
+    "question": "If a colour blind man marries a woman who is normal but her father was colour blind, what percentage of their daughters will be colour blind?",
+    "options": [
+      "50%",
+      "25%",
+      "0%",
+      "100%"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Man: XcY. Woman: XXc (carrier because her father was XcY). Cross: XcY x XXc. Daughters: XXc (carrier), XcXc (colour blind). So 50% of daughters will be colour blind.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "genetic disorders",
+      "calculation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q92",
+    "question": "In a dihybrid cross, if the F1 plant (AaBb) is test crossed (aabb), what will be the phenotypic ratio of the progeny?",
+    "options": [
+      "1:1:1:1",
+      "9:3:3:1",
+      "1:2:1",
+      "3:1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "A dihybrid test cross (AaBb x aabb) yields a 1:1:1:1 phenotypic ratio (AaBb, Aabb, aaBb, aabb).",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "dihybrid cross",
+      "test cross"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q93",
+    "question": "Two genes A and B are linked. In a dihybrid cross involving these two genes, the F1 heterozygote is crossed with the homozygous recessive parent (aabb). What would be the ratio of offspring in the next generation?",
+    "options": [
+      "1:1:1:1",
+      "9:3:3:1",
+      "3:1",
+      "It will deviate from 1:1:1:1"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Since genes are linked, they do not assort independently. The ratio will deviate from the expected 1:1:1:1 of a test cross, showing higher parental combinations.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "linkage",
+      "ratio"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q94",
+    "question": "A man with blood group A marries a woman with blood group B. Their child has blood group O. What are the genotypes of the parents?",
+    "options": [
+      "IAi and IBi",
+      "IAIA and IBIB",
+      "IAIA and IBi",
+      "IAi and IBIB"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "For a child to be O (ii), both parents must contribute an 'i' allele. Thus, parents must be heterozygous: IAi and IBi.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "blood groups",
+      "genotype"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q95",
+    "question": "In a population, if the frequency of the dominant allele 'A' is 0.6, what will be the frequency of the heterozygous genotype 'Aa' according to Hardy-Weinberg principle?",
+    "options": [
+      "0.48",
+      "0.36",
+      "0.16",
+      "0.24"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "p = 0.6, so q = 1 - 0.6 = 0.4. Frequency of Aa = 2pq = 2 * 0.6 * 0.4 = 0.48.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "hardy-weinberg",
+      "calculation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q96",
+    "question": "Which of the following conditions is NOT required for Hardy-Weinberg equilibrium?",
+    "options": [
+      "Small population size",
+      "Random mating",
+      "No mutation",
+      "No migration"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Hardy-Weinberg equilibrium requires a LARGE population size to minimize genetic drift.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "hardy-weinberg",
+      "conditions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q97",
+    "question": "A true breeding plant producing red flowers is crossed with a true breeding plant producing white flowers. Allele for red colour is dominant. After selfing the F1 plants the progeny consists of 72 red and 24 white flowered plants. The ratio is:",
+    "options": [
+      "3:1",
+      "1:2:1",
+      "9:3:3:1",
+      "1:1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Total = 96. Red = 72, White = 24. 72:24 simplifies to 3:1.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "monohybrid cross",
+      "calculation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q98",
+    "question": "Select the correct statement regarding the inheritance of phenylketonuria.",
+    "options": [
+      "It is an autosomal recessive trait.",
+      "It is a sex-linked dominant trait.",
+      "It is an autosomal dominant trait.",
+      "It is a sex-linked recessive trait."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Phenylketonuria is an inborn error of metabolism inherited as the autosomal recessive trait.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "genetic disorders",
+      "phenylketonuria"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q99",
+    "question": "In a cross between AABB and aabb, the ratio of F2 genotypes AABB, AaBB, Aabb and aabb would be:",
+    "options": [
+      "1:2:2:1",
+      "9:3:3:1",
+      "1:1:1:1",
+      "1:2:1:1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "In F2 of dihybrid cross: AABB (1/16), AaBB (2/16), Aabb (2/16), aabb (1/16). So ratio is 1:2:2:1.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "dihybrid cross",
+      "genotype"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q100",
+    "question": "Which of the following symbols and its representation used in human pedigree analysis is correct?",
+    "options": [
+      "Square = Male",
+      "Circle = Male",
+      "Solid/Shaded Symbol = Unaffected",
+      "Diamond = Female"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Square represents Male. Circle represents Female. Shaded symbol represents Affected. Diamond represents Sex unspecified.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "pedigree analysis",
+      "symbols"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q101",
+    "question": "A woman has a haemophilic brother and normal parents. What is the probability that she is a carrier?",
+    "options": [
+      "50%",
+      "25%",
+      "100%",
+      "0%"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Brother is XhY. Parents are Normal (XY and XX). Since brother is affected, mother must be a carrier (XXh). The woman (sister) receives X from father and X or Xh from mother. So 50% chance she is XXh (carrier).",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "genetic disorders",
+      "calculation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q102",
+    "question": "In a plant, red fruit (R) is dominant over yellow fruit (r) and tallness (T) is dominant over dwarfness (t). If a plant with genotype RrTt is crossed with a plant with genotype rrtt, what will be the percentage of tall plants with red fruits in the progeny?",
+    "options": [
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "RrTt x rrtt is a test cross. Progeny: RrTt (Red Tall), Rrtt (Red Dwarf), rrTt (Yellow Tall), rrtt (Yellow Dwarf) in 1:1:1:1 ratio. Red Tall is 1/4 = 25%.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "dihybrid cross",
+      "calculation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q103",
+    "question": "Which one of the following cannot be explained on the basis of Mendel's Law of Dominance?",
+    "options": [
+      "Alleles do not show any blending and both the characters recover as such in F2 generation.",
+      "Factors occur in pairs.",
+      "The discrete unit controlling a particular character is called a factor.",
+      "Out of one pair of factors one is dominant, and the other is recessive."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "The statement 'Alleles do not show any blending and both the characters recover as such in F2 generation' explains the Law of Segregation, not Dominance.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "mendel's laws",
+      "exceptions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q104",
+    "question": "A human male produces sperms with the genotypes AB, Ab, aB, and ab pertaining to two diallelic characters in equal proportions. What is the corresponding genotype of this person?",
+    "options": [
+      "AaBb",
+      "AaBB",
+      "AABb",
+      "AABB"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Only a heterozygote for both traits (AaBb) can produce 4 types of gametes in equal proportions (assuming independent assortment).",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "genotype",
+      "gametes"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q105",
+    "question": "In the F2 generation of a Mendelian dihybrid cross the number of phenotypes and genotypes are:",
+    "options": [
+      "phenotypes - 4; genotypes - 9",
+      "phenotypes - 9; genotypes - 4",
+      "phenotypes - 4; genotypes - 16",
+      "phenotypes - 4; genotypes - 8"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "In a dihybrid cross, there are 4 phenotypes (9:3:3:1) and 9 genotypes.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "dihybrid cross",
+      "numbers"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q106",
+    "question": "A person with unknown blood group under ABO system, has suffered much blood loss in an accident and needs immediate blood transfusion. His one friend who has a valid certificate of his own blood type, offers for blood donation without delay. What would have been the type of blood group of the donor friend?",
+    "options": [
+      "Type O",
+      "Type A",
+      "Type B",
+      "Type AB"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Type O is the universal donor and can be given to anyone in an emergency.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "blood groups",
+      "transfusion"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q107",
+    "question": "If two persons with 'AB' blood group marry and have sufficiently large number of children, these children could be classified as 'A' blood group: 'AB' blood group: 'B' blood group in 1:2:1 ratio. Modern technique of protein electrophoresis reveals presence of both 'A' and 'B' type proteins in 'AB' blood group individuals. This is an example of:",
+    "options": [
+      "Co-dominance",
+      "Incomplete dominance",
+      "Partial dominance",
+      "Complete dominance"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "This is a classic example of Co-dominance where both alleles express themselves fully.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "co-dominance",
+      "blood groups"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q108",
+    "question": "Which of the following is correct regarding the genetic material of a bacteriophage?",
+    "options": [
+      "It enters the bacteria.",
+      "It remains outside the bacteria.",
+      "It is protein.",
+      "It is not DNA."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Hershey and Chase experiment proved that DNA is the genetic material that enters the bacterial cell.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "genetic material",
+      "experiments"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q109",
+    "question": "The experimental proof for semiconservative replication of DNA was first shown in a:",
+    "options": [
+      "Bacterium",
+      "Fungus",
+      "Plant",
+      "Virus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Meselson and Stahl performed the experiment on E. coli, a bacterium.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "dna replication",
+      "experiments"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q110",
+    "question": "If the distance between two consecutive base pairs is 0.34 nm and the total number of base pairs of a DNA double helix in a typical mammalian cell is 6.6 x 10^9 bp, then the length of the DNA is approximately:",
+    "options": [
+      "2.2 meters",
+      "2.5 meters",
+      "2.7 meters",
+      "2.0 meters"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Length = 6.6 x 10^9 bp * 0.34 x 10^-9 m/bp = 2.244 meters ~ 2.2 meters.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "dna structure",
+      "calculation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q111",
+    "question": "Which of the following rRNAs acts as a structural RNA as well as a ribozyme in bacteria?",
+    "options": [
+      "23S rRNA",
+      "18S rRNA",
+      "5.8S rRNA",
+      "5S rRNA"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "The 23S rRNA in bacteria is the enzyme ribozyme for peptide bond formation.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "rna",
+      "types"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q112",
+    "question": "Taylor conducted the experiments to prove semiconservative mode of chromosome replication on:",
+    "options": [
+      "Vicia faba",
+      "Drosophila melanogaster",
+      "E. coli",
+      "Vinca rosea"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Taylor and colleagues conducted experiments on Vicia faba (faba beans) involving use of radioactive thymidine.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "dna replication",
+      "experiments"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q113",
+    "question": "The equivalent of a structural gene is:",
+    "options": [
+      "Cistron",
+      "Muton",
+      "Recon",
+      "Operon"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "A segment of DNA coding for a polypeptide is called a cistron.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "gene",
+      "definitions"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q114",
+    "question": "Which of the following is required as inducer(s) for the expression of Lac operon?",
+    "options": [
+      "Lactose",
+      "Lactose and Galactose",
+      "Glucose",
+      "Galactose"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Lactose is the substrate for the enzyme beta-galactosidase and it regulates switching on and off of the operon. Hence, it is termed as inducer.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "lac operon",
+      "regulation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q115",
+    "question": "A complex of ribosomes attached to a single strand of RNA is known as:",
+    "options": [
+      "Polysome",
+      "Polymer",
+      "Polypeptide",
+      "Okazaki fragment"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Many ribosomes may associate with a single mRNA to form multiple copies of a polypeptide simultaneously. Such strings of ribosomes are termed polysomes or polyribosomes.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "translation",
+      "structure"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q116",
+    "question": "Which one of the following is the starter codon?",
+    "options": [
+      "AUG",
+      "UAA",
+      "UAG",
+      "UGA"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "AUG has dual functions. It codes for Methionine (met), and it also acts as initiator codon.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "genetic code",
+      "codons"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q117",
+    "question": "The final proof for DNA as the genetic material came from the experiments of:",
+    "options": [
+      "Hershey and Chase",
+      "Avery, MacLeod and McCarty",
+      "Griffith",
+      "Hargobind Khorana"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "The unequivocal proof that DNA is the genetic material came from the experiments of Alfred Hershey and Martha Chase (1952).",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "genetic material",
+      "history"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q118",
+    "question": "During DNA replication, Okazaki fragments are used to elongate:",
+    "options": [
+      "The lagging strand away from the replication fork",
+      "The leading strand towards the replication fork",
+      "The lagging strand towards the replication fork",
+      "The leading strand away from the replication fork"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "The discontinuously synthesized fragments are later joined by the enzyme DNA ligase. This happens on the lagging strand, growing away from the replication fork.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "dna replication",
+      "process"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q119",
+    "question": "Spliceosomes are not found in cells of:",
+    "options": [
+      "Bacteria",
+      "Plants",
+      "Fungi",
+      "Animals"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Spliceosomes are involved in the removal of introns (splicing) which is a feature of eukaryotic transcription. Bacteria (prokaryotes) do not have introns.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "transcription",
+      "splicing"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_principles_inheritance_q120",
+    "question": "The association of histone H1 with a nucleosome indicates:",
+    "options": [
+      "The DNA is being condensed into chromatin fibre.",
+      "DNA replication is occurring.",
+      "Transcription is occurring.",
+      "The cell is undergoing mitosis."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "The association of H1 protein indicates the further packing of nucleosome to form chromatin fibre.",
+    "subject": "Botany",
+    "chapter": "Principles of Inheritance and Variation",
+    "tags": [
+      "dna packaging",
+      "nucleosome"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "principles_of_inheritance_and_variation",
+    "subjectId": "botany"
+  }
+]

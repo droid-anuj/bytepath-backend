@@ -1,0 +1,2882 @@
+[
+  {
+    "id": "botany_environmental_issues_q1",
+    "question": "Pollution is any undesirable change in physical, chemical or biological characteristics of:",
+    "options": [
+      "Air, land, water or soil",
+      "Only air",
+      "Only water",
+      "Only soil"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Pollution is any undesirable change in physical, chemical or biological characteristics of air, land, water or soil.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "pollution",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q2",
+    "question": "Agents that bring about undesirable changes in the environment are called:",
+    "options": [
+      "Pollutants",
+      "Reactants",
+      "Catalysts",
+      "Nutrients"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Agents that bring about such an undesirable change are called pollutants.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "pollution",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q3",
+    "question": "The Environment (Protection) Act was passed by the Government of India in the year:",
+    "options": [
+      "1986",
+      "1981",
+      "1974",
+      "1987"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The Environment (Protection) Act was passed in 1986.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "legislation",
+      "india"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q4",
+    "question": "Which of the following is a major cause of air pollution in metro cities?",
+    "options": [
+      "Automobiles",
+      "Industries",
+      "Domestic sewage",
+      "Agricultural runoff"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Automobiles are a major cause of atmospheric pollution at least in the metro cities.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "air pollution",
+      "causes"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q5",
+    "question": "Electrostatic Precipitator is used to remove:",
+    "options": [
+      "Particulate matter",
+      "Sulphur dioxide",
+      "Carbon monoxide",
+      "Nitrogen oxides"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Electrostatic precipitator can remove over 99 per cent particulate matter present in the exhaust from a thermal power plant.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "air pollution",
+      "control"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q6",
+    "question": "A scrubber is used to remove gases like:",
+    "options": [
+      "Sulphur dioxide",
+      "Carbon dioxide",
+      "Oxygen",
+      "Nitrogen"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "A scrubber can remove gases like sulphur dioxide.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "air pollution",
+      "control"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q7",
+    "question": "According to CPCB, particulate size less than _____ micrometers in diameter are responsible for causing the greatest harm to human health.",
+    "options": [
+      "2.5",
+      "5.0",
+      "10.0",
+      "1.0"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Particulate size 2.5 micrometers or less in diameter (PM 2.5) are responsible for causing the greatest harm to human health.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "air pollution",
+      "health"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q8",
+    "question": "Catalytic converters are fitted into automobiles for:",
+    "options": [
+      "Reducing emission of poisonous gases",
+      "Increasing speed",
+      "Reducing noise",
+      "Saving fuel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Catalytic converters are fitted into automobiles for reducing emission of poisonous gases.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "air pollution",
+      "control"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q9",
+    "question": "Which metals are used as catalysts in catalytic converters?",
+    "options": [
+      "Platinum-palladium and rhodium",
+      "Iron and copper",
+      "Gold and silver",
+      "Zinc and lead"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Platinum-palladium and rhodium are used as catalysts.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "air pollution",
+      "control"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q10",
+    "question": "Motor vehicles equipped with catalytic converter should use:",
+    "options": [
+      "Unleaded petrol",
+      "Leaded petrol",
+      "Diesel",
+      "Kerosene"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "They should use unleaded petrol because lead in the petrol inactivates the catalyst.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "air pollution",
+      "control"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q11",
+    "question": "The Air (Prevention and Control of Pollution) Act was passed in:",
+    "options": [
+      "1981",
+      "1986",
+      "1974",
+      "1987"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The Air Act was passed in 1981.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "legislation",
+      "india"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q12",
+    "question": "The Air Act was amended in 1987 to include _____ as an air pollutant.",
+    "options": [
+      "Noise",
+      "Radioactive waste",
+      "Plastic",
+      "Sewage"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "It was amended in 1987 to include noise as an air pollutant.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "legislation",
+      "noise"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q13",
+    "question": "Noise is measured in:",
+    "options": [
+      "Decibels (dB)",
+      "Hertz (Hz)",
+      "Joules (J)",
+      "Watts (W)"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Noise is measured in decibels (dB).",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "noise pollution",
+      "units"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q14",
+    "question": "CNG stands for:",
+    "options": [
+      "Compressed Natural Gas",
+      "Common Natural Gas",
+      "Compressed Nitrogen Gas",
+      "Clean Natural Gas"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "CNG stands for Compressed Natural Gas.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "air pollution",
+      "fuel"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q15",
+    "question": "The entire fleet of public transport buses in Delhi was converted to run on CNG by the end of:",
+    "options": [
+      "2002",
+      "2005",
+      "2000",
+      "2010"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "It was converted to CNG by the end of 2002.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "air pollution",
+      "case study"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q16",
+    "question": "Euro III norms stipulate that sulphur be controlled at _____ ppm in diesel.",
+    "options": [
+      "350",
+      "150",
+      "50",
+      "10"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Euro III norms stipulate that sulphur be controlled at 350 parts-per-million (ppm) in diesel.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "air pollution",
+      "norms"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q17",
+    "question": "The Water (Prevention and Control of Pollution) Act was passed in:",
+    "options": [
+      "1974",
+      "1981",
+      "1986",
+      "1987"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The Water Act was passed in 1974.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "legislation",
+      "india"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q18",
+    "question": "Domestic sewage primarily contains:",
+    "options": [
+      "Biodegradable organic matter",
+      "Non-biodegradable waste",
+      "Heavy metals",
+      "Radioactive waste"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Domestic sewage primarily contains biodegradable organic matter.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "water pollution",
+      "sewage"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q19",
+    "question": "BOD stands for:",
+    "options": [
+      "Biochemical Oxygen Demand",
+      "Biological Oxygen Demand",
+      "Biological Ozone Demand",
+      "Biochemical Ozone Demand"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "BOD stands for Biochemical Oxygen Demand.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "water pollution",
+      "bod"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q20",
+    "question": "High BOD indicates:",
+    "options": [
+      "High pollution potential",
+      "Clean water",
+      "High dissolved oxygen",
+      "Low microbial activity"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "High BOD indicates high potential for pollution (high organic matter).",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "water pollution",
+      "bod"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q21",
+    "question": "Algal bloom is caused by:",
+    "options": [
+      "Excessive nutrients in water",
+      "Lack of nutrients",
+      "High temperature",
+      "Low temperature"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Presence of large amounts of nutrients in waters causes excessive growth of planktonic (free-floating) algae, called an algal bloom.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "water pollution",
+      "algal bloom"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q22",
+    "question": "Which plant is known as the 'Terror of Bengal'?",
+    "options": [
+      "Eichhornia crassipes",
+      "Parthenium",
+      "Lantana",
+      "Pistia"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Eichhornia crassipes (Water Hyacinth) is known as the 'Terror of Bengal'.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "water pollution",
+      "weeds"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q23",
+    "question": "Biomagnification refers to:",
+    "options": [
+      "Increase in concentration of the toxicant at successive trophic levels",
+      "Increase in population of organisms",
+      "Increase in size of organisms",
+      "Increase in biomass"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Biomagnification refers to increase in concentration of the toxicant at successive trophic levels.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "water pollution",
+      "biomagnification"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q24",
+    "question": "Which of the following substances undergoes biomagnification?",
+    "options": [
+      "DDT and Mercury",
+      "Nitrates and Phosphates",
+      "Calcium and Magnesium",
+      "Iron and Zinc"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "DDT and Mercury are well-known for biomagnification.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "water pollution",
+      "biomagnification"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q25",
+    "question": "High concentration of DDT disturbs _____ metabolism in birds.",
+    "options": [
+      "Calcium",
+      "Protein",
+      "Fat",
+      "Carbohydrate"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "It disturbs calcium metabolism in birds, which causes thinning of eggshells.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "water pollution",
+      "ddt"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q26",
+    "question": "Eutrophication is the natural aging of a lake by:",
+    "options": [
+      "Nutrient enrichment",
+      "Water depletion",
+      "Soil erosion",
+      "Deforestation"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Eutrophication is the natural aging of a lake by nutrient enrichment of its water.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "water pollution",
+      "eutrophication"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q27",
+    "question": "Cultural or Accelerated Eutrophication is caused by:",
+    "options": [
+      "Human activities",
+      "Natural processes",
+      "Climate change",
+      "Volcanic eruptions"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "It is caused by human activities like effluents from industries and homes.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "water pollution",
+      "eutrophication"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q28",
+    "question": "FOAM stands for:",
+    "options": [
+      "Friends of the Arcata Marsh",
+      "Friends of the Amazon Marsh",
+      "Federation of Arcata Marsh",
+      "Friends of the Asian Marsh"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "FOAM stands for Friends of the Arcata Marsh.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "water pollution",
+      "case study"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q29",
+    "question": "Ecological sanitation is a sustainable system for handling human excreta, using:",
+    "options": [
+      "Dry composting toilets",
+      "Water flush toilets",
+      "Chemical toilets",
+      "Pit latrines"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "It uses dry composting toilets.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "sanitation",
+      "ecoscan"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q30",
+    "question": "'EcoSan' toilets are working in:",
+    "options": [
+      "Kerala and Sri Lanka",
+      "Tamil Nadu and Karnataka",
+      "Delhi and Mumbai",
+      "Gujarat and Rajasthan"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "They are working in many areas of Kerala and Sri Lanka.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "sanitation",
+      "ecoscan"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q31",
+    "question": "Solid wastes refer to:",
+    "options": [
+      "Everything that goes out in trash",
+      "Only plastic waste",
+      "Only metal waste",
+      "Only food waste"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Solid wastes refer to everything that goes out in trash.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "solid waste",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q32",
+    "question": "Which of the following is a method of solid waste disposal?",
+    "options": [
+      "Sanitary landfills",
+      "Open burning",
+      "Dumping",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "explanation": "All are methods, though sanitary landfills are preferred over open burning and dumping.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "solid waste",
+      "disposal"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q33",
+    "question": "Polyblend is a fine powder of:",
+    "options": [
+      "Recycled modified plastic",
+      "Recycled paper",
+      "Recycled glass",
+      "Recycled metal"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Polyblend is a fine powder of recycled modified plastic.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "solid waste",
+      "case study"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q34",
+    "question": "Ahmed Khan of Bangalore developed a solution for:",
+    "options": [
+      "Plastic waste",
+      "Electronic waste",
+      "Radioactive waste",
+      "Medical waste"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "He developed a solution for accumulating plastic waste using Polyblend.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "solid waste",
+      "case study"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q35",
+    "question": "Electronic waste (e-waste) includes:",
+    "options": [
+      "Irreparable computers and other electronic goods",
+      "Plastic bottles",
+      "Glass bottles",
+      "Food waste"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "E-waste includes irreparable computers and other electronic goods.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "e-waste",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q36",
+    "question": "The greenhouse effect is a naturally occurring phenomenon that is responsible for:",
+    "options": [
+      "Heating of Earth's surface and atmosphere",
+      "Cooling of Earth's surface",
+      "Rainfall",
+      "Wind"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "It is responsible for heating of Earth's surface and atmosphere.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "greenhouse effect",
+      "definition"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q37",
+    "question": "Without greenhouse effect, the average temperature at surface of Earth would have been:",
+    "options": [
+      "-18\u00b0C",
+      "15\u00b0C",
+      "0\u00b0C",
+      "50\u00b0C"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "It would have been -18\u00b0C instead of the present average of 15\u00b0C.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "greenhouse effect",
+      "temperature"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q38",
+    "question": "Which of the following is the major greenhouse gas?",
+    "options": [
+      "Carbon dioxide (CO2)",
+      "Methane (CH4)",
+      "CFCs",
+      "N2O"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "CO2 contributes about 60% to total global warming.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "greenhouse effect",
+      "gases"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q39",
+    "question": "The ozone layer is found in the:",
+    "options": [
+      "Stratosphere",
+      "Troposphere",
+      "Mesosphere",
+      "Ionosphere"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "The 'good' ozone is found in the upper part of the atmosphere called the stratosphere.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "ozone depletion",
+      "location"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q40",
+    "question": "Ozone depletion is primarily caused by:",
+    "options": [
+      "CFCs (Chlorofluorocarbons)",
+      "CO2",
+      "Methane",
+      "SO2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "explanation": "Ozone depletion is primarily caused by CFCs.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "ozone depletion",
+      "causes"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q41",
+    "question": "Which of the following is correct regarding the Environment (Protection) Act, 1986?",
+    "options": [
+      "It was passed to protect and improve the quality of our environment (air, water and soil).",
+      "It deals only with air pollution.",
+      "It deals only with water pollution.",
+      "It deals only with forest conservation."
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "It covers air, water and soil.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "legislation",
+      "india"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q42",
+    "question": "Electrostatic precipitators work on the principle of:",
+    "options": [
+      "Electrical charging of dust particles",
+      "Gravitational settling",
+      "Filtration",
+      "Centrifugal force"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Electrode wires release electrons that attach to dust particles giving them a net negative charge, which are then attracted to collecting plates.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "air pollution",
+      "control"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q43",
+    "question": "In a scrubber, the exhaust is passed through:",
+    "options": [
+      "A spray of water or lime",
+      "A filter paper",
+      "An electric field",
+      "A magnetic field"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The exhaust is passed through a spray of water or lime.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "air pollution",
+      "control"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q44",
+    "question": "According to CPCB, particulate matter of size 2.5 micrometers or less is dangerous because:",
+    "options": [
+      "It can be inhaled deep into the lungs and cause respiratory problems.",
+      "It blocks sunlight.",
+      "It causes acid rain.",
+      "It damages buildings."
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "These fine particles can be inhaled deep into the lungs causing breathing and respiratory symptoms, irritation, inflammations and damage to the lungs and premature deaths.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "air pollution",
+      "health"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q45",
+    "question": "Catalytic converters convert unburnt hydrocarbons into:",
+    "options": [
+      "Carbon dioxide and water",
+      "Carbon monoxide and nitrogen",
+      "Methane and oxygen",
+      "Sulphur dioxide and water"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Unburnt hydrocarbons are converted into carbon dioxide and water.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "air pollution",
+      "control"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q46",
+    "question": "Catalytic converters convert carbon monoxide and nitric oxide into:",
+    "options": [
+      "Carbon dioxide and nitrogen gas",
+      "Carbon dioxide and water",
+      "Methane and nitrogen",
+      "Sulphur dioxide and oxygen"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Carbon monoxide and nitric oxide are changed to carbon dioxide and nitrogen gas, respectively.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "air pollution",
+      "control"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q47",
+    "question": "Noise pollution causes:",
+    "options": [
+      "Sleeplessness, increased heart beat, altered breathing pattern",
+      "Lung cancer",
+      "Skin cancer",
+      "Typhoid"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Noise causes psychological and physiological disorders like sleeplessness, increased heart beat, altered breathing pattern.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "noise pollution",
+      "effects"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q48",
+    "question": "Why is CNG better than diesel?",
+    "options": [
+      "It burns most efficiently and leaves very little unburnt residue.",
+      "It is cheaper than petrol or diesel.",
+      "It cannot be siphoned off by thieves and adulterated.",
+      "All of the above."
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "explanation": "All the listed points are advantages of CNG.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "air pollution",
+      "fuel"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q49",
+    "question": "The main problem with switching to CNG is:",
+    "options": [
+      "Difficulty in laying down pipelines to deliver CNG",
+      "High cost of CNG",
+      "Low efficiency of CNG engines",
+      "Availability of CNG vehicles"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The main problem is the difficulty of laying down pipelines to deliver CNG through distribution points/pumps and ensuring uninterrupted supply.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "air pollution",
+      "challenges"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q50",
+    "question": "Euro II norms correspond to:",
+    "options": [
+      "Bharat Stage II",
+      "Bharat Stage III",
+      "Bharat Stage IV",
+      "Bharat Stage I"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Euro II norms correspond to Bharat Stage II.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "air pollution",
+      "norms"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q51",
+    "question": "A mere _____ impurities make domestic sewage unfit for human use.",
+    "options": [
+      "0.1 per cent",
+      "1.0 per cent",
+      "5.0 per cent",
+      "10.0 per cent"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "A mere 0.1 per cent impurities make domestic sewage unfit for human use.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "water pollution",
+      "sewage"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q52",
+    "question": "Which of the following is the most difficult to remove from waste water?",
+    "options": [
+      "Dissolved salts like nitrates, phosphates and toxic metal ions",
+      "Suspended solids like sand and silt",
+      "Colloidal material like fecal matter",
+      "Floating debris"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Dissolved salts are most difficult to remove.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "water pollution",
+      "treatment"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q53",
+    "question": "Biochemical Oxygen Demand (BOD) is a measure of:",
+    "options": [
+      "Amount of dissolved oxygen needed by aerobic biological organisms to break down organic material",
+      "Amount of oxygen produced by algae",
+      "Amount of ozone in water",
+      "Amount of oxygen released by plants"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "BOD measures the oxygen required by microbes to decompose organic matter.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "water pollution",
+      "bod"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q54",
+    "question": "When sewage is discharged into a river, the BOD _____ and Dissolved Oxygen _____.",
+    "options": [
+      "Increases, Decreases",
+      "Decreases, Increases",
+      "Increases, Increases",
+      "Decreases, Decreases"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Microbes consume oxygen to break down sewage, so BOD increases and DO decreases.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "water pollution",
+      "bod"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q55",
+    "question": "Algal blooms cause:",
+    "options": [
+      "Deterioration of water quality and fish mortality",
+      "Increase in fish population",
+      "Purification of water",
+      "Increase in dissolved oxygen"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Algal blooms cause deterioration of water quality and fish mortality.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "water pollution",
+      "algal bloom"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q56",
+    "question": "Biomagnification is well known for:",
+    "options": [
+      "Mercury and DDT",
+      "Iron and Copper",
+      "Zinc and Magnesium",
+      "Calcium and Phosphorus"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Biomagnification is well known for mercury and DDT.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "water pollution",
+      "biomagnification"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q57",
+    "question": "If the concentration of DDT in water is 0.003 ppb, what can it reach in fish-eating birds?",
+    "options": [
+      "25 ppm",
+      "2 ppm",
+      "0.5 ppm",
+      "0.04 ppm"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "It can reach 25 ppm in fish-eating birds through biomagnification.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "water pollution",
+      "biomagnification"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q58",
+    "question": "The prime contaminants in lakes that lead to eutrophication are:",
+    "options": [
+      "Nitrates and Phosphates",
+      "Calcium and Magnesium",
+      "Iron and Sulphur",
+      "Carbon and Oxygen"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Nitrates and Phosphates act as plant nutrients and stimulate algal growth.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "water pollution",
+      "eutrophication"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q59",
+    "question": "Thermal pollution refers to:",
+    "options": [
+      "Heated wastewaters flowing out of thermal power plants",
+      "Cooling of water bodies",
+      "Freezing of lakes",
+      "Evaporation of water"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Thermal pollution is caused by heated wastewaters.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "water pollution",
+      "thermal"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q60",
+    "question": "In the Arcata Marsh project, the biologists developed a series of:",
+    "options": [
+      "6 connected marshes",
+      "4 connected lakes",
+      "2 connected rivers",
+      "10 connected ponds"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "They developed a series of 6 connected marshes over 60 hectares of marshland.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "water pollution",
+      "case study"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q61",
+    "question": "The marshes in Arcata project were seeded with:",
+    "options": [
+      "Fungi, algae and bacteria",
+      "Fish and frogs",
+      "Birds and insects",
+      "Trees and shrubs"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Appropriate plants, algae, fungi and bacteria were seeded to neutralize, absorb and assimilate the pollutants.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "water pollution",
+      "case study"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q62",
+    "question": "Sanitary landfills were adopted as a substitute for:",
+    "options": [
+      "Open-burning dumps",
+      "Incineration",
+      "Recycling",
+      "Composting"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "They were adopted as a substitute for open-burning dumps.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "solid waste",
+      "disposal"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q63",
+    "question": "The main problem with sanitary landfills is:",
+    "options": [
+      "Seepage of chemicals polluting underground water resources",
+      "They are too expensive",
+      "They require too much water",
+      "They produce too much oxygen"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "There is a danger of seepage of chemicals polluting the underground water resources.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "solid waste",
+      "disposal"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q64",
+    "question": "Polyblend mixed with bitumen is used to:",
+    "options": [
+      "Lay roads",
+      "Make buildings",
+      "Make furniture",
+      "Make clothes"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "It is used to lay roads.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "solid waste",
+      "case study"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q65",
+    "question": "Roads laid with Polyblend-bitumen mix have:",
+    "options": [
+      "Better water repellent properties and increased road life",
+      "Lower strength",
+      "Higher cost",
+      "No advantage"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "They have better water repellent properties and road life is increased by a factor of three.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "solid waste",
+      "case study"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q66",
+    "question": "Over half of the e-waste generated in the developed world is exported to:",
+    "options": [
+      "Developing countries like China, India and Pakistan",
+      "Europe",
+      "USA",
+      "Australia"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "It is exported to developing countries like China, India and Pakistan.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "e-waste",
+      "disposal"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q67",
+    "question": "The only solution for the treatment of e-waste is:",
+    "options": [
+      "Recycling",
+      "Incineration",
+      "Landfilling",
+      "Dumping in ocean"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Recycling is the only solution for the treatment of e-waste.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "e-waste",
+      "disposal"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q68",
+    "question": "Greenhouse gases absorb:",
+    "options": [
+      "Long wave radiation (Infrared)",
+      "Short wave radiation (UV)",
+      "Visible light",
+      "Gamma rays"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Greenhouse gases absorb long wave (infrared) radiation from the earth.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "greenhouse effect",
+      "mechanism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q69",
+    "question": "The relative contribution of various greenhouse gases to total global warming is:",
+    "options": [
+      "CO2 > CH4 > CFCs > N2O",
+      "CO2 > CFCs > CH4 > N2O",
+      "CH4 > CO2 > CFCs > N2O",
+      "CFCs > CO2 > CH4 > N2O"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "CO2 (60%), CH4 (20%), CFCs (14%), N2O (6%).",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "greenhouse effect",
+      "gases"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q70",
+    "question": "Global warming can be controlled by:",
+    "options": [
+      "Reducing deforestation and planting trees",
+      "Increasing use of fossil fuels",
+      "Increasing population",
+      "Increasing cattle farming"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Reducing deforestation and planting trees (afforestation) helps absorb CO2.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "global warming",
+      "control"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q71",
+    "question": "The thickness of ozone in a column of air is measured in:",
+    "options": [
+      "Dobson units (DU)",
+      "Decibels (dB)",
+      "Parts per million (ppm)",
+      "Nanometers (nm)"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "It is measured in Dobson units (DU).",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "ozone depletion",
+      "units"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q72",
+    "question": "Ozone hole is most prominent over:",
+    "options": [
+      "Antarctica",
+      "Arctic",
+      "Equator",
+      "Tropics"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Ozone hole is most prominent over the Antarctica region.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "ozone depletion",
+      "location"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q73",
+    "question": "UV-B radiation causes:",
+    "options": [
+      "Snow-blindness, cataract, skin cancer",
+      "Lung cancer",
+      "Liver damage",
+      "Kidney failure"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "UV-B damages DNA and mutation may occur. It causes aging of skin, damage to skin cells and various types of skin cancers. In human eye, cornea absorbs UV-B radiation, and a high dose of UV-B causes inflammation of cornea, called snow-blindness, cataract, etc.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "ozone depletion",
+      "effects"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q74",
+    "question": "The Montreal Protocol was signed in:",
+    "options": [
+      "1987",
+      "1989",
+      "1992",
+      "1997"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The Montreal Protocol was signed at Montreal (Canada) in 1987 (effective in 1989).",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "ozone depletion",
+      "protocol"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q75",
+    "question": "The Montreal Protocol aims to control:",
+    "options": [
+      "Emission of ozone depleting substances",
+      "Emission of greenhouse gases",
+      "Water pollution",
+      "Noise pollution"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "It aims to control the emission of ozone depleting substances.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "ozone depletion",
+      "protocol"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q76",
+    "question": "Chipko Movement was started in:",
+    "options": [
+      "Garhwal Himalayas",
+      "Western Ghats",
+      "Eastern Ghats",
+      "Aravalli Hills"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Chipko Movement was started in Garhwal Himalayas in 1974.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "deforestation",
+      "movement"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q77",
+    "question": "Joint Forest Management (JFM) was introduced by the Government of India in:",
+    "options": [
+      "1980s",
+      "1970s",
+      "1990s",
+      "2000s"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "JFM was introduced in 1980s.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "deforestation",
+      "management"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q78",
+    "question": "Jhum cultivation is also known as:",
+    "options": [
+      "Slash and burn agriculture",
+      "Terrace farming",
+      "Intensive farming",
+      "Organic farming"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Jhum cultivation is also known as slash and burn agriculture.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "deforestation",
+      "jhum"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q79",
+    "question": "Reforestation is:",
+    "options": [
+      "Restoring a forest that once existed but was removed",
+      "Planting trees in a new area",
+      "Cutting down trees",
+      "Burning forest"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Reforestation is the process of restoring a forest that once existed but was removed at some point of time in the past.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "deforestation",
+      "reforestation"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q80",
+    "question": "Amrita Devi Bishnoi Wildlife Protection Award is given for:",
+    "options": [
+      "Extraordinary courage and dedication in protecting wildlife",
+      "Planting maximum trees",
+      "Cleaning rivers",
+      "Reducing pollution"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "It is given to individuals or communities from rural areas that have shown extraordinary courage and dedication in protecting wildlife.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "conservation",
+      "award"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q81",
+    "question": "The Bishnoi community is known for protecting:",
+    "options": [
+      "Trees and wildlife",
+      "Rivers",
+      "Mountains",
+      "Deserts"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "The Bishnoi community is known for its peaceful co-existence with nature and protecting trees and wildlife.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "conservation",
+      "community"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q82",
+    "question": "Which of the following is NOT a consequence of deforestation?",
+    "options": [
+      "Increase in rainfall",
+      "Enhanced carbon dioxide concentration",
+      "Loss of biodiversity",
+      "Soil erosion"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Deforestation leads to disturbed hydrologic cycle (likely less rainfall), not increase in rainfall.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "deforestation",
+      "consequences"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q83",
+    "question": "Snow-blindness is caused by:",
+    "options": [
+      "High dose of UV-B radiation",
+      "Infrared radiation",
+      "Visible light",
+      "X-rays"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "High dose of UV-B causes inflammation of cornea, called snow-blindness.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "ozone depletion",
+      "effects"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q84",
+    "question": "Which of the following is a secondary pollutant?",
+    "options": [
+      "Ozone (Tropospheric)",
+      "SO2",
+      "CO",
+      "NO2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Ozone formed in the troposphere (bad ozone) is a secondary pollutant formed by reaction of primary pollutants.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "air pollution",
+      "types"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q85",
+    "question": "Minamata disease is caused by pollution of:",
+    "options": [
+      "Mercury",
+      "Lead",
+      "Cadmium",
+      "Arsenic"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Minamata disease is caused by Mercury pollution.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "water pollution",
+      "disease"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q86",
+    "question": "Blue Baby Syndrome is caused by excess of _____ in drinking water.",
+    "options": [
+      "Nitrate",
+      "Sulphate",
+      "Chloride",
+      "Fluoride"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "It is caused by excess Nitrate (Methaemoglobinaemia).",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "water pollution",
+      "disease"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q87",
+    "question": "Itai-Itai disease is caused by:",
+    "options": [
+      "Cadmium",
+      "Mercury",
+      "Lead",
+      "Iron"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Itai-Itai disease is caused by Cadmium poisoning.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "water pollution",
+      "disease"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q88",
+    "question": "Which of the following is an example of non-biodegradable pollutant?",
+    "options": [
+      "DDT",
+      "Sewage",
+      "Paper",
+      "Wood"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "DDT is a non-biodegradable pollutant.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "pollution",
+      "types"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q89",
+    "question": "The concept of Joint Forest Management (JFM) involves:",
+    "options": [
+      "Working closely with local communities for protecting and managing forests",
+      "Privatization of forests",
+      "Banning entry into forests",
+      "Cutting down forests for agriculture"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "JFM involves working closely with local communities for protecting and managing forests.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "deforestation",
+      "management"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q90",
+    "question": "Which of the following is a 'bad' ozone?",
+    "options": [
+      "Tropospheric ozone",
+      "Stratospheric ozone",
+      "Mesospheric ozone",
+      "Ionospheric ozone"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "explanation": "Ozone formed in the lower atmosphere (troposphere) is called bad ozone as it harms plants and animals.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "ozone depletion",
+      "types"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q91",
+    "question": "Assertion (A): Catalytic converters should be used in vehicles.\nReason (R): Catalytic converters convert unburnt hydrocarbons into CO2 and H2O.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Catalytic converters reduce pollution by converting harmful gases into less harmful ones, hence they should be used.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "air pollution",
+      "control"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q92",
+    "question": "Which of the following statements is incorrect regarding the 'Greenhouse Effect'?",
+    "options": [
+      "It is responsible for heating of Earth's surface and atmosphere.",
+      "Without it, Earth's average temperature would be -18\u00b0C.",
+      "Clouds and gases reflect about one-fourth of incoming solar radiation.",
+      "The surface of Earth re-emits heat in the form of short wave radiation."
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "The surface of Earth re-emits heat in the form of infrared radiation (long wave radiation), not short wave.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "greenhouse effect",
+      "mechanism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q93",
+    "question": "Match the following:\n1. Electrostatic Precipitator - A. Removes gases like SO2\n2. Scrubber - B. Removes particulate matter\n3. Catalytic Converter - C. Reduces emission of poisonous gases\n4. Dobson Unit - D. Thickness of Ozone",
+    "options": [
+      "1-B, 2-A, 3-C, 4-D",
+      "1-A, 2-B, 3-C, 4-D",
+      "1-B, 2-A, 3-D, 4-C",
+      "1-C, 2-D, 3-A, 4-B"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "1-B, 2-A, 3-C, 4-D is the correct matching.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "pollution",
+      "matching"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q94",
+    "question": "Which of the following is correct about 'Eutrophication'?",
+    "options": [
+      "It is the natural aging of a lake by nutrient enrichment.",
+      "It is accelerated by human activities (Cultural Eutrophication).",
+      "The prime contaminants are nitrates and phosphates.",
+      "All of the above."
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "All statements are correct regarding eutrophication.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "water pollution",
+      "eutrophication"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q95",
+    "question": "In the case study of Ahmed Khan, 'Polyblend' was mixed with bitumen to lay roads. This resulted in:",
+    "options": [
+      "Increased road life and better water repellent properties.",
+      "Decreased road life.",
+      "Increased cost of road construction.",
+      "More pollution."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "It resulted in increased road life (by a factor of 3) and better water repellent properties.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "solid waste",
+      "case study"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q96",
+    "question": "Assertion (A): Ozone hole is most prominent over Antarctica.\nReason (R): Unique climatic conditions like low temperature and formation of polar stratospheric clouds facilitate ozone depletion.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "The unique climatic conditions in Antarctica allow for the formation of polar stratospheric clouds which provide a surface for chlorine to destroy ozone.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "ozone depletion",
+      "mechanism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q97",
+    "question": "Which of the following is NOT a step in the integrated waste water treatment process in Arcata?",
+    "options": [
+      "Sedimentation, filtering and chlorine treatment",
+      "Passage through a series of 6 connected marshes",
+      "Use of plants, algae, fungi and bacteria to neutralize pollutants",
+      "Incineration of solid waste"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Incineration is a method for solid waste disposal, not part of the Arcata waste water treatment process described.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "water pollution",
+      "case study"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q98",
+    "question": "The correct order of relative contribution of greenhouse gases to global warming is:",
+    "options": [
+      "CO2 (60%) > CH4 (20%) > CFCs (14%) > N2O (6%)",
+      "CO2 (60%) > CFCs (20%) > CH4 (14%) > N2O (6%)",
+      "CH4 (60%) > CO2 (20%) > CFCs (14%) > N2O (6%)",
+      "CO2 (60%) > N2O (20%) > CH4 (14%) > CFCs (6%)"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "The correct order is CO2 > CH4 > CFCs > N2O.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "greenhouse effect",
+      "gases"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q99",
+    "question": "Biomagnification of DDT in an aquatic food chain can be represented as:",
+    "options": [
+      "Water (0.003 ppb) -> Zooplankton (0.04 ppm) -> Small fish (0.5 ppm) -> Large fish (2 ppm) -> Fish-eating birds (25 ppm)",
+      "Water (0.003 ppm) -> Zooplankton (0.04 ppb) -> Small fish (0.5 ppb) -> Large fish (2 ppb) -> Fish-eating birds (25 ppb)",
+      "Water (25 ppm) -> Zooplankton (2 ppm) -> Small fish (0.5 ppm) -> Large fish (0.04 ppm) -> Fish-eating birds (0.003 ppb)",
+      "Water (0.003 ppb) -> Zooplankton (0.5 ppm) -> Small fish (0.04 ppm) -> Large fish (2 ppm) -> Fish-eating birds (25 ppm)"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "The concentration increases at each trophic level: Water -> Zooplankton -> Small fish -> Large fish -> Birds.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "water pollution",
+      "biomagnification"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q100",
+    "question": "Which of the following is true about 'Jhum Cultivation'?",
+    "options": [
+      "It involves slashing and burning of forests.",
+      "The ash is used as fertilizer.",
+      "The land is used for farming or cattle grazing.",
+      "All of the above."
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "All statements describe Jhum cultivation.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "deforestation",
+      "jhum"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q101",
+    "question": "Assertion (A): Suspended particulate matter is not removed by a scrubber.\nReason (R): Scrubber is used to remove gases like sulphur dioxide.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Both statements are true. Scrubber removes gases, while electrostatic precipitator removes particulate matter. But R explains why scrubber is used, not necessarily why it doesn't remove PM (though it's implied by its function). However, the primary function distinction is the key.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "air pollution",
+      "control"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q102",
+    "question": "Which of the following is a correct match?",
+    "options": [
+      "Chipko Movement - 1974",
+      "Joint Forest Management - 1980s",
+      "Environment Act - 1986",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "All matches are correct.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "legislation",
+      "dates"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q103",
+    "question": "The 'Amrita Devi Bishnoi Wildlife Protection Award' is instituted by:",
+    "options": [
+      "Government of India",
+      "Government of Rajasthan",
+      "UNESCO",
+      "WWF"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "It is instituted by the Government of India.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "conservation",
+      "award"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q104",
+    "question": "Which of the following is NOT an effect of Global Warming?",
+    "options": [
+      "Melting of polar ice caps",
+      "Rise in sea level",
+      "El Nino effect",
+      "Decrease in average temperature of Earth"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Global warming leads to an increase, not decrease, in average temperature.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "global warming",
+      "effects"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q105",
+    "question": "Identify the incorrect statement regarding 'Good Ozone' and 'Bad Ozone':",
+    "options": [
+      "Good ozone is found in the stratosphere.",
+      "Bad ozone is found in the troposphere.",
+      "Good ozone absorbs UV radiation.",
+      "Bad ozone protects us from UV radiation."
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "Bad ozone harms plants and animals; it does not protect us from UV radiation. Good ozone protects us.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "ozone depletion",
+      "types"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q106",
+    "question": "The balance of ozone production and degradation in the stratosphere is disrupted by:",
+    "options": [
+      "Chlorofluorocarbons (CFCs)",
+      "Carbon dioxide",
+      "Methane",
+      "Nitrogen"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "CFCs disrupt this balance leading to ozone depletion.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "ozone depletion",
+      "causes"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q107",
+    "question": "Which of the following is a result of 'El Nino' effect?",
+    "options": [
+      "Odd climatic changes",
+      "Cooling of Pacific Ocean",
+      "Increase in ozone layer",
+      "Decrease in sea level"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "El Nino leads to odd climatic changes.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "global warming",
+      "effects"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q108",
+    "question": "In the presence of UV light, CFCs release _____ atoms which act as catalysts to degrade ozone.",
+    "options": [
+      "Chlorine (Cl)",
+      "Fluorine (F)",
+      "Carbon (C)",
+      "Hydrogen (H)"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "CFCs release Chlorine (Cl) atoms.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "ozone depletion",
+      "mechanism"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q109",
+    "question": "Which of the following is true about 'Ecosan' toilets?",
+    "options": [
+      "They are dry composting toilets.",
+      "They do not use water for disposal.",
+      "Human excreta is recycled into natural fertilizer.",
+      "All of the above."
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "All statements describe Ecosan toilets.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "sanitation",
+      "ecoscan"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q110",
+    "question": "The 'Montreal Protocol' became effective in:",
+    "options": [
+      "1989",
+      "1987",
+      "1992",
+      "1990"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "It was signed in 1987 but became effective in 1989.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "ozone depletion",
+      "protocol"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q111",
+    "question": "Which of the following is NOT a greenhouse gas?",
+    "options": [
+      "Oxygen (O2)",
+      "Carbon dioxide (CO2)",
+      "Methane (CH4)",
+      "Nitrous oxide (N2O)"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Oxygen is not a greenhouse gas.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "greenhouse effect",
+      "gases"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q112",
+    "question": "The National Forest Policy (1988) of India has recommended _____ forest cover for the plains and _____ for the hills.",
+    "options": [
+      "33 per cent, 67 per cent",
+      "67 per cent, 33 per cent",
+      "20 per cent, 80 per cent",
+      "50 per cent, 50 per cent"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "It recommended 33% for plains and 67% for hills.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "deforestation",
+      "policy"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q113",
+    "question": "Assertion (A): Methane is a greenhouse gas.\nReason (R): It is produced by paddy fields and gut of ruminants.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "explanation": "Both are true. Methane is a GHG, and it is produced by paddy fields/ruminants. But the source doesn't explain *why* it is a GHG (which is due to its ability to absorb IR radiation).",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "greenhouse effect",
+      "gases"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q114",
+    "question": "Which of the following is a consequence of 'Ozone Depletion'?",
+    "options": [
+      "Increased UV-B radiation reaching Earth",
+      "Global cooling",
+      "Increased rainfall",
+      "Decrease in skin cancer"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Ozone depletion allows more UV-B radiation to reach the Earth's surface.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "ozone depletion",
+      "effects"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q115",
+    "question": "The 'Terror of Bengal' is:",
+    "options": [
+      "An aquatic weed",
+      "A tiger",
+      "A cyclone",
+      "A disease"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "It is an aquatic weed (Water Hyacinth).",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "water pollution",
+      "weeds"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q116",
+    "question": "Which of the following is true regarding 'Radioactive Wastes'?",
+    "options": [
+      "They emit radiation that causes mutations.",
+      "They should be stored in shielded containers buried deep within rocks.",
+      "They are extremely potent pollutants.",
+      "All of the above."
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "All statements are true.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "radioactive waste",
+      "effects"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q117",
+    "question": "The pilot project for CNG buses in Delhi was launched in response to a directive from:",
+    "options": [
+      "Supreme Court of India",
+      "High Court of Delhi",
+      "Government of India",
+      "WHO"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "It was in response to a directive from the Supreme Court of India.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "air pollution",
+      "case study"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q118",
+    "question": "Which of the following is NOT a measure to control vehicular air pollution?",
+    "options": [
+      "Using leaded petrol",
+      "Phasing out of old vehicles",
+      "Use of unleaded petrol",
+      "Use of low-sulphur petrol and diesel"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Using leaded petrol is harmful; unleaded petrol should be used.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "air pollution",
+      "control"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q119",
+    "question": "The 'Chipko Movement' was a movement to:",
+    "options": [
+      "Protect trees from being axed",
+      "Plant more trees",
+      "Clean rivers",
+      "Stop mining"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "explanation": "Local women hugged the trees to protect them from the axes of contractors.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "deforestation",
+      "movement"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  },
+  {
+    "id": "botany_environmental_issues_q120",
+    "question": "Which of the following is a correct statement about 'Slash and Burn' agriculture?",
+    "options": [
+      "It results in deforestation.",
+      "It is a sustainable method if recovery period is long enough.",
+      "It is also called Jhum cultivation.",
+      "All of the above."
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "explanation": "All statements are correct. It causes deforestation if the recovery period is short, but was sustainable in the past with longer cycles.",
+    "subject": "Botany",
+    "chapter": "Environmental Issues",
+    "tags": [
+      "deforestation",
+      "jhum"
+    ],
+    "imageUrls": [],
+    "year": null,
+    "isPYQ": false,
+    "chapterId": "environmental_issues",
+    "subjectId": "botany"
+  }
+]
